@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import gzip
+import io
 import json
 import re
 import sys
@@ -22,6 +24,8 @@ DATA_DIR = ROOT / "data"
 META_PATH = ROOT / "metadata.json"
 TZ = ZoneInfo("America/Toronto")
 BASE = "https://www.cinemaclock.com"
+IMDB_RATINGS_URL = "https://datasets.imdbws.com/title.ratings.tsv.gz"
+IMDB_RATING_SOURCE = "official-dataset-v1"
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/153 Safari/537.36 CinemaJF/1.0"
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": UA, "Accept-Language": "fr-CA,fr;q=0.9,en;q=0.6"})
@@ -324,41 +328,91 @@ def detail_metadata(url: str) -> dict:
     return result
 
 
-def imdb_rating(url: str) -> float | None:
-    try:
-        r = get(url, timeout=20)
-        soup = BeautifulSoup(r.text, "html.parser")
-        for tag in soup.find_all("script", attrs={"type": "application/ld+json"}):
-            try:
-                obj = json.loads(tag.string or "{}")
-            except Exception:
-                continue
-            objs = obj if isinstance(obj, list) else [obj]
-            for item in objs:
-                if isinstance(item, dict):
-                    rating = (item.get("aggregateRating") or {}).get("ratingValue")
-                    if rating is not None:
-                        return round(float(rating), 1)
-    except Exception:
-        pass
-    return None
+def imdb_id(url: str) -> str:
+    m = IMDB_RE.search(url or "")
+    return m.group(1) if m else ""
+
+
+def alias_metadata(key: str, meta: dict) -> dict:
+    """Reuse a known IMDb mapping for a very close title alias (e.g. Endgame / Endgame Encore)."""
+    urls = {}
+    for other, rec in meta.items():
+        if other == key or not isinstance(rec, dict) or not rec.get("imdbUrl"):
+            continue
+        if other.startswith(key + " ") or key.startswith(other + " "):
+            urls.setdefault(rec["imdbUrl"], rec)
+    return next(iter(urls.values())) if len(urls) == 1 else {}
+
+
+def load_imdb_ratings(ids: set[str]) -> dict[str, tuple[float, int]]:
+    """Load ratings from IMDb's official non-commercial daily dataset."""
+    if not ids:
+        return {}
+    r = SESSION.get(IMDB_RATINGS_URL, timeout=120)
+    r.raise_for_status()
+    found: dict[str, tuple[float, int]] = {}
+    with gzip.GzipFile(fileobj=io.BytesIO(r.content)) as gz:
+        with io.TextIOWrapper(gz, encoding="utf-8") as rows:
+            header = next(rows, None)
+            for line in rows:
+                parts = line.rstrip("\n").split("\t")
+                if len(parts) != 3:
+                    continue
+                tconst, avg, votes = parts
+                if tconst in ids:
+                    try:
+                        found[tconst] = (round(float(avg), 1), int(votes))
+                    except ValueError:
+                        pass
+                    if len(found) == len(ids):
+                        break
+    return found
 
 
 def enrich_metadata(groups: dict, meta: dict, now: datetime) -> dict:
     today = now.date().isoformat()
+
+    # First resolve posters and IMDb title IDs from CinemaClock or a close existing alias.
     for key, g in groups.items():
-        rec = meta.get(key, {})
+        rec = dict(meta.get(key, {}))
         if (not rec.get("poster") or not rec.get("imdbUrl")) and g.get("detail_url"):
             rec.update({k: v for k, v in detail_metadata(g["detail_url"]).items() if v})
-        if rec.get("imdbUrl") and rec.get("ratingChecked") != today:
-            rating = imdb_rating(rec["imdbUrl"])
-            if rating is not None:
-                rec["imdbRating"] = rating
-            rec["ratingChecked"] = today
+        if not rec.get("imdbUrl"):
+            alias = alias_metadata(key, meta)
+            if alias.get("imdbUrl"):
+                rec["imdbUrl"] = alias["imdbUrl"]
+            if not rec.get("poster") and alias.get("poster"):
+                rec["poster"] = alias["poster"]
         rec.setdefault("poster", "")
         rec.setdefault("imdbUrl", "")
         rec.setdefault("imdbRating", None)
         meta[key] = rec
+
+    # IMDb publishes ratings as a daily non-commercial dataset. Download it at most
+    # when a title needs today's rating (normally once per day for the active slate).
+    pending: dict[str, list[str]] = defaultdict(list)
+    for key in groups:
+        rec = meta[key]
+        tconst = imdb_id(rec.get("imdbUrl", ""))
+        if tconst and (rec.get("ratingChecked") != today or rec.get("ratingSource") != IMDB_RATING_SOURCE):
+            pending[tconst].append(key)
+
+    if pending:
+        try:
+            ratings = load_imdb_ratings(set(pending))
+            print(f"IMDb dataset: {len(ratings)}/{len(pending)} ratings matched")
+            for tconst, keys in pending.items():
+                entry = ratings.get(tconst)
+                for key in keys:
+                    rec = meta[key]
+                    rec["imdbRating"] = entry[0] if entry else None
+                    rec["imdbVotes"] = entry[1] if entry else None
+                    rec["ratingChecked"] = today
+                    rec["ratingSource"] = IMDB_RATING_SOURCE
+        except Exception as e:
+            # Keep the last known rating and retry on the next hourly run.
+            print(f"WARNING IMDb ratings dataset unavailable: {e}", file=sys.stderr)
+
     return meta
 
 
