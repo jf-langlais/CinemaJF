@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-09-26T11:48:01-04:00",
+  "successfulSources": [
+    "cineplex-sainte-foy",
+    "cineplex-beauport",
+    "clap-ste-foy",
+    "clap-loretteville",
+    "cinema-cartier"
+  ],
+  "failedSources": {},
+  "source": "CinemaClock showtime listings; official cinema links used for ticket navigation"
+}
