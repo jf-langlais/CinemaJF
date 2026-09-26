@@ -2,8 +2,8 @@
   "date": "2026-09-26",
   "dateLabel": "2026-09-26",
   "displayDate": "2026-09-26",
-  "generatedAt": "2026-09-26T11:48-04:00",
-  "updatedLabel": "11 h 48",
+  "generatedAt": "2026-09-26T12:27-04:00",
+  "updatedLabel": "12 h 27",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -70,7 +70,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "20:00"
           ]
         },
@@ -151,14 +150,6 @@
           "times": [
             "16:30",
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50"
           ]
         },
         {
@@ -278,7 +269,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "18:55"
           ]
         },
@@ -344,7 +334,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:50",
             "21:40"
           ]
@@ -373,7 +362,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "21:30"
           ]
         },
@@ -537,7 +525,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:00",
             "19:30"
           ]
         },
@@ -630,19 +617,11 @@
       "translation": "",
       "runtime": "1 h 18",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "https://img1.cdn.bizzmedia.ca/media/7XbdkMJL8OEcOS98XYDh5VLJaf6y5Q9jXXC60FrY.jpg/400/584",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt43752956/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:10"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -690,7 +669,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:00",
             "21:45"
           ]
@@ -758,7 +736,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:55",
             "21:50"
           ]
@@ -792,7 +769,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:05",
             "21:50"
           ]
@@ -813,7 +789,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "21:30"
           ]
         },
@@ -844,7 +819,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:30"
           ]
         },
@@ -861,7 +835,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:20",
             "20:40"
           ]
@@ -871,7 +844,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "15:50",
             "18:20",
             "20:40"
           ]
@@ -1041,7 +1013,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:50",
             "22:00"
           ]
         },
@@ -1180,14 +1151,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt41483656/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:25"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
