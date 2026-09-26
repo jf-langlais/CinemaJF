@@ -1,4 +1,5 @@
 name: Refresh cinema showtimes
+# CinemaJF pilot: refresh and deploy together
 
 on:
   schedule:
