@@ -8,6 +8,9 @@ on:
   push:
     branches: [main]
     paths:
+      - 'index.html'
+      - 'manifest.webmanifest'
+      - 'sw.js'
       - 'scripts/update_showtimes.py'
       - 'requirements.txt'
       - '.github/workflows/update-showtimes.yml'
