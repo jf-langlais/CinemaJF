@@ -2,8 +2,8 @@
   "date": "2026-09-26",
   "dateLabel": "2026-09-26",
   "displayDate": "2026-09-26",
-  "generatedAt": "2026-09-26T12:38-04:00",
-  "updatedLabel": "12 h 38",
+  "generatedAt": "2026-09-26T13:26-04:00",
+  "updatedLabel": "13 h 26",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -218,7 +218,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:30"
           ]
         },
@@ -277,27 +276,6 @@
             "15:00",
             "19:10",
             "21:20"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Super Wings: Vitesse Maximum",
-      "original": "Geugjangpan Syupeo Wingseu: Maegsimeom Seupideu",
-      "translation": "Super Wings: Vitesse Maximum",
-      "runtime": "1 h 29",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:45"
           ]
         }
       ]
@@ -396,7 +374,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:20",
             "15:35",
             "19:10",
             "21:45"
@@ -516,7 +493,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:00",
             "15:15",
             "18:30",
             "21:35"
@@ -881,14 +857,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "17:10"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Standard",
@@ -935,14 +903,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt36841161/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:50"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -1004,7 +964,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:10",
             "18:45"
           ]
         },
@@ -1053,7 +1012,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:40",
             "16:35",
             "20:30"
           ]
