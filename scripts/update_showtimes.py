@@ -14,7 +14,8 @@ from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 
 import requests
-from bs4 import BeautifulSoup, Tag
+from playwright.sync_api import sync_playwright
+from bs4 import BeautifulSoup, Tag, NavigableString
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
@@ -99,6 +100,53 @@ def get(url: str, timeout: int = 25) -> requests.Response:
             last = e
             time.sleep(1.5 * (attempt + 1))
     raise RuntimeError(f"GET failed {url}: {last}")
+
+
+def get_rendered_html(url: str) -> str:
+    # Fast path: many CinemaClock theatre pages are fully rendered server-side.
+    html = get(url).text
+    soup = BeautifulSoup(html, "html.parser")
+    if len(soup.find_all("h3")) > 2:
+        return html
+    # Some theatres are returned as an AJAX shell. Render those in Chromium.
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page(user_agent=UA, locale="fr-CA")
+        page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        try:
+            page.wait_for_function("document.querySelectorAll('h3').length > 2", timeout=15000)
+        except Exception:
+            page.wait_for_timeout(3500)
+        rendered = page.content()
+        browser.close()
+        return rendered
+
+
+def blocks_after_h3(h3: Tag):
+    meta_parts = []
+    blocks = []
+    current = None
+    for el in h3.next_elements:
+        if el is h3:
+            continue
+        if isinstance(el, Tag) and el.name == "h3":
+            break
+        if isinstance(el, Tag) and el.name == "h4":
+            current = {"heading": el.get_text(" ", strip=True), "parts": []}
+            blocks.append(current)
+            continue
+        if isinstance(el, NavigableString):
+            parent = el.parent
+            if not parent or parent.name in ("script", "style", "noscript", "h3", "h4"):
+                continue
+            t = str(el).strip()
+            if not t:
+                continue
+            if current is None:
+                meta_parts.append(t)
+            else:
+                current["parts"].append(t)
+    return " ".join(meta_parts), [(b["heading"], " ".join(b["parts"])) for b in blocks]
 
 
 def iter_between(start: Tag, stop_names=("h3",)):
@@ -199,39 +247,18 @@ def classify_language(title: str, meta_text: str) -> str:
 
 
 def parse_theatre(cinema: dict, now: datetime) -> list[dict]:
-    html = get(cinema["clock"]).text
+    html = get_rendered_html(cinema["clock"])
     soup = BeautifulSoup(html, "html.parser")
     variants = []
     for h3 in soup.find_all("h3"):
-        link = h3.find("a", href=True)
-        if not link:
-            continue
         raw_title = h3.get_text(" ", strip=True)
         if not raw_title or raw_title.lower().startswith(("dimanche le", "lundi le", "mardi le", "mercredi le", "jeudi le", "vendredi le", "samedi le")):
             continue
-        detail_url = urljoin(BASE, link["href"])
-        before_h4 = []
-        h4_blocks = []
-        node = h3.next_sibling
-        current_h4 = None
-        current_nodes = []
-        while node:
-            if isinstance(node, Tag) and node.name == "h3":
-                break
-            if isinstance(node, Tag) and node.name == "h4":
-                if current_h4 is not None:
-                    h4_blocks.append((current_h4, current_nodes))
-                current_h4 = node
-                current_nodes = []
-            elif isinstance(node, Tag):
-                if current_h4 is None:
-                    before_h4.append(node)
-                else:
-                    current_nodes.append(node)
-            node = node.next_sibling
-        if current_h4 is not None:
-            h4_blocks.append((current_h4, current_nodes))
-        meta_text = text_of(before_h4)
+        link = h3.find("a", href=True)
+        detail_url = urljoin(BASE, link["href"]) if link else cinema["clock"]
+        meta_text, h4_blocks = blocks_after_h3(h3)
+        if not h4_blocks:
+            continue
         quote = QUOTE_RE.search(meta_text)
         original_hint = quote.group(1).strip() if quote else ""
         title = clean_title(raw_title)
@@ -253,16 +280,11 @@ def parse_theatre(cinema: dict, now: datetime) -> list[dict]:
         if rm:
             runtime = f"{int(rm.group(1))} h {rm.group(2)}"
         is_new = bool(WEEK_RE.search(meta_text))
-        for h4, nodes in h4_blocks:
-            venue = h4.get_text(" ", strip=True)
-            # Ignore blocks for a different venue if CinemaClock ever injects related locations.
-            if cinema["name"].split()[0].lower() not in venue.lower() and "clap" not in venue.lower() and "cartier" not in venue.lower() and "cineplex" not in venue.lower():
-                continue
-            block = text_of(nodes)
-            fmt = classify_format(block)
+        for venue, block in h4_blocks:
             dates = parse_showtimes(block, now)
             if not dates:
                 continue
+            fmt = classify_format(block)
             variants.append({
                 "key": norm(original), "title": title, "original": original, "translation": translation,
                 "lang": lang, "runtime": runtime, "genre": "", "is_new": is_new,
