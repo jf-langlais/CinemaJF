@@ -2,8 +2,8 @@
   "date": "2026-10-01",
   "dateLabel": "2026-10-01",
   "displayDate": "2026-10-01",
-  "generatedAt": "2026-09-26T13:26-04:00",
-  "updatedLabel": "13 h 26",
+  "generatedAt": "2026-09-26T14:15-04:00",
+  "updatedLabel": "14 h 15",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -46,8 +46,8 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/580x326/22/avengers-endgame-20193974.jpg",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
         {
           "cinema": "cineplex-beauport",
@@ -109,7 +109,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/41/chers-parents-2026-orig-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 5.6,
       "imdbUrl": "https://www.imdb.com/title/tt35405429/",
       "showings": [
         {
@@ -131,7 +131,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/6/compostelle-2026-affiche-qc.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt39814688/",
       "showings": [
         {
@@ -152,7 +152,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4659/5R5aktJZdGPYHiqbPcMGnKFWWn0wIm-metaMTAwMzdfYWZmLmpwZw%3D%3D-.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt1756855/",
       "showings": [
         {
@@ -277,7 +277,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "https://www.movienewsletters.net/photos/390767h1.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
@@ -402,7 +402,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "https://www.movienewsletters.net/photos/358931h1.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
@@ -483,7 +483,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt32393988/",
       "showings": [
         {
@@ -504,7 +504,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/89/juste-une-illusion-2026-orig-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt36842933/",
       "showings": [
         {
@@ -587,7 +587,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/56/la-bataille-de-gaulle-liberte-2026-affiche-qc.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt28553375/",
       "showings": [
         {
@@ -678,7 +678,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://img2.cdn.bizzmedia.ca/media/jfP8w12y3q4Fm4GSEnvTp2swZDqcIPajCkfUgFuQ.jpg/400/584",
-      "imdbRating": null,
+      "imdbRating": 7.0,
       "imdbUrl": "https://www.imdb.com/title/tt41374574/",
       "showings": [
         {
@@ -798,7 +798,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/89/practical-magic-2-2026-orig-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt32588798/",
       "showings": [
         {
@@ -832,7 +832,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4730/E2vZOMbx993J0XkOHicl3LDO1BG92O-metaMTAxMDZfYWZmLmpwZw%3D%3D-.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
       "showings": [
         {
@@ -885,7 +885,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.movienewsletters.net/photos/385364h1.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
@@ -1012,7 +1012,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/91/shaun-the-sheep-the-beast-of-mossy-bottom-2026-us-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt36841161/",
       "showings": [
         {
@@ -1059,7 +1059,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://s.movieinsider.com/images/spider-man-brand-new-day/p/964462_m1773880192.jpg",
-      "imdbRating": null,
+      "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {
@@ -1116,7 +1116,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/47/the-odyssey-2026-us-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt33764258/",
       "showings": [
         {
@@ -1195,7 +1195,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4630/JulzpCNGsuVYzwrtWo99oARwjz0Z68-metaMTAwNjBfYWZmLmpwZw%3D%3D-.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt36983905/",
       "showings": [
         {

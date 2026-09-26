@@ -2,8 +2,8 @@
   "date": "2026-09-26",
   "dateLabel": "2026-09-26",
   "displayDate": "2026-09-26",
-  "generatedAt": "2026-09-26T13:26-04:00",
-  "updatedLabel": "13 h 26",
+  "generatedAt": "2026-09-26T14:15-04:00",
+  "updatedLabel": "14 h 15",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -46,17 +46,9 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/580x326/22/avengers-endgame-20193974.jpg",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:10"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -101,7 +93,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/41/chers-parents-2026-orig-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 5.6,
       "imdbUrl": "https://www.imdb.com/title/tt35405429/",
       "showings": [
         {
@@ -123,7 +115,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4659/5R5aktJZdGPYHiqbPcMGnKFWWn0wIm-metaMTAwMzdfYWZmLmpwZw%3D%3D-.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt1756855/",
       "showings": [
         {
@@ -131,7 +123,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:55",
             "19:20"
           ]
         },
@@ -171,7 +162,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:00",
             "21:15"
           ]
         }
@@ -185,7 +175,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "https://www.movienewsletters.net/photos/390767h1.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
@@ -209,7 +199,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "18:00",
             "20:45"
           ]
         },
@@ -235,7 +224,6 @@
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "13:00",
             "16:00"
           ]
         },
@@ -288,7 +276,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "https://www.movienewsletters.net/photos/358931h1.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
@@ -305,7 +293,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:00",
             "15:30",
             "18:50",
             "21:15"
@@ -366,7 +353,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt32393988/",
       "showings": [
         {
@@ -389,7 +376,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/89/juste-une-illusion-2026-orig-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt36842933/",
       "showings": [
         {
@@ -434,7 +421,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:40",
             "18:25",
             "21:20"
@@ -477,7 +463,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/56/la-bataille-de-gaulle-liberte-2026-affiche-qc.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt28553375/",
       "showings": [
         {
@@ -496,14 +482,6 @@
             "15:15",
             "18:30",
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:15"
           ]
         },
         {
@@ -556,7 +534,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://img2.cdn.bizzmedia.ca/media/jfP8w12y3q4Fm4GSEnvTp2swZDqcIPajCkfUgFuQ.jpg/400/584",
-      "imdbRating": null,
+      "imdbRating": 7.0,
       "imdbUrl": "https://www.imdb.com/title/tt41374574/",
       "showings": [
         {
@@ -617,7 +595,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:35",
             "16:25",
             "19:10",
             "21:40"
@@ -665,7 +642,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/95/paw-patrol-the-dino-movie-2026-affiche-qc.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt29356163/",
       "showings": [
         {
@@ -687,7 +664,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/89/practical-magic-2-2026-orig-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt32588798/",
       "showings": [
         {
@@ -704,7 +681,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:05",
             "18:55",
             "21:45"
@@ -720,7 +696,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4730/E2vZOMbx993J0XkOHicl3LDO1BG92O-metaMTAxMDZfYWZmLmpwZw%3D%3D-.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
       "showings": [
         {
@@ -737,7 +713,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:00",
             "19:00",
             "21:30"
@@ -770,7 +745,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.movienewsletters.net/photos/385364h1.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
@@ -821,7 +796,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:30",
             "16:10",
             "19:05",
             "21:25"
@@ -832,7 +806,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "13:30",
             "16:10",
             "19:05",
             "21:25"
@@ -900,7 +873,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/91/shaun-the-sheep-the-beast-of-mossy-bottom-2026-us-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt36841161/",
       "showings": [
         {
@@ -908,7 +881,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "16:15"
           ]
         },
@@ -931,7 +903,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://s.movieinsider.com/images/spider-man-brand-new-day/p/964462_m1773880192.jpg",
-      "imdbRating": null,
+      "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {
@@ -996,7 +968,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/47/the-odyssey-2026-us-poster.jpg",
-      "imdbRating": null,
+      "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt33764258/",
       "showings": [
         {
@@ -1042,7 +1014,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:40",
             "16:20",
             "18:40",
             "21:00"
@@ -1067,7 +1038,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4630/JulzpCNGsuVYzwrtWo99oARwjz0Z68-metaMTAwNjBfYWZmLmpwZw%3D%3D-.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt36983905/",
       "showings": [
         {
