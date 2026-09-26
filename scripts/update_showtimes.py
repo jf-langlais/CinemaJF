@@ -46,6 +46,13 @@ CINEMAS = [
         "source": "https://www.cineplex.com/fr/theatre/Cinema-Cineplex-Odeon-Beauport",
     },
     {
+        "id": "cineplex-imax",
+        "name": "Cineplex IMAX",
+        "short": "Cineplex IMAX",
+        "clock": f"{BASE}/cinemas/cineplex-imax-aux-galeries-de-la-capitale",
+        "source": "https://www.cineplex.com/fr/theatre/cinema-cineplex-imax-aux-galeries-de-la-capitale",
+    },
+    {
         "id": "clap-ste-foy",
         "name": "Le Clap Place Sainte-Foy",
         "short": "Clap Ste-Foy",
