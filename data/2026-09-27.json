@@ -2,8 +2,8 @@
   "date": "2026-09-27",
   "dateLabel": "2026-09-27",
   "displayDate": "2026-09-27",
-  "generatedAt": "2026-09-27T11:27-04:00",
-  "updatedLabel": "11 h 27",
+  "generatedAt": "2026-09-27T12:28-04:00",
+  "updatedLabel": "12 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -76,7 +76,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "20:00"
           ]
         },
@@ -158,14 +157,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -222,7 +213,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "15:30",
             "18:30"
           ]
         },
@@ -282,7 +272,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "18:55"
           ]
         },
@@ -326,7 +315,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:50",
             "21:40"
           ]
@@ -346,7 +334,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:05",
             "21:30"
           ]
         },
@@ -522,7 +509,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:00",
             "19:30"
           ]
         },
@@ -578,7 +564,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:45",
             "18:35",
             "21:50"
           ]
@@ -620,19 +605,11 @@
       "translation": "",
       "runtime": "1 h 18",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "https://img1.cdn.bizzmedia.ca/media/7XbdkMJL8OEcOS98XYDh5VLJaf6y5Q9jXXC60FrY.jpg/400/584",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt43752956/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:10"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -679,7 +656,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:00",
             "21:45"
           ]
@@ -747,7 +723,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:55",
             "21:50"
           ]
@@ -780,7 +755,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:05",
             "21:50"
           ]
@@ -800,7 +774,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "21:30"
           ]
         },
@@ -831,7 +804,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:30"
           ]
         },
@@ -848,7 +820,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:20",
             "20:40"
           ]
@@ -858,7 +829,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "15:50",
             "18:20",
             "20:40"
           ]
@@ -1043,7 +1013,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:50",
             "22:00"
           ]
         },
@@ -1167,27 +1136,6 @@
       ]
     },
     {
-      "title": "Histoire de jouets 5",
-      "original": "Toy Story 5",
-      "translation": "Histoire de jouets 5",
-      "runtime": "1 h 42",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Un renversement",
       "original": "Un renversement",
       "translation": "",
@@ -1198,14 +1146,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt41483656/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:25"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
