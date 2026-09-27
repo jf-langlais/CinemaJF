@@ -103,7 +103,7 @@
   },
   "la bataille de gaulle liberte": {
     "imdbRating": null,
-    "imdbUrl": "",
+    "imdbUrl": "https://www.imdb.com/title/tt35856133/",
     "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
   },
   "la bataille de gaulle resistance": {
@@ -123,7 +123,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "la place": {
-    "imdbRating": 7.0,
+    "imdbRating": 7,
     "imdbUrl": "https://www.imdb.com/title/tt41374574/",
     "imdbVotes": 21,
     "poster": "https://img2.cdn.bizzmedia.ca/media/jfP8w12y3q4Fm4GSEnvTp2swZDqcIPajCkfUgFuQ.jpg/400/584",
@@ -203,7 +203,7 @@
     "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
   },
   "spider man brand new day": {
-    "imdbRating": 8.0,
+    "imdbRating": 8,
     "imdbUrl": "https://www.imdb.com/title/tt22084616/",
     "imdbVotes": 309807,
     "poster": "https://s.movieinsider.com/images/spider-man-brand-new-day/p/964462_m1773880192.jpg",
@@ -220,7 +220,7 @@
   },
   "the stunt driver": {
     "imdbRating": null,
-    "imdbUrl": "",
+    "imdbUrl": "https://www.imdb.com/title/tt34611096/",
     "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
   },
   "the uprising": {
