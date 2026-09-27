@@ -110,22 +110,24 @@
     "ratingChecked": null
   },
   "la bataille de gaulle liberte": {
-    "imdbRating": 8.0,
+    "imdbRating": 8,
     "imdbUrl": "https://www.imdb.com/title/tt35856133/",
     "imdbVotes": 1868,
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+    "poster": "https://www.impawards.com/intl/france/2026/posters/la_bataille_de_gaulle_jecris_ton_nom.jpg",
     "posterChecked": "2026-09-27",
     "ratingChecked": "2026-09-27",
-    "ratingSource": "official-dataset-v1"
+    "ratingSource": "official-dataset-v1",
+    "posterSource": "curated"
   },
   "la bataille de gaulle resistance": {
     "imdbRating": 7.8,
     "imdbUrl": "https://www.imdb.com/title/tt28553375/",
     "imdbVotes": 3099,
-    "poster": "https://www.cinemaclock.com/images/posters/1000x1500/56/la-bataille-de-gaulle-liberte-2026-affiche-qc.jpg",
+    "poster": "https://img1.cdn.bizzmedia.ca/media/7s44vlWhabjxyx9FyoVV4KYlIYpyB7jQ9fpl9o2l.jpg/400/584",
     "posterChecked": "2026-09-27",
     "ratingChecked": "2026-09-27",
-    "ratingSource": "official-dataset-v1"
+    "ratingSource": "official-dataset-v1",
+    "posterSource": "curated"
   },
   "la meilleure facon c est par accident": {
     "imdbRating": null,
@@ -228,10 +230,11 @@
     "imdbRating": 8,
     "imdbUrl": "https://www.imdb.com/title/tt22084616/",
     "imdbVotes": 309807,
-    "poster": "https://s.movieinsider.com/images/spider-man-brand-new-day/p/964462_m1773880192.jpg",
+    "poster": "https://www.newdvdreleasedates.com/images/posters/large/spider-man-brand-new-day-2026.jpg",
     "posterChecked": "2026-09-27",
     "ratingChecked": "2026-09-27",
-    "ratingSource": "official-dataset-v1"
+    "ratingSource": "official-dataset-v1",
+    "posterSource": "curated"
   },
   "the odyssey": {
     "imdbRating": 8.4,
@@ -246,10 +249,11 @@
     "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt34611096/",
     "imdbVotes": 117,
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+    "poster": "https://pics.filmaffinity.com/the_stunt_driver-343059346-large.jpg",
     "posterChecked": "2026-09-27",
     "ratingChecked": "2026-09-27",
-    "ratingSource": "official-dataset-v1"
+    "ratingSource": "official-dataset-v1",
+    "posterSource": "curated"
   },
   "the uprising": {
     "imdbRating": 6.3,
