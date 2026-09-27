@@ -2,8 +2,8 @@
   "date": "2026-10-03",
   "dateLabel": "2026-10-03",
   "displayDate": "2026-10-03",
-  "generatedAt": "2026-09-27T01:26-04:00",
-  "updatedLabel": "01 h 26",
+  "generatedAt": "2026-09-27T02:32-04:00",
+  "updatedLabel": "02 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,6 +45,30 @@
   ],
   "movies": [
     {
+      "title": "Digger",
+      "original": "Digger",
+      "translation": "",
+      "runtime": "2 h 08",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "12:30",
+            "15:40",
+            "18:50",
+            "21:55"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Unshatter",
       "original": "Unshatter",
       "translation": "",
@@ -61,6 +85,30 @@
           "format": "Standard",
           "times": [
             "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verity",
+      "original": "Verity",
+      "translation": "",
+      "runtime": "1 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:20",
+            "19:00",
+            "21:45"
           ]
         }
       ]
