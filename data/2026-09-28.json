@@ -2,8 +2,8 @@
   "date": "2026-09-28",
   "dateLabel": "2026-09-28",
   "displayDate": "2026-09-28",
-  "generatedAt": "2026-09-27T03:27-04:00",
-  "updatedLabel": "03 h 27",
+  "generatedAt": "2026-09-27T04:28-04:00",
+  "updatedLabel": "04 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -339,16 +339,6 @@
             "18:30",
             "21:50"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "15:00",
-            "19:10"
-          ]
         }
       ]
     },
@@ -420,14 +410,6 @@
           "times": [
             "12:40",
             "19:10"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "14:50"
           ]
         }
       ]
@@ -586,14 +568,6 @@
           "times": [
             "10:20"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "14:20"
-          ]
         }
       ]
     },
@@ -617,35 +591,6 @@
             "15:45",
             "18:35",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "17:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La place",
-      "original": "La place",
-      "translation": "",
-      "runtime": "1 h 25",
-      "genre": "",
-      "badge": "",
-      "poster": "https://img2.cdn.bizzmedia.ca/media/jfP8w12y3q4Fm4GSEnvTp2swZDqcIPajCkfUgFuQ.jpg/400/584",
-      "imdbRating": 7.0,
-      "imdbUrl": "https://www.imdb.com/title/tt41374574/",
-      "showings": [
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "17:20"
           ]
         }
       ]
@@ -734,17 +679,6 @@
             "15:30",
             "19:00",
             "21:40"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "15:00",
-            "17:00",
-            "19:20"
           ]
         }
       ]
