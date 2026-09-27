@@ -2,8 +2,8 @@
   "date": "2026-09-27",
   "dateLabel": "2026-09-27",
   "displayDate": "2026-09-27",
-  "generatedAt": "2026-09-27T05:27-04:00",
-  "updatedLabel": "05 h 27",
+  "generatedAt": "2026-09-27T06:26-04:00",
+  "updatedLabel": "06 h 26",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -603,14 +603,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:20"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -644,7 +636,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "15:45",
             "18:35",
             "21:50"
@@ -793,14 +784,6 @@
       "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt29356163/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:20"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
