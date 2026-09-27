@@ -53,6 +53,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Refresh cinema showtimes"
+            git pull --rebase origin main
             git push
           fi
       - name: Configure Pages
