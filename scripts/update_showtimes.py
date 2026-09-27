@@ -26,6 +26,12 @@ TZ = ZoneInfo("America/Toronto")
 BASE = "https://www.cinemaclock.com"
 IMDB_RATINGS_URL = "https://datasets.imdbws.com/title.ratings.tsv.gz"
 IMDB_RATING_SOURCE = "official-dataset-v1"
+POSTER_OVERRIDES = {
+    "spider man brand new day": "https://www.newdvdreleasedates.com/images/posters/large/spider-man-brand-new-day-2026.jpg",
+    "the stunt driver": "https://pics.filmaffinity.com/the_stunt_driver-343059346-large.jpg",
+    "la bataille de gaulle liberte": "https://www.impawards.com/intl/france/2026/posters/la_bataille_de_gaulle_jecris_ton_nom.jpg",
+    "la bataille de gaulle resistance": "https://img1.cdn.bizzmedia.ca/media/7s44vlWhabjxyx9FyoVV4KYlIYpyB7jQ9fpl9o2l.jpg/400/584",
+}
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/153 Safari/537.36 CinemaJF/1.0"
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": UA, "Accept-Language": "fr-CA,fr;q=0.9,en;q=0.6"})
@@ -405,7 +411,11 @@ def enrich_metadata(groups: dict, meta: dict, now: datetime) -> dict:
         rec.setdefault("poster", "")
         rec.setdefault("imdbUrl", "")
         rec.setdefault("imdbRating", None)
-        if rec.get("imdbUrl") and (rec.get("posterSource") != "imdb" or rec.get("posterChecked") != today):
+        if key in POSTER_OVERRIDES:
+            rec["poster"] = POSTER_OVERRIDES[key]
+            rec["posterSource"] = "curated"
+            rec["posterChecked"] = today
+        elif rec.get("imdbUrl") and (not rec.get("poster") or "logo-256x256-alpha" in rec.get("poster", "")):
             poster = imdb_poster(rec["imdbUrl"])
             if poster:
                 rec["poster"] = poster
