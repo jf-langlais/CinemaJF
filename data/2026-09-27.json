@@ -2,8 +2,8 @@
   "date": "2026-09-27",
   "dateLabel": "2026-09-27",
   "displayDate": "2026-09-27",
-  "generatedAt": "2026-09-27T13:25-04:00",
-  "updatedLabel": "13 h 25",
+  "generatedAt": "2026-09-27T14:30-04:00",
+  "updatedLabel": "14 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -175,7 +175,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:00",
             "21:15"
           ]
         }
@@ -213,7 +212,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "18:00",
             "20:45"
           ]
         },
@@ -506,14 +504,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:15"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -620,7 +610,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:25",
             "21:00"
           ]
         },
@@ -803,7 +792,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:20",
             "20:40"
           ]
         },
@@ -812,7 +800,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "18:20",
             "20:40"
           ]
         },
