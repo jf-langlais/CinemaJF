@@ -2,8 +2,8 @@
   "date": "2026-09-26",
   "dateLabel": "2026-09-26",
   "displayDate": "2026-09-26",
-  "generatedAt": "2026-09-26T21:26-04:00",
-  "updatedLabel": "21 h 26",
+  "generatedAt": "2026-09-26T22:28-04:00",
+  "updatedLabel": "22 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,9 +45,9 @@
   ],
   "movies": [
     {
-      "title": "Avengers: Phase Finale",
+      "title": "Avengers: Endgame",
       "original": "Avengers: Endgame",
-      "translation": "Avengers: Phase Finale",
+      "translation": "",
       "runtime": "3 h 01",
       "genre": "",
       "badge": "",
@@ -55,14 +55,6 @@
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · 3D · Dolby Atmos",
-          "times": [
-            "19:30"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -112,15 +104,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35405429/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:15",
-            "21:45"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -163,22 +146,6 @@
       "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt1756855/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -257,15 +224,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:30",
-            "21:05"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
@@ -330,15 +288,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:50",
-            "21:15"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -383,28 +332,6 @@
           "times": [
             "14:50",
             "21:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Insidieux: Hors du plus loin",
-      "original": "Insidious: Out of the Further",
-      "translation": "Insidieux: Hors du plus loin",
-      "runtime": "1 h 46",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
-      "imdbRating": 6.2,
-      "imdbUrl": "https://www.imdb.com/title/tt32393988/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:10",
-            "21:45"
           ]
         }
       ]
@@ -459,15 +386,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:25",
-            "21:20"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -513,15 +431,6 @@
           "format": "Standard",
           "times": [
             "19:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:30",
-            "21:35"
           ]
         },
         {
@@ -657,15 +566,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:10",
-            "21:40"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -752,15 +652,6 @@
             "18:55",
             "21:50"
           ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55",
-            "21:45"
-          ]
         }
       ]
     },
@@ -782,15 +673,6 @@
           "times": [
             "19:05",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00",
-            "21:30"
           ]
         },
         {
@@ -857,24 +739,6 @@
           "times": [
             "19:30",
             "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:05",
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "19:05",
-            "21:25"
           ]
         },
         {
@@ -1022,22 +886,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -1066,14 +914,6 @@
           "format": "Standard",
           "times": [
             "19:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "20:30"
           ]
         },
         {
@@ -1106,15 +946,6 @@
       "imdbUrl": "",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:40",
-            "21:00"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -1130,28 +961,6 @@
           "times": [
             "18:45",
             "21:20"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La révolte",
-      "original": "The Uprising",
-      "translation": "La révolte",
-      "runtime": "2 h 07",
-      "genre": "",
-      "badge": "",
-      "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4630/JulzpCNGsuVYzwrtWo99oARwjz0Z68-metaMTAwNjBfYWZmLmpwZw%3D%3D-.jpg",
-      "imdbRating": 6.3,
-      "imdbUrl": "https://www.imdb.com/title/tt36983905/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:20",
-            "21:10"
           ]
         }
       ]
