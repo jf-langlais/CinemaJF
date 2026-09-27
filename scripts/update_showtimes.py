@@ -335,6 +335,18 @@ def detail_metadata(url: str) -> dict:
     return result
 
 
+def imdb_poster(url: str) -> str:
+    """Return IMDb's primary image URL for a title, when available."""
+    try:
+        soup = BeautifulSoup(get(url, timeout=25).text, "html.parser")
+        tag = soup.find("meta", attrs={"property": "og:image"}) or soup.find("meta", attrs={"name": "twitter:image"})
+        if tag and tag.get("content"):
+            return tag["content"].strip()
+    except Exception as e:
+        print(f"WARNING IMDb poster unavailable for {url}: {e}", file=sys.stderr)
+    return ""
+
+
 def imdb_id(url: str) -> str:
     m = IMDB_RE.search(url or "")
     return m.group(1) if m else ""
@@ -393,6 +405,12 @@ def enrich_metadata(groups: dict, meta: dict, now: datetime) -> dict:
         rec.setdefault("poster", "")
         rec.setdefault("imdbUrl", "")
         rec.setdefault("imdbRating", None)
+        if rec.get("imdbUrl") and (rec.get("posterSource") != "imdb" or rec.get("posterChecked") != today):
+            poster = imdb_poster(rec["imdbUrl"])
+            if poster:
+                rec["poster"] = poster
+                rec["posterSource"] = "imdb"
+            rec["posterChecked"] = today
         meta[key] = rec
 
     # IMDb publishes ratings as a daily non-commercial dataset. Download it at most
