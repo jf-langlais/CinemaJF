@@ -2,8 +2,8 @@
   "date": "2026-09-27",
   "dateLabel": "2026-09-27",
   "displayDate": "2026-09-27",
-  "generatedAt": "2026-09-27T17:53-04:00",
-  "updatedLabel": "17 h 53",
+  "generatedAt": "2026-09-27T18:27-04:00",
+  "updatedLabel": "18 h 27",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -322,7 +322,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.impawards.com/intl/france/2026/posters/la_bataille_de_gaulle_jecris_ton_nom.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 8,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
         {
@@ -593,14 +593,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -635,14 +627,6 @@
           "times": [
             "13:50",
             "18:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "22:00"
           ]
         },
         {
@@ -723,14 +707,6 @@
       "imdbRating": 8,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "22:00"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
