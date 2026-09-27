@@ -2,8 +2,8 @@
   "date": "2026-09-27",
   "dateLabel": "2026-09-27",
   "displayDate": "2026-09-27",
-  "generatedAt": "2026-09-27T06:26-04:00",
-  "updatedLabel": "06 h 26",
+  "generatedAt": "2026-09-27T07:26-04:00",
+  "updatedLabel": "07 h 26",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -132,29 +132,7 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:50",
             "16:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Compostelle",
-      "original": "Compostelle",
-      "translation": "",
-      "runtime": "1 h 53",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/6/compostelle-2026-affiche-qc.jpg",
-      "imdbRating": 6.6,
-      "imdbUrl": "https://www.imdb.com/title/tt39814688/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:40"
           ]
         }
       ]
@@ -222,7 +200,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "18:00",
             "21:15"
           ]
@@ -332,7 +309,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:30",
             "16:20",
             "18:55"
@@ -688,7 +664,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:10"
           ]
         },
@@ -740,7 +715,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:00",
             "13:30",
             "16:15",
@@ -866,7 +840,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:00",
             "13:15",
             "16:00",
             "21:30"
@@ -1074,14 +1047,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:30"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -1230,7 +1195,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:10",
             "13:50"
           ]
         },
