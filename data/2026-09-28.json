@@ -2,8 +2,8 @@
   "date": "2026-09-28",
   "dateLabel": "2026-09-28",
   "displayDate": "2026-09-28",
-  "generatedAt": "2026-09-27T17:26-04:00",
-  "updatedLabel": "17 h 26",
+  "generatedAt": "2026-09-27T17:51-04:00",
+  "updatedLabel": "17 h 51",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -476,8 +476,8 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
@@ -1006,7 +1006,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://s.movieinsider.com/images/spider-man-brand-new-day/p/964462_m1773880192.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 8,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {
@@ -1118,8 +1118,8 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "imdbRating": 6.7,
+      "imdbUrl": "https://www.imdb.com/title/tt34611096/",
       "showings": [
         {
           "cinema": "cineplex-beauport",

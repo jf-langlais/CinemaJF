@@ -2,8 +2,8 @@
   "date": "2026-09-27",
   "dateLabel": "2026-09-27",
   "displayDate": "2026-09-27",
-  "generatedAt": "2026-09-27T17:26-04:00",
-  "updatedLabel": "17 h 26",
+  "generatedAt": "2026-09-27T17:51-04:00",
+  "updatedLabel": "17 h 51",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -189,14 +189,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -232,14 +224,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -247,14 +231,6 @@
             "13:00",
             "15:30",
             "18:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:30"
           ]
         },
         {
@@ -346,8 +322,8 @@
       "genre": "",
       "badge": "",
       "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
         {
           "cinema": "cineplex-beauport",
@@ -439,14 +415,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -464,7 +432,7 @@
       "genre": "",
       "badge": "",
       "poster": "https://img2.cdn.bizzmedia.ca/media/jfP8w12y3q4Fm4GSEnvTp2swZDqcIPajCkfUgFuQ.jpg/400/584",
-      "imdbRating": 7.0,
+      "imdbRating": 7,
       "imdbUrl": "https://www.imdb.com/title/tt41374574/",
       "showings": [
         {
@@ -518,14 +486,6 @@
             "13:35",
             "16:25",
             "19:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:45"
           ]
         },
         {
@@ -587,14 +547,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt32588798/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -618,14 +570,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -633,22 +577,6 @@
             "13:20",
             "16:00",
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
           ]
         }
       ]
@@ -715,14 +643,6 @@
           "format": "Dolby Atmos",
           "times": [
             "22:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
           ]
         },
         {
@@ -793,24 +713,16 @@
       ]
     },
     {
-      "title": "Spider-Man: Brand New Day",
+      "title": "Spider-Man: Un Jour Nouveau",
       "original": "Spider-Man: Brand New Day",
-      "translation": "",
+      "translation": "Spider-Man: Un Jour Nouveau",
       "runtime": "2 h 30",
       "genre": "",
       "badge": "",
       "poster": "https://s.movieinsider.com/images/spider-man-brand-new-day/p/964462_m1773880192.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 8,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -877,8 +789,8 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "imdbRating": 6.7,
+      "imdbUrl": "https://www.imdb.com/title/tt34611096/",
       "showings": [
         {
           "cinema": "cineplex-beauport",
