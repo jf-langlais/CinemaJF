@@ -2,8 +2,8 @@
   "date": "2026-09-27",
   "dateLabel": "2026-09-27",
   "displayDate": "2026-09-27",
-  "generatedAt": "2026-09-27T12:28-04:00",
-  "updatedLabel": "12 h 28",
+  "generatedAt": "2026-09-27T13:25-04:00",
+  "updatedLabel": "13 h 25",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -117,14 +117,6 @@
           "times": [
             "19:10"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:30"
-          ]
         }
       ]
     },
@@ -223,14 +215,6 @@
           "times": [
             "18:00",
             "20:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "16:30"
           ]
         },
         {
@@ -450,7 +434,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -898,14 +881,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "17:10"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Standard",
@@ -952,14 +927,6 @@
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt36841161/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:50"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
