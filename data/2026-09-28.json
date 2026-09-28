@@ -2,8 +2,8 @@
   "date": "2026-09-28",
   "dateLabel": "2026-09-28",
   "displayDate": "2026-09-28",
-  "generatedAt": "2026-09-28T18:27-04:00",
-  "updatedLabel": "18 h 27",
+  "generatedAt": "2026-09-28T19:27-04:00",
+  "updatedLabel": "19 h 27",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -103,14 +103,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:30"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -131,30 +123,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "16:15"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -194,7 +162,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:30",
             "18:50"
           ]
         },
@@ -244,7 +211,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:25"
           ]
         }
@@ -287,7 +253,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:40",
             "19:10"
           ]
         },
@@ -324,15 +289,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt28553375/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:35",
-            "18:35"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -422,7 +378,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:25",
             "19:30"
           ]
         },
@@ -466,7 +421,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:05",
             "18:55"
           ]
         }
@@ -488,7 +442,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "19:00"
           ]
         }
@@ -510,7 +463,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:05"
           ]
         },
@@ -519,7 +471,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:10",
             "19:05"
           ]
         },
@@ -587,14 +538,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36841161/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -624,84 +567,12 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "15:45"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "18:15",
             "21:25"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "L'Odyssée",
-      "original": "The Odyssey",
-      "translation": "L'Odyssée",
-      "runtime": "2 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/47/the-odyssey-2026-us-poster.jpg",
-      "imdbRating": 8.4,
-      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:25"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Le grand saut",
-      "original": "The Stunt Driver",
-      "translation": "Le grand saut",
-      "runtime": "1 h 39",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "https://www.impawards.com/intl/canada/2026/posters/stunt_driver_xlg.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt34611096/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:20",
-            "18:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La révolte",
-      "original": "The Uprising",
-      "translation": "La révolte",
-      "runtime": "2 h 07",
-      "genre": "",
-      "badge": "",
-      "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4630/JulzpCNGsuVYzwrtWo99oARwjz0Z68-metaMTAwNjBfYWZmLmpwZw%3D%3D-.jpg",
-      "imdbRating": 6.3,
-      "imdbUrl": "https://www.imdb.com/title/tt36983905/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:20"
           ]
         }
       ]

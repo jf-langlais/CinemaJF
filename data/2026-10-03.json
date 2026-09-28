@@ -2,8 +2,8 @@
   "date": "2026-10-03",
   "dateLabel": "2026-10-03",
   "displayDate": "2026-10-03",
-  "generatedAt": "2026-09-28T18:27-04:00",
-  "updatedLabel": "18 h 27",
+  "generatedAt": "2026-09-28T19:27-04:00",
+  "updatedLabel": "19 h 27",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -64,17 +64,6 @@
             "15:40",
             "18:50",
             "21:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "13:00",
-            "15:50",
-            "18:50",
-            "21:40"
           ]
         },
         {
@@ -177,7 +166,7 @@
             "13:20",
             "16:00",
             "19:00",
-            "21:45"
+            "21:35"
           ]
         }
       ]
