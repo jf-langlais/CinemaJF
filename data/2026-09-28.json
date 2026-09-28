@@ -2,8 +2,8 @@
   "date": "2026-09-28",
   "dateLabel": "2026-09-28",
   "displayDate": "2026-09-28",
-  "generatedAt": "2026-09-28T12:31-04:00",
-  "updatedLabel": "12 h 31",
+  "generatedAt": "2026-09-28T13:29-04:00",
+  "updatedLabel": "13 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -247,6 +247,16 @@
             "18:30",
             "21:50"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "19:10"
+          ]
         }
       ]
     },
@@ -314,6 +324,14 @@
           "times": [
             "12:40",
             "19:10"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:50"
           ]
         }
       ]
@@ -457,6 +475,14 @@
           "times": [
             "18:15"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:20"
+          ]
         }
       ]
     },
@@ -478,6 +504,35 @@
           "times": [
             "18:35",
             "21:50"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La place",
+      "original": "La place",
+      "translation": "",
+      "runtime": "1 h 25",
+      "genre": "",
+      "badge": "",
+      "poster": "https://img2.cdn.bizzmedia.ca/media/jfP8w12y3q4Fm4GSEnvTp2swZDqcIPajCkfUgFuQ.jpg/400/584",
+      "imdbRating": 7.0,
+      "imdbUrl": "https://www.imdb.com/title/tt41374574/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:20"
           ]
         }
       ]
@@ -551,6 +606,17 @@
             "15:30",
             "19:00",
             "21:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:00",
+            "19:20"
           ]
         }
       ]
@@ -744,14 +810,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "17:10"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Standard",
@@ -798,14 +856,6 @@
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt36841161/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:50"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
