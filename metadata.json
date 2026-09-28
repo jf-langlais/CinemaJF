@@ -110,7 +110,7 @@
     "ratingChecked": null
   },
   "la bataille de gaulle liberte": {
-    "imdbRating": 8.0,
+    "imdbRating": 8,
     "imdbUrl": "https://www.imdb.com/title/tt35856133/",
     "imdbVotes": 1868,
     "poster": "https://www.impawards.com/intl/france/2026/posters/la_bataille_de_gaulle_jecris_ton_nom.jpg",
@@ -227,7 +227,7 @@
     "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
   },
   "spider man brand new day": {
-    "imdbRating": 8.0,
+    "imdbRating": 8,
     "imdbUrl": "https://www.imdb.com/title/tt22084616/",
     "imdbVotes": 311692,
     "poster": "https://www.newdvdreleasedates.com/images/posters/large/spider-man-brand-new-day-2026.jpg",
@@ -249,7 +249,7 @@
     "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt34611096/",
     "imdbVotes": 117,
-    "poster": "https://pics.filmaffinity.com/the_stunt_driver-343059346-large.jpg",
+    "poster": "https://www.impawards.com/intl/canada/2026/posters/stunt_driver_xlg.jpg",
     "posterChecked": "2026-09-28",
     "posterSource": "curated",
     "ratingChecked": "2026-09-28",
@@ -266,8 +266,9 @@
   },
   "toy story 5": {
     "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
+    "poster": "https://cdn.teater.co/imgs/toy-story-5-2026_600_880.webp",
+    "posterSource": "curated"
   },
   "un renversement": {
     "imdbRating": null,
