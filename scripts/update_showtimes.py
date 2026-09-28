@@ -26,9 +26,14 @@ TZ = ZoneInfo("America/Toronto")
 BASE = "https://www.cinemaclock.com"
 IMDB_RATINGS_URL = "https://datasets.imdbws.com/title.ratings.tsv.gz"
 IMDB_RATING_SOURCE = "official-dataset-v1"
+TITLE_TRANSLATION_OVERRIDES = {
+    "spider man brand new day": "Spider-Man : Un jour nouveau",
+}
+
 POSTER_OVERRIDES = {
+    "toy story 5": "https://cdn.teater.co/imgs/toy-story-5-2026_600_880.webp",
     "spider man brand new day": "https://www.newdvdreleasedates.com/images/posters/large/spider-man-brand-new-day-2026.jpg",
-    "the stunt driver": "https://pics.filmaffinity.com/the_stunt_driver-343059346-large.jpg",
+    "the stunt driver": "https://www.impawards.com/intl/canada/2026/posters/stunt_driver_xlg.jpg",
     "la bataille de gaulle liberte": "https://www.impawards.com/intl/france/2026/posters/la_bataille_de_gaulle_jecris_ton_nom.jpg",
     "la bataille de gaulle resistance": "https://img1.cdn.bizzmedia.ca/media/7s44vlWhabjxyx9FyoVV4KYlIYpyB7jQ9fpl9o2l.jpg/400/584",
 }
@@ -488,10 +493,11 @@ def build_files(variants: list[dict], failed_ids: set[str], meta: dict, now: dat
             key = v["key"] or norm(v["title"])
             if key not in movies:
                 m = meta.get(key, {})
+                translation = TITLE_TRANSLATION_OVERRIDES.get(key, v["translation"] or "")
                 movies[key] = {
-                    "title": v["translation"] or v["title"],
+                    "title": translation or v["title"],
                     "original": v["original"] or v["title"],
-                    "translation": v["translation"] or "",
+                    "translation": translation,
                     "runtime": v.get("runtime") or "",
                     "genre": v.get("genre") or "",
                     "badge": "Nouveauté" if v.get("is_new") else "",
