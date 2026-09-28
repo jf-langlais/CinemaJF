@@ -202,6 +202,11 @@
     "ratingChecked": "2026-09-28",
     "ratingSource": "official-dataset-v1"
   },
+  "queen budapest": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+  },
   "resident evil": {
     "imdbRating": 7.6,
     "imdbUrl": "https://www.imdb.com/title/tt35538033/",
