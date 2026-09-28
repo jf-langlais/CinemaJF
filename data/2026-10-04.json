@@ -2,8 +2,8 @@
   "date": "2026-10-04",
   "dateLabel": "2026-10-04",
   "displayDate": "2026-10-04",
-  "generatedAt": "2026-09-28T08:36-04:00",
-  "updatedLabel": "08 h 36",
+  "generatedAt": "2026-09-28T09:31-04:00",
+  "updatedLabel": "09 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -56,6 +56,17 @@
       "imdbUrl": "",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "12:30",
+            "15:40",
+            "18:50",
+            "21:55"
+          ]
+        },
+        {
           "cinema": "cineplex-imax",
           "lang": "VOA",
           "format": "IMAX",
@@ -99,6 +110,30 @@
           "format": "Standard",
           "times": [
             "16:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verity",
+      "original": "Verity",
+      "translation": "",
+      "runtime": "1 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:20",
+            "19:00",
+            "21:45"
           ]
         }
       ]
