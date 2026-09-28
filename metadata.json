@@ -265,10 +265,14 @@
     "ratingSource": "official-dataset-v1"
   },
   "toy story 5": {
-    "imdbRating": null,
+    "imdbRating": 7.3,
     "imdbUrl": "https://www.imdb.com/title/tt29355505/",
+    "imdbVotes": 86269,
     "poster": "https://cdn.teater.co/imgs/toy-story-5-2026_600_880.webp",
-    "posterSource": "curated"
+    "posterChecked": "2026-09-28",
+    "posterSource": "curated",
+    "ratingChecked": "2026-09-28",
+    "ratingSource": "official-dataset-v1"
   },
   "un renversement": {
     "imdbRating": null,
