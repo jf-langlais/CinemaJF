@@ -161,6 +161,11 @@
     "ratingChecked": "2026-09-28",
     "ratingSource": "official-dataset-v1"
   },
+  "opera cosi fan tutte": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+  },
   "pauline julien femme pays": {
     "imdbRating": null,
     "imdbUrl": "https://www.imdb.com/title/tt39387187/",
