@@ -2,8 +2,8 @@
   "date": "2026-09-29",
   "dateLabel": "2026-09-29",
   "displayDate": "2026-09-29",
-  "generatedAt": "2026-09-29T11:32-04:00",
-  "updatedLabel": "11 h 32",
+  "generatedAt": "2026-09-29T12:32-04:00",
+  "updatedLabel": "12 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -76,7 +76,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "20:00"
           ]
         },
@@ -119,14 +118,6 @@
             "19:15",
             "21:50"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:30"
-          ]
         }
       ]
     },
@@ -157,14 +148,6 @@
           "times": [
             "16:30",
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50"
           ]
         }
       ]
@@ -228,14 +211,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "16:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -275,7 +250,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "18:55"
           ]
         },
@@ -308,7 +282,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:50",
             "21:40"
           ]
@@ -337,7 +310,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "21:30"
           ]
         },
@@ -432,7 +404,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -485,7 +456,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:00",
             "19:30"
           ]
         },
@@ -526,7 +496,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:45",
             "18:35",
             "21:50"
           ]
@@ -549,7 +518,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:15"
           ]
         },
@@ -599,7 +567,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:00",
             "21:45"
           ]
@@ -633,7 +600,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:55",
             "21:50"
           ]
@@ -667,7 +633,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:05",
             "21:50"
           ]
@@ -688,7 +653,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "21:30"
           ]
         },
@@ -719,7 +683,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:30"
           ]
         },
@@ -736,7 +699,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:20",
             "20:40"
           ]
@@ -746,7 +708,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "15:50",
             "18:20",
             "20:40"
           ]
@@ -924,7 +885,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:50",
             "22:00"
           ]
         },
@@ -1052,27 +1012,6 @@
       ]
     },
     {
-      "title": "Histoire de jouets 5",
-      "original": "Toy Story 5",
-      "translation": "Histoire de jouets 5",
-      "runtime": "1 h 42",
-      "genre": "",
-      "badge": "",
-      "poster": "https://cdn.teater.co/imgs/toy-story-5-2026_600_880.webp",
-      "imdbRating": 7.3,
-      "imdbUrl": "https://www.imdb.com/title/tt29355505/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Un renversement",
       "original": "Un renversement",
       "translation": "",
@@ -1083,14 +1022,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt41483656/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:25"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
