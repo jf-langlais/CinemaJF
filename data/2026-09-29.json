@@ -2,8 +2,8 @@
   "date": "2026-09-29",
   "dateLabel": "2026-09-29",
   "displayDate": "2026-09-29",
-  "generatedAt": "2026-09-29T13:29-04:00",
-  "updatedLabel": "13 h 29",
+  "generatedAt": "2026-09-29T14:34-04:00",
+  "updatedLabel": "14 h 34",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -168,7 +168,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:00",
             "21:15"
           ]
         }
@@ -195,18 +194,9 @@
         },
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VF",
           "format": "3D",
           "times": [
-            "18:00",
             "20:45"
           ]
         },
@@ -371,14 +361,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36842933/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -469,14 +451,6 @@
             "18:30",
             "21:35"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:15"
-          ]
         }
       ]
     },
@@ -547,7 +521,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:25",
             "21:00"
           ]
         },
@@ -681,14 +654,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
           "format": "ScreenX",
           "times": [
             "21:05"
@@ -699,7 +664,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:20",
             "20:40"
           ]
         },
@@ -708,7 +672,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "18:20",
             "20:40"
           ]
         },
