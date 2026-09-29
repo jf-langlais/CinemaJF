@@ -2,8 +2,8 @@
   "date": "2026-09-28",
   "dateLabel": "2026-09-28",
   "displayDate": "2026-09-28",
-  "generatedAt": "2026-09-28T19:27-04:00",
-  "updatedLabel": "19 h 27",
+  "generatedAt": "2026-09-28T20:35-04:00",
+  "updatedLabel": "20 h 35",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -472,22 +472,6 @@
           "format": "D-BOX",
           "times": [
             "19:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VOA",
-          "format": "IMAX",
-          "times": [
-            "18:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VF",
-          "format": "IMAX",
-          "times": [
-            "16:20"
           ]
         },
         {
