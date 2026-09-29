@@ -2,8 +2,8 @@
   "date": "2026-09-29",
   "dateLabel": "2026-09-29",
   "displayDate": "2026-09-29",
-  "generatedAt": "2026-09-29T17:29-04:00",
-  "updatedLabel": "17 h 29",
+  "generatedAt": "2026-09-29T18:28-04:00",
+  "updatedLabel": "18 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -55,14 +55,6 @@
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:50"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -129,7 +121,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:55",
             "19:20"
           ]
         },
@@ -138,7 +129,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:30",
             "21:40"
           ]
         }
@@ -158,36 +148,10 @@
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:05",
-            "15:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "18:35",
             "21:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "13:30",
-            "16:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
           ]
         },
         {
@@ -215,30 +179,12 @@
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:00",
-            "15:30",
             "18:50",
             "21:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:30"
           ]
         },
         {
@@ -279,8 +225,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:00",
-            "16:05",
             "19:10",
             "21:50"
           ]
@@ -324,8 +268,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:55",
-            "15:40",
             "18:25",
             "21:20"
           ]
@@ -368,31 +310,8 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:50",
-            "15:35",
             "18:30",
             "21:35"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La meilleure façon, c'est par accident",
-      "original": "La meilleure façon, c'est par accident",
-      "translation": "",
-      "runtime": "1 h 51",
-      "genre": "",
-      "badge": "",
-      "poster": "https://img1.cdn.bizzmedia.ca/media/Z5k9qNQ62Vy0fYCVNRZ24nhiFf0JB30aVxWcy366.jpg/400/584",
-      "imdbRating": 7.4,
-      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:50"
           ]
         }
       ]
@@ -434,18 +353,8 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:35",
-            "16:25",
             "19:10",
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:45"
           ]
         },
         {
@@ -473,20 +382,10 @@
       "imdbUrl": "https://www.imdb.com/title/tt32588798/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
-            "16:05",
             "18:55",
             "21:45"
           ]
@@ -505,38 +404,12 @@
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
-            "16:00",
             "19:00",
             "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
           ]
         }
       ]
@@ -553,20 +426,10 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:45",
-            "16:10",
             "19:05",
             "21:25"
           ]
@@ -576,8 +439,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "13:45",
-            "16:10",
             "19:05",
             "21:25"
           ]
@@ -587,7 +448,6 @@
           "lang": "VOA",
           "format": "IMAX",
           "times": [
-            "13:50",
             "18:50"
           ]
         },
@@ -596,24 +456,7 @@
           "lang": "VF",
           "format": "IMAX",
           "times": [
-            "16:20",
             "21:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
           ]
         },
         {
@@ -653,28 +496,6 @@
       ]
     },
     {
-      "title": "Shaun le mouton: La bêêête de la ferme",
-      "original": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "translation": "Shaun le mouton: La bêêête de la ferme",
-      "runtime": "1 h 31",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/91/shaun-the-sheep-the-beast-of-mossy-bottom-2026-us-poster.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt36841161/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:25",
-            "16:15"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Spider-Man : Un jour nouveau",
       "original": "Spider-Man: Brand New Day",
       "translation": "Spider-Man : Un jour nouveau",
@@ -686,27 +507,10 @@
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:45",
             "18:45"
           ]
         },
@@ -715,7 +519,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:45",
             "21:45"
           ]
         },
@@ -746,8 +549,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:10",
-            "16:40",
             "20:30"
           ]
         }
@@ -769,8 +570,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:40",
-            "16:20",
             "18:40",
             "21:00"
           ]
