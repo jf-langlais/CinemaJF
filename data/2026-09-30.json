@@ -2,8 +2,8 @@
   "date": "2026-09-30",
   "dateLabel": "2026-09-30",
   "displayDate": "2026-09-30",
-  "generatedAt": "2026-09-30T15:29-04:00",
-  "updatedLabel": "15 h 29",
+  "generatedAt": "2026-09-30T16:29-04:00",
+  "updatedLabel": "16 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -61,14 +61,6 @@
           "format": "UltraAVX · 3D · Dolby Atmos",
           "times": [
             "18:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "20:00"
           ]
         },
         {
@@ -341,14 +333,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
@@ -390,14 +374,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt28553375/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
@@ -651,14 +627,6 @@
           "format": "IMAX",
           "times": [
             "18:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:35"
           ]
         },
         {
