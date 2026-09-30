@@ -2,8 +2,8 @@
   "date": "2026-09-30",
   "dateLabel": "2026-09-30",
   "displayDate": "2026-09-30",
-  "generatedAt": "2026-09-30T07:28-04:00",
-  "updatedLabel": "07 h 28",
+  "generatedAt": "2026-09-30T08:39-04:00",
+  "updatedLabel": "08 h 39",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -78,14 +78,6 @@
           "times": [
             "16:15",
             "20:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:30"
           ]
         },
         {
@@ -229,7 +221,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "12:30",
             "15:30",
             "18:30"
           ]
@@ -239,7 +230,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:15"
           ]
         },
@@ -539,7 +529,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:30",
             "16:00",
             "19:30"
           ]
@@ -633,7 +622,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:35",
             "15:15",
             "18:25",
             "21:00"
