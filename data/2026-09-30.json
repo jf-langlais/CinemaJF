@@ -2,8 +2,8 @@
   "date": "2026-09-30",
   "dateLabel": "2026-09-30",
   "displayDate": "2026-09-30",
-  "generatedAt": "2026-09-30T13:30-04:00",
-  "updatedLabel": "13 h 30",
+  "generatedAt": "2026-09-30T14:32-04:00",
+  "updatedLabel": "14 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -153,7 +153,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:00",
             "21:15"
           ]
         }
@@ -180,18 +179,9 @@
         },
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VF",
           "format": "3D",
           "times": [
-            "18:00",
             "20:45"
           ]
         },
@@ -246,27 +236,6 @@
             "15:45",
             "18:30",
             "21:50"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Hantée",
-      "original": "Hantée",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:30"
           ]
         }
       ]
@@ -469,14 +438,6 @@
             "15:35",
             "18:35"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:15"
-          ]
         }
       ]
     },
@@ -539,7 +500,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:25",
             "21:00"
           ]
         },
@@ -670,14 +630,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
           "format": "ScreenX",
           "times": [
             "21:05"
@@ -688,7 +640,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:20",
             "20:40"
           ]
         },
@@ -697,7 +648,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "18:20",
             "20:40"
           ]
         },
