@@ -2,8 +2,8 @@
   "date": "2026-09-30",
   "dateLabel": "2026-09-30",
   "displayDate": "2026-09-30",
-  "generatedAt": "2026-09-30T11:33-04:00",
-  "updatedLabel": "11 h 33",
+  "generatedAt": "2026-09-30T12:32-04:00",
+  "updatedLabel": "12 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -76,7 +76,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "20:00"
           ]
         },
@@ -96,27 +95,6 @@
           "times": [
             "12:30",
             "21:00"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Chers parents",
-      "original": "Chers parents",
-      "translation": "",
-      "runtime": "1 h 26",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/41/chers-parents-2026-orig-poster.jpg",
-      "imdbRating": 5.6,
-      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:30"
           ]
         }
       ]
@@ -147,14 +125,6 @@
           "format": "Standard",
           "times": [
             "16:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50"
           ]
         },
         {
@@ -226,14 +196,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "16:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -272,7 +234,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "18:55"
           ]
         },
@@ -326,7 +287,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:50",
             "21:40"
           ]
@@ -346,7 +306,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:05",
             "21:30"
           ]
         },
@@ -447,7 +406,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -499,7 +457,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:00",
             "19:30"
           ]
         },
@@ -539,7 +496,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:45",
             "18:35",
             "21:50"
           ]
@@ -552,19 +508,11 @@
       "translation": "",
       "runtime": "1 h 18",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "https://img1.cdn.bizzmedia.ca/media/7XbdkMJL8OEcOS98XYDh5VLJaf6y5Q9jXXC60FrY.jpg/400/584",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt43752956/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -610,7 +558,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:00",
             "21:55"
           ]
@@ -644,7 +591,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:55",
             "21:50"
           ]
@@ -677,7 +623,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:05",
             "21:50"
           ]
@@ -697,7 +642,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "21:30"
           ]
         },
@@ -728,7 +672,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:30"
           ]
         },
@@ -745,7 +688,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:20",
             "20:40"
           ]
@@ -755,7 +697,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "15:50",
             "18:20",
             "20:40"
           ]
@@ -928,7 +869,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:50",
             "22:00"
           ]
         },
@@ -1052,27 +992,6 @@
       ]
     },
     {
-      "title": "Histoire de jouets 5",
-      "original": "Toy Story 5",
-      "translation": "Histoire de jouets 5",
-      "runtime": "1 h 42",
-      "genre": "",
-      "badge": "",
-      "poster": "https://cdn.teater.co/imgs/toy-story-5-2026_600_880.webp",
-      "imdbRating": 7.3,
-      "imdbUrl": "https://www.imdb.com/title/tt29355505/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Un renversement",
       "original": "Un renversement",
       "translation": "",
@@ -1083,14 +1002,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt41483656/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:25"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
