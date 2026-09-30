@@ -1,14 +1,13 @@
 {
-  "generatedAt": "2026-09-30T01:30:05-04:00",
+  "generatedAt": "2026-09-30T02:35:50-04:00",
   "successfulSources": [
     "cineplex-sainte-foy",
     "cineplex-beauport",
     "cineplex-imax",
     "clap-ste-foy",
-    "clap-loretteville"
+    "clap-loretteville",
+    "cinema-cartier"
   ],
-  "failedSources": {
-    "cinema-cartier": "No movie blocks parsed from https://www.cinemaclock.com/cinemas/cinema-cartier | title='Cinéma Cartier - Horaire des films | Québec, QC | CinemaClock' | h3=5 h4=0 | sample=\"Cinéma Cartier - Horaire des films | Québec, QC | CinemaClock Accueil FIlms Cinémas Streaming À venir B-Annonces Top 10 Plus... Calendrier VSD Mon compte Mes films Mes cinémas Promotions Changer la ville Contactez-nous Abonnement Premium English Connexion CinemaClock cinémas Cinéma Cartier Cinéma Cartier Cinéma Cartier 1019 avenue Cartier, Québec, QC G1R 2S3\\xa0\\xa0... localisation, coordonnées et prix 12h 24h L'horaire pour Cinéma Cartier n'est pas disponible. Nous allons publier l'horaire aussitôt quand il sera disponible. Entre temps, nous vous invitons à visiter leur: Site web officiel Veuillez nous indiquer brièvement la disponibilité: ENVOYER Signaler que l'horaire est disponible Autres cinémas dans la région mercredi le 30 septembre Info-cinéma 1019 avenue Cartier Québec, QC G1R 2S3 Afficher la carte Voir itinéraire Logements à louer près du cinéma Contact Ligne-info: (418) 522-1011 Site web officiel Prix d'admission Admission générale 14.00 Enfant (0-12) 9.00 Étudiant (avec carte) 10.00 Âge d'or (65+) 11.50 3D ajouter 3.50 * Prix ont été relevés le 2023-11-18 et sont sujet à changement sans préavis. Dites-nous brièvement ce qui a changé: ENVOYER LE MESSAGE Signaler des informations à jour English Français Confidentialité Menu Accueil FIlms À venir B-Annonces Cinémas Streaming Calendrier VSD Top 10 Mon compte Mes films Mes cinémas Mes critiques Contactez-nous Changer la ville Modalités d'util. Politique de confid. Gestion d'hébergement: Syspark Ne pas partager mes renseignements personnels. © 1996-2026 Cinema Clock Inc. ® Retour en haut\""
-  },
+  "failedSources": {},
   "source": "CinemaClock showtime listings; official cinema links used for ticket navigation"
 }
