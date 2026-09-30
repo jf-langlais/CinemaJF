@@ -2,8 +2,8 @@
   "date": "2026-10-05",
   "dateLabel": "2026-10-05",
   "displayDate": "2026-10-05",
-  "generatedAt": "2026-09-29T20:37-04:00",
-  "updatedLabel": "20 h 37",
+  "generatedAt": "2026-09-29T21:29-04:00",
+  "updatedLabel": "21 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,6 +45,88 @@
   ],
   "movies": [
     {
+      "title": "Avengers: Phase Finale",
+      "original": "Avengers: Endgame",
+      "translation": "Avengers: Phase Finale",
+      "runtime": "3 h 01",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/580x326/22/avengers-endgame-20193974.jpg",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt4154796/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chers parents",
+      "original": "Chers parents",
+      "translation": "",
+      "runtime": "1 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/41/chers-parents-2026-orig-poster.jpg",
+      "imdbRating": 5.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:15",
+            "19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "original": "Coyote vs. Acme",
+      "translation": "",
+      "runtime": "1 h 43",
+      "genre": "",
+      "badge": "",
+      "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4659/5R5aktJZdGPYHiqbPcMGnKFWWn0wIm-metaMTAwMzdfYWZmLmpwZw%3D%3D-.jpg",
+      "imdbRating": 7.4,
+      "imdbUrl": "https://www.imdb.com/title/tt1756855/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:55",
+            "19:20"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Digger",
       "original": "Digger",
       "translation": "",
@@ -67,6 +149,26 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:10",
+            "16:00",
+            "18:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:40",
+            "18:30"
+          ]
+        },
+        {
           "cinema": "cineplex-imax",
           "lang": "VOA",
           "format": "IMAX",
@@ -80,6 +182,104 @@
           "format": "IMAX",
           "times": [
             "15:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'île de l'oubli",
+      "original": "Forgotten Island",
+      "translation": "L'île de l'oubli",
+      "runtime": "1 h 49",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "https://www.movienewsletters.net/photos/390767h1.jpg",
+      "imdbRating": 7.8,
+      "imdbUrl": "https://www.imdb.com/title/tt36583977/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:05",
+            "15:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Au coeur de la bête",
+      "original": "Heart of the Beast",
+      "translation": "Au coeur de la bête",
+      "runtime": "1 h 41",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "https://www.movienewsletters.net/photos/358931h1.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt7526136/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:30",
+            "19:25"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Insidieux: Hors du plus loin",
+      "original": "Insidious: Out of the Further",
+      "translation": "Insidieux: Hors du plus loin",
+      "runtime": "1 h 46",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
+      "imdbRating": 6.2,
+      "imdbUrl": "https://www.imdb.com/title/tt32393988/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:40",
+            "16:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La bataille de Gaulle: Liberté",
+      "original": "La bataille de Gaulle: Liberté",
+      "translation": "",
+      "runtime": "2 h 37",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.impawards.com/intl/france/2026/posters/la_bataille_de_gaulle_jecris_ton_nom.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt35856133/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:55",
+            "18:20"
           ]
         }
       ]
@@ -106,6 +306,75 @@
       ]
     },
     {
+      "title": "Pauline Julien: Femme pays",
+      "original": "Pauline Julien: Femme pays",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/75/pauline-julien-femme-pays-2026-orig-poster.jpg",
+      "imdbRating": 7.8,
+      "imdbUrl": "https://www.imdb.com/title/tt39387187/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:35",
+            "16:25",
+            "19:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Amour et magie 2",
+      "original": "Practical Magic 2",
+      "translation": "Amour et magie 2",
+      "runtime": "1 h 50",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/89/practical-magic-2-2026-orig-poster.jpg",
+      "imdbRating": 6.3,
+      "imdbUrl": "https://www.imdb.com/title/tt32588798/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "16:05",
+            "18:55"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "En direct",
+      "original": "Primetime",
+      "translation": "En direct",
+      "runtime": "1 h 47",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4730/E2vZOMbx993J0XkOHicl3LDO1BG92O-metaMTAxMDZfYWZmLmpwZw%3D%3D-.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt34206385/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "16:20",
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Primeurs Surprises Du Lundi",
       "original": "Primeurs Surprises Du Lundi",
       "translation": "",
@@ -122,6 +391,91 @@
           "format": "Standard",
           "times": [
             "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil",
+      "original": "Resident Evil",
+      "translation": "",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.movienewsletters.net/photos/385364h1.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35538033/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:10",
+            "19:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "D-BOX",
+          "times": [
+            "13:45",
+            "16:10",
+            "19:05"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man : Un jour nouveau",
+      "original": "Spider-Man: Brand New Day",
+      "translation": "Spider-Man : Un jour nouveau",
+      "runtime": "2 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.newdvdreleasedates.com/images/posters/large/spider-man-brand-new-day-2026.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "18:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "15:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'Odyssée",
+      "original": "The Odyssey",
+      "translation": "L'Odyssée",
+      "runtime": "2 h 52",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/47/the-odyssey-2026-us-poster.jpg",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "18:25"
           ]
         }
       ]

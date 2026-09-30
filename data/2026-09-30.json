@@ -2,8 +2,8 @@
   "date": "2026-09-30",
   "dateLabel": "2026-09-30",
   "displayDate": "2026-09-30",
-  "generatedAt": "2026-09-29T20:37-04:00",
-  "updatedLabel": "20 h 37",
+  "generatedAt": "2026-09-29T21:29-04:00",
+  "updatedLabel": "21 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -152,9 +152,9 @@
       ]
     },
     {
-      "title": "Coyote contre ACME",
+      "title": "Coyote vs. Acme",
       "original": "Coyote vs. Acme",
-      "translation": "Coyote contre ACME",
+      "translation": "",
       "runtime": "1 h 43",
       "genre": "",
       "badge": "",
@@ -164,19 +164,19 @@
       "showings": [
         {
           "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:55",
             "19:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:30"
           ]
         },
         {
@@ -269,19 +269,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "UltraAVX",
           "times": [
-            "18:00",
-            "20:45"
+            "13:30",
+            "16:30"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "UltraAVX",
+          "format": "3D",
           "times": [
-            "13:30",
-            "16:30"
+            "18:00",
+            "20:45"
           ]
         },
         {
@@ -820,20 +820,20 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
           "format": "D-BOX",
           "times": [
             "13:20",
             "15:50",
             "18:20",
             "20:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "22:00"
           ]
         },
         {
