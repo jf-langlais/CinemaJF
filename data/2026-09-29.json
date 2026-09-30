@@ -2,8 +2,8 @@
   "date": "2026-09-29",
   "dateLabel": "2026-09-29",
   "displayDate": "2026-09-29",
-  "generatedAt": "2026-09-29T21:29-04:00",
-  "updatedLabel": "21 h 29",
+  "generatedAt": "2026-09-29T22:28-04:00",
+  "updatedLabel": "22 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -104,14 +104,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35405429/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -144,9 +136,9 @@
       ]
     },
     {
-      "title": "Coyote vs. Acme",
+      "title": "Coyote contre ACME",
       "original": "Coyote vs. Acme",
-      "translation": "",
+      "translation": "Coyote contre ACME",
       "runtime": "1 h 43",
       "genre": "",
       "badge": "",
@@ -154,14 +146,6 @@
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt1756855/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -204,9 +188,9 @@
       ]
     },
     {
-      "title": "L'île de l'oubli",
+      "title": "Forgotten Island",
       "original": "Forgotten Island",
-      "translation": "L'île de l'oubli",
+      "translation": "",
       "runtime": "1 h 49",
       "genre": "",
       "badge": "Nouveauté",
@@ -214,14 +198,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "21:05"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -274,14 +250,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:15"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -317,27 +285,6 @@
           "times": [
             "12:40",
             "19:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Insidieux: Hors du plus loin",
-      "original": "Insidious: Out of the Further",
-      "translation": "Insidieux: Hors du plus loin",
-      "runtime": "1 h 46",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
-      "imdbRating": 6.2,
-      "imdbUrl": "https://www.imdb.com/title/tt32393988/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
           ]
         }
       ]
@@ -385,14 +332,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:20"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -425,14 +364,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt28553375/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
@@ -512,19 +443,11 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/75/pauline-julien-femme-pays-2026-orig-poster.jpg",
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
@@ -569,14 +492,6 @@
           "times": [
             "21:50"
           ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
         }
       ]
     },
@@ -597,14 +512,6 @@
           "format": "Standard",
           "times": [
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:30"
           ]
         },
         {
@@ -654,30 +561,6 @@
           "format": "UltraAVX",
           "times": [
             "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VF",
-          "format": "IMAX",
-          "times": [
-            "21:20"
           ]
         },
         {
@@ -791,14 +674,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -865,27 +740,6 @@
           "times": [
             "18:45",
             "21:20"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La révolte",
-      "original": "The Uprising",
-      "translation": "La révolte",
-      "runtime": "2 h 07",
-      "genre": "",
-      "badge": "",
-      "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4630/JulzpCNGsuVYzwrtWo99oARwjz0Z68-metaMTAwNjBfYWZmLmpwZw%3D%3D-.jpg",
-      "imdbRating": 6.3,
-      "imdbUrl": "https://www.imdb.com/title/tt36983905/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:10"
           ]
         }
       ]

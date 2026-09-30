@@ -2,8 +2,8 @@
   "date": "2026-10-05",
   "dateLabel": "2026-10-05",
   "displayDate": "2026-10-05",
-  "generatedAt": "2026-09-29T21:29-04:00",
-  "updatedLabel": "21 h 29",
+  "generatedAt": "2026-09-29T22:28-04:00",
+  "updatedLabel": "22 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -97,9 +97,9 @@
       ]
     },
     {
-      "title": "Coyote vs. Acme",
+      "title": "Coyote contre ACME",
       "original": "Coyote vs. Acme",
-      "translation": "",
+      "translation": "Coyote contre ACME",
       "runtime": "1 h 43",
       "genre": "",
       "badge": "",
@@ -109,19 +109,19 @@
       "showings": [
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:55",
             "19:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:30"
           ]
         }
       ]
@@ -486,7 +486,7 @@
       "translation": "",
       "runtime": "1 h 54",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
       "imdbRating": null,
       "imdbUrl": "",
