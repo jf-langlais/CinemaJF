@@ -2,8 +2,8 @@
   "date": "2026-09-30",
   "dateLabel": "2026-09-30",
   "displayDate": "2026-09-30",
-  "generatedAt": "2026-09-30T06:31-04:00",
-  "updatedLabel": "06 h 31",
+  "generatedAt": "2026-09-30T07:28-04:00",
+  "updatedLabel": "07 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -124,29 +124,7 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:50",
             "16:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Compostelle",
-      "original": "Compostelle",
-      "translation": "",
-      "runtime": "1 h 53",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/6/compostelle-2026-affiche-qc.jpg",
-      "imdbRating": 6.6,
-      "imdbUrl": "https://www.imdb.com/title/tt39814688/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:40"
           ]
         }
       ]
@@ -322,7 +300,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:30",
             "16:20",
             "18:55"
@@ -627,7 +604,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:00"
           ]
         },
@@ -1112,7 +1088,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:10",
             "13:50"
           ]
         },
