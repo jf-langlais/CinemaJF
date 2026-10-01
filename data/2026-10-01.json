@@ -2,8 +2,8 @@
   "date": "2026-10-01",
   "dateLabel": "2026-10-01",
   "displayDate": "2026-10-01",
-  "generatedAt": "2026-10-01T08:37-04:00",
-  "updatedLabel": "08 h 37",
+  "generatedAt": "2026-10-01T09:34-04:00",
+  "updatedLabel": "09 h 34",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -307,14 +307,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "13:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -353,7 +345,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:30",
             "16:20",
             "18:55"
           ]
@@ -398,7 +389,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:50",
             "18:50",
             "21:40"
@@ -419,7 +409,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "18:50"
           ]
         },
@@ -496,14 +485,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36842933/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:05"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -529,7 +510,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:05",
             "16:30",
             "19:55"
           ]
@@ -734,8 +714,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:00",
-            "13:30",
             "16:15",
             "19:00",
             "21:50"
@@ -781,7 +759,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:55",
             "16:00",
             "18:55",
             "21:50"
@@ -815,7 +792,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "15:55",
             "19:05",
             "21:50"
@@ -836,7 +812,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "21:30"
           ]
         },
@@ -867,7 +842,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:30",
             "16:00",
             "18:30"
           ]
@@ -885,7 +859,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "15:50",
             "18:20",
             "19:15",
@@ -898,7 +871,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "13:20",
             "15:50",
             "18:20",
             "20:40"
@@ -994,7 +966,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:40",
             "14:45",
             "16:50"
           ]
@@ -1033,7 +1004,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:45",
             "18:55"
           ]
         },
@@ -1092,14 +1062,6 @@
           "times": [
             "14:00",
             "18:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:45"
           ]
         },
         {
@@ -1169,27 +1131,6 @@
           "format": "Standard",
           "times": [
             "18:20"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Histoire de jouets 5",
-      "original": "Toy Story 5",
-      "translation": "Histoire de jouets 5",
-      "runtime": "1 h 42",
-      "genre": "",
-      "badge": "",
-      "poster": "https://cdn.teater.co/imgs/toy-story-5-2026_600_880.webp",
-      "imdbRating": 7.3,
-      "imdbUrl": "https://www.imdb.com/title/tt29355505/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:15"
           ]
         }
       ]
