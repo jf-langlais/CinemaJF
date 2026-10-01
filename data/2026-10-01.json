@@ -2,8 +2,8 @@
   "date": "2026-10-01",
   "dateLabel": "2026-10-01",
   "displayDate": "2026-10-01",
-  "generatedAt": "2026-10-01T13:30-04:00",
-  "updatedLabel": "13 h 30",
+  "generatedAt": "2026-10-01T14:39-04:00",
+  "updatedLabel": "14 h 39",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -58,14 +58,6 @@
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "18:45"
@@ -114,7 +106,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:55",
             "19:20"
           ]
         },
@@ -132,27 +123,6 @@
           "format": "Standard",
           "times": [
             "16:20"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/580x326/58/1971.jpg",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:05"
           ]
         }
       ]
@@ -234,18 +204,9 @@
         },
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VF",
           "format": "3D",
           "times": [
-            "18:00",
             "20:45"
           ]
         },
@@ -254,7 +215,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:05",
             "15:50",
             "16:25"
           ]
@@ -265,14 +225,6 @@
           "format": "3D",
           "times": [
             "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "13:00"
           ]
         },
         {
@@ -340,7 +292,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:30",
             "16:00",
             "19:10"
           ]
@@ -393,27 +344,6 @@
       ]
     },
     {
-      "title": "Insidieux: Hors du plus loin",
-      "original": "Insidious: Out of the Further",
-      "translation": "Insidieux: Hors du plus loin",
-      "runtime": "1 h 46",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
-      "imdbRating": 6.2,
-      "imdbUrl": "https://www.imdb.com/title/tt32393988/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Juste une illusion",
       "original": "Juste une illusion",
       "translation": "",
@@ -458,7 +388,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:05",
             "15:20",
             "19:00"
           ]
@@ -509,17 +438,8 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:15",
             "18:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:15"
           ]
         },
         {
@@ -544,14 +464,6 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:35"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -622,7 +534,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:25",
             "21:00"
           ]
         },
@@ -631,7 +542,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:35",
             "16:35",
             "19:30"
           ]
@@ -694,7 +604,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:05",
             "18:55"
           ]
@@ -726,7 +635,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:20",
             "19:25"
           ]
@@ -764,14 +672,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
           "format": "ScreenX",
           "times": [
             "21:05"
@@ -782,7 +682,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:20",
             "19:15",
             "20:40",
             "21:45"
@@ -793,7 +692,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "18:20",
             "20:40"
           ]
         },
@@ -802,7 +700,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:40",
             "16:10",
             "19:05"
           ]
@@ -812,7 +709,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "13:40",
             "16:10",
             "19:05"
           ]
@@ -880,14 +776,6 @@
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt36841161/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:10"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -968,7 +856,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "14:00",
             "18:25"
           ]
         },
@@ -998,7 +885,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:55",
             "16:15",
             "18:40"
           ]
@@ -1074,7 +960,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:30"
           ]
         },
