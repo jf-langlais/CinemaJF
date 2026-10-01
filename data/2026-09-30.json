@@ -2,8 +2,8 @@
   "date": "2026-09-30",
   "dateLabel": "2026-09-30",
   "displayDate": "2026-09-30",
-  "generatedAt": "2026-09-30T22:29-04:00",
-  "updatedLabel": "22 h 29",
+  "generatedAt": "2026-09-30T23:30-04:00",
+  "updatedLabel": "23 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -146,14 +146,6 @@
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt1756855/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:20"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -334,27 +326,6 @@
       ]
     },
     {
-      "title": "Insidieux: Hors du plus loin",
-      "original": "Insidious: Out of the Further",
-      "translation": "Insidieux: Hors du plus loin",
-      "runtime": "1 h 46",
-      "genre": "",
-      "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
-      "imdbRating": 6.2,
-      "imdbUrl": "https://www.imdb.com/title/tt32393988/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:25"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Juste une illusion",
       "original": "Juste une illusion",
       "translation": "",
@@ -506,19 +477,11 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/75/pauline-julien-femme-pays-2026-orig-poster.jpg",
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
