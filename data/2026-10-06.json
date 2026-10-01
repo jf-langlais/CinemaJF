@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "dateLabel": "2026-10-06",
   "displayDate": "2026-10-06",
-  "generatedAt": "2026-10-01T11:40-04:00",
-  "updatedLabel": "11 h 40",
+  "generatedAt": "2026-10-01T12:30-04:00",
+  "updatedLabel": "12 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -435,19 +435,19 @@
       "imdbUrl": "",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:30"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
           "times": [
             "19:15"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30"
           ]
         }
       ]

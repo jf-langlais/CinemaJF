@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-10-01T11:40:30-04:00",
+  "generatedAt": "2026-10-01T12:30:13-04:00",
   "successfulSources": [
     "cineplex-sainte-foy",
     "cineplex-beauport",
     "cineplex-imax",
-    "clap-ste-foy",
     "clap-loretteville",
     "cinema-cartier"
   ],
-  "failedSources": {},
+  "failedSources": {
+    "clap-ste-foy": "GET failed https://www.cinemaclock.com/cinemas/le-clap-place-ste-foy: HTTPSConnectionPool(host='www.cinemaclock.com', port=443): Read timed out. (read timeout=25)"
+  },
   "source": "CinemaClock showtime listings; official cinema links used for ticket navigation"
 }
