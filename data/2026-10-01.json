@@ -2,8 +2,8 @@
   "date": "2026-10-01",
   "dateLabel": "2026-10-01",
   "displayDate": "2026-10-01",
-  "generatedAt": "2026-09-30T21:29-04:00",
-  "updatedLabel": "21 h 29",
+  "generatedAt": "2026-09-30T22:29-04:00",
+  "updatedLabel": "22 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -232,7 +232,7 @@
       "translation": "",
       "runtime": "2 h 08",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
       "imdbRating": null,
       "imdbUrl": "",
@@ -297,7 +297,7 @@
       "translation": "",
       "runtime": "1 h 49",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "https://www.movienewsletters.net/photos/390767h1.jpg",
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
@@ -333,18 +333,18 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "UltraAVX",
           "times": [
-            "18:00",
-            "20:45"
+            "13:00"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "UltraAVX",
+          "format": "3D",
           "times": [
-            "13:00"
+            "18:00",
+            "20:45"
           ]
         },
         {
@@ -411,7 +411,7 @@
       "translation": "Au coeur de la bête",
       "runtime": "1 h 41",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "https://www.movienewsletters.net/photos/358931h1.jpg",
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
@@ -762,7 +762,7 @@
       "translation": "En direct",
       "runtime": "1 h 47",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4730/E2vZOMbx993J0XkOHicl3LDO1BG92O-metaMTAxMDZfYWZmLmpwZw%3D%3D-.jpg",
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
