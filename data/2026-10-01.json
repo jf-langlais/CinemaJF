@@ -2,8 +2,8 @@
   "date": "2026-10-01",
   "dateLabel": "2026-10-01",
   "displayDate": "2026-10-01",
-  "generatedAt": "2026-10-01T16:32-04:00",
-  "updatedLabel": "16 h 32",
+  "generatedAt": "2026-10-01T17:29-04:00",
+  "updatedLabel": "17 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -154,21 +154,13 @@
           "times": [
             "18:50"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:15"
-          ]
         }
       ]
     },
     {
-      "title": "Forgotten Island",
+      "title": "L'île de l'oubli",
       "original": "Forgotten Island",
-      "translation": "",
+      "translation": "L'île de l'oubli",
       "runtime": "1 h 49",
       "genre": "",
       "badge": "",
@@ -176,22 +168,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "20:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "20:45"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -477,14 +453,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
@@ -614,27 +582,10 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "21:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "20:40",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "20:40"
           ]
         },
         {
@@ -784,14 +735,6 @@
           "times": [
             "18:25"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:10"
-          ]
         }
       ]
     },
@@ -813,14 +756,6 @@
           "times": [
             "16:15",
             "18:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:20"
           ]
         }
       ]
