@@ -2,8 +2,8 @@
   "date": "2026-10-04",
   "dateLabel": "2026-10-04",
   "displayDate": "2026-10-04",
-  "generatedAt": "2026-10-01T05:32-04:00",
-  "updatedLabel": "05 h 32",
+  "generatedAt": "2026-10-01T06:31-04:00",
+  "updatedLabel": "06 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -69,6 +69,23 @@
           "format": "3D",
           "times": [
             "18:15"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "20:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "16:15"
           ]
         }
       ]
@@ -145,6 +162,15 @@
           "format": "Standard",
           "times": [
             "16:30"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "16:25"
           ]
         }
       ]
@@ -273,6 +299,17 @@
           "times": [
             "18:35"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:30",
+            "18:50",
+            "21:25"
+          ]
         }
       ]
     },
@@ -306,6 +343,18 @@
             "12:40",
             "15:30",
             "19:30"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:00",
+            "13:50",
+            "16:25",
+            "19:10",
+            "21:45"
           ]
         }
       ]
@@ -363,6 +412,15 @@
             "15:55",
             "18:20"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:50"
+          ]
         }
       ]
     },
@@ -398,6 +456,7 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
+            "10:30",
             "16:15"
           ]
         }
@@ -433,6 +492,40 @@
             "13:35",
             "16:25",
             "19:10"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:35",
+            "16:20",
+            "19:00",
+            "21:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La Pat' Patrouille: Le film - Mission Dino",
+      "original": "PAW Patrol: The Dino Movie",
+      "translation": "La Pat' Patrouille: Le film - Mission Dino",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/95/paw-patrol-the-dino-movie-2026-affiche-qc.jpg",
+      "imdbRating": 6.1,
+      "imdbUrl": "https://www.imdb.com/title/tt29356163/",
+      "showings": [
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:35",
+            "13:15"
           ]
         }
       ]
@@ -564,6 +657,33 @@
             "15:15",
             "19:05"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:25",
+            "21:55"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "19:15",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "16:30"
+          ]
         }
       ]
     },
@@ -689,6 +809,42 @@
           "times": [
             "13:20",
             "16:20",
+            "19:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:45",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "10:50",
+            "13:40",
             "19:00"
           ]
         }

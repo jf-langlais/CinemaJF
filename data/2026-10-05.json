@@ -2,8 +2,8 @@
   "date": "2026-10-05",
   "dateLabel": "2026-10-05",
   "displayDate": "2026-10-05",
-  "generatedAt": "2026-10-01T05:32-04:00",
-  "updatedLabel": "05 h 32",
+  "generatedAt": "2026-10-01T06:31-04:00",
+  "updatedLabel": "06 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -69,6 +69,23 @@
           "format": "3D",
           "times": [
             "18:15"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "20:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "16:15"
           ]
         }
       ]
@@ -273,6 +290,17 @@
           "times": [
             "18:35"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:30",
+            "18:50",
+            "21:25"
+          ]
         }
       ]
     },
@@ -306,6 +334,17 @@
             "13:00",
             "15:30",
             "19:25"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "15:35",
+            "19:10",
+            "21:45"
           ]
         }
       ]
@@ -362,6 +401,15 @@
             "15:55",
             "18:20"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:40"
+          ]
         }
       ]
     },
@@ -416,6 +464,17 @@
             "13:35",
             "16:25",
             "19:10"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:40",
+            "19:00",
+            "21:35"
           ]
         }
       ]
@@ -568,6 +627,26 @@
             "16:10",
             "19:05"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:25",
+            "21:55"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "16:30",
+            "19:15",
+            "21:40"
+          ]
         }
       ]
     },
@@ -692,6 +771,42 @@
           "times": [
             "13:20",
             "16:05",
+            "19:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "15:50",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:45",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "13:05",
             "19:00"
           ]
         }

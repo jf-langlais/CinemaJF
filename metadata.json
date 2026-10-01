@@ -171,6 +171,11 @@
     "imdbUrl": "",
     "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
   },
+  "other mommy": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+  },
   "pauline julien femme pays": {
     "imdbRating": 7.8,
     "imdbUrl": "https://www.imdb.com/title/tt39387187/",
@@ -183,10 +188,10 @@
   "paw patrol the dino movie": {
     "imdbRating": 6.1,
     "imdbUrl": "https://www.imdb.com/title/tt29356163/",
-    "imdbVotes": 2567,
+    "imdbVotes": 2643,
     "poster": "https://www.cinemaclock.com/images/posters/1000x1500/95/paw-patrol-the-dino-movie-2026-affiche-qc.jpg",
     "posterChecked": "2026-09-27",
-    "ratingChecked": "2026-09-27",
+    "ratingChecked": "2026-10-01",
     "ratingSource": "official-dataset-v1"
   },
   "practical magic 2": {
