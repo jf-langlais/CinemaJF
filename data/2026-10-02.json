@@ -2,8 +2,8 @@
   "date": "2026-10-02",
   "dateLabel": "2026-10-02",
   "displayDate": "2026-10-02",
-  "generatedAt": "2026-10-02T15:30-04:00",
-  "updatedLabel": "15 h 30",
+  "generatedAt": "2026-10-02T16:28-04:00",
+  "updatedLabel": "16 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -252,7 +252,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "19:30",
             "22:00"
           ]
         },
@@ -387,14 +386,6 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:55"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
