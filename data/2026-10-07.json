@@ -2,8 +2,8 @@
   "date": "2026-10-07",
   "dateLabel": "2026-10-07",
   "displayDate": "2026-10-07",
-  "generatedAt": "2026-10-01T21:29-04:00",
-  "updatedLabel": "21 h 29",
+  "generatedAt": "2026-10-01T22:28-04:00",
+  "updatedLabel": "22 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -96,7 +96,7 @@
       "translation": "",
       "runtime": "1 h 44",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
       "imdbRating": null,
       "imdbUrl": "",
@@ -241,19 +241,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "12:40",
-            "15:20"
+            "18:35",
+            "21:10"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:35",
-            "21:10"
+            "12:40",
+            "15:20"
           ]
         },
         {
@@ -449,7 +449,7 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "https://www.cinemaclock.com/images/posters/1000x1500/75/pauline-julien-femme-pays-2026-orig-poster.jpg",
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
@@ -684,19 +684,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "12:45",
-            "18:55"
+            "15:50",
+            "22:00"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "15:50",
-            "22:00"
+            "12:45",
+            "18:55"
           ]
         },
         {
