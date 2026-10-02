@@ -2,8 +2,8 @@
   "date": "2026-10-03",
   "dateLabel": "2026-10-03",
   "displayDate": "2026-10-03",
-  "generatedAt": "2026-10-02T17:29-04:00",
-  "updatedLabel": "17 h 29",
+  "generatedAt": "2026-10-02T18:29-04:00",
+  "updatedLabel": "18 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -72,6 +72,23 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:15",
+            "20:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -127,6 +144,36 @@
             "19:15",
             "21:35"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "13:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Compostelle",
+      "original": "Compostelle",
+      "translation": "",
+      "runtime": "1 h 53",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/6/compostelle-2026-affiche-qc.jpg",
+      "imdbRating": 6.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39814688/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:50"
+          ]
         }
       ]
     },
@@ -160,12 +207,51 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "15:45"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "10:30",
             "16:25"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "De Gaulle",
+      "original": "De Gaulle",
+      "translation": "",
+      "runtime": "1 h 48",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/580x326/58/1971.jpg",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "18:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Dolby Atmos",
+          "times": [
+            "10:20"
           ]
         }
       ]
@@ -230,6 +316,24 @@
           "times": [
             "12:10",
             "18:20"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:55",
+            "18:50",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00"
           ]
         }
       ]
@@ -301,6 +405,25 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:30",
+            "15:50",
+            "18:30"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -345,6 +468,25 @@
             "15:30",
             "18:40",
             "21:10"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:00",
+            "16:25",
+            "18:55"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:35"
           ]
         },
         {
@@ -423,6 +565,51 @@
           "times": [
             "13:00",
             "15:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La bataille de Gaulle: Résistance",
+      "original": "La bataille de Gaulle: Résistance",
+      "translation": "",
+      "runtime": "2 h 40",
+      "genre": "",
+      "badge": "",
+      "poster": "https://img1.cdn.bizzmedia.ca/media/7s44vlWhabjxyx9FyoVV4KYlIYpyB7jQ9fpl9o2l.jpg/400/584",
+      "imdbRating": 7.8,
+      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "15:30",
+            "18:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La meilleure façon, c'est par accident",
+      "original": "La meilleure façon, c'est par accident",
+      "translation": "",
+      "runtime": "1 h 51",
+      "genre": "",
+      "badge": "",
+      "poster": "https://img1.cdn.bizzmedia.ca/media/Z5k9qNQ62Vy0fYCVNRZ24nhiFf0JB30aVxWcy366.jpg/400/584",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "21:30"
           ]
         }
       ]
@@ -511,6 +698,19 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:30",
+            "16:15",
+            "18:45",
+            "18:55",
+            "21:50"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -535,6 +735,15 @@
       "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt29356163/",
       "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:20"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -608,6 +817,24 @@
             "19:00",
             "21:30"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:45",
+            "19:05",
+            "21:50"
+          ]
         }
       ]
     },
@@ -675,6 +902,32 @@
             "16:10",
             "19:05",
             "21:15"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "15:50",
+            "21:30"
           ]
         },
         {
@@ -814,6 +1067,14 @@
             "16:20",
             "20:30"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:00"
+          ]
         }
       ]
     },
@@ -880,6 +1141,40 @@
             "16:00",
             "19:00",
             "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "16:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "13:45",
+            "19:15"
           ]
         },
         {

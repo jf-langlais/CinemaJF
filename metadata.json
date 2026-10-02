@@ -37,10 +37,10 @@
   "compostelle": {
     "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt39814688/",
-    "imdbVotes": 364,
+    "imdbVotes": 368,
     "poster": "https://www.cinemaclock.com/images/posters/1000x1500/6/compostelle-2026-affiche-qc.jpg",
     "posterChecked": "2026-09-27",
-    "ratingChecked": "2026-10-01",
+    "ratingChecked": "2026-10-02",
     "ratingSource": "official-dataset-v1"
   },
   "coyote vs acme": {
@@ -132,11 +132,11 @@
   "la bataille de gaulle resistance": {
     "imdbRating": 7.8,
     "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-    "imdbVotes": 3205,
+    "imdbVotes": 3226,
     "poster": "https://img1.cdn.bizzmedia.ca/media/7s44vlWhabjxyx9FyoVV4KYlIYpyB7jQ9fpl9o2l.jpg/400/584",
-    "posterChecked": "2026-10-01",
+    "posterChecked": "2026-10-02",
     "posterSource": "curated",
-    "ratingChecked": "2026-10-01",
+    "ratingChecked": "2026-10-02",
     "ratingSource": "official-dataset-v1"
   },
   "la meilleure facon c est par accident": {
