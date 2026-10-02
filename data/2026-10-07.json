@@ -2,8 +2,8 @@
   "date": "2026-10-07",
   "dateLabel": "2026-10-07",
   "displayDate": "2026-10-07",
-  "generatedAt": "2026-10-01T19:26-04:00",
-  "updatedLabel": "19 h 26",
+  "generatedAt": "2026-10-01T20:37-04:00",
+  "updatedLabel": "20 h 37",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -191,16 +191,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "13:10",
-            "16:00",
-            "18:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -210,11 +200,13 @@
           ]
         },
         {
-          "cinema": "cineplex-imax",
+          "cinema": "cineplex-beauport",
           "lang": "VF",
-          "format": "IMAX",
+          "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "15:40"
+            "13:10",
+            "16:00",
+            "18:50"
           ]
         },
         {
@@ -223,6 +215,14 @@
           "format": "IMAX",
           "times": [
             "18:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VF",
+          "format": "IMAX",
+          "times": [
+            "15:40"
           ]
         }
       ]
