@@ -2,8 +2,8 @@
   "date": "2026-10-02",
   "dateLabel": "2026-10-02",
   "displayDate": "2026-10-02",
-  "generatedAt": "2026-10-02T14:33-04:00",
-  "updatedLabel": "14 h 33",
+  "generatedAt": "2026-10-02T15:30-04:00",
+  "updatedLabel": "15 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -99,7 +99,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         }
@@ -185,7 +184,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:50",
             "21:55"
           ]
         },
@@ -246,7 +244,6 @@
           "lang": "VOA",
           "format": "3D",
           "times": [
-            "18:35",
             "21:10"
           ]
         },
@@ -317,7 +314,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:45"
           ]
         },
@@ -422,27 +418,6 @@
       ]
     },
     {
-      "title": "La meilleure façon, c'est par accident",
-      "original": "La meilleure façon, c'est par accident",
-      "translation": "",
-      "runtime": "1 h 51",
-      "genre": "",
-      "badge": "",
-      "poster": "https://img1.cdn.bizzmedia.ca/media/Z5k9qNQ62Vy0fYCVNRZ24nhiFf0JB30aVxWcy366.jpg/400/584",
-      "imdbRating": 7.3,
-      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Les aventuriers voyageurs: Rêve d'Afrique",
       "original": "Les aventuriers voyageurs: Rêve d'Afrique",
       "translation": "",
@@ -479,7 +454,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:50"
           ]
         },
@@ -542,14 +516,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt32588798/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -610,7 +576,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "18:40",
             "21:00"
           ]
         },
@@ -619,7 +584,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -628,7 +592,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -699,16 +662,7 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
@@ -778,7 +732,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:10",
             "21:55"
           ]
         },
@@ -787,7 +740,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:45"
           ]
         },
