@@ -2,8 +2,8 @@
   "date": "2026-10-02",
   "dateLabel": "2026-10-02",
   "displayDate": "2026-10-02",
-  "generatedAt": "2026-10-02T07:29-04:00",
-  "updatedLabel": "07 h 29",
+  "generatedAt": "2026-10-02T08:36-04:00",
+  "updatedLabel": "08 h 36",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -187,7 +187,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "12:30",
             "15:40",
             "18:50",
             "21:55"
@@ -735,7 +734,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:35",
             "18:45",
             "21:50"
