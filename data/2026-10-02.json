@@ -2,8 +2,8 @@
   "date": "2026-10-02",
   "dateLabel": "2026-10-02",
   "displayDate": "2026-10-02",
-  "generatedAt": "2026-10-02T11:32-04:00",
-  "updatedLabel": "11 h 32",
+  "generatedAt": "2026-10-02T12:31-04:00",
+  "updatedLabel": "12 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -99,7 +99,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:45",
             "19:25",
             "21:55"
           ]
@@ -186,7 +185,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "15:40",
             "18:50",
             "21:55"
           ]
@@ -327,7 +325,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:35",
             "19:20",
             "21:45"
           ]
@@ -407,7 +404,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -590,7 +586,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "21:50"
           ]
         },
@@ -623,7 +618,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "15:40",
             "18:40",
             "21:00"
           ]
@@ -633,7 +627,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:05",
             "21:25"
           ]
@@ -643,7 +636,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:15",
             "19:05",
             "21:25"
           ]
@@ -715,7 +707,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:35",
             "18:45",
             "21:50"
           ]
@@ -733,7 +724,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:50",
             "22:00"
           ]
         },
@@ -796,7 +786,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
             "19:10",
             "21:55"
           ]
@@ -806,7 +795,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "19:00",
             "21:45"
           ]
