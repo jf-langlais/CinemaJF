@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "dateLabel": "2026-10-06",
   "displayDate": "2026-10-06",
-  "generatedAt": "2026-10-02T00:30-04:00",
-  "updatedLabel": "00 h 30",
+  "generatedAt": "2026-10-02T01:29-04:00",
+  "updatedLabel": "01 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -73,19 +73,19 @@
         },
         {
           "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "20:00"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:30",
             "16:15"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "20:00"
           ]
         }
       ]
@@ -246,19 +246,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:35",
-            "21:10"
+            "12:40",
+            "15:20"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "12:40",
-            "15:20"
+            "18:35",
+            "21:10"
           ]
         },
         {
@@ -676,19 +676,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "15:50",
-            "22:00"
+            "12:45",
+            "18:55"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "12:45",
-            "18:55"
+            "15:50",
+            "22:00"
           ]
         },
         {

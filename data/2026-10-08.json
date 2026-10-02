@@ -2,8 +2,8 @@
   "date": "2026-10-08",
   "dateLabel": "2026-10-08",
   "displayDate": "2026-10-08",
-  "generatedAt": "2026-10-02T00:30-04:00",
-  "updatedLabel": "00 h 30",
+  "generatedAt": "2026-10-02T01:29-04:00",
+  "updatedLabel": "01 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,9 +45,9 @@
   ],
   "movies": [
     {
-      "title": "Avengers: Endgame",
+      "title": "Avengers: Phase Finale",
       "original": "Avengers: Endgame",
-      "translation": "",
+      "translation": "Avengers: Phase Finale",
       "runtime": "3 h 01",
       "genre": "",
       "badge": "",
@@ -56,11 +56,19 @@
       "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
         {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
           "format": "Standard",
           "times": [
-            "20:00"
+            "13:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:15"
           ]
         },
         {
@@ -70,6 +78,93 @@
           "times": [
             "12:30",
             "16:15"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chers parents",
+      "original": "Chers parents",
+      "translation": "",
+      "runtime": "1 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/41/chers-parents-2026-orig-poster.jpg",
+      "imdbRating": 5.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:15",
+            "19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Digger",
+      "original": "Digger",
+      "translation": "",
+      "runtime": "2 h 08",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:40",
+            "18:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:00",
+            "18:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "18:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VF",
+          "format": "IMAX",
+          "times": [
+            "15:40"
           ]
         }
       ]
@@ -85,6 +180,23 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:05",
+            "15:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:35"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -103,11 +215,21 @@
       "translation": "Au coeur de la bête",
       "runtime": "1 h 41",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "https://www.movienewsletters.net/photos/358931h1.jpg",
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:30",
+            "18:40"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -117,6 +239,29 @@
             "15:35",
             "19:10",
             "21:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Insidieux: Hors du plus loin",
+      "original": "Insidious: Out of the Further",
+      "translation": "Insidieux: Hors du plus loin",
+      "runtime": "1 h 46",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
+      "imdbRating": 6.2,
+      "imdbUrl": "https://www.imdb.com/title/tt32393988/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:40",
+            "16:35",
+            "19:25"
           ]
         }
       ]
@@ -132,6 +277,16 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:55",
+            "18:20"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -154,6 +309,23 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "14:00",
+            "19:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "16:30"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -185,6 +357,16 @@
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:35",
+            "16:25",
+            "19:10"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -193,6 +375,27 @@
             "15:40",
             "19:00",
             "21:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "En direct",
+      "original": "Primetime",
+      "translation": "En direct",
+      "runtime": "1 h 47",
+      "genre": "",
+      "badge": "",
+      "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4730/E2vZOMbx993J0XkOHicl3LDO1BG92O-metaMTAxMDZfYWZmLmpwZw%3D%3D-.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt34206385/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20"
           ]
         }
       ]
@@ -208,6 +411,26 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:10",
+            "19:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "D-BOX",
+          "times": [
+            "13:45",
+            "16:10",
+            "19:05"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
@@ -230,6 +453,87 @@
       ]
     },
     {
+      "title": "Spider-Man : Un jour nouveau",
+      "original": "Spider-Man: Brand New Day",
+      "translation": "Spider-Man : Un jour nouveau",
+      "runtime": "2 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.newdvdreleasedates.com/images/posters/large/spider-man-brand-new-day-2026.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "18:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "15:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'Odyssée",
+      "original": "The Odyssey",
+      "translation": "L'Odyssée",
+      "runtime": "2 h 52",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/47/the-odyssey-2026-us-poster.jpg",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "18:25"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le jugement social",
+      "original": "The Social Reckoning",
+      "translation": "Le jugement social",
+      "runtime": "1 h 52",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -240,6 +544,16 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "16:05",
+            "18:55"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",

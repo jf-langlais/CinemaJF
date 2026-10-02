@@ -275,6 +275,11 @@
     "ratingChecked": "2026-10-02",
     "ratingSource": "official-dataset-v1"
   },
+  "the social reckoning": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+  },
   "the stunt driver": {
     "imdbRating": 6.5,
     "imdbUrl": "https://www.imdb.com/title/tt34611096/",
