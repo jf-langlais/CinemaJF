@@ -19,8 +19,9 @@
     "imdbRating": 8.4,
     "imdbUrl": "https://www.imdb.com/title/tt4154796/",
     "imdbVotes": 1493948,
-    "poster": "https://www.cinemaclock.com/images/580x326/22/avengers-endgame-20193974.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/avengers-endgame.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
