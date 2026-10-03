@@ -8,7 +8,9 @@
   "a pied d oeuvre": {
     "imdbRating": null,
     "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "poster": "",
+    "posterChecked": "2026-10-03",
+    "posterSource": "missing"
   },
   "avengers endgame": {
     "imdbRating": 8.4,
@@ -26,16 +28,23 @@
     "ratingChecked": null
   },
   "beware boiuna": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbMatchScore": 1.08,
+    "imdbRating": 6.4,
+    "imdbUrl": "https://www.imdb.com/title/tt10377864/",
+    "imdbVotes": 169,
+    "poster": "posters/beware-boiuna.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "chers parents": {
     "imdbRating": 5.6,
     "imdbUrl": "https://www.imdb.com/title/tt35405429/",
     "imdbVotes": 367,
-    "poster": "https://www.cinemaclock.com/images/posters/1000x1500/41/chers-parents-2026-orig-poster.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/chers-parents.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -43,8 +52,9 @@
     "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt39814688/",
     "imdbVotes": 368,
-    "poster": "https://www.cinemaclock.com/images/posters/1000x1500/6/compostelle-2026-affiche-qc.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/compostelle.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -52,32 +62,48 @@
     "imdbRating": 7.4,
     "imdbUrl": "https://www.imdb.com/title/tt1756855/",
     "imdbVotes": 35091,
-    "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4659/5R5aktJZdGPYHiqbPcMGnKFWWn0wIm-metaMTAwMzdfYWZmLmpwZw%3D%3D-.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/coyote-vs-acme.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
   "de gaulle": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/images/580x326/58/1971.jpg"
+    "imdbMatchScore": 1.0,
+    "imdbRating": 6.1,
+    "imdbUrl": "https://www.imdb.com/title/tt10880402/",
+    "imdbVotes": 2372,
+    "poster": "posters/de-gaulle.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "desole pardon je m excuse": {
     "imdbRating": null,
     "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "poster": "",
+    "posterChecked": "2026-10-03",
+    "posterSource": "missing"
   },
   "digger": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbMatchScore": 1.08,
+    "imdbRating": 7.3,
+    "imdbUrl": "https://www.imdb.com/title/tt31450459/",
+    "imdbVotes": 3877,
+    "poster": "posters/digger.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "forgotten island": {
     "imdbRating": 7.8,
     "imdbUrl": "https://www.imdb.com/title/tt36583977/",
     "imdbVotes": 3552,
-    "poster": "https://www.movienewsletters.net/photos/390767h1.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/forgotten-island.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -95,8 +121,9 @@
     "imdbRating": 7.3,
     "imdbUrl": "https://www.imdb.com/title/tt7526136/",
     "imdbVotes": 13815,
-    "poster": "https://www.movienewsletters.net/photos/358931h1.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/heart-of-the-beast.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -104,8 +131,9 @@
     "imdbRating": 6.2,
     "imdbUrl": "https://www.imdb.com/title/tt32393988/",
     "imdbVotes": 16686,
-    "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/insidious-out-of-the-further.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -128,9 +156,9 @@
     "imdbRating": 8.0,
     "imdbUrl": "https://www.imdb.com/title/tt35856133/",
     "imdbVotes": 1953,
-    "poster": "https://www.impawards.com/intl/france/2026/posters/la_bataille_de_gaulle_jecris_ton_nom.jpg",
+    "poster": "posters/la-bataille-de-gaulle-liberte.jpg",
     "posterChecked": "2026-10-03",
-    "posterSource": "curated",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -138,9 +166,9 @@
     "imdbRating": 7.8,
     "imdbUrl": "https://www.imdb.com/title/tt28553375/",
     "imdbVotes": 3226,
-    "poster": "https://img1.cdn.bizzmedia.ca/media/7s44vlWhabjxyx9FyoVV4KYlIYpyB7jQ9fpl9o2l.jpg/400/584",
+    "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
     "posterChecked": "2026-10-03",
-    "posterSource": "curated",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -148,8 +176,9 @@
     "imdbRating": 7.0,
     "imdbUrl": "https://www.imdb.com/title/tt42353729/",
     "imdbVotes": 8,
-    "poster": "https://img1.cdn.bizzmedia.ca/media/Z5k9qNQ62Vy0fYCVNRZ24nhiFf0JB30aVxWcy366.jpg/400/584",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -165,7 +194,9 @@
   "les aventuriers voyageurs reve d afrique": {
     "imdbRating": null,
     "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "poster": "",
+    "posterChecked": "2026-10-03",
+    "posterSource": "missing"
   },
   "nitassinan": {
     "imdbRating": null,
@@ -177,21 +208,34 @@
     "ratingSource": "official-dataset-v1"
   },
   "opera cosi fan tutte": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbMatchScore": 0.824,
+    "imdbRating": 7.3,
+    "imdbUrl": "https://www.imdb.com/title/tt2973692/",
+    "imdbVotes": 108,
+    "poster": "posters/opera-cosi-fan-tutte.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "other mommy": {
+    "imdbMatchScore": 1.08,
     "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbUrl": "https://www.imdb.com/title/tt36586020/",
+    "imdbVotes": null,
+    "poster": "posters/other-mommy.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "pauline julien femme pays": {
     "imdbRating": 7.9,
     "imdbUrl": "https://www.imdb.com/title/tt39387187/",
     "imdbVotes": 21,
-    "poster": "https://www.cinemaclock.com/images/posters/1000x1500/75/pauline-julien-femme-pays-2026-orig-poster.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/pauline-julien-femme-pays.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -199,8 +243,9 @@
     "imdbRating": 6.1,
     "imdbUrl": "https://www.imdb.com/title/tt29356163/",
     "imdbVotes": 2651,
-    "poster": "https://www.cinemaclock.com/images/posters/1000x1500/95/paw-patrol-the-dino-movie-2026-affiche-qc.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/paw-patrol-the-dino-movie.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -208,8 +253,9 @@
     "imdbRating": 6.3,
     "imdbUrl": "https://www.imdb.com/title/tt32588798/",
     "imdbVotes": 10631,
-    "poster": "https://www.cinemaclock.com/images/posters/1000x1500/89/practical-magic-2-2026-orig-poster.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/practical-magic-2.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -217,34 +263,50 @@
     "imdbRating": 7.2,
     "imdbUrl": "https://www.imdb.com/title/tt34206385/",
     "imdbVotes": 10459,
-    "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4730/E2vZOMbx993J0XkOHicl3LDO1BG92O-metaMTAxMDZfYWZmLmpwZw%3D%3D-.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/primetime.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
   "primeurs surprises du lundi": {
     "imdbRating": null,
     "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "poster": "",
+    "posterChecked": "2026-10-03",
+    "posterSource": "missing"
   },
   "queen budapest": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbMatchScore": 0.778,
+    "imdbRating": 8.6,
+    "imdbUrl": "https://www.imdb.com/title/tt0093427/",
+    "imdbVotes": 1295,
+    "poster": "posters/queen-budapest.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "resident evil": {
     "imdbRating": 7.6,
     "imdbUrl": "https://www.imdb.com/title/tt35538033/",
     "imdbVotes": 77434,
-    "poster": "https://www.movienewsletters.net/photos/385364h1.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/resident-evil.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
   "run terry run": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbMatchScore": 1.08,
+    "imdbRating": 8.5,
+    "imdbUrl": "https://www.imdb.com/title/tt39130015/",
+    "imdbVotes": 20,
+    "poster": "posters/run-terry-run.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "runner": {
     "imdbRating": null,
@@ -253,14 +315,26 @@
     "ratingChecked": null
   },
   "sacrifice": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbMatchScore": 1.08,
+    "imdbRating": 5.1,
+    "imdbUrl": "https://www.imdb.com/title/tt32268992/",
+    "imdbVotes": 1637,
+    "poster": "posters/sacrifice.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "scoob": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/images/580x326/8/scoob-20204065.jpg"
+    "imdbMatchScore": 1.0,
+    "imdbRating": 5.6,
+    "imdbUrl": "https://www.imdb.com/title/tt3152592/",
+    "imdbVotes": 33767,
+    "poster": "posters/scoob.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "shaun the sheep the beast of mossy bottom": {
     "imdbRating": 7.2,
@@ -280,9 +354,9 @@
     "imdbRating": 8.0,
     "imdbUrl": "https://www.imdb.com/title/tt22084616/",
     "imdbVotes": 316030,
-    "poster": "https://www.newdvdreleasedates.com/images/posters/large/spider-man-brand-new-day-2026.jpg",
+    "poster": "posters/spider-man-brand-new-day.jpg",
     "posterChecked": "2026-10-03",
-    "posterSource": "curated",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
@@ -290,15 +364,22 @@
     "imdbRating": 8.4,
     "imdbUrl": "https://www.imdb.com/title/tt33764258/",
     "imdbVotes": 515377,
-    "poster": "https://www.cinemaclock.com/images/posters/1000x1500/47/the-odyssey-2026-us-poster.jpg",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/the-odyssey.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
   "the social reckoning": {
+    "imdbMatchScore": 1.08,
     "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbUrl": "https://www.imdb.com/title/tt37510326/",
+    "imdbVotes": null,
+    "poster": "posters/the-social-reckoning.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "the stunt driver": {
     "imdbRating": 6.5,
@@ -333,19 +414,32 @@
     "imdbRating": null,
     "imdbUrl": "https://www.imdb.com/title/tt41483656/",
     "imdbVotes": null,
-    "poster": "https://img5.cdn.bizzmedia.ca/media/E6f4kiVawUcyeYO4crbiIraF6l4FDkDPTtB9PScQ.jpg/400/584",
-    "posterChecked": "2026-09-27",
+    "poster": "posters/un-renversement.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
   "unshatter": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbMatchScore": 0.9,
+    "imdbRating": 7.9,
+    "imdbUrl": "https://www.imdb.com/title/tt8914538/",
+    "imdbVotes": 77,
+    "poster": "posters/unshatter.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "verity": {
-    "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "imdbMatchScore": 1.08,
+    "imdbRating": 6.1,
+    "imdbUrl": "https://www.imdb.com/title/tt32261958/",
+    "imdbVotes": 2031,
+    "poster": "posters/verity.jpg",
+    "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   }
 }

@@ -2,8 +2,8 @@
   "date": "2026-10-09",
   "dateLabel": "2026-10-09",
   "displayDate": "2026-10-09",
-  "generatedAt": "2026-10-03T10:38-04:00",
-  "updatedLabel": "10 h 38",
+  "generatedAt": "2026-10-03T11:13-04:00",
+  "updatedLabel": "11 h 13",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -51,9 +51,9 @@
       "runtime": "1 h 33",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "poster": "posters/other-mommy.jpg",
       "imdbRating": null,
-      "imdbUrl": "",
+      "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
@@ -100,9 +100,9 @@
       "runtime": "1 h 52",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "poster": "posters/the-social-reckoning.jpg",
       "imdbRating": null,
-      "imdbUrl": "",
+      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",

@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "dateLabel": "2026-10-06",
   "displayDate": "2026-10-06",
-  "generatedAt": "2026-10-03T10:38-04:00",
-  "updatedLabel": "10 h 38",
+  "generatedAt": "2026-10-03T11:13-04:00",
+  "updatedLabel": "11 h 13",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -51,7 +51,7 @@
       "runtime": "1 h 32",
       "genre": "",
       "badge": "Nouveauté",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
@@ -137,9 +137,9 @@
       "runtime": "1 h 44",
       "genre": "",
       "badge": "Nouveauté",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "poster": "posters/beware-boiuna.jpg",
+      "imdbRating": 6.4,
+      "imdbUrl": "https://www.imdb.com/title/tt10377864/",
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
@@ -161,7 +161,7 @@
       "runtime": "1 h 26",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/41/chers-parents-2026-orig-poster.jpg",
+      "poster": "posters/chers-parents.jpg",
       "imdbRating": 5.6,
       "imdbUrl": "https://www.imdb.com/title/tt35405429/",
       "showings": [
@@ -194,7 +194,7 @@
       "runtime": "1 h 53",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/6/compostelle-2026-affiche-qc.jpg",
+      "poster": "posters/compostelle.jpg",
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt39814688/",
       "showings": [
@@ -215,7 +215,7 @@
       "runtime": "1 h 43",
       "genre": "",
       "badge": "",
-      "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4659/5R5aktJZdGPYHiqbPcMGnKFWWn0wIm-metaMTAwMzdfYWZmLmpwZw%3D%3D-.jpg",
+      "poster": "posters/coyote-vs-acme.jpg",
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt1756855/",
       "showings": [
@@ -246,9 +246,9 @@
       "runtime": "1 h 48",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/images/580x326/58/1971.jpg",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "poster": "posters/de-gaulle.jpg",
+      "imdbRating": 6.1,
+      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
       "showings": [
         {
           "cinema": "clap-ste-foy",
@@ -276,9 +276,9 @@
       "runtime": "2 h 08",
       "genre": "",
       "badge": "Nouveauté",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "poster": "posters/digger.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
@@ -376,7 +376,7 @@
       "runtime": "1 h 49",
       "genre": "",
       "badge": "",
-      "poster": "https://www.movienewsletters.net/photos/390767h1.jpg",
+      "poster": "posters/forgotten-island.jpg",
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
@@ -482,7 +482,7 @@
       "runtime": "1 h 41",
       "genre": "",
       "badge": "",
-      "poster": "https://www.movienewsletters.net/photos/358931h1.jpg",
+      "poster": "posters/heart-of-the-beast.jpg",
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
@@ -565,7 +565,7 @@
       "runtime": "1 h 46",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/58/insidious-6-2026-us-poster.jpg",
+      "poster": "posters/insidious-out-of-the-further.jpg",
       "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt32393988/",
       "showings": [
@@ -589,7 +589,7 @@
       "runtime": "2 h 37",
       "genre": "",
       "badge": "",
-      "poster": "https://www.impawards.com/intl/france/2026/posters/la_bataille_de_gaulle_jecris_ton_nom.jpg",
+      "poster": "posters/la-bataille-de-gaulle-liberte.jpg",
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
@@ -640,7 +640,7 @@
       "runtime": "2 h 40",
       "genre": "",
       "badge": "",
-      "poster": "https://img1.cdn.bizzmedia.ca/media/7s44vlWhabjxyx9FyoVV4KYlIYpyB7jQ9fpl9o2l.jpg/400/584",
+      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt28553375/",
       "showings": [
@@ -663,7 +663,7 @@
       "runtime": "1 h 51",
       "genre": "",
       "badge": "",
-      "poster": "https://img1.cdn.bizzmedia.ca/media/Z5k9qNQ62Vy0fYCVNRZ24nhiFf0JB30aVxWcy366.jpg/400/584",
+      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
       "imdbRating": 7.0,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
@@ -695,7 +695,7 @@
       "runtime": "1 h 23",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
@@ -724,7 +724,7 @@
       "runtime": "",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/75/pauline-julien-femme-pays-2026-orig-poster.jpg",
+      "poster": "posters/pauline-julien-femme-pays.jpg",
       "imdbRating": 7.9,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
@@ -794,7 +794,7 @@
       "runtime": "1 h 50",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/89/practical-magic-2-2026-orig-poster.jpg",
+      "poster": "posters/practical-magic-2.jpg",
       "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt32588798/",
       "showings": [
@@ -827,7 +827,7 @@
       "runtime": "1 h 47",
       "genre": "",
       "badge": "",
-      "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4730/E2vZOMbx993J0XkOHicl3LDO1BG92O-metaMTAxMDZfYWZmLmpwZw%3D%3D-.jpg",
+      "poster": "posters/primetime.jpg",
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
       "showings": [
@@ -879,7 +879,7 @@
       "runtime": "1 h 30",
       "genre": "",
       "badge": "",
-      "poster": "https://www.movienewsletters.net/photos/385364h1.jpg",
+      "poster": "posters/resident-evil.jpg",
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
@@ -992,9 +992,9 @@
       "runtime": "1 h 43",
       "genre": "",
       "badge": "Nouveauté",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "poster": "posters/sacrifice.jpg",
+      "imdbRating": 5.1,
+      "imdbUrl": "https://www.imdb.com/title/tt32268992/",
       "showings": [
         {
           "cinema": "clap-ste-foy",
@@ -1014,7 +1014,7 @@
       "runtime": "2 h 30",
       "genre": "",
       "badge": "",
-      "poster": "https://www.newdvdreleasedates.com/images/posters/large/spider-man-brand-new-day-2026.jpg",
+      "poster": "posters/spider-man-brand-new-day.jpg",
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
@@ -1074,7 +1074,7 @@
       "runtime": "2 h 52",
       "genre": "",
       "badge": "",
-      "poster": "https://www.cinemaclock.com/images/posters/1000x1500/47/the-odyssey-2026-us-poster.jpg",
+      "poster": "posters/the-odyssey.jpg",
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt33764258/",
       "showings": [
@@ -1105,7 +1105,7 @@
       "runtime": "",
       "genre": "",
       "badge": "",
-      "poster": "https://img5.cdn.bizzmedia.ca/media/E6f4kiVawUcyeYO4crbiIraF6l4FDkDPTtB9PScQ.jpg/400/584",
+      "poster": "posters/un-renversement.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt41483656/",
       "showings": [
@@ -1126,9 +1126,9 @@
       "runtime": "1 h 54",
       "genre": "",
       "badge": "Nouveauté",
-      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "poster": "posters/verity.jpg",
+      "imdbRating": 6.1,
+      "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
