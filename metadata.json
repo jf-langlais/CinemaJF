@@ -5,6 +5,11 @@
     "poster": "https://img1.cdn.bizzmedia.ca/media/dmNe6iFsU3zoM0PSdoGR9MBqeOwDX7VkUgqTzJ0I.png/400/584",
     "ratingChecked": null
   },
+  "a pied d oeuvre": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+  },
   "avengers endgame": {
     "imdbRating": 8.4,
     "imdbUrl": "https://www.imdb.com/title/tt4154796/",
@@ -246,6 +251,11 @@
     "imdbUrl": "https://www.imdb.com/title/tt31349844/",
     "poster": "https://www.cinemaclock.com/images/posters/1000x1500/15/runner-2026-us-poster.jpg",
     "ratingChecked": null
+  },
+  "sacrifice": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
   },
   "scoob": {
     "imdbRating": null,

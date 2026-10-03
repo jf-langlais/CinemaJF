@@ -2,8 +2,8 @@
   "date": "2026-10-07",
   "dateLabel": "2026-10-07",
   "displayDate": "2026-10-07",
-  "generatedAt": "2026-10-02T22:35-04:00",
-  "updatedLabel": "22 h 35",
+  "generatedAt": "2026-10-02T23:36-04:00",
+  "updatedLabel": "23 h 36",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,6 +44,28 @@
     }
   ],
   "movies": [
+    {
+      "title": "À pied d'oeuvre",
+      "original": "À pied d'oeuvre",
+      "translation": "",
+      "runtime": "1 h 32",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "15:45"
+          ]
+        }
+      ]
+    },
     {
       "title": "Avengers: Phase Finale",
       "original": "Avengers: Endgame",
@@ -967,6 +989,27 @@
             "16:30",
             "19:15",
             "21:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sacrifice",
+      "original": "Sacrifice",
+      "translation": "",
+      "runtime": "1 h 43",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:10"
           ]
         }
       ]
