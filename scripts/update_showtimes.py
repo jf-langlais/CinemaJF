@@ -500,7 +500,7 @@ def enrich_metadata(groups: dict, meta: dict, now: datetime) -> dict:
                 rec["imdbUrl"] = alias["imdbUrl"]
 
         suggestion = {}
-        if not rec.get("imdbUrl") or bad_poster(rec.get("poster", "")):
+        if not rec.get("imdbUrl") or not str(rec.get("poster", "")).startswith("posters/"):
             suggestion = imdb_suggestion(g.get("title") or key, now)
             if not rec.get("imdbUrl") and suggestion.get("imdbUrl"):
                 rec["imdbUrl"] = suggestion["imdbUrl"]
