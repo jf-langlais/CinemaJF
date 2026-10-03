@@ -11,6 +11,8 @@ on:
       - 'index.html'
       - 'manifest.webmanifest'
       - 'sw.js'
+      - 'metadata.json'
+      - 'posters/**'
       - 'scripts/update_showtimes.py'
       - 'requirements.txt'
       - '.github/workflows/update-showtimes.yml'
