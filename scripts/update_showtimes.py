@@ -34,6 +34,8 @@ TITLE_TRANSLATION_OVERRIDES = {
 }
 
 POSTER_OVERRIDES = {
+    "a pied d oeuvre": "https://cinehorizons.net/sites/default/files/affiches/1823285106-pied-doeuvre.jpg",
+    "les aventuriers voyageurs reve d afrique": "https://img2.cdn.bizzmedia.ca/media/3Lfoq1cMctXNSXNWkobeQz8PG93iLiMmd4fsr5Vs.jpg/400/584",
     "toy story 5": "https://cdn.teater.co/imgs/toy-story-5-2026_600_880.webp",
     "spider man brand new day": "https://www.newdvdreleasedates.com/images/posters/large/spider-man-brand-new-day-2026.jpg",
     "the stunt driver": "https://www.impawards.com/intl/canada/2026/posters/stunt_driver_xlg.jpg",
