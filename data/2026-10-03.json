@@ -2,8 +2,8 @@
   "date": "2026-10-03",
   "dateLabel": "2026-10-03",
   "displayDate": "2026-10-03",
-  "generatedAt": "2026-10-03T11:20-04:00",
-  "updatedLabel": "11 h 20",
+  "generatedAt": "2026-10-03T15:42-04:00",
+  "updatedLabel": "15 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,27 +45,6 @@
   ],
   "movies": [
     {
-      "title": "À pied d'oeuvre",
-      "original": "À pied d'oeuvre",
-      "translation": "",
-      "runtime": "1 h 32",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/a-pied-d-oeuvre.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37660587/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:15"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Avengers: Phase Finale",
       "original": "Avengers: Endgame",
       "translation": "Avengers: Phase Finale",
@@ -97,7 +76,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "20:00"
           ]
         },
@@ -129,8 +107,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:45",
-            "19:25",
             "21:55"
           ]
         }
@@ -175,7 +151,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "19:20"
           ]
         },
@@ -189,41 +164,12 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:45"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "10:30",
             "16:25"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:30"
           ]
         }
       ]
@@ -244,8 +190,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "15:40",
-            "18:50",
             "21:55"
           ]
         },
@@ -254,7 +198,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:20",
             "18:30",
             "21:20"
@@ -265,7 +208,6 @@
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "13:00",
             "15:50",
             "18:50",
             "21:40"
@@ -285,7 +227,6 @@
           "lang": "VF",
           "format": "IMAX",
           "times": [
-            "12:10",
             "18:20"
           ]
         },
@@ -294,8 +235,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
-            "18:50",
             "21:45"
           ]
         },
@@ -333,34 +272,16 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
           "format": "3D",
           "times": [
-            "18:35",
             "21:10"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "3D",
           "times": [
-            "19:30",
             "22:00"
           ]
         },
@@ -369,8 +290,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:40",
-            "13:05",
             "15:45"
           ]
         },
@@ -389,15 +308,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50",
-            "18:30"
           ]
         },
         {
@@ -440,8 +350,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:45",
-            "19:20",
             "21:45"
           ]
         },
@@ -450,19 +358,9 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:40",
             "15:30",
             "18:40",
             "21:10"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:25",
-            "18:55"
           ]
         },
         {
@@ -544,7 +442,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -553,7 +450,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:45",
             "15:55",
             "18:20",
             "21:25"
@@ -574,28 +470,6 @@
           "format": "Standard",
           "times": [
             "14:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.8,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:30",
-            "18:10"
           ]
         }
       ]
@@ -652,27 +526,6 @@
       ]
     },
     {
-      "title": "Opera: Cosi Fan Tutte",
-      "original": "Opera: Cosi Fan Tutte",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/opera-cosi-fan-tutte.jpg",
-      "imdbRating": 7.3,
-      "imdbUrl": "https://www.imdb.com/title/tt2973692/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "13:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Pauline Julien: Femme pays",
       "original": "Pauline Julien: Femme pays",
       "translation": "",
@@ -688,8 +541,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:25",
-            "19:15",
             "21:50"
           ]
         },
@@ -698,7 +549,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:35",
             "16:25",
             "19:10",
             "21:40"
@@ -709,9 +559,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
-            "18:45",
-            "18:55",
             "21:50"
           ]
         },
@@ -774,19 +621,10 @@
       "imdbUrl": "https://www.imdb.com/title/tt32588798/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:05",
             "18:55",
             "21:45"
@@ -829,8 +667,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:45",
-            "19:05",
             "21:50"
           ]
         }
@@ -852,8 +688,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "15:40",
-            "18:40",
             "21:00"
           ]
         },
@@ -862,8 +696,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:15",
-            "19:05",
             "21:25"
           ]
         },
@@ -872,8 +704,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:15",
-            "19:05",
             "21:25"
           ]
         },
@@ -897,14 +727,6 @@
             "16:10",
             "19:05",
             "21:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:25"
           ]
         },
         {
@@ -920,7 +742,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "21:30"
           ]
         },
@@ -954,48 +775,6 @@
       ]
     },
     {
-      "title": "Sacrifice",
-      "original": "Sacrifice",
-      "translation": "",
-      "runtime": "1 h 43",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/sacrifice.jpg",
-      "imdbRating": 5.1,
-      "imdbUrl": "https://www.imdb.com/title/tt32268992/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Scooby!",
-      "original": "Scoob!",
-      "translation": "Scooby!",
-      "runtime": "1 h 33",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/scoob.jpg",
-      "imdbRating": 5.6,
-      "imdbUrl": "https://www.imdb.com/title/tt3152592/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Spider-Man : Un jour nouveau",
       "original": "Spider-Man: Brand New Day",
       "translation": "Spider-Man : Un jour nouveau",
@@ -1011,17 +790,7 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:20",
-            "18:30",
             "21:35"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:45"
           ]
         },
         {
@@ -1037,7 +806,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:10",
             "18:45"
           ]
         },
@@ -1068,7 +836,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:20",
             "16:20",
             "20:30"
           ]
@@ -1105,27 +872,6 @@
       ]
     },
     {
-      "title": "Unshatter",
-      "original": "Unshatter",
-      "translation": "",
-      "runtime": "1 h 50",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/unshatter.jpg",
-      "imdbRating": 7.9,
-      "imdbUrl": "https://www.imdb.com/title/tt8914538/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -1141,8 +887,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
-            "19:10",
             "21:55"
           ]
         },
@@ -1151,8 +895,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
-            "19:00",
             "21:45"
           ]
         },
@@ -1161,7 +903,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:00",
             "19:00",
             "21:35"
@@ -1177,26 +918,10 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "16:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:15"
           ]
         },
         {
