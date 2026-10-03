@@ -2,8 +2,8 @@
   "date": "2026-10-09",
   "dateLabel": "2026-10-09",
   "displayDate": "2026-10-09",
-  "generatedAt": "2026-10-03T01:38-04:00",
-  "updatedLabel": "01 h 38",
+  "generatedAt": "2026-10-03T02:38-04:00",
+  "updatedLabel": "02 h 38",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -56,6 +56,24 @@
       "imdbUrl": "",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "16:00",
+            "21:10"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -86,6 +104,24 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:50",
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "13:20",
+            "18:20"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
