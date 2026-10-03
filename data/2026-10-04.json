@@ -2,8 +2,8 @@
   "date": "2026-10-04",
   "dateLabel": "2026-10-04",
   "displayDate": "2026-10-04",
-  "generatedAt": "2026-10-03T11:13-04:00",
-  "updatedLabel": "11 h 13",
+  "generatedAt": "2026-10-03T11:18-04:00",
+  "updatedLabel": "11 h 18",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -51,9 +51,9 @@
       "runtime": "1 h 32",
       "genre": "",
       "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "poster": "posters/a-pied-d-oeuvre.jpg",
+      "imdbRating": 6.7,
+      "imdbUrl": "https://www.imdb.com/title/tt37660587/",
       "showings": [
         {
           "cinema": "clap-ste-foy",
@@ -596,7 +596,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-bataille-de-gaulle-liberte.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 8,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
         {
@@ -669,7 +669,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.0,
+      "imdbRating": 7,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
@@ -698,7 +698,7 @@
       "runtime": "1 h 23",
       "genre": "",
       "badge": "",
-      "poster": "",
+      "poster": "posters/les-aventuriers-voyageurs-reve-d-afrique.jpg",
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
@@ -1061,7 +1061,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/spider-man-brand-new-day.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 8,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {

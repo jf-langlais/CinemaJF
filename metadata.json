@@ -6,11 +6,14 @@
     "ratingChecked": null
   },
   "a pied d oeuvre": {
-    "imdbRating": null,
+    "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt37660587/",
-    "poster": "",
+    "imdbVotes": 733,
+    "poster": "posters/a-pied-d-oeuvre.jpg",
     "posterChecked": "2026-10-03",
-    "posterSource": "missing"
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-03",
+    "ratingSource": "official-dataset-v1"
   },
   "avengers endgame": {
     "imdbRating": 8.4,
@@ -194,9 +197,9 @@
   "les aventuriers voyageurs reve d afrique": {
     "imdbRating": null,
     "imdbUrl": "",
-    "poster": "",
+    "poster": "posters/les-aventuriers-voyageurs-reve-d-afrique.jpg",
     "posterChecked": "2026-10-03",
-    "posterSource": "missing"
+    "posterSource": "local-cache"
   },
   "nitassinan": {
     "imdbRating": null,
