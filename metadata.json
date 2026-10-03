@@ -7,7 +7,7 @@
   },
   "a pied d oeuvre": {
     "imdbRating": null,
-    "imdbUrl": "",
+    "imdbUrl": "https://www.imdb.com/title/tt37660587/",
     "poster": "",
     "posterChecked": "2026-10-03",
     "posterSource": "missing"
@@ -69,7 +69,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "de gaulle": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 6.1,
     "imdbUrl": "https://www.imdb.com/title/tt10880402/",
     "imdbVotes": 2372,
@@ -153,7 +153,7 @@
     "ratingChecked": null
   },
   "la bataille de gaulle liberte": {
-    "imdbRating": 8.0,
+    "imdbRating": 8,
     "imdbUrl": "https://www.imdb.com/title/tt35856133/",
     "imdbVotes": 1953,
     "poster": "posters/la-bataille-de-gaulle-liberte.jpg",
@@ -173,7 +173,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "la meilleure facon c est par accident": {
-    "imdbRating": 7.0,
+    "imdbRating": 7,
     "imdbUrl": "https://www.imdb.com/title/tt42353729/",
     "imdbVotes": 8,
     "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
@@ -183,7 +183,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "la place": {
-    "imdbRating": 7.0,
+    "imdbRating": 7,
     "imdbUrl": "https://www.imdb.com/title/tt41374574/",
     "imdbVotes": 21,
     "poster": "https://img2.cdn.bizzmedia.ca/media/jfP8w12y3q4Fm4GSEnvTp2swZDqcIPajCkfUgFuQ.jpg/400/584",
@@ -326,7 +326,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "scoob": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 5.6,
     "imdbUrl": "https://www.imdb.com/title/tt3152592/",
     "imdbVotes": 33767,
@@ -351,7 +351,7 @@
     "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
   },
   "spider man brand new day": {
-    "imdbRating": 8.0,
+    "imdbRating": 8,
     "imdbUrl": "https://www.imdb.com/title/tt22084616/",
     "imdbVotes": 316030,
     "poster": "posters/spider-man-brand-new-day.jpg",
