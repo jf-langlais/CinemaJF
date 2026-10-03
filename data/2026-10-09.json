@@ -2,8 +2,8 @@
   "date": "2026-10-09",
   "dateLabel": "2026-10-09",
   "displayDate": "2026-10-09",
-  "generatedAt": "2026-10-03T00:30-04:00",
-  "updatedLabel": "00 h 30",
+  "generatedAt": "2026-10-03T01:38-04:00",
+  "updatedLabel": "01 h 38",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -43,5 +43,68 @@
       "source": "https://www.cinemacartier.com/"
     }
   ],
-  "movies": []
+  "movies": [
+    {
+      "title": "Autre Maman",
+      "original": "Other Mommy",
+      "translation": "Autre Maman",
+      "runtime": "1 h 33",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "19:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "16:00",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le jugement social",
+      "original": "The Social Reckoning",
+      "translation": "Le jugement social",
+      "runtime": "1 h 52",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:10",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "13:20",
+            "19:00"
+          ]
+        }
+      ]
+    }
+  ]
 }
