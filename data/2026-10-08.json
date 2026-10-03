@@ -2,8 +2,8 @@
   "date": "2026-10-08",
   "dateLabel": "2026-10-08",
   "displayDate": "2026-10-08",
-  "generatedAt": "2026-10-02T21:28-04:00",
-  "updatedLabel": "21 h 28",
+  "generatedAt": "2026-10-02T22:35-04:00",
+  "updatedLabel": "22 h 35",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -928,6 +928,29 @@
             "16:30",
             "19:15",
             "21:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Run Terry Run",
+      "original": "Run Terry Run",
+      "translation": "",
+      "runtime": "1 h 48",
+      "genre": "",
+      "badge": "",
+      "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:55",
+            "16:30",
+            "19:20"
           ]
         }
       ]

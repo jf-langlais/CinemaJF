@@ -236,6 +236,11 @@
     "ratingChecked": "2026-10-02",
     "ratingSource": "official-dataset-v1"
   },
+  "run terry run": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+  },
   "runner": {
     "imdbRating": null,
     "imdbUrl": "https://www.imdb.com/title/tt31349844/",
