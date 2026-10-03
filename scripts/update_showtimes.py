@@ -12,20 +12,23 @@ from collections import defaultdict
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import quote, urljoin
 from zoneinfo import ZoneInfo
 
 import requests
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup, Tag, NavigableString
+from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 META_PATH = ROOT / "metadata.json"
+POSTER_DIR = ROOT / "posters"
 TZ = ZoneInfo("America/Toronto")
 BASE = "https://www.cinemaclock.com"
 IMDB_RATINGS_URL = "https://datasets.imdbws.com/title.ratings.tsv.gz"
 IMDB_RATING_SOURCE = "official-dataset-v1"
+IMDB_SUGGEST = "https://v3.sg.media-imdb.com/suggestion/x/{query}.json"
 TITLE_TRANSLATION_OVERRIDES = {
     "spider man brand new day": "Spider-Man : Un jour nouveau",
 }
@@ -347,7 +350,7 @@ def detail_metadata(url: str) -> dict:
 
 
 def imdb_poster(url: str) -> str:
-    """Return IMDb's primary image URL for a title, when available."""
+    """Fallback: return IMDb's primary image URL from a title page."""
     try:
         soup = BeautifulSoup(get(url, timeout=25).text, "html.parser")
         tag = soup.find("meta", attrs={"property": "og:image"}) or soup.find("meta", attrs={"name": "twitter:image"})
@@ -355,6 +358,84 @@ def imdb_poster(url: str) -> str:
             return tag["content"].strip()
     except Exception as e:
         print(f"WARNING IMDb poster unavailable for {url}: {e}", file=sys.stderr)
+    return ""
+
+
+def bad_poster(url: str) -> bool:
+    u = (url or "").lower()
+    return (not u or "logo-256x256-alpha" in u or "placeholder" in u or "default-poster" in u)
+
+
+def poster_filename(key: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", norm(key)).strip("-")[:80] or "film"
+    return f"{slug}.jpg"
+
+
+def imdb_suggestion(title: str, now: datetime) -> dict:
+    """Use IMDb's autocomplete service to discover a title id and poster."""
+    if not title:
+        return {}
+    try:
+        url = IMDB_SUGGEST.format(query=quote(title.lower()))
+        payload = get(url, timeout=25).json()
+        candidates = []
+        target = norm(title)
+        for item in payload.get("d", []):
+            tid = str(item.get("id", ""))
+            label = str(item.get("l", ""))
+            if not tid.startswith("tt") or not label:
+                continue
+            import difflib
+            score = difflib.SequenceMatcher(None, target, norm(label)).ratio()
+            year = item.get("y")
+            # Prefer exact/near-exact title matches; a plausible current year is a small bonus.
+            if year and isinstance(year, int) and abs(year - now.year) <= 2:
+                score += 0.08
+            candidates.append((score, item))
+        if not candidates:
+            return {}
+        score, item = max(candidates, key=lambda x: x[0])
+        if score < 0.72:
+            return {}
+        image = (item.get("i") or {}).get("imageUrl", "")
+        return {
+            "imdbUrl": f"https://www.imdb.com/title/{item['id']}/",
+            "poster": image,
+            "matchScore": round(score, 3),
+        }
+    except Exception as e:
+        print(f"WARNING IMDb suggestion failed for {title!r}: {e}", file=sys.stderr)
+        return {}
+
+
+def cache_poster(key: str, candidates: list[str]) -> str:
+    """Validate a remote poster, normalize it to a small JPEG and keep it in this repo."""
+    POSTER_DIR.mkdir(parents=True, exist_ok=True)
+    dest = POSTER_DIR / poster_filename(key)
+    if dest.exists() and dest.stat().st_size > 5000:
+        return dest.relative_to(ROOT).as_posix()
+
+    for url in candidates:
+        if bad_poster(url):
+            continue
+        try:
+            r = SESSION.get(url, timeout=35)
+            r.raise_for_status()
+            ctype = r.headers.get("content-type", "").lower()
+            if "image" not in ctype and len(r.content) < 8000:
+                continue
+            img = Image.open(io.BytesIO(r.content))
+            img.load()
+            w, h = img.size
+            if w < 120 or h < 160 or h / max(w, 1) < 1.1:
+                continue
+            img = ImageOps.exif_transpose(img).convert("RGB")
+            img = ImageOps.fit(img, (240, 360), method=Image.Resampling.LANCZOS)
+            img.save(dest, "JPEG", quality=84, optimize=True)
+            print(f"POSTER cached {key}: {url} -> {dest.name}")
+            return dest.relative_to(ROOT).as_posix()
+        except Exception as e:
+            print(f"WARNING poster candidate failed for {key}: {url} ({e})", file=sys.stderr)
     return ""
 
 
@@ -402,34 +483,62 @@ def load_imdb_ratings(ids: set[str]) -> dict[str, tuple[float, int]]:
 def enrich_metadata(groups: dict, meta: dict, now: datetime) -> dict:
     today = now.date().isoformat()
 
-    # First resolve posters and IMDb title IDs from CinemaClock or a close existing alias.
+    # Resolve metadata, discover missing IMDb ids/posters, then cache posters locally.
     for key, g in groups.items():
         rec = dict(meta.get(key, {}))
-        if (not rec.get("poster") or not rec.get("imdbUrl")) and g.get("detail_url"):
-            rec.update({k: v for k, v in detail_metadata(g["detail_url"]).items() if v})
+        detail = {}
+        if g.get("detail_url"):
+            detail = detail_metadata(g["detail_url"])
+            if not rec.get("imdbUrl") and detail.get("imdbUrl"):
+                rec["imdbUrl"] = detail["imdbUrl"]
+
         if not rec.get("imdbUrl"):
             alias = alias_metadata(key, meta)
             if alias.get("imdbUrl"):
                 rec["imdbUrl"] = alias["imdbUrl"]
-            if not rec.get("poster") and alias.get("poster"):
-                rec["poster"] = alias["poster"]
+
+        suggestion = {}
+        if not rec.get("imdbUrl") or bad_poster(rec.get("poster", "")):
+            suggestion = imdb_suggestion(g.get("title") or key, now)
+            if not rec.get("imdbUrl") and suggestion.get("imdbUrl"):
+                rec["imdbUrl"] = suggestion["imdbUrl"]
+                rec["imdbMatchScore"] = suggestion.get("matchScore")
+
         rec.setdefault("poster", "")
         rec.setdefault("imdbUrl", "")
         rec.setdefault("imdbRating", None)
-        if key in POSTER_OVERRIDES:
-            rec["poster"] = POSTER_OVERRIDES[key]
-            rec["posterSource"] = "curated"
-            rec["posterChecked"] = today
-        elif rec.get("imdbUrl") and (not rec.get("poster") or "logo-256x256-alpha" in rec.get("poster", "")):
-            poster = imdb_poster(rec["imdbUrl"])
-            if poster:
-                rec["poster"] = poster
-                rec["posterSource"] = "imdb"
-            rec["posterChecked"] = today
+
+        local = rec.get("poster", "")
+        if local.startswith("posters/") and (ROOT / local).exists():
+            rec["posterSource"] = "local-cache"
+        else:
+            candidates = []
+            if key in POSTER_OVERRIDES:
+                candidates.append(POSTER_OVERRIDES[key])
+            if suggestion.get("poster"):
+                candidates.append(suggestion["poster"])
+            if rec.get("poster") and not rec["poster"].startswith("posters/"):
+                candidates.append(rec["poster"])
+            if detail.get("poster"):
+                candidates.append(detail["poster"])
+            if rec.get("imdbUrl"):
+                p = imdb_poster(rec["imdbUrl"])
+                if p:
+                    candidates.append(p)
+
+            cached = cache_poster(key, list(dict.fromkeys(candidates)))
+            if cached:
+                rec["poster"] = cached
+                rec["posterSource"] = "local-cache"
+                rec["posterChecked"] = today
+            elif bad_poster(rec.get("poster", "")):
+                rec["poster"] = ""
+                rec["posterSource"] = "missing"
+                rec["posterChecked"] = today
+
         meta[key] = rec
 
-    # IMDb publishes ratings as a daily non-commercial dataset. Download it at most
-    # when a title needs today's rating (normally once per day for the active slate).
+    # IMDb publishes ratings as a daily non-commercial dataset.
     pending: dict[str, list[str]] = defaultdict(list)
     for key in groups:
         rec = meta[key]
@@ -450,7 +559,6 @@ def enrich_metadata(groups: dict, meta: dict, now: datetime) -> dict:
                     rec["ratingChecked"] = today
                     rec["ratingSource"] = IMDB_RATING_SOURCE
         except Exception as e:
-            # Keep the last known rating and retry on the next hourly run.
             print(f"WARNING IMDb ratings dataset unavailable: {e}", file=sys.stderr)
 
     return meta
@@ -562,9 +670,11 @@ def main() -> int:
         return 2
     groups = {}
     for v in all_variants:
-        g = groups.setdefault(v["key"], {"detail_url": v.get("detail_url")})
+        g = groups.setdefault(v["key"], {"detail_url": v.get("detail_url"), "title": v.get("original") or v.get("title")})
         if not g.get("detail_url"):
             g["detail_url"] = v.get("detail_url")
+        if not g.get("title"):
+            g["title"] = v.get("original") or v.get("title")
     meta = enrich_metadata(groups, load_metadata(), now)
     META_PATH.write_text(json.dumps(meta, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8")
     failed = {c["id"] for c in CINEMAS if c["id"] not in success}
