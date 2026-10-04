@@ -2,8 +2,8 @@
   "date": "2026-10-04",
   "dateLabel": "2026-10-04",
   "displayDate": "2026-10-04",
-  "generatedAt": "2026-10-04T16:57-04:00",
-  "updatedLabel": "16 h 57",
+  "generatedAt": "2026-10-04T17:39-04:00",
+  "updatedLabel": "17 h 39",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -208,9 +208,9 @@
       ]
     },
     {
-      "title": "Forgotten Island",
+      "title": "L'île de l'oubli",
       "original": "Forgotten Island",
-      "translation": "",
+      "translation": "L'île de l'oubli",
       "runtime": "1 h 49",
       "genre": "",
       "badge": "",
@@ -218,14 +218,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "3D",
-          "times": [
-            "21:10"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -288,14 +280,6 @@
           "format": "Standard",
           "times": [
             "19:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
           ]
         },
         {
@@ -536,30 +520,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -581,14 +541,6 @@
           "format": "Dolby Atmos",
           "times": [
             "22:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:30"
           ]
         },
         {
@@ -616,27 +568,6 @@
           "format": "Dolby Atmos",
           "times": [
             "16:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Sacrifice",
-      "original": "Sacrifice",
-      "translation": "",
-      "runtime": "1 h 43",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/sacrifice.jpg",
-      "imdbRating": 5.1,
-      "imdbUrl": "https://www.imdb.com/title/tt32268992/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:30"
           ]
         }
       ]
@@ -695,14 +626,6 @@
           "format": "Standard",
           "times": [
             "18:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:00"
           ]
         }
       ]
