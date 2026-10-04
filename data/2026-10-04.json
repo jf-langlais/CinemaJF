@@ -2,8 +2,8 @@
   "date": "2026-10-04",
   "dateLabel": "2026-10-04",
   "displayDate": "2026-10-04",
-  "generatedAt": "2026-10-04T09:37-04:00",
-  "updatedLabel": "09 h 37",
+  "generatedAt": "2026-10-04T14:53-04:00",
+  "updatedLabel": "14 h 53",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,27 +45,6 @@
   ],
   "movies": [
     {
-      "title": "À pied d'oeuvre",
-      "original": "À pied d'oeuvre",
-      "translation": "",
-      "runtime": "1 h 32",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/a-pied-d-oeuvre.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37660587/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Avengers: Phase Finale",
       "original": "Avengers: Endgame",
       "translation": "Avengers: Phase Finale",
@@ -79,14 +58,6 @@
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "18:15"
@@ -97,7 +68,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "20:00"
           ]
         },
@@ -136,7 +106,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:45",
             "19:25",
             "21:55"
           ]
@@ -181,7 +150,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "19:20"
           ]
         },
@@ -205,27 +173,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Digger",
       "original": "Digger",
       "translation": "",
@@ -241,8 +188,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "15:40",
-            "18:50",
             "21:55"
           ]
         },
@@ -251,7 +196,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:20",
             "18:30"
           ]
@@ -261,7 +205,6 @@
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "13:00",
             "15:50",
             "18:50"
           ]
@@ -279,7 +222,6 @@
           "lang": "VF",
           "format": "IMAX",
           "times": [
-            "12:30",
             "18:50"
           ]
         },
@@ -288,8 +230,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
-            "18:50",
             "21:45"
           ]
         }
@@ -309,27 +249,9 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
           "format": "3D",
           "times": [
-            "18:35",
             "21:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "14:00",
-            "16:45"
           ]
         },
         {
@@ -346,7 +268,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:05",
             "15:45"
           ]
         },
@@ -364,15 +285,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50",
-            "18:30"
           ]
         },
         {
@@ -404,7 +316,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:35",
             "19:20",
             "21:45"
           ]
@@ -414,7 +325,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:40",
             "15:30",
             "19:30"
           ]
@@ -424,8 +334,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:50",
-            "16:45",
             "18:55"
           ]
         },
@@ -499,7 +407,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -508,7 +415,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:45",
             "15:55",
             "18:20"
           ]
@@ -525,49 +431,6 @@
       ]
     },
     {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.7,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:30",
-            "18:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La meilleure façon, c'est par accident",
-      "original": "La meilleure façon, c'est par accident",
-      "translation": "",
-      "runtime": "1 h 51",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Les aventuriers voyageurs: Rêve d'Afrique",
       "original": "Les aventuriers voyageurs: Rêve d'Afrique",
       "translation": "",
@@ -578,22 +441,6 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:15"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -621,7 +468,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:25",
             "19:15",
             "21:50"
           ]
@@ -631,7 +477,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:35",
             "16:25",
             "19:10"
           ]
@@ -641,7 +486,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:00",
             "21:50"
           ]
@@ -706,7 +550,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:05",
             "18:55"
           ]
@@ -729,7 +572,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "21:50"
           ]
         },
@@ -738,7 +580,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:10",
             "16:00",
             "18:40"
           ]
@@ -748,7 +589,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:05",
             "21:50"
           ]
@@ -771,8 +611,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "15:40",
-            "18:40",
             "21:00"
           ]
         },
@@ -781,8 +619,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:45",
-            "16:15",
             "19:05",
             "21:25"
           ]
@@ -792,8 +628,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "13:45",
-            "16:15",
             "19:05",
             "21:25"
           ]
@@ -803,7 +637,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:15",
             "19:05"
           ]
@@ -813,7 +646,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "12:50",
             "15:15",
             "19:05"
           ]
@@ -839,7 +671,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "21:30"
           ]
         },
@@ -888,7 +719,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:30"
           ]
         }
@@ -910,8 +740,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:35",
-            "18:45",
             "21:50"
           ]
         },
@@ -928,7 +756,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:50",
             "22:00"
           ]
         },
@@ -937,7 +764,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:15",
             "18:45"
           ]
         },
@@ -967,7 +793,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:00",
             "15:35",
             "18:25"
           ]
@@ -998,7 +823,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
             "19:10",
             "21:55"
           ]
@@ -1008,7 +832,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "19:00",
             "21:45"
           ]
@@ -1018,7 +841,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:20",
             "19:00"
           ]
@@ -1034,14 +856,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "16:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -1053,7 +867,6 @@
           "lang": "VF",
           "format": "Dolby Atmos",
           "times": [
-            "13:45",
             "19:15"
           ]
         },
