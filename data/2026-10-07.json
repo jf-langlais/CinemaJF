@@ -2,8 +2,8 @@
   "date": "2026-10-07",
   "dateLabel": "2026-10-07",
   "displayDate": "2026-10-07",
-  "generatedAt": "2026-10-03T15:42-04:00",
-  "updatedLabel": "15 h 42",
+  "generatedAt": "2026-10-03T22:39-04:00",
+  "updatedLabel": "22 h 39",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -207,9 +207,9 @@
       ]
     },
     {
-      "title": "Coyote contre ACME",
+      "title": "Coyote vs. Acme",
       "original": "Coyote vs. Acme",
-      "translation": "Coyote contre ACME",
+      "translation": "",
       "runtime": "1 h 43",
       "genre": "",
       "badge": "",
@@ -219,19 +219,19 @@
       "showings": [
         {
           "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:55",
             "19:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:30"
           ]
         }
       ]
@@ -342,24 +342,6 @@
             "10:20",
             "13:00"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:20",
-            "21:00"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "18:30"
-          ]
         }
       ]
     },
@@ -456,16 +438,6 @@
             "18:50",
             "21:25"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:40",
-            "14:50",
-            "19:10"
-          ]
         }
       ]
     },
@@ -529,24 +501,6 @@
             "15:35",
             "19:10",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:30",
-            "19:30",
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "17:30"
           ]
         }
       ]
@@ -613,14 +567,6 @@
             "13:00",
             "15:40"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "14:30"
-          ]
         }
       ]
     },
@@ -667,15 +613,6 @@
             "15:50",
             "21:30"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "17:00",
-            "21:30"
-          ]
         }
       ]
     },
@@ -685,7 +622,7 @@
       "translation": "",
       "runtime": "1 h 23",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/les-aventuriers-voyageurs-reve-d-afrique.jpg",
       "imdbRating": null,
       "imdbUrl": "",
@@ -762,17 +699,6 @@
             "15:40",
             "19:00",
             "21:35"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "15:00",
-            "17:10",
-            "19:20"
           ]
         }
       ]
@@ -1104,27 +1030,6 @@
       ]
     },
     {
-      "title": "Un renversement",
-      "original": "Un renversement",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/un-renversement.jpg",
-      "imdbRating": null,
-      "imdbUrl": "https://www.imdb.com/title/tt41483656/",
-      "showings": [
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "17:20"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -1235,25 +1140,6 @@
           "times": [
             "13:05",
             "19:00"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:40",
-            "21:20"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:00",
-            "19:00",
-            "21:20"
           ]
         }
       ]
