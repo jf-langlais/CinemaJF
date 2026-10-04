@@ -2,8 +2,8 @@
   "date": "2026-10-04",
   "dateLabel": "2026-10-04",
   "displayDate": "2026-10-04",
-  "generatedAt": "2026-10-04T14:54-04:00",
-  "updatedLabel": "14 h 54",
+  "generatedAt": "2026-10-04T16:20-04:00",
+  "updatedLabel": "16 h 20",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -64,14 +64,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "20:00"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Standard",
@@ -106,7 +98,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         }
@@ -196,7 +187,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:20",
             "18:30"
           ]
         },
@@ -259,7 +249,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "19:30",
             "22:00"
           ]
         },
@@ -316,7 +305,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:45"
           ]
         },
@@ -327,14 +315,6 @@
           "times": [
             "15:30",
             "19:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
@@ -384,7 +364,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:40",
             "16:35",
             "19:25"
           ]
@@ -402,14 +381,6 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:55"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
@@ -468,7 +439,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:50"
           ]
         },
@@ -486,7 +456,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:50"
           ]
         },
@@ -538,14 +507,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt32588798/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -589,7 +550,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:50"
           ]
         }
@@ -619,7 +579,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -628,7 +587,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -637,7 +595,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:15",
             "19:05"
           ]
         },
@@ -646,16 +603,7 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "15:15",
             "19:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:25"
           ]
         },
         {
@@ -746,14 +694,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "22:00"
@@ -823,7 +763,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:10",
             "21:55"
           ]
         },
@@ -832,7 +771,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:45"
           ]
         },
@@ -850,7 +788,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:45"
           ]
         },
@@ -860,14 +797,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:15"
           ]
         },
         {
