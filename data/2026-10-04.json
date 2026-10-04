@@ -2,8 +2,8 @@
   "date": "2026-10-04",
   "dateLabel": "2026-10-04",
   "displayDate": "2026-10-04",
-  "generatedAt": "2026-10-04T01:18-04:00",
-  "updatedLabel": "01 h 18",
+  "generatedAt": "2026-10-04T09:37-04:00",
+  "updatedLabel": "09 h 37",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -60,7 +60,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "11:00",
             "15:45"
           ]
         }
@@ -103,14 +102,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:30"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Standard",
@@ -145,7 +136,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:15",
             "15:45",
             "19:25",
             "21:55"
@@ -171,36 +161,6 @@
           "times": [
             "16:15",
             "19:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:20",
-            "13:35"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Compostelle",
-      "original": "Compostelle",
-      "translation": "",
-      "runtime": "1 h 53",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/compostelle.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt39814688/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:50"
           ]
         }
       ]
@@ -234,14 +194,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:50"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -268,16 +220,7 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:15",
             "18:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:20"
           ]
         }
       ]
@@ -298,7 +241,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "12:30",
             "15:40",
             "18:50",
             "21:55"
@@ -350,14 +292,6 @@
             "18:50",
             "21:45"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:00"
-          ]
         }
       ]
     },
@@ -377,7 +311,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:40",
             "15:20"
           ]
         },
@@ -438,8 +371,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
-            "13:30",
             "15:50",
             "18:30"
           ]
@@ -473,7 +404,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:35",
             "19:20",
             "21:45"
@@ -494,7 +424,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:50",
             "16:45",
             "18:55"
@@ -570,7 +499,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:05",
             "16:30",
             "19:55"
           ]
@@ -612,7 +540,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "15:30",
             "18:10"
           ]
@@ -635,7 +562,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "18:45"
           ]
         }
@@ -695,7 +621,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:45",
             "15:25",
             "19:15",
             "21:50"
@@ -716,9 +641,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
-            "12:55",
-            "13:30",
             "16:15",
             "19:00",
             "21:50"
@@ -750,15 +672,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt29356163/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:30",
-            "13:20"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -785,7 +698,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:55",
             "18:55"
           ]
         },
@@ -833,14 +745,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -867,7 +771,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "13:20",
             "15:40",
             "18:40",
             "21:00"
@@ -936,7 +839,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "15:50",
             "21:30"
           ]
@@ -1008,7 +910,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:35",
             "18:45",
             "21:50"
@@ -1019,7 +920,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:45",
             "18:55"
           ]
         },
@@ -1098,7 +998,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:10",
             "15:55",
             "19:10",
             "21:55"
@@ -1109,7 +1008,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:20",
             "19:00",
             "21:45"
@@ -1147,7 +1045,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "21:40"
           ]
         },
