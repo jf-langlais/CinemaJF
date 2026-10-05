@@ -2,8 +2,8 @@
   "date": "2026-10-05",
   "dateLabel": "2026-10-05",
   "displayDate": "2026-10-05",
-  "generatedAt": "2026-10-04T22:30-04:00",
-  "updatedLabel": "22 h 30",
+  "generatedAt": "2026-10-04T23:32-04:00",
+  "updatedLabel": "23 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -501,6 +501,15 @@
             "15:35",
             "19:10",
             "21:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "19:30"
           ]
         }
       ]
