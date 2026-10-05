@@ -2,8 +2,8 @@
   "date": "2026-10-04",
   "dateLabel": "2026-10-04",
   "displayDate": "2026-10-04",
-  "generatedAt": "2026-10-04T20:40-04:00",
-  "updatedLabel": "20 h 40",
+  "generatedAt": "2026-10-04T21:30-04:00",
+  "updatedLabel": "21 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,6 +45,28 @@
   ],
   "movies": [
     {
+      "title": "À pied d'oeuvre",
+      "original": "À pied d'oeuvre",
+      "translation": "",
+      "runtime": "1 h 32",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/a-pied-d-oeuvre.jpg",
+      "imdbRating": 6.7,
+      "imdbUrl": "https://www.imdb.com/title/tt37660587/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "11:00",
+            "15:45"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Avengers: Endgame",
       "original": "Avengers: Endgame",
       "translation": "",
@@ -55,6 +77,23 @@
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:15",
+            "20:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
@@ -75,6 +114,70 @@
       ]
     },
     {
+      "title": "Beware Boiúna",
+      "original": "Beware Boiúna",
+      "translation": "",
+      "runtime": "1 h 44",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/beware-boiuna.jpg",
+      "imdbRating": 6.4,
+      "imdbUrl": "https://www.imdb.com/title/tt10377864/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:55"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chers parents",
+      "original": "Chers parents",
+      "translation": "",
+      "runtime": "1 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/chers-parents.jpg",
+      "imdbRating": 5.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "13:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Compostelle",
+      "original": "Compostelle",
+      "translation": "",
+      "runtime": "1 h 53",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/compostelle.jpg",
+      "imdbRating": 6.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39814688/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:50"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Coyote contre ACME",
       "original": "Coyote vs. Acme",
       "translation": "Coyote contre ACME",
@@ -86,12 +189,50 @@
       "imdbUrl": "https://www.imdb.com/title/tt1756855/",
       "showings": [
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:50"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "10:30",
             "16:25"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "De Gaulle",
+      "original": "De Gaulle",
+      "translation": "",
+      "runtime": "1 h 48",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/de-gaulle.jpg",
+      "imdbRating": 6.1,
+      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "18:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Dolby Atmos",
+          "times": [
+            "10:20"
           ]
         }
       ]
@@ -108,19 +249,37 @@
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
         {
-          "cinema": "cineplex-imax",
+          "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "IMAX",
+          "format": "UltraAVX",
           "times": [
-            "18:50"
+            "21:55"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:55",
+            "18:50",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00"
           ]
         }
       ]
     },
     {
-      "title": "L'île de l'oubli",
+      "title": "Forgotten Island",
       "original": "Forgotten Island",
-      "translation": "L'île de l'oubli",
+      "translation": "",
       "runtime": "1 h 49",
       "genre": "",
       "badge": "",
@@ -128,6 +287,41 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "21:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:30",
+            "15:50",
+            "18:30"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -153,11 +347,30 @@
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
+          "cinema": "cineplex-sainte-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:30"
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:50",
+            "16:45",
+            "18:55"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:35"
           ]
         },
         {
@@ -206,6 +419,51 @@
       ]
     },
     {
+      "title": "La bataille de Gaulle: Résistance",
+      "original": "La bataille de Gaulle: Résistance",
+      "translation": "",
+      "runtime": "2 h 40",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "15:30",
+            "18:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La meilleure façon, c'est par accident",
+      "original": "La meilleure façon, c'est par accident",
+      "translation": "",
+      "runtime": "1 h 51",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "18:45"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Les aventuriers voyageurs: Rêve d'Afrique",
       "original": "Les aventuriers voyageurs: Rêve d'Afrique",
       "translation": "",
@@ -216,6 +474,14 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:15"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -238,6 +504,27 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "12:55",
+            "13:30",
+            "16:15",
+            "19:00",
+            "21:50"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -264,12 +551,60 @@
       "imdbUrl": "https://www.imdb.com/title/tt29356163/",
       "showings": [
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:20"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "10:35",
             "13:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "En direct",
+      "original": "Primetime",
+      "translation": "En direct",
+      "runtime": "1 h 47",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/primetime.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt34206385/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:05",
+            "19:05",
+            "21:50"
           ]
         }
       ]
@@ -285,6 +620,56 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "ScreenX",
+          "times": [
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "21:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "D-BOX",
+          "times": [
+            "21:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "15:50",
+            "21:30"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
@@ -315,6 +700,78 @@
       ]
     },
     {
+      "title": "Sacrifice",
+      "original": "Sacrifice",
+      "translation": "",
+      "runtime": "1 h 43",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/sacrifice.jpg",
+      "imdbRating": 5.1,
+      "imdbUrl": "https://www.imdb.com/title/tt32268992/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:10",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man : Un jour nouveau",
+      "original": "Spider-Man: Brand New Day",
+      "translation": "Spider-Man : Un jour nouveau",
+      "runtime": "2 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/spider-man-brand-new-day.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "original": "The Odyssey",
+      "translation": "",
+      "runtime": "2 h 52",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/the-odyssey.jpg",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:00"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -325,6 +782,57 @@
       "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "18:55",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "16:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "13:45",
+            "19:15"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
