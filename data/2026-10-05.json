@@ -2,8 +2,8 @@
   "date": "2026-10-05",
   "dateLabel": "2026-10-05",
   "displayDate": "2026-10-05",
-  "generatedAt": "2026-10-04T23:32-04:00",
-  "updatedLabel": "23 h 32",
+  "generatedAt": "2026-10-05T00:34-04:00",
+  "updatedLabel": "00 h 34",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -138,7 +138,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/beware-boiuna.jpg",
-      "imdbRating": 6.4,
+      "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt10377864/",
       "showings": [
         {
@@ -353,7 +353,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/forgotten-island.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
@@ -544,7 +544,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-bataille-de-gaulle-liberte.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 7.9,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
         {
@@ -652,7 +652,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/pauline-julien-femme-pays.jpg",
-      "imdbRating": 7.8,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
