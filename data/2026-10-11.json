@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-05T00:34-04:00",
-  "updatedLabel": "00 h 34",
+  "generatedAt": "2026-10-05T01:33-04:00",
+  "updatedLabel": "01 h 33",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -90,6 +90,68 @@
           "format": "Standard",
           "times": [
             "16:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Autre Maman",
+      "original": "Other Mommy",
+      "translation": "Autre Maman",
+      "runtime": "1 h 33",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/other-mommy.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt36586020/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "16:00",
+            "21:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le jugement social",
+      "original": "The Social Reckoning",
+      "translation": "Le jugement social",
+      "runtime": "1 h 52",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/the-social-reckoning.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:50",
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "13:20",
+            "18:20"
           ]
         }
       ]
