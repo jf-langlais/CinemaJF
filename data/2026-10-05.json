@@ -2,8 +2,8 @@
   "date": "2026-10-05",
   "dateLabel": "2026-10-05",
   "displayDate": "2026-10-05",
-  "generatedAt": "2026-10-05T09:36-04:00",
-  "updatedLabel": "09 h 36",
+  "generatedAt": "2026-10-05T10:35-04:00",
+  "updatedLabel": "10 h 35",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -319,7 +319,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "14:00",
             "16:45"
           ]
         },
@@ -415,7 +414,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:50",
             "16:25",
             "18:55"
           ]
@@ -751,7 +749,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:45",
             "16:15",
             "19:05",
             "21:25"
@@ -762,7 +759,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "13:45",
             "16:15",
             "19:05",
             "21:25"
@@ -1015,7 +1011,6 @@
           "lang": "VF",
           "format": "Dolby Atmos",
           "times": [
-            "13:45",
             "19:15"
           ]
         },
