@@ -2,8 +2,8 @@
   "date": "2026-10-04",
   "dateLabel": "2026-10-04",
   "displayDate": "2026-10-04",
-  "generatedAt": "2026-10-04T19:27-04:00",
-  "updatedLabel": "19 h 27",
+  "generatedAt": "2026-10-04T20:40-04:00",
+  "updatedLabel": "20 h 40",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,9 +45,9 @@
   ],
   "movies": [
     {
-      "title": "Avengers: Phase Finale",
+      "title": "Avengers: Endgame",
       "original": "Avengers: Endgame",
-      "translation": "Avengers: Phase Finale",
+      "translation": "",
       "runtime": "3 h 01",
       "genre": "",
       "badge": "",
@@ -55,14 +55,6 @@
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:15"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
@@ -83,27 +75,6 @@
       ]
     },
     {
-      "title": "Chers parents",
-      "original": "Chers parents",
-      "translation": "",
-      "runtime": "1 h 26",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/chers-parents.jpg",
-      "imdbRating": 5.6,
-      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:15"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Coyote contre ACME",
       "original": "Coyote vs. Acme",
       "translation": "Coyote contre ACME",
@@ -114,14 +85,6 @@
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt1756855/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:20"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -145,22 +108,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "18:50"
-          ]
-        },
-        {
           "cinema": "cineplex-imax",
           "lang": "VF",
           "format": "IMAX",
@@ -181,14 +128,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:35"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -245,27 +184,6 @@
       ]
     },
     {
-      "title": "Insidieux: Hors du plus loin",
-      "original": "Insidious: Out of the Further",
-      "translation": "Insidieux: Hors du plus loin",
-      "runtime": "1 h 46",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/insidious-out-of-the-further.jpg",
-      "imdbRating": 6.2,
-      "imdbUrl": "https://www.imdb.com/title/tt32393988/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:25"
-          ]
-        }
-      ]
-    },
-    {
       "title": "La bataille de Gaulle: Liberté",
       "original": "La bataille de Gaulle: Liberté",
       "translation": "",
@@ -276,14 +194,6 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:20"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -329,14 +239,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:10"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -373,48 +275,6 @@
       ]
     },
     {
-      "title": "Amour et magie 2",
-      "original": "Practical Magic 2",
-      "translation": "Amour et magie 2",
-      "runtime": "1 h 50",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/practical-magic-2.jpg",
-      "imdbRating": 6.3,
-      "imdbUrl": "https://www.imdb.com/title/tt32588798/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "En direct",
-      "original": "Primetime",
-      "translation": "En direct",
-      "runtime": "1 h 47",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/primetime.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt34206385/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:40"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Resident Evil",
       "original": "Resident Evil",
       "translation": "",
@@ -425,22 +285,6 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "19:05"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
@@ -471,48 +315,6 @@
       ]
     },
     {
-      "title": "Spider-Man : Un jour nouveau",
-      "original": "Spider-Man: Brand New Day",
-      "translation": "Spider-Man : Un jour nouveau",
-      "runtime": "2 h 30",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/spider-man-brand-new-day.jpg",
-      "imdbRating": 8.0,
-      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "L'Odyssée",
-      "original": "The Odyssey",
-      "translation": "L'Odyssée",
-      "runtime": "2 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-odyssey.jpg",
-      "imdbRating": 8.4,
-      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:25"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -523,14 +325,6 @@
       "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
