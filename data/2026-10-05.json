@@ -2,8 +2,8 @@
   "date": "2026-10-05",
   "dateLabel": "2026-10-05",
   "displayDate": "2026-10-05",
-  "generatedAt": "2026-10-05T11:34-04:00",
-  "updatedLabel": "11 h 34",
+  "generatedAt": "2026-10-05T12:32-04:00",
+  "updatedLabel": "12 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,27 +45,6 @@
   ],
   "movies": [
     {
-      "title": "À pied d'oeuvre",
-      "original": "À pied d'oeuvre",
-      "translation": "",
-      "runtime": "1 h 32",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/a-pied-d-oeuvre.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37660587/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Avengers: Phase Finale",
       "original": "Avengers: Endgame",
       "translation": "Avengers: Phase Finale",
@@ -97,7 +76,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "20:00"
           ]
         },
@@ -136,7 +114,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:45",
             "19:25",
             "21:55"
           ]
@@ -233,7 +210,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "15:40",
             "18:50",
             "21:55"
           ]
@@ -279,7 +255,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
             "18:50",
             "21:45"
           ]
@@ -353,7 +328,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:30"
           ]
         },
@@ -386,7 +360,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:35",
             "19:20",
             "21:45"
           ]
@@ -406,7 +379,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:25",
             "18:55"
           ]
         },
@@ -478,7 +450,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -519,7 +490,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:45"
           ]
         }
@@ -581,7 +551,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:00",
             "21:50"
           ]
@@ -646,7 +615,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "21:50"
           ]
         },
@@ -709,7 +677,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "15:40",
             "18:40",
             "21:00"
           ]
@@ -719,7 +686,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:05",
             "21:25"
           ]
@@ -729,7 +695,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:15",
             "19:05",
             "21:25"
           ]
@@ -775,7 +740,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:30",
             "21:30"
           ]
         },
@@ -817,7 +781,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:30"
           ]
         }
@@ -839,7 +802,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:35",
             "18:45",
             "21:50"
           ]
@@ -857,7 +819,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:50",
             "22:00"
           ]
         },
@@ -926,7 +887,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
             "19:10",
             "21:55"
           ]
@@ -936,7 +896,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "19:00",
             "21:45"
           ]
@@ -958,14 +917,6 @@
           "times": [
             "18:55",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "16:30"
           ]
         },
         {
