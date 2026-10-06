@@ -2,8 +2,8 @@
   "date": "2026-10-12",
   "dateLabel": "2026-10-12",
   "displayDate": "2026-10-12",
-  "generatedAt": "2026-10-06T18:29-04:00",
-  "updatedLabel": "18 h 29",
+  "generatedAt": "2026-10-06T19:28-04:00",
+  "updatedLabel": "19 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,6 +44,27 @@
     }
   ],
   "movies": [
+    {
+      "title": "Digger",
+      "original": "Digger",
+      "translation": "",
+      "runtime": "2 h 08",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/digger.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt31450459/",
+      "showings": [
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "15:30"
+          ]
+        }
+      ]
+    },
     {
       "title": "Autre Maman",
       "original": "Other Mommy",
@@ -88,6 +109,27 @@
           "times": [
             "16:00",
             "19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "original": "The Odyssey",
+      "translation": "",
+      "runtime": "2 h 52",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/the-odyssey.jpg",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
+      "showings": [
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "18:30"
           ]
         }
       ]
