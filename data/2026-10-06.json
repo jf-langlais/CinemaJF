@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "dateLabel": "2026-10-06",
   "displayDate": "2026-10-06",
-  "generatedAt": "2026-10-06T16:32-04:00",
-  "updatedLabel": "16 h 32",
+  "generatedAt": "2026-10-06T17:29-04:00",
+  "updatedLabel": "17 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -232,9 +232,9 @@
       ]
     },
     {
-      "title": "Forgotten Island",
+      "title": "L'île de l'oubli",
       "original": "Forgotten Island",
-      "translation": "",
+      "translation": "L'île de l'oubli",
       "runtime": "1 h 49",
       "genre": "",
       "badge": "",
@@ -242,14 +242,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "3D",
-          "times": [
-            "21:10"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -615,30 +607,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -780,14 +748,6 @@
           "times": [
             "16:40",
             "20:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:00"
           ]
         }
       ]
