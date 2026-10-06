@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "dateLabel": "2026-10-06",
   "displayDate": "2026-10-06",
-  "generatedAt": "2026-10-06T14:33-04:00",
-  "updatedLabel": "14 h 33",
+  "generatedAt": "2026-10-06T15:29-04:00",
+  "updatedLabel": "15 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -114,7 +114,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         }
@@ -191,7 +190,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:50",
             "21:55"
           ]
         },
@@ -236,7 +234,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:45"
           ]
         },
@@ -276,7 +273,6 @@
           "lang": "VOA",
           "format": "3D",
           "times": [
-            "18:35",
             "21:10"
           ]
         },
@@ -353,7 +349,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:45"
           ]
         },
@@ -365,14 +360,6 @@
             "15:30",
             "18:40",
             "21:10"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
@@ -498,14 +485,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -553,7 +532,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:50"
           ]
         },
@@ -573,7 +551,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:50"
           ]
         },
@@ -612,14 +589,6 @@
       "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt32588798/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -667,7 +636,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:50"
           ]
         }
@@ -689,7 +657,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "18:40",
             "21:00"
           ]
         },
@@ -698,7 +665,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -707,7 +673,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -731,14 +696,6 @@
             "16:10",
             "19:05",
             "21:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:25"
           ]
         },
         {
@@ -815,16 +772,7 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
@@ -921,7 +869,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:10",
             "21:55"
           ]
         },
@@ -930,7 +877,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:45"
           ]
         },
@@ -949,7 +895,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:45"
           ]
         },
@@ -959,14 +904,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:15"
           ]
         },
         {
