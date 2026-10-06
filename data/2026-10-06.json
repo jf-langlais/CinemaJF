@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "dateLabel": "2026-10-06",
   "displayDate": "2026-10-06",
-  "generatedAt": "2026-10-06T13:29-04:00",
-  "updatedLabel": "13 h 29",
+  "generatedAt": "2026-10-06T14:33-04:00",
+  "updatedLabel": "14 h 33",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -176,27 +176,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Digger",
       "original": "Digger",
       "translation": "",
@@ -221,7 +200,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:40",
             "18:30",
             "21:20"
@@ -232,7 +210,6 @@
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "13:10",
             "16:00",
             "18:50",
             "21:40"
@@ -317,7 +294,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:05",
             "15:50"
           ]
         },
@@ -336,14 +312,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:30"
           ]
         },
         {
@@ -394,7 +362,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:00",
             "15:30",
             "18:40",
             "21:10"
@@ -495,7 +462,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:55",
             "15:55",
             "18:20",
             "21:25"
@@ -516,27 +482,6 @@
           "format": "Standard",
           "times": [
             "14:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.7,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:10"
           ]
         }
       ]
@@ -680,7 +625,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:05",
             "18:55",
             "21:45"
@@ -896,7 +840,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:45",
             "18:45"
           ]
         },
@@ -927,7 +870,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:10",
             "16:40",
             "20:30"
           ]
@@ -997,7 +939,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:05",
             "19:00",
             "21:35"
