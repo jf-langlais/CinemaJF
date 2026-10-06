@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "dateLabel": "2026-10-06",
   "displayDate": "2026-10-06",
-  "generatedAt": "2026-10-06T15:29-04:00",
-  "updatedLabel": "15 h 29",
+  "generatedAt": "2026-10-06T16:32-04:00",
+  "updatedLabel": "16 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -58,25 +58,9 @@
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "19:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "20:00"
           ]
         },
         {
@@ -135,7 +119,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:25",
             "16:15",
             "19:15",
             "21:35"
@@ -159,7 +142,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:55",
             "19:20"
           ]
         },
@@ -211,14 +193,6 @@
             "16:00",
             "18:50",
             "21:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VOA",
-          "format": "IMAX",
-          "times": [
-            "15:10"
           ]
         },
         {
@@ -281,7 +255,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "19:30",
             "22:00"
           ]
         },
@@ -417,7 +390,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:40",
             "16:35",
             "19:25",
             "21:50"
@@ -436,14 +408,6 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:55"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
@@ -540,7 +504,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:35",
             "16:25",
             "19:10",
             "21:40"
@@ -625,7 +588,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:30",
             "16:20",
             "19:00",
             "21:30"
@@ -681,7 +643,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:45",
             "16:10",
             "19:05",
             "21:15"
@@ -692,7 +653,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "13:45",
             "16:10",
             "19:05",
             "21:15"

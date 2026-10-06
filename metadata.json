@@ -101,6 +101,13 @@
     "ratingChecked": "2026-10-06",
     "ratingSource": "official-dataset-v1"
   },
+  "faites du bruit pour jesus": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-10-06",
+    "posterSource": "missing"
+  },
   "forgotten island": {
     "imdbRating": 7.8,
     "imdbUrl": "https://www.imdb.com/title/tt36583977/",
