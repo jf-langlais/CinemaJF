@@ -2,8 +2,8 @@
   "date": "2026-10-07",
   "dateLabel": "2026-10-07",
   "displayDate": "2026-10-07",
-  "generatedAt": "2026-10-05T23:30-04:00",
-  "updatedLabel": "23 h 30",
+  "generatedAt": "2026-10-06T00:31-04:00",
+  "updatedLabel": "00 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -377,19 +377,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "19:30",
-            "22:00"
+            "14:00",
+            "16:45"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "14:00",
-            "16:45"
+            "19:30",
+            "22:00"
           ]
         },
         {
@@ -536,7 +536,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-bataille-de-gaulle-liberte.jpg",
-      "imdbRating": 7.9,
+      "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
         {
@@ -601,7 +601,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
@@ -653,7 +653,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/pauline-julien-femme-pays.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
@@ -1037,7 +1037,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/verity.jpg",
-      "imdbRating": 6.1,
+      "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
