@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "dateLabel": "2026-10-06",
   "displayDate": "2026-10-06",
-  "generatedAt": "2026-10-06T06:31-04:00",
-  "updatedLabel": "06 h 31",
+  "generatedAt": "2026-10-06T07:30-04:00",
+  "updatedLabel": "07 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -60,7 +60,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "11:00",
             "13:15",
             "15:45"
           ]
@@ -182,27 +181,6 @@
           "format": "Standard",
           "times": [
             "13:35"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Compostelle",
-      "original": "Compostelle",
-      "translation": "",
-      "runtime": "1 h 53",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/compostelle.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt39814688/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:50"
           ]
         }
       ]
@@ -338,6 +316,24 @@
           "times": [
             "13:00"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:20",
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "18:30"
+          ]
         }
       ]
     },
@@ -434,6 +430,16 @@
             "18:50",
             "21:25"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "14:50",
+            "19:10"
+          ]
         }
       ]
     },
@@ -508,6 +514,14 @@
             "19:30",
             "21:30"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "17:30"
+          ]
         }
       ]
     },
@@ -575,6 +589,14 @@
             "13:00",
             "15:40"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:30"
+          ]
         }
       ]
     },
@@ -616,9 +638,17 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "15:50",
             "18:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00",
+            "21:30"
           ]
         }
       ]
@@ -682,7 +712,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "12:55",
             "13:30",
             "16:15",
@@ -699,6 +728,17 @@
             "15:40",
             "19:00",
             "21:35"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20"
           ]
         }
       ]
@@ -772,7 +812,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:20"
           ]
         },
@@ -1015,6 +1054,27 @@
       ]
     },
     {
+      "title": "Un renversement",
+      "original": "Un renversement",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/un-renversement.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt41483656/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:20"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -1126,6 +1186,25 @@
           "times": [
             "13:05",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:00",
+            "19:00",
+            "21:20"
           ]
         }
       ]

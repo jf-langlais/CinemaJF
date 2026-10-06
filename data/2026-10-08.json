@@ -2,8 +2,8 @@
   "date": "2026-10-08",
   "dateLabel": "2026-10-08",
   "displayDate": "2026-10-08",
-  "generatedAt": "2026-10-06T06:31-04:00",
-  "updatedLabel": "06 h 31",
+  "generatedAt": "2026-10-06T07:30-04:00",
+  "updatedLabel": "07 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -320,6 +320,24 @@
             "10:20",
             "13:00"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:20",
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "18:30"
+          ]
         }
       ]
     },
@@ -414,6 +432,16 @@
             "15:30",
             "18:50"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "14:50",
+            "19:10"
+          ]
         }
       ]
     },
@@ -477,6 +505,24 @@
             "15:35",
             "19:10",
             "21:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "19:30",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "17:30"
           ]
         }
       ]
@@ -543,6 +589,14 @@
             "13:00",
             "15:40"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:30"
+          ]
         }
       ]
     },
@@ -587,6 +641,15 @@
             "10:40",
             "15:50",
             "18:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00",
+            "21:30"
           ]
         }
       ]
@@ -727,6 +790,17 @@
             "15:40",
             "19:00",
             "21:35"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20"
           ]
         }
       ]
@@ -1052,6 +1126,27 @@
       ]
     },
     {
+      "title": "Un renversement",
+      "original": "Un renversement",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/un-renversement.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt41483656/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:20"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -1162,6 +1257,25 @@
           "times": [
             "13:05",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:00",
+            "19:00",
+            "21:20"
           ]
         }
       ]
