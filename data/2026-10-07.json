@@ -2,8 +2,8 @@
   "date": "2026-10-07",
   "dateLabel": "2026-10-07",
   "displayDate": "2026-10-07",
-  "generatedAt": "2026-10-07T17:31-04:00",
-  "updatedLabel": "17 h 31",
+  "generatedAt": "2026-10-07T18:28-04:00",
+  "updatedLabel": "18 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -91,27 +91,6 @@
       ]
     },
     {
-      "title": "Beware Boiúna",
-      "original": "Beware Boiúna",
-      "translation": "",
-      "runtime": "1 h 44",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/beware-boiuna.jpg",
-      "imdbRating": 6.2,
-      "imdbUrl": "https://www.imdb.com/title/tt10377864/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Chers parents",
       "original": "Chers parents",
       "translation": "",
@@ -176,14 +155,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
@@ -209,14 +180,6 @@
           "format": "IMAX",
           "times": [
             "18:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
           ]
         },
         {
@@ -251,14 +214,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -273,14 +228,6 @@
           "format": "3D",
           "times": [
             "18:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:40"
           ]
         },
         {
@@ -318,14 +265,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -333,14 +272,6 @@
             "13:00",
             "15:30",
             "18:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
           ]
         },
         {
@@ -492,14 +423,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
@@ -507,14 +430,6 @@
             "13:35",
             "16:25",
             "19:10"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:50"
           ]
         },
         {
@@ -576,14 +491,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -591,14 +498,6 @@
             "13:30",
             "16:20",
             "19:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:50"
           ]
         }
       ]
@@ -635,22 +534,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Standard",
@@ -683,22 +566,6 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "22:00"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -767,27 +634,11 @@
       "translation": "",
       "runtime": "1 h 54",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/verity.jpg",
       "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -796,22 +647,6 @@
             "13:20",
             "16:05",
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
           ]
         },
         {
