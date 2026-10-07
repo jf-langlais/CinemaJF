@@ -128,9 +128,9 @@
     "imdbRating": null,
     "imdbUrl": "https://www.imdb.com/title/tt40202639/",
     "imdbVotes": null,
-    "poster": "",
+    "poster": "posters/hantee.jpg",
     "posterChecked": "2026-10-07",
-    "posterSource": "missing",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-10-07",
     "ratingSource": "official-dataset-v1"
   },

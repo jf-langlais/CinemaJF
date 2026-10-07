@@ -2,8 +2,8 @@
   "date": "2026-10-10",
   "dateLabel": "2026-10-10",
   "displayDate": "2026-10-10",
-  "generatedAt": "2026-10-07T09:34-04:00",
-  "updatedLabel": "09 h 34",
+  "generatedAt": "2026-10-07T10:33-04:00",
+  "updatedLabel": "10 h 33",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -150,7 +150,7 @@
       "runtime": "",
       "genre": "",
       "badge": "",
-      "poster": "",
+      "poster": "posters/hantee.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
