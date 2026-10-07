@@ -2,8 +2,8 @@
   "date": "2026-10-10",
   "dateLabel": "2026-10-10",
   "displayDate": "2026-10-10",
-  "generatedAt": "2026-10-07T15:30-04:00",
-  "updatedLabel": "15 h 30",
+  "generatedAt": "2026-10-07T16:31-04:00",
+  "updatedLabel": "16 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -166,6 +166,17 @@
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:55",
+            "18:50",
+            "21:45"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
@@ -223,6 +234,25 @@
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:40",
+            "14:15",
+            "19:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "16:50",
+            "22:00"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -274,6 +304,18 @@
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "11:30",
+            "14:00",
+            "16:15",
+            "18:55",
+            "21:30"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
@@ -321,6 +363,17 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:10",
+            "19:20",
+            "21:50"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -393,6 +446,16 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:05",
+            "16:30",
+            "19:55"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
@@ -490,6 +553,17 @@
           ]
         },
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:00",
+            "16:25",
+            "19:25",
+            "21:45"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -582,6 +656,17 @@
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "15:25",
+            "19:15",
+            "21:50"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
@@ -618,9 +703,9 @@
       ]
     },
     {
-      "title": "La Pat' Patrouille: Le film - Mission Dino",
+      "title": "PAW Patrol: The Dino Movie",
       "original": "PAW Patrol: The Dino Movie",
-      "translation": "La Pat' Patrouille: Le film - Mission Dino",
+      "translation": "",
       "runtime": "",
       "genre": "",
       "badge": "",
@@ -628,6 +713,14 @@
       "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt29356163/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "11:30"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -694,6 +787,29 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "ScreenX",
+          "times": [
+            "13:15",
+            "15:45",
+            "18:35",
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:00",
+            "14:20",
+            "16:40",
+            "19:05",
+            "21:25"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -790,6 +906,17 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:35",
+            "18:45",
+            "21:55"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -934,11 +1061,44 @@
       "translation": "",
       "runtime": "1 h 54",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/verity.jpg",
       "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:05",
+            "19:10",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:20",
+            "19:00",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "D-BOX",
+          "times": [
+            "13:25",
+            "16:20",
+            "19:00",
+            "21:40"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
