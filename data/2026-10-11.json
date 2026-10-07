@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-06T19:28-04:00",
-  "updatedLabel": "19 h 28",
+  "generatedAt": "2026-10-06T20:41-04:00",
+  "updatedLabel": "20 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -83,6 +83,81 @@
           "times": [
             "12:00"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hantée",
+      "original": "Hantée",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt40202639/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:00",
+            "17:00",
+            "19:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La bataille de Gaulle: Liberté",
+      "original": "La bataille de Gaulle: Liberté",
+      "translation": "",
+      "runtime": "2 h 37",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-bataille-de-gaulle-liberte.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt35856133/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La meilleure façon, c'est par accident",
+      "original": "La meilleure façon, c'est par accident",
+      "translation": "",
+      "runtime": "1 h 51",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
+      "imdbRating": 7.1,
+      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00"
+          ]
         }
       ]
     },
@@ -131,8 +206,7 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:30",
-            "18:40"
+            "13:30"
           ]
         },
         {
@@ -141,6 +215,7 @@
           "format": "UltraAVX",
           "times": [
             "16:00",
+            "18:40",
             "21:10"
           ]
         },
@@ -159,6 +234,30 @@
           "times": [
             "16:00",
             "19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pauline Julien: Femme pays",
+      "original": "Pauline Julien: Femme pays",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/pauline-julien-femme-pays.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39387187/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20"
           ]
         }
       ]
@@ -209,7 +308,8 @@
           "format": "Standard",
           "times": [
             "15:50",
-            "21:00"
+            "18:30",
+            "21:05"
           ]
         },
         {
@@ -217,8 +317,7 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "13:20",
-            "18:20"
+            "13:20"
           ]
         },
         {
@@ -236,6 +335,36 @@
           "format": "UltraAVX",
           "times": [
             "13:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verity",
+      "original": "Verity",
+      "translation": "",
+      "runtime": "1 h 54",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/verity.jpg",
+      "imdbRating": 6.0,
+      "imdbUrl": "https://www.imdb.com/title/tt32261958/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "19:00"
           ]
         }
       ]
