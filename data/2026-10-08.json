@@ -2,8 +2,8 @@
   "date": "2026-10-08",
   "dateLabel": "2026-10-08",
   "displayDate": "2026-10-08",
-  "generatedAt": "2026-10-06T23:31-04:00",
-  "updatedLabel": "23 h 31",
+  "generatedAt": "2026-10-07T00:32-04:00",
+  "updatedLabel": "00 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -138,7 +138,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/beware-boiuna.jpg",
-      "imdbRating": 6.3,
+      "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt10377864/",
       "showings": [
         {
@@ -963,7 +963,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/run-terry-run.jpg",
-      "imdbRating": 8.7,
+      "imdbRating": 8.6,
       "imdbUrl": "https://www.imdb.com/title/tt39130015/",
       "showings": [
         {
