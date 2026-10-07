@@ -2,8 +2,8 @@
   "date": "2026-10-07",
   "dateLabel": "2026-10-07",
   "displayDate": "2026-10-07",
-  "generatedAt": "2026-10-07T06:32-04:00",
-  "updatedLabel": "06 h 32",
+  "generatedAt": "2026-10-07T07:30-04:00",
+  "updatedLabel": "07 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -179,27 +179,6 @@
           "format": "Standard",
           "times": [
             "13:35"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Compostelle",
-      "original": "Compostelle",
-      "translation": "",
-      "runtime": "1 h 53",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/compostelle.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt39814688/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:50"
           ]
         }
       ]
@@ -429,7 +408,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:00",
             "13:30",
             "16:00",
             "18:30"
@@ -650,7 +628,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "15:50",
             "21:30"
           ]
@@ -732,7 +709,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:10",
             "13:30",
             "16:15",
@@ -831,7 +807,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:20"
           ]
         },
