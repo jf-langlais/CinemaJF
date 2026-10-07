@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-07T12:34-04:00",
-  "updatedLabel": "12 h 34",
+  "generatedAt": "2026-10-07T13:32-04:00",
+  "updatedLabel": "13 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,6 +45,28 @@
   ],
   "movies": [
     {
+      "title": "À pied d'oeuvre",
+      "original": "À pied d'oeuvre",
+      "translation": "",
+      "runtime": "1 h 32",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/a-pied-d-oeuvre.jpg",
+      "imdbRating": 6.7,
+      "imdbUrl": "https://www.imdb.com/title/tt37660587/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "15:40"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Avengers: Phase Finale",
       "original": "Avengers: Endgame",
       "translation": "Avengers: Phase Finale",
@@ -69,6 +91,66 @@
           "format": "3D",
           "times": [
             "19:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chers parents",
+      "original": "Chers parents",
+      "translation": "",
+      "runtime": "1 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/chers-parents.jpg",
+      "imdbRating": 5.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "De Gaulle",
+      "original": "De Gaulle",
+      "translation": "",
+      "runtime": "1 h 48",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/de-gaulle.jpg",
+      "imdbRating": 6.1,
+      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "18:15"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Dolby Atmos",
+          "times": [
+            "10:30"
           ]
         }
       ]
@@ -130,6 +212,24 @@
           "times": [
             "13:00"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "18:45",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:30"
+          ]
         }
       ]
     },
@@ -161,6 +261,26 @@
             "15:35",
             "21:00"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "13:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:30",
+            "15:50",
+            "18:30"
+          ]
         }
       ]
     },
@@ -185,6 +305,30 @@
             "18:55",
             "21:30"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:25",
+            "16:00",
+            "18:30",
+            "21:15"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:20",
+            "16:00",
+            "18:45",
+            "21:10"
+          ]
         }
       ]
     },
@@ -208,6 +352,30 @@
             "15:25",
             "18:40",
             "21:05"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:45",
+            "15:50",
+            "18:40",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:10",
+            "13:50",
+            "16:25",
+            "18:55",
+            "21:15"
           ]
         }
       ]
@@ -255,6 +423,59 @@
             "12:50",
             "15:40",
             "18:25",
+            "21:25"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:25"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La bataille de Gaulle: Résistance",
+      "original": "La bataille de Gaulle: Résistance",
+      "translation": "",
+      "runtime": "2 h 40",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "12:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La meilleure façon, c'est par accident",
+      "original": "La meilleure façon, c'est par accident",
+      "translation": "",
+      "runtime": "1 h 51",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
+      "imdbRating": 7.1,
+      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "18:55",
             "21:25"
           ]
         }
@@ -335,6 +556,66 @@
             "19:15",
             "21:30"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "19:20"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "16:45",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:55",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "16:35",
+            "19:15"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "18:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "21:40"
+          ]
         }
       ]
     },
@@ -358,6 +639,74 @@
             "16:30",
             "19:10",
             "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:10",
+            "13:40",
+            "16:20",
+            "18:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:30",
+            "16:10",
+            "19:05"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La Pat' Patrouille: Le film - Mission Dino",
+      "original": "PAW Patrol: The Dino Movie",
+      "translation": "La Pat' Patrouille: Le film - Mission Dino",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/paw-patrol-the-dino-movie.jpg",
+      "imdbRating": 6.1,
+      "imdbUrl": "https://www.imdb.com/title/tt29356163/",
+      "showings": [
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Primetime",
+      "original": "Primetime",
+      "translation": "",
+      "runtime": "1 h 47",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/primetime.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt34206385/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:15",
+            "18:50",
+            "21:35"
           ]
         }
       ]
@@ -393,6 +742,43 @@
             "16:20",
             "19:05",
             "21:15"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:30",
+            "21:55"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:15",
+            "16:10"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:00",
+            "16:50",
+            "19:25",
+            "21:55"
           ]
         }
       ]
@@ -548,6 +934,25 @@
             "18:35",
             "21:10"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:30",
+            "18:55"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:10",
+            "21:35"
+          ]
         }
       ]
     },
@@ -571,6 +976,58 @@
             "16:15",
             "18:50",
             "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:40",
+            "19:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "13:55"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:10",
+            "19:00",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "10:50",
+            "13:40"
           ]
         }
       ]

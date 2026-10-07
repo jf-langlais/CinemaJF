@@ -259,11 +259,11 @@
   "paw patrol the dino movie": {
     "imdbRating": 6.1,
     "imdbUrl": "https://www.imdb.com/title/tt29356163/",
-    "imdbVotes": 2688,
+    "imdbVotes": 2722,
     "poster": "posters/paw-patrol-the-dino-movie.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-04",
+    "ratingChecked": "2026-10-07",
     "ratingSource": "official-dataset-v1"
   },
   "practical magic 2": {
@@ -377,6 +377,17 @@
     "ratingChecked": "2026-10-07",
     "ratingSource": "official-dataset-v1"
   },
+  "street fighter": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt27419420/",
+    "imdbVotes": null,
+    "poster": "posters/street-fighter.jpg",
+    "posterChecked": "2026-10-07",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-07",
+    "ratingSource": "official-dataset-v1"
+  },
   "the odyssey": {
     "imdbRating": 8.4,
     "imdbUrl": "https://www.imdb.com/title/tt33764258/",
@@ -455,6 +466,17 @@
     "imdbVotes": 8812,
     "poster": "posters/verity.jpg",
     "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-07",
+    "ratingSource": "official-dataset-v1"
+  },
+  "whalefall": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt28535715/",
+    "imdbVotes": null,
+    "poster": "posters/whalefall.jpg",
+    "posterChecked": "2026-10-07",
     "posterSource": "local-cache",
     "ratingChecked": "2026-10-07",
     "ratingSource": "official-dataset-v1"
