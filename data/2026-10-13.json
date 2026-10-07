@@ -2,8 +2,8 @@
   "date": "2026-10-13",
   "dateLabel": "2026-10-13",
   "displayDate": "2026-10-13",
-  "generatedAt": "2026-10-07T04:34-04:00",
-  "updatedLabel": "04 h 34",
+  "generatedAt": "2026-10-07T05:32-04:00",
+  "updatedLabel": "05 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -43,5 +43,56 @@
       "source": "https://www.cinemacartier.com/"
     }
   ],
-  "movies": []
+  "movies": [
+    {
+      "title": "Digger",
+      "original": "Digger",
+      "translation": "",
+      "runtime": "2 h 08",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/digger.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt31450459/",
+      "showings": [
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "12:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'Odyssée",
+      "original": "The Odyssey",
+      "translation": "L'Odyssée",
+      "runtime": "2 h 52",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/the-odyssey.jpg",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
+      "showings": [
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VF",
+          "format": "IMAX",
+          "times": [
+            "14:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "18:30"
+          ]
+        }
+      ]
+    }
+  ]
 }
