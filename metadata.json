@@ -480,5 +480,16 @@
     "posterSource": "local-cache",
     "ratingChecked": "2026-10-07",
     "ratingSource": "official-dataset-v1"
+  },
+  "you can see everything": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 7.5,
+    "imdbUrl": "https://www.imdb.com/title/tt45368240/",
+    "imdbVotes": 128,
+    "poster": "posters/you-can-see-everything.jpg",
+    "posterChecked": "2026-10-07",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-07",
+    "ratingSource": "official-dataset-v1"
   }
 }
