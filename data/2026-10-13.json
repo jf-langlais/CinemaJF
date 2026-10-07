@@ -2,8 +2,8 @@
   "date": "2026-10-13",
   "dateLabel": "2026-10-13",
   "displayDate": "2026-10-13",
-  "generatedAt": "2026-10-07T05:32-04:00",
-  "updatedLabel": "05 h 32",
+  "generatedAt": "2026-10-07T06:32-04:00",
+  "updatedLabel": "06 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -66,6 +66,37 @@
       ]
     },
     {
+      "title": "Autre Maman",
+      "original": "Other Mommy",
+      "translation": "Autre Maman",
+      "runtime": "1 h 33",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/other-mommy.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt36586020/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "16:00",
+            "18:40",
+            "21:10"
+          ]
+        }
+      ]
+    },
+    {
       "title": "L'Odyssée",
       "original": "The Odyssey",
       "translation": "L'Odyssée",
@@ -90,6 +121,37 @@
           "format": "IMAX",
           "times": [
             "18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le jugement social",
+      "original": "The Social Reckoning",
+      "translation": "Le jugement social",
+      "runtime": "1 h 52",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/the-social-reckoning.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:50",
+            "18:30",
+            "21:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "13:20"
           ]
         }
       ]
