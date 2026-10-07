@@ -2,8 +2,8 @@
   "date": "2026-10-12",
   "dateLabel": "2026-10-12",
   "displayDate": "2026-10-12",
-  "generatedAt": "2026-10-07T08:39-04:00",
-  "updatedLabel": "08 h 39",
+  "generatedAt": "2026-10-07T09:34-04:00",
+  "updatedLabel": "09 h 34",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -108,14 +108,6 @@
           "times": [
             "15:30"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
         }
       ]
     },
@@ -168,17 +160,6 @@
             "13:55",
             "16:25",
             "18:55"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "12:40",
-            "15:00",
-            "17:00",
-            "19:10"
           ]
         }
       ]
@@ -248,36 +229,6 @@
             "12:50",
             "15:40",
             "18:25"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "12:30",
-            "15:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La meilleure façon, c'est par accident",
-      "original": "La meilleure façon, c'est par accident",
-      "translation": "",
-      "runtime": "1 h 51",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.1,
-      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
-      "showings": [
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "17:00"
           ]
         }
       ]
@@ -349,17 +300,6 @@
             "13:45",
             "16:30",
             "19:30"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "15:00",
-            "17:10",
-            "19:20"
           ]
         }
       ]
@@ -557,23 +497,6 @@
             "13:25",
             "16:15",
             "18:50"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "14:40"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:40",
-            "19:00"
           ]
         }
       ]
