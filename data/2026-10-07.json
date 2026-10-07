@@ -2,8 +2,8 @@
   "date": "2026-10-07",
   "dateLabel": "2026-10-07",
   "displayDate": "2026-10-07",
-  "generatedAt": "2026-10-06T21:30-04:00",
-  "updatedLabel": "21 h 30",
+  "generatedAt": "2026-10-06T22:31-04:00",
+  "updatedLabel": "22 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -207,9 +207,9 @@
       ]
     },
     {
-      "title": "Coyote contre ACME",
+      "title": "Coyote vs. Acme",
       "original": "Coyote vs. Acme",
-      "translation": "Coyote contre ACME",
+      "translation": "",
       "runtime": "1 h 43",
       "genre": "",
       "badge": "",
@@ -219,19 +219,19 @@
       "showings": [
         {
           "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:55",
             "19:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:30"
           ]
         }
       ]
@@ -1130,7 +1130,7 @@
       "translation": "",
       "runtime": "1 h 54",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/verity.jpg",
       "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",

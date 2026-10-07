@@ -2,8 +2,8 @@
   "date": "2026-10-12",
   "dateLabel": "2026-10-12",
   "displayDate": "2026-10-12",
-  "generatedAt": "2026-10-06T21:30-04:00",
-  "updatedLabel": "21 h 30",
+  "generatedAt": "2026-10-06T22:31-04:00",
+  "updatedLabel": "22 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,6 +45,35 @@
   ],
   "movies": [
     {
+      "title": "Avengers: Phase Finale",
+      "original": "Avengers: Endgame",
+      "translation": "Avengers: Phase Finale",
+      "runtime": "3 h 01",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/avengers-endgame.jpg",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt4154796/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:30"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Digger",
       "original": "Digger",
       "translation": "",
@@ -55,6 +84,23 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "19:10"
+          ]
+        },
         {
           "cinema": "cineplex-imax",
           "lang": "VOA",
@@ -74,6 +120,36 @@
       ]
     },
     {
+      "title": "L'île de l'oubli",
+      "original": "Forgotten Island",
+      "translation": "L'île de l'oubli",
+      "runtime": "1 h 49",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/forgotten-island.jpg",
+      "imdbRating": 7.8,
+      "imdbUrl": "https://www.imdb.com/title/tt36583977/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:05",
+            "18:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "15:35"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Hantée",
       "original": "Hantée",
       "translation": "",
@@ -85,6 +161,16 @@
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:55",
+            "16:25",
+            "18:55"
+          ]
+        },
+        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -93,6 +179,52 @@
             "15:00",
             "17:00",
             "19:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Au coeur de la bête",
+      "original": "Heart of the Beast",
+      "translation": "Au coeur de la bête",
+      "runtime": "1 h 41",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/heart-of-the-beast.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt7526136/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "15:55",
+            "18:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Insidieux: Hors du plus loin",
+      "original": "Insidious: Out of the Further",
+      "translation": "Insidieux: Hors du plus loin",
+      "runtime": "1 h 46",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/insidious-out-of-the-further.jpg",
+      "imdbRating": 6.2,
+      "imdbUrl": "https://www.imdb.com/title/tt32393988/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "16:05",
+            "19:20"
           ]
         }
       ]
@@ -108,6 +240,16 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:40",
+            "18:25"
+          ]
+        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -200,6 +342,16 @@
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:30",
+            "19:30"
+          ]
+        },
+        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -213,9 +365,95 @@
       ]
     },
     {
-      "title": "The Odyssey",
-      "original": "The Odyssey",
+      "title": "Resident Evil",
+      "original": "Resident Evil",
       "translation": "",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/resident-evil.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35538033/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:35",
+            "16:20",
+            "19:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "D-BOX",
+          "times": [
+            "13:35",
+            "16:20",
+            "19:05"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Run Terry Run",
+      "original": "Run Terry Run",
+      "translation": "",
+      "runtime": "1 h 48",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/run-terry-run.jpg",
+      "imdbRating": 8.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39130015/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:40",
+            "15:50",
+            "19:25"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man : Un jour nouveau",
+      "original": "Spider-Man: Brand New Day",
+      "translation": "Spider-Man : Un jour nouveau",
+      "runtime": "2 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/spider-man-brand-new-day.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "18:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "15:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'Odyssée",
+      "original": "The Odyssey",
+      "translation": "L'Odyssée",
       "runtime": "2 h 52",
       "genre": "",
       "badge": "",
@@ -223,6 +461,15 @@
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt33764258/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "18:15"
+          ]
+        },
         {
           "cinema": "cineplex-imax",
           "lang": "VOA",
@@ -278,6 +525,16 @@
           "times": [
             "13:20"
           ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:40",
+            "18:35"
+          ]
         }
       ]
     },
@@ -292,6 +549,16 @@
       "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:15",
+            "18:50"
+          ]
+        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOA",

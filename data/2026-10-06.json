@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "dateLabel": "2026-10-06",
   "displayDate": "2026-10-06",
-  "generatedAt": "2026-10-06T21:30-04:00",
-  "updatedLabel": "21 h 30",
+  "generatedAt": "2026-10-06T22:31-04:00",
+  "updatedLabel": "22 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -68,9 +68,9 @@
       ]
     },
     {
-      "title": "Avengers: Phase Finale",
+      "title": "Avengers: Endgame",
       "original": "Avengers: Endgame",
-      "translation": "Avengers: Phase Finale",
+      "translation": "",
       "runtime": "3 h 01",
       "genre": "",
       "badge": "",
@@ -78,14 +78,6 @@
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "19:30"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -155,15 +147,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35405429/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:15",
-            "21:35"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -196,9 +179,9 @@
       ]
     },
     {
-      "title": "Coyote contre ACME",
+      "title": "Coyote vs. Acme",
       "original": "Coyote vs. Acme",
-      "translation": "Coyote contre ACME",
+      "translation": "",
       "runtime": "1 h 43",
       "genre": "",
       "badge": "",
@@ -206,14 +189,6 @@
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt1756855/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:20"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOA",
@@ -274,24 +249,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30",
-            "21:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "18:50",
-            "21:40"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
@@ -331,9 +288,9 @@
       ]
     },
     {
-      "title": "Forgotten Island",
+      "title": "L'île de l'oubli",
       "original": "Forgotten Island",
-      "translation": "",
+      "translation": "L'île de l'oubli",
       "runtime": "1 h 49",
       "genre": "",
       "badge": "",
@@ -343,27 +300,10 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "3D",
-          "times": [
-            "21:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VF",
           "format": "3D",
           "times": [
             "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:35",
-            "21:05"
           ]
         },
         {
@@ -424,15 +364,6 @@
           "format": "Standard",
           "times": [
             "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:40",
-            "21:10"
           ]
         },
         {
@@ -501,7 +432,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:50"
           ]
         }
@@ -518,15 +448,6 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:20",
-            "21:25"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -650,15 +571,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:10",
-            "21:40"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -711,7 +623,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:45"
           ]
         }
@@ -734,15 +645,6 @@
           "format": "Standard",
           "times": [
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00",
-            "21:30"
           ]
         },
         {
@@ -777,48 +679,6 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:05",
-            "21:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "19:05",
-            "21:15"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -918,14 +778,6 @@
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "21:45"
@@ -934,9 +786,9 @@
       ]
     },
     {
-      "title": "L'Odyssée",
+      "title": "The Odyssey",
       "original": "The Odyssey",
-      "translation": "L'Odyssée",
+      "translation": "",
       "runtime": "2 h 52",
       "genre": "",
       "badge": "",
@@ -944,14 +796,6 @@
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt33764258/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "20:30"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -989,7 +833,7 @@
       "translation": "",
       "runtime": "1 h 54",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/verity.jpg",
       "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
@@ -1008,15 +852,6 @@
           "format": "Standard",
           "times": [
             "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00",
-            "21:35"
           ]
         },
         {
