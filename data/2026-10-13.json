@@ -2,8 +2,8 @@
   "date": "2026-10-13",
   "dateLabel": "2026-10-13",
   "displayDate": "2026-10-13",
-  "generatedAt": "2026-10-07T23:31-04:00",
-  "updatedLabel": "23 h 31",
+  "generatedAt": "2026-10-08T00:32-04:00",
+  "updatedLabel": "00 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -163,7 +163,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/digger.jpg",
-      "imdbRating": 7.3,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
         {
@@ -415,7 +415,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/insidious-out-of-the-further.jpg",
-      "imdbRating": 6.2,
+      "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt32393988/",
       "showings": [
         {
@@ -504,7 +504,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.1,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
@@ -647,7 +647,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/pauline-julien-femme-pays.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
