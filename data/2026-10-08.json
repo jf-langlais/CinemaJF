@@ -2,8 +2,8 @@
   "date": "2026-10-08",
   "dateLabel": "2026-10-08",
   "displayDate": "2026-10-08",
-  "generatedAt": "2026-10-08T17:31-04:00",
-  "updatedLabel": "17 h 31",
+  "generatedAt": "2026-10-08T18:31-04:00",
+  "updatedLabel": "18 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -83,27 +83,6 @@
       ]
     },
     {
-      "title": "Beware Boiúna",
-      "original": "Beware Boiúna",
-      "translation": "",
-      "runtime": "1 h 44",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/beware-boiuna.jpg",
-      "imdbRating": 6.2,
-      "imdbUrl": "https://www.imdb.com/title/tt10377864/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Chers parents",
       "original": "Chers parents",
       "translation": "",
@@ -119,7 +98,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:15"
           ]
         }
@@ -131,19 +109,11 @@
       "translation": "",
       "runtime": "2 h 08",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/digger.jpg",
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOA",
@@ -167,14 +137,6 @@
           "times": [
             "18:45"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
         }
       ]
     },
@@ -190,27 +152,11 @@
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "3D",
           "times": [
             "18:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:40"
           ]
         },
         {
@@ -237,27 +183,11 @@
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "18:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
           ]
         },
         {
@@ -299,7 +229,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:35",
             "19:25"
           ]
         }
@@ -347,27 +276,11 @@
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "19:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "16:30"
           ]
         },
         {
@@ -401,28 +314,11 @@
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:25",
             "19:10"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:50"
           ]
         },
         {
@@ -434,27 +330,6 @@
             "15:40",
             "19:00",
             "21:35"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Primetime",
-      "original": "Primetime",
-      "translation": "",
-      "runtime": "1 h 47",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/primetime.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt34206385/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:50"
           ]
         }
       ]
@@ -475,7 +350,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:05"
           ]
         },
@@ -484,16 +358,7 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:10",
             "19:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "22:00"
           ]
         },
         {
@@ -533,7 +398,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:20"
           ]
         }
@@ -550,14 +414,6 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "21:50"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -595,27 +451,11 @@
       "translation": "Le jugement social",
       "runtime": "1 h 52",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/the-social-reckoning.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:20"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -638,43 +478,11 @@
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "18:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
           ]
         },
         {
