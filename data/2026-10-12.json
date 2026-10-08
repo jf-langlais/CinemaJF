@@ -2,8 +2,8 @@
   "date": "2026-10-12",
   "dateLabel": "2026-10-12",
   "displayDate": "2026-10-12",
-  "generatedAt": "2026-10-07T20:40-04:00",
-  "updatedLabel": "20 h 40",
+  "generatedAt": "2026-10-07T21:31-04:00",
+  "updatedLabel": "21 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -715,9 +715,9 @@
       ]
     },
     {
-      "title": "PAW Patrol: The Dino Movie",
+      "title": "La Pat' Patrouille: Le film - Mission Dino",
       "original": "PAW Patrol: The Dino Movie",
-      "translation": "",
+      "translation": "La Pat' Patrouille: Le film - Mission Dino",
       "runtime": "",
       "genre": "",
       "badge": "",
@@ -725,6 +725,14 @@
       "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt29356163/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:30"
+          ]
+        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
@@ -879,6 +887,15 @@
             "13:40",
             "15:50",
             "19:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "16:20"
           ]
         }
       ]

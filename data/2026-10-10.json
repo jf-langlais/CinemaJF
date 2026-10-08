@@ -2,8 +2,8 @@
   "date": "2026-10-10",
   "dateLabel": "2026-10-10",
   "displayDate": "2026-10-10",
-  "generatedAt": "2026-10-07T20:40-04:00",
-  "updatedLabel": "20 h 40",
+  "generatedAt": "2026-10-07T21:31-04:00",
+  "updatedLabel": "21 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -703,9 +703,9 @@
       ]
     },
     {
-      "title": "PAW Patrol: The Dino Movie",
+      "title": "La Pat' Patrouille: Le film - Mission Dino",
       "original": "PAW Patrol: The Dino Movie",
-      "translation": "",
+      "translation": "La Pat' Patrouille: Le film - Mission Dino",
       "runtime": "",
       "genre": "",
       "badge": "",
@@ -715,10 +715,26 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
             "11:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:45"
           ]
         },
         {
@@ -891,6 +907,15 @@
             "15:50",
             "19:25",
             "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "15:40"
           ]
         }
       ]

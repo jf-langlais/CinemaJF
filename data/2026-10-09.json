@@ -2,8 +2,8 @@
   "date": "2026-10-09",
   "dateLabel": "2026-10-09",
   "displayDate": "2026-10-09",
-  "generatedAt": "2026-10-07T20:40-04:00",
-  "updatedLabel": "20 h 40",
+  "generatedAt": "2026-10-07T21:31-04:00",
+  "updatedLabel": "21 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -886,6 +886,15 @@
             "15:50",
             "19:25",
             "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "16:20"
           ]
         }
       ]
