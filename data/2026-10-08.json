@@ -2,8 +2,8 @@
   "date": "2026-10-08",
   "dateLabel": "2026-10-08",
   "displayDate": "2026-10-08",
-  "generatedAt": "2026-10-08T16:33-04:00",
-  "updatedLabel": "16 h 33",
+  "generatedAt": "2026-10-08T17:31-04:00",
+  "updatedLabel": "17 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -169,14 +169,6 @@
           ]
         },
         {
-          "cinema": "cineplex-imax",
-          "lang": "VF",
-          "format": "IMAX",
-          "times": [
-            "15:40"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
@@ -187,9 +179,9 @@
       ]
     },
     {
-      "title": "Forgotten Island",
+      "title": "L'île de l'oubli",
       "original": "Forgotten Island",
-      "translation": "",
+      "translation": "L'île de l'oubli",
       "runtime": "1 h 49",
       "genre": "",
       "badge": "",
@@ -197,14 +189,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "3D",
-          "times": [
-            "21:10"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -387,14 +371,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -495,30 +471,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -588,27 +540,6 @@
       ]
     },
     {
-      "title": "Sacrifice",
-      "original": "Sacrifice",
-      "translation": "",
-      "runtime": "1 h 43",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/sacrifice.jpg",
-      "imdbRating": 5.1,
-      "imdbUrl": "https://www.imdb.com/title/tt32268992/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Spider-Man : Un jour nouveau",
       "original": "Spider-Man: Brand New Day",
       "translation": "Spider-Man : Un jour nouveau",
@@ -654,14 +585,6 @@
           "format": "Standard",
           "times": [
             "18:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:00"
           ]
         }
       ]
