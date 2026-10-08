@@ -2,8 +2,8 @@
   "date": "2026-10-08",
   "dateLabel": "2026-10-08",
   "displayDate": "2026-10-08",
-  "generatedAt": "2026-10-08T14:35-04:00",
-  "updatedLabel": "14 h 35",
+  "generatedAt": "2026-10-08T15:31-04:00",
+  "updatedLabel": "15 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -106,7 +106,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         }
@@ -150,7 +149,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:45"
           ]
         },
@@ -193,7 +191,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:45"
           ]
         }
@@ -215,7 +212,6 @@
           "lang": "VOA",
           "format": "3D",
           "times": [
-            "18:35",
             "21:10"
           ]
         },
@@ -224,7 +220,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "19:30",
             "22:00"
           ]
         },
@@ -280,7 +275,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:45"
           ]
         },
@@ -291,14 +285,6 @@
           "times": [
             "15:30",
             "18:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
@@ -394,27 +380,6 @@
       ]
     },
     {
-      "title": "La meilleure façon, c'est par accident",
-      "original": "La meilleure façon, c'est par accident",
-      "translation": "",
-      "runtime": "1 h 51",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Autre Maman",
       "original": "Other Mommy",
       "translation": "Autre Maman",
@@ -434,14 +399,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "19:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -455,14 +412,6 @@
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "16:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00"
           ]
         },
         {
@@ -508,7 +457,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:50"
           ]
         },
@@ -526,7 +474,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:50"
           ]
         },
@@ -559,7 +506,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:50"
           ]
         }
@@ -581,7 +527,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "18:40",
             "21:00"
           ]
         },
@@ -590,7 +535,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -599,7 +543,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -619,14 +562,6 @@
           "times": [
             "16:10",
             "19:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:25"
           ]
         },
         {
@@ -715,14 +650,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "21:50"
@@ -789,14 +716,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "UltraAVX",
           "times": [
             "21:50"
@@ -836,7 +755,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:10",
             "21:55"
           ]
         },
@@ -845,7 +763,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:55"
           ]
         },
@@ -863,7 +780,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:45"
           ]
         },
@@ -873,14 +789,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:15"
           ]
         },
         {
