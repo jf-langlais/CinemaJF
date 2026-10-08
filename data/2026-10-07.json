@@ -2,8 +2,8 @@
   "date": "2026-10-07",
   "dateLabel": "2026-10-07",
   "displayDate": "2026-10-07",
-  "generatedAt": "2026-10-07T21:31-04:00",
-  "updatedLabel": "21 h 31",
+  "generatedAt": "2026-10-07T22:29-04:00",
+  "updatedLabel": "22 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -270,7 +270,7 @@
       "translation": "",
       "runtime": "2 h 08",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/digger.jpg",
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
