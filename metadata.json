@@ -15,6 +15,17 @@
     "ratingChecked": "2026-10-08",
     "ratingSource": "official-dataset-v1"
   },
+  "always lalisa": {
+    "imdbMatchScore": 0.997,
+    "imdbRating": 7.4,
+    "imdbUrl": "https://www.imdb.com/title/tt37108970/",
+    "imdbVotes": 147,
+    "poster": "posters/always-lalisa.jpg",
+    "posterChecked": "2026-10-08",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-08",
+    "ratingSource": "official-dataset-v1"
+  },
   "avengers endgame": {
     "imdbRating": 8.4,
     "imdbUrl": "https://www.imdb.com/title/tt4154796/",
