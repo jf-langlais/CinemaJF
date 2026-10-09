@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-08T21:32-04:00",
-  "updatedLabel": "21 h 32",
+  "generatedAt": "2026-10-08T22:29-04:00",
+  "updatedLabel": "22 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -50,7 +50,7 @@
       "translation": "",
       "runtime": "1 h 32",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/a-pied-d-oeuvre.jpg",
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt37660587/",
@@ -320,7 +320,7 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/hantee.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",

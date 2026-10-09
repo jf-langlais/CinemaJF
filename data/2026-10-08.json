@@ -2,8 +2,8 @@
   "date": "2026-10-08",
   "dateLabel": "2026-10-08",
   "displayDate": "2026-10-08",
-  "generatedAt": "2026-10-08T21:32-04:00",
-  "updatedLabel": "21 h 32",
+  "generatedAt": "2026-10-08T22:29-04:00",
+  "updatedLabel": "22 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -50,7 +50,7 @@
       "translation": "",
       "runtime": "1 h 32",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/a-pied-d-oeuvre.jpg",
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt37660587/",
@@ -120,7 +120,7 @@
       "translation": "",
       "runtime": "1 h 44",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/beware-boiuna.jpg",
       "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt10377864/",
@@ -453,14 +453,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -660,7 +652,7 @@
       "translation": "",
       "runtime": "1 h 43",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/sacrifice.jpg",
       "imdbRating": 5.1,
       "imdbUrl": "https://www.imdb.com/title/tt32268992/",
