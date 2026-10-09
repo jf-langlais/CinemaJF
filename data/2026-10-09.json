@@ -2,8 +2,8 @@
   "date": "2026-10-09",
   "dateLabel": "2026-10-09",
   "displayDate": "2026-10-09",
-  "generatedAt": "2026-10-09T18:30-04:00",
-  "updatedLabel": "18 h 30",
+  "generatedAt": "2026-10-09T19:30-04:00",
+  "updatedLabel": "19 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -109,14 +109,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VF",
           "format": "Standard",
@@ -138,14 +130,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:20"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -228,7 +212,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:05"
           ]
         },
@@ -284,7 +267,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:25",
             "21:25"
           ]
         },
@@ -590,7 +572,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:40",
             "20:30"
           ]
         },
@@ -629,7 +610,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:35",
             "21:10"
           ]
         }
