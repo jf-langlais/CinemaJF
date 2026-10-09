@@ -2,8 +2,8 @@
   "date": "2026-10-09",
   "dateLabel": "2026-10-09",
   "displayDate": "2026-10-09",
-  "generatedAt": "2026-10-09T09:34-04:00",
-  "updatedLabel": "09 h 34",
+  "generatedAt": "2026-10-09T10:36-04:00",
+  "updatedLabel": "10 h 36",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -108,19 +108,11 @@
       "translation": "",
       "runtime": "1 h 26",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/chers-parents.jpg",
       "imdbRating": 5.6,
       "imdbUrl": "https://www.imdb.com/title/tt35405429/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:50"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -238,7 +230,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "14:00",
             "19:30"
           ]
         },
@@ -386,7 +377,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:45",
             "15:50",
             "18:40",
             "21:40"
@@ -702,7 +692,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:40",
             "16:20",
             "18:50"
           ]
@@ -809,7 +798,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:45",
             "16:15",
             "19:05",
             "21:25"
@@ -1123,14 +1111,6 @@
           "format": "Standard",
           "times": [
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "13:55"
           ]
         },
         {
