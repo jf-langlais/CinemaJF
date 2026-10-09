@@ -2,8 +2,8 @@
   "date": "2026-10-09",
   "dateLabel": "2026-10-09",
   "displayDate": "2026-10-09",
-  "generatedAt": "2026-10-09T14:33-04:00",
-  "updatedLabel": "14 h 33",
+  "generatedAt": "2026-10-09T15:30-04:00",
+  "updatedLabel": "15 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -121,7 +121,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:45"
           ]
         },
@@ -147,7 +146,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:40"
           ]
         },
@@ -234,7 +232,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:30"
           ]
         },
@@ -299,7 +296,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:50"
           ]
         },
@@ -318,7 +314,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:40"
           ]
         },
@@ -475,7 +470,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:40",
             "21:10"
           ]
         },
@@ -484,7 +478,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:45"
           ]
         },
@@ -503,7 +496,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:10",
             "21:30"
           ]
         },
@@ -512,7 +504,6 @@
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
-            "19:20",
             "21:50"
           ]
         },
@@ -568,7 +559,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:50"
           ]
         },
@@ -581,14 +571,6 @@
             "16:30",
             "19:10",
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         },
         {
@@ -653,7 +635,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:35"
           ]
         }
@@ -675,7 +656,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "18:35",
             "21:00"
           ]
         },
@@ -684,7 +664,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -777,7 +756,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:55"
           ]
         },
@@ -879,14 +857,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -911,7 +881,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:10",
             "22:00"
           ]
         },
@@ -920,7 +889,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -929,7 +897,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -949,14 +916,6 @@
           "format": "Standard",
           "times": [
             "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00"
           ]
         },
         {
