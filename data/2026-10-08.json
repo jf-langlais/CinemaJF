@@ -2,8 +2,8 @@
   "date": "2026-10-08",
   "dateLabel": "2026-10-08",
   "displayDate": "2026-10-08",
-  "generatedAt": "2026-10-08T22:29-04:00",
-  "updatedLabel": "22 h 29",
+  "generatedAt": "2026-10-08T23:32-04:00",
+  "updatedLabel": "23 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -115,27 +115,6 @@
       ]
     },
     {
-      "title": "Beware Boiúna",
-      "original": "Beware Boiúna",
-      "translation": "",
-      "runtime": "1 h 44",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/beware-boiuna.jpg",
-      "imdbRating": 6.2,
-      "imdbUrl": "https://www.imdb.com/title/tt10377864/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Chers parents",
       "original": "Chers parents",
       "translation": "",
@@ -220,14 +199,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
@@ -245,6 +216,24 @@
             "10:20",
             "13:00"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:20",
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "18:30"
+          ]
         }
       ]
     },
@@ -259,22 +248,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "3D",
-          "times": [
-            "21:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "22:00"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -302,6 +275,16 @@
             "15:30",
             "18:50"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "14:50",
+            "19:10"
+          ]
         }
       ]
     },
@@ -316,14 +299,6 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -363,6 +338,14 @@
             "19:30",
             "21:30"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "17:30"
+          ]
         }
       ]
     },
@@ -384,6 +367,14 @@
           "times": [
             "13:00",
             "15:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:30"
           ]
         }
       ]
@@ -430,6 +421,15 @@
             "15:50",
             "18:45"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00",
+            "21:30"
+          ]
         }
       ]
     },
@@ -444,14 +444,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "22:00"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -500,14 +492,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -529,6 +513,17 @@
             "15:40",
             "19:00",
             "21:35"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20"
           ]
         }
       ]
@@ -576,30 +571,6 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:25"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -669,27 +640,6 @@
       ]
     },
     {
-      "title": "Spider-Man : Un jour nouveau",
-      "original": "Spider-Man: Brand New Day",
-      "translation": "Spider-Man : Un jour nouveau",
-      "runtime": "2 h 30",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/spider-man-brand-new-day.jpg",
-      "imdbRating": 8.0,
-      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "21:50"
-          ]
-        }
-      ]
-    },
-    {
       "title": "The Odyssey",
       "original": "The Odyssey",
       "translation": "",
@@ -711,22 +661,22 @@
       ]
     },
     {
-      "title": "Le jugement social",
-      "original": "The Social Reckoning",
-      "translation": "Le jugement social",
-      "runtime": "1 h 52",
+      "title": "Un renversement",
+      "original": "Un renversement",
+      "translation": "",
+      "runtime": "",
       "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/the-social-reckoning.jpg",
+      "badge": "",
+      "poster": "posters/un-renversement.jpg",
       "imdbRating": null,
-      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
+      "imdbUrl": "https://www.imdb.com/title/tt41483656/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
           "times": [
-            "21:50"
+            "17:20"
           ]
         }
       ]
@@ -742,22 +692,6 @@
       "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -826,6 +760,25 @@
           "times": [
             "13:05",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:00",
+            "19:00",
+            "21:20"
           ]
         }
       ]
