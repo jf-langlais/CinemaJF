@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-09T11:32-04:00",
-  "updatedLabel": "11 h 32",
+  "generatedAt": "2026-10-09T12:32-04:00",
+  "updatedLabel": "12 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -521,6 +521,27 @@
       ]
     },
     {
+      "title": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
+      "original": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
+      "translation": "",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Autre Maman",
       "original": "Other Mommy",
       "translation": "Autre Maman",
@@ -863,7 +884,7 @@
       "title": "Street Fighter",
       "original": "Street Fighter",
       "translation": "",
-      "runtime": "2 h 05",
+      "runtime": "1 h 59",
       "genre": "",
       "badge": "",
       "poster": "posters/street-fighter.jpg",
@@ -881,11 +902,39 @@
           ]
         },
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "ScreenX",
+          "times": [
+            "16:20",
+            "19:10",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "14:00",
+            "16:30",
+            "19:15"
+          ]
+        },
+        {
           "cinema": "cineplex-imax",
           "lang": "VOA",
           "format": "IMAX",
           "times": [
             "19:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VF",
+          "format": "IMAX",
+          "times": [
+            "16:30"
           ]
         },
         {
