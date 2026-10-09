@@ -364,6 +364,17 @@
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
+  "sense and sensibility": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 7.2,
+    "imdbUrl": "https://www.imdb.com/title/tt13609648/",
+    "imdbVotes": 1596,
+    "poster": "posters/sense-and-sensibility.jpg",
+    "posterChecked": "2026-10-09",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-09",
+    "ratingSource": "official-dataset-v1"
+  },
   "shaun the sheep the beast of mossy bottom": {
     "imdbRating": 7.2,
     "imdbUrl": "https://www.imdb.com/title/tt36841161/",

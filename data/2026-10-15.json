@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-09T00:33-04:00",
-  "updatedLabel": "00 h 33",
+  "generatedAt": "2026-10-09T01:31-04:00",
+  "updatedLabel": "01 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -202,6 +202,25 @@
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "14:00",
+            "19:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "16:45",
+            "22:00"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -232,6 +251,18 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "13:40",
+            "15:20",
+            "18:55",
+            "21:30"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
@@ -268,6 +299,17 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:40",
+            "19:20",
+            "21:50"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -369,6 +411,17 @@
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "16:00",
+            "19:25",
+            "21:55"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -410,6 +463,17 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "15:25",
+            "19:15",
+            "21:50"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
@@ -476,6 +540,17 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:15",
+            "19:05",
+            "21:25"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
@@ -529,6 +604,53 @@
       ]
     },
     {
+      "title": "Raison et sentiments",
+      "original": "Sense and Sensibility",
+      "translation": "Raison et sentiments",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/sense-and-sensibility.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt13609648/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:30",
+            "18:40",
+            "21:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man : Un jour nouveau",
+      "original": "Spider-Man: Brand New Day",
+      "translation": "Spider-Man : Un jour nouveau",
+      "runtime": "2 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/spider-man-brand-new-day.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:35",
+            "18:45",
+            "21:55"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Street Fighter",
       "original": "Street Fighter",
       "translation": "",
@@ -539,6 +661,16 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX",
+          "times": [
+            "15:50",
+            "18:40",
+            "21:30"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
@@ -578,6 +710,17 @@
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "15:50",
+            "18:30",
+            "21:05"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -609,6 +752,39 @@
       "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:05",
+            "19:10",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:20",
+            "19:00",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "D-BOX",
+          "times": [
+            "13:25",
+            "16:20",
+            "19:00",
+            "21:45"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -665,6 +841,16 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt28535715/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:10",
+            "19:00",
+            "21:40"
+          ]
+        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
