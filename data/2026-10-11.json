@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-08T19:30-04:00",
-  "updatedLabel": "19 h 30",
+  "generatedAt": "2026-10-08T20:43-04:00",
+  "updatedLabel": "20 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -779,14 +779,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:45"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -932,8 +924,8 @@
           "format": "Standard",
           "times": [
             "13:40",
-            "15:50",
-            "19:25",
+            "16:05",
+            "19:10",
             "21:35"
           ]
         },
