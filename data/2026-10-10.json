@@ -2,8 +2,8 @@
   "date": "2026-10-10",
   "dateLabel": "2026-10-10",
   "displayDate": "2026-10-10",
-  "generatedAt": "2026-10-10T09:30-04:00",
-  "updatedLabel": "09 h 30",
+  "generatedAt": "2026-10-10T10:28-04:00",
+  "updatedLabel": "10 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -103,27 +103,6 @@
       ]
     },
     {
-      "title": "Chers parents",
-      "original": "Chers parents",
-      "translation": "",
-      "runtime": "1 h 26",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/chers-parents.jpg",
-      "imdbRating": 5.6,
-      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:50"
-          ]
-        }
-      ]
-    },
-    {
       "title": "De Gaulle",
       "original": "De Gaulle",
       "translation": "",
@@ -199,14 +178,6 @@
             "18:45",
             "21:40"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:30"
-          ]
         }
       ]
     },
@@ -226,7 +197,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "14:15",
             "19:30"
           ]
         },
@@ -286,7 +256,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "14:00",
             "16:15",
             "18:55",
             "21:30"
@@ -355,7 +324,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:45",
             "16:10",
             "19:20",
             "21:50"
@@ -377,7 +345,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:45",
             "15:50",
             "18:40",
             "21:40"
@@ -540,7 +507,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "14:00",
             "16:25",
             "19:25",
             "21:45"
@@ -663,7 +629,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:40",
             "16:40",
             "18:50"
           ]
@@ -793,7 +758,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "14:20",
             "16:40",
             "19:05",
             "21:25"
@@ -1026,7 +990,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:30",
             "18:55"
           ]
         },
@@ -1108,14 +1071,6 @@
           "format": "Standard",
           "times": [
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "13:55"
           ]
         },
         {
