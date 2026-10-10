@@ -2,8 +2,8 @@
   "date": "2026-10-10",
   "dateLabel": "2026-10-10",
   "displayDate": "2026-10-10",
-  "generatedAt": "2026-10-10T13:28-04:00",
-  "updatedLabel": "13 h 28",
+  "generatedAt": "2026-10-10T14:32-04:00",
+  "updatedLabel": "14 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -106,27 +106,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:15"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Digger",
       "original": "Digger",
       "translation": "",
@@ -160,16 +139,7 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:20",
             "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VOA",
-          "format": "IMAX",
-          "times": [
-            "13:00"
           ]
         },
         {
@@ -224,7 +194,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:05",
             "18:20"
           ]
         },
@@ -275,7 +244,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:40",
             "15:30",
             "18:55",
             "21:30"
@@ -286,7 +254,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:15"
           ]
         },
@@ -341,7 +308,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:25",
             "18:40",
             "21:05"
@@ -386,7 +352,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:05",
             "19:05",
             "21:45"
@@ -418,7 +383,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:40",
             "18:25",
             "21:25"
@@ -440,27 +404,6 @@
           "times": [
             "12:30",
             "15:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.7,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:00"
           ]
         }
       ]
@@ -717,20 +660,20 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "18:35",
-            "21:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "19:05",
             "21:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "ScreenX",
+          "times": [
+            "18:35",
+            "21:00"
           ]
         },
         {
@@ -834,7 +777,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:00",
             "18:45"
           ]
         },
@@ -865,7 +807,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:10",
             "16:25",
             "20:30"
           ]
@@ -904,7 +845,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:20",
             "21:05"
           ]
         },
@@ -920,18 +860,9 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "13:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:00",
             "15:40",
             "18:35",
             "21:10"
@@ -968,15 +899,6 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:10",
-            "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -994,6 +916,15 @@
           ]
         },
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:10",
+            "22:00"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -1006,18 +937,18 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "19:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:45"
           ]
         },
         {
