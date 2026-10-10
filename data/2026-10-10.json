@@ -2,8 +2,8 @@
   "date": "2026-10-10",
   "dateLabel": "2026-10-10",
   "displayDate": "2026-10-10",
-  "generatedAt": "2026-10-10T12:29-04:00",
-  "updatedLabel": "12 h 29",
+  "generatedAt": "2026-10-10T13:28-04:00",
+  "updatedLabel": "13 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -77,6 +77,30 @@
           "format": "Standard",
           "times": [
             "21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chers parents",
+      "original": "Chers parents",
+      "translation": "",
+      "runtime": "1 h 26",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/chers-parents.jpg",
+      "imdbRating": 5.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "14:50",
+            "17:10",
+            "19:00"
           ]
         }
       ]
@@ -156,6 +180,15 @@
             "18:45",
             "21:40"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:30",
+            "21:00"
+          ]
         }
       ]
     },
@@ -183,7 +216,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "16:50",
             "22:00"
           ]
         },
@@ -378,7 +410,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -452,6 +483,15 @@
           "times": [
             "21:25"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00",
+            "21:10"
+          ]
         }
       ]
     },
@@ -509,14 +549,6 @@
           "times": [
             "19:10",
             "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "16:45"
           ]
         },
         {
@@ -600,7 +632,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:40",
             "18:50"
           ]
         },
@@ -698,7 +729,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:40",
             "19:05",
             "21:25"
           ]
@@ -1016,6 +1046,15 @@
           "times": [
             "10:50",
             "13:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:40",
+            "21:20"
           ]
         },
         {

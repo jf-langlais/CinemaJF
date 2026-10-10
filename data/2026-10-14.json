@@ -2,8 +2,8 @@
   "date": "2026-10-14",
   "dateLabel": "2026-10-14",
   "displayDate": "2026-10-14",
-  "generatedAt": "2026-10-10T12:29-04:00",
-  "updatedLabel": "12 h 29",
+  "generatedAt": "2026-10-10T13:28-04:00",
+  "updatedLabel": "13 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -151,6 +151,17 @@
             "10:30",
             "13:50"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "14:50",
+            "17:10",
+            "19:00"
+          ]
         }
       ]
     },
@@ -246,6 +257,15 @@
           "times": [
             "10:30",
             "13:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:30",
+            "21:00"
           ]
         }
       ]
@@ -370,6 +390,18 @@
             "18:45",
             "21:10"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:00",
+            "17:00",
+            "19:10",
+            "21:00"
+          ]
         }
       ]
     },
@@ -491,6 +523,15 @@
           "times": [
             "12:30"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:30"
+          ]
         }
       ]
     },
@@ -535,6 +576,15 @@
           "times": [
             "15:40",
             "21:25"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00",
+            "21:10"
           ]
         }
       ]
@@ -710,6 +760,18 @@
             "13:30",
             "16:00",
             "19:05"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20",
+            "21:30"
           ]
         }
       ]
@@ -1121,6 +1183,24 @@
           "format": "Dolby Atmos",
           "times": [
             "13:10"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:40",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "19:00"
           ]
         }
       ]

@@ -2,8 +2,8 @@
   "date": "2026-10-16",
   "dateLabel": "2026-10-16",
   "displayDate": "2026-10-16",
-  "generatedAt": "2026-10-10T12:29-04:00",
-  "updatedLabel": "12 h 29",
+  "generatedAt": "2026-10-10T13:28-04:00",
+  "updatedLabel": "13 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,6 +44,27 @@
     }
   ],
   "movies": [
+    {
+      "title": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
+      "original": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
+      "translation": "",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
+        }
+      ]
+    },
     {
       "title": "Raison et sentiments",
       "original": "Sense and Sensibility",
