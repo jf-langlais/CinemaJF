@@ -2,8 +2,8 @@
   "date": "2026-10-09",
   "dateLabel": "2026-10-09",
   "displayDate": "2026-10-09",
-  "generatedAt": "2026-10-09T19:30-04:00",
-  "updatedLabel": "19 h 30",
+  "generatedAt": "2026-10-09T20:41-04:00",
+  "updatedLabel": "20 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,27 +44,6 @@
     }
   ],
   "movies": [
-    {
-      "title": "Avengers: Phase Finale",
-      "original": "Avengers: Endgame",
-      "translation": "Avengers: Phase Finale",
-      "runtime": "3 h 01",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/avengers-endgame.jpg",
-      "imdbRating": 8.4,
-      "imdbUrl": "https://www.imdb.com/title/tt4154796/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "19:30"
-          ]
-        }
-      ]
-    },
     {
       "title": "Chers parents",
       "original": "Chers parents",
@@ -166,7 +145,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:30"
           ]
         },
@@ -245,7 +223,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:45"
           ]
         }
@@ -349,7 +326,6 @@
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "19:15",
             "21:30"
           ]
         },
@@ -405,7 +381,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:10",
             "21:40"
           ]
         },
@@ -471,7 +446,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:15"
           ]
         },
@@ -480,7 +454,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "19:05",
             "21:15"
           ]
         },
@@ -521,7 +494,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:10",
             "21:35"
           ]
         }
@@ -538,14 +510,6 @@
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -574,14 +538,6 @@
           "times": [
             "20:30"
           ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VOA",
-          "format": "IMAX",
-          "times": [
-            "19:30"
-          ]
         }
       ]
     },
@@ -601,7 +557,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -631,7 +586,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:35"
           ]
         },
