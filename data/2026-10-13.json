@@ -2,8 +2,8 @@
   "date": "2026-10-13",
   "dateLabel": "2026-10-13",
   "displayDate": "2026-10-13",
-  "generatedAt": "2026-10-09T23:30-04:00",
-  "updatedLabel": "23 h 30",
+  "generatedAt": "2026-10-10T00:30-04:00",
+  "updatedLabel": "00 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -526,7 +526,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/other-mommy.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
@@ -821,7 +821,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/run-terry-run.jpg",
-      "imdbRating": 8.6,
+      "imdbRating": 8.5,
       "imdbUrl": "https://www.imdb.com/title/tt39130015/",
       "showings": [
         {
@@ -935,7 +935,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
         {

@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-16",
+  "dateLabel": "2026-10-16",
+  "displayDate": "2026-10-16",
+  "generatedAt": "2026-10-10T00:30-04:00",
+  "updatedLabel": "00 h 30",
+  "location": "Québec, QC",
+  "cinemas": [
+    {
+      "id": "cineplex-sainte-foy",
+      "name": "Cineplex Ste-Foy",
+      "short": "Cineplex Ste-Foy",
+      "source": "https://www.cineplex.com/theatre/cinema-cineplex-odeon-saintefoy?openTM=true"
+    },
+    {
+      "id": "cineplex-beauport",
+      "name": "Cineplex Beauport",
+      "short": "Cineplex Beauport",
+      "source": "https://www.cineplex.com/fr/theatre/Cinema-Cineplex-Odeon-Beauport"
+    },
+    {
+      "id": "cineplex-imax",
+      "name": "Cineplex IMAX",
+      "short": "Cineplex IMAX",
+      "source": "https://www.cineplex.com/fr/theatre/cinema-cineplex-imax-aux-galeries-de-la-capitale"
+    },
+    {
+      "id": "clap-ste-foy",
+      "name": "Le Clap Place Sainte-Foy",
+      "short": "Clap Ste-Foy",
+      "source": "https://clap.ca/"
+    },
+    {
+      "id": "clap-loretteville",
+      "name": "Le Clap Loretteville",
+      "short": "Clap Loretteville",
+      "source": "https://clap.ca/"
+    },
+    {
+      "id": "cinema-cartier",
+      "name": "Cinéma Cartier",
+      "short": "Cinéma Cartier",
+      "source": "https://www.cinemacartier.com/"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Vous pouvez tout voir",
+      "original": "You Can See Everything",
+      "translation": "Vous pouvez tout voir",
+      "runtime": "2 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/you-can-see-everything.jpg",
+      "imdbRating": 7.8,
+      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "18:15",
+            "21:15"
+          ]
+        }
+      ]
+    }
+  ]
+}
