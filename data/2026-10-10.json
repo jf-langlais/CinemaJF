@@ -2,8 +2,8 @@
   "date": "2026-10-10",
   "dateLabel": "2026-10-10",
   "displayDate": "2026-10-10",
-  "generatedAt": "2026-10-10T15:28-04:00",
-  "updatedLabel": "15 h 28",
+  "generatedAt": "2026-10-10T16:28-04:00",
+  "updatedLabel": "16 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -55,14 +55,6 @@
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "14:00"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -171,14 +163,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -366,14 +350,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
@@ -463,14 +439,6 @@
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "16:00",
@@ -554,7 +522,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:45",
             "16:30",
             "19:10",
             "21:40"
@@ -660,7 +627,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:35",
             "16:20",
             "19:05",
             "21:15"
@@ -671,7 +637,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "13:35",
             "16:20",
             "19:05",
             "21:15"
@@ -682,7 +647,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:30",
             "21:55"
           ]
         },
@@ -723,7 +687,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:40",
             "16:05",
             "19:10",
             "21:35"
@@ -896,7 +859,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "16:15",
             "18:50",
             "21:35"
