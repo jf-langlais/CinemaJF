@@ -2,8 +2,8 @@
   "date": "2026-10-10",
   "dateLabel": "2026-10-10",
   "displayDate": "2026-10-10",
-  "generatedAt": "2026-10-10T14:32-04:00",
-  "updatedLabel": "14 h 32",
+  "generatedAt": "2026-10-10T15:28-04:00",
+  "updatedLabel": "15 h 28",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -121,7 +121,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:45"
           ]
         },
@@ -147,7 +146,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:40"
           ]
         },
@@ -235,7 +233,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:30"
           ]
         },
@@ -299,7 +296,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:50"
           ]
         },
@@ -318,7 +314,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:40"
           ]
         },
@@ -454,7 +449,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:40",
             "21:10"
           ]
         },
@@ -463,7 +457,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:45"
           ]
         },
@@ -490,7 +483,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:10",
             "21:30"
           ]
         },
@@ -499,7 +491,6 @@
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
-            "19:20",
             "21:50"
           ]
         },
@@ -555,7 +546,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:50"
           ]
         },
@@ -568,14 +558,6 @@
             "16:30",
             "19:10",
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         },
         {
@@ -641,7 +623,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:35"
           ]
         }
@@ -663,7 +644,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -672,7 +652,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "18:35",
             "21:00"
           ]
         },
@@ -768,7 +747,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:55"
           ]
         },
@@ -870,14 +848,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -902,7 +872,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -911,7 +880,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -920,7 +888,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:10",
             "22:00"
           ]
         },
@@ -933,14 +900,6 @@
             "16:15",
             "18:50",
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00"
           ]
         },
         {
