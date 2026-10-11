@@ -2,8 +2,8 @@
   "date": "2026-10-10",
   "dateLabel": "2026-10-10",
   "displayDate": "2026-10-10",
-  "generatedAt": "2026-10-10T22:30-04:00",
-  "updatedLabel": "22 h 30",
+  "generatedAt": "2026-10-10T23:32-04:00",
+  "updatedLabel": "23 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -161,22 +161,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:20"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -217,22 +201,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -265,22 +233,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
@@ -330,22 +282,6 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:05"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -404,14 +340,6 @@
       "imdbRating": 7.9,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -498,30 +426,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "21:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -595,14 +499,6 @@
       "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
@@ -726,38 +622,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:15"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -797,9 +661,9 @@
       ]
     },
     {
-      "title": "Run Terry Run",
+      "title": "Cours Terry cours",
       "original": "Run Terry Run",
-      "translation": "",
+      "translation": "Cours Terry cours",
       "runtime": "1 h 48",
       "genre": "",
       "badge": "Nouveauté",
@@ -807,14 +671,6 @@
       "imdbRating": 8.5,
       "imdbUrl": "https://www.imdb.com/title/tt39130015/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -838,40 +694,11 @@
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "3D",
           "times": [
             "21:45"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "L'Odyssée",
-      "original": "The Odyssey",
-      "translation": "L'Odyssée",
-      "runtime": "2 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-odyssey.jpg",
-      "imdbRating": 8.4,
-      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "20:30"
           ]
         }
       ]
@@ -893,14 +720,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:10"
           ]
         },
         {
@@ -935,38 +754,6 @@
       "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
