@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-10T23:32-04:00",
-  "updatedLabel": "23 h 32",
+  "generatedAt": "2026-10-11T00:31-04:00",
+  "updatedLabel": "00 h 31",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -242,7 +242,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/forgotten-island.jpg",
-      "imdbRating": 7.8,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
@@ -379,7 +379,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/heart-of-the-beast.jpg",
-      "imdbRating": 7.3,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
@@ -549,7 +549,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/other-mommy.jpg",
-      "imdbRating": 6.2,
+      "imdbRating": 5.7,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
@@ -680,7 +680,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/primetime.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
       "showings": [
         {
@@ -783,7 +783,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/run-terry-run.jpg",
-      "imdbRating": 8.5,
+      "imdbRating": 8.7,
       "imdbUrl": "https://www.imdb.com/title/tt39130015/",
       "showings": [
         {
@@ -1220,7 +1220,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 7.8,
+      "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
