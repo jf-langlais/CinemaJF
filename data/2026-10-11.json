@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-11T16:29-04:00",
-  "updatedLabel": "16 h 29",
+  "generatedAt": "2026-10-11T17:29-04:00",
+  "updatedLabel": "17 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -62,14 +62,6 @@
           "times": [
             "19:30"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:00"
-          ]
         }
       ]
     },
@@ -121,7 +113,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:20",
             "21:20"
           ]
         },
@@ -183,7 +174,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:35",
             "21:00"
           ]
         },
@@ -224,17 +214,8 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:30",
             "18:55",
             "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:15"
           ]
         },
         {
@@ -286,7 +267,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:25",
             "18:40",
             "21:05"
           ]
@@ -329,7 +309,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:05",
             "21:45"
           ]
@@ -352,7 +331,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:40",
             "18:25",
             "21:25"
           ]
@@ -389,14 +367,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -428,9 +398,9 @@
       ]
     },
     {
-      "title": "Autre Maman",
+      "title": "Other Mommy",
       "original": "Other Mommy",
-      "translation": "Autre Maman",
+      "translation": "",
       "runtime": "1 h 33",
       "genre": "",
       "badge": "Nouveauté",
@@ -438,14 +408,6 @@
       "imdbRating": 5.7,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "21:10"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
@@ -459,7 +421,6 @@
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "16:00",
             "19:15",
             "21:30"
           ]
@@ -540,7 +501,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:10",
             "21:40"
           ]
@@ -624,27 +584,10 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "19:05",
             "21:15"
           ]
@@ -654,7 +597,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:20",
             "19:05",
             "21:15"
           ]
@@ -704,7 +646,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:10",
             "21:35"
           ]
@@ -743,7 +684,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "15:15",
             "21:45"
           ]
         }
@@ -765,7 +705,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:25",
             "20:30"
           ]
         },
@@ -791,19 +730,10 @@
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:05"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:00",
             "21:40"
           ]
@@ -813,7 +743,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:40",
             "18:35",
             "21:10"
           ]
@@ -868,7 +797,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:15",
             "18:50",
             "21:35"
           ]
