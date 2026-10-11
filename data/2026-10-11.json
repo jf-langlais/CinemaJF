@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-11T14:33-04:00",
-  "updatedLabel": "14 h 33",
+  "generatedAt": "2026-10-11T15:29-04:00",
+  "updatedLabel": "15 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -98,27 +98,6 @@
       ]
     },
     {
-      "title": "Désolé, Pardon, Je m'excuse",
-      "original": "Désolé, Pardon, Je m'excuse",
-      "translation": "",
-      "runtime": "1 h 23",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Digger",
       "original": "Digger",
       "translation": "",
@@ -134,7 +113,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:45"
           ]
         },
@@ -160,7 +138,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:40"
           ]
         },
@@ -247,7 +224,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:30"
           ]
         },
@@ -310,7 +286,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:50"
           ]
         },
@@ -329,7 +304,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:40"
           ]
         },
@@ -435,7 +409,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:25"
           ]
         },
@@ -486,7 +459,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:40",
             "21:10"
           ]
         },
@@ -495,7 +467,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:45"
           ]
         },
@@ -515,14 +486,6 @@
           "format": "Standard",
           "times": [
             "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:20"
           ]
         },
         {
@@ -585,7 +548,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:50"
           ]
         },
@@ -597,14 +559,6 @@
             "16:30",
             "19:10",
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         },
         {
@@ -669,7 +623,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:35"
           ]
         }
@@ -691,7 +644,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -700,7 +652,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "18:35",
             "21:00"
           ]
         },
@@ -793,7 +744,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:55"
           ]
         },
@@ -895,14 +845,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -927,7 +869,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -936,7 +877,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -945,7 +885,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:10",
             "22:00"
           ]
         },
@@ -965,14 +904,6 @@
           "format": "Standard",
           "times": [
             "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:00"
           ]
         },
         {
