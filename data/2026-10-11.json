@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-10T20:40-04:00",
-  "updatedLabel": "20 h 40",
+  "generatedAt": "2026-10-10T21:29-04:00",
+  "updatedLabel": "21 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -634,14 +634,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "UltraAVX",
           "times": [
             "16:00",
@@ -1055,18 +1047,18 @@
         },
         {
           "cinema": "cineplex-imax",
-          "lang": "VOA",
-          "format": "IMAX",
-          "times": [
-            "19:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
           "lang": "VF",
           "format": "IMAX",
           "times": [
             "15:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "19:30"
           ]
         }
       ]
@@ -1082,16 +1074,6 @@
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50",
-            "18:30",
-            "21:05"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
