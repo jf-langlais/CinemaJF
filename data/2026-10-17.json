@@ -2,8 +2,8 @@
   "date": "2026-10-17",
   "dateLabel": "2026-10-17",
   "displayDate": "2026-10-17",
-  "generatedAt": "2026-10-11T00:31-04:00",
-  "updatedLabel": "00 h 31",
+  "generatedAt": "2026-10-11T01:29-04:00",
+  "updatedLabel": "01 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,6 +44,180 @@
     }
   ],
   "movies": [
+    {
+      "title": "Always Lalisa",
+      "original": "Always Lalisa",
+      "translation": "",
+      "runtime": "1 h 40",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/always-lalisa.jpg",
+      "imdbRating": 7.4,
+      "imdbUrl": "https://www.imdb.com/title/tt37108970/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Opera: Macbeth",
+      "original": "Opera: Macbeth",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Raison et sentiments",
+      "original": "Sense and Sensibility",
+      "translation": "Raison et sentiments",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/sense-and-sensibility.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt13609648/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:40",
+            "18:50",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:40",
+            "18:50",
+            "21:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Street Fighter",
+      "original": "Street Fighter",
+      "translation": "",
+      "runtime": "1 h 59",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/street-fighter.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt27419420/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "ScreenX",
+          "times": [
+            "13:30",
+            "16:20",
+            "19:10",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX",
+          "times": [
+            "13:00",
+            "15:50",
+            "18:40",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:25",
+            "16:00",
+            "19:15",
+            "21:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Au fond de la baleine",
+      "original": "Whalefall",
+      "translation": "Au fond de la baleine",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/whalefall.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt28535715/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:10",
+            "19:00",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:10",
+            "19:00",
+            "21:30"
+          ]
+        }
+      ]
+    },
     {
       "title": "Vous pouvez tout voir",
       "original": "You Can See Everything",
