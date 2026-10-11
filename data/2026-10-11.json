@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-11T12:30-04:00",
-  "updatedLabel": "12 h 30",
+  "generatedAt": "2026-10-11T13:29-04:00",
+  "updatedLabel": "13 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -181,7 +181,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:20",
             "18:30"
           ]
         },
@@ -236,7 +235,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "16:50",
             "22:00"
           ]
         },
@@ -296,7 +294,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:40",
             "15:30",
             "18:55",
             "21:30"
@@ -361,7 +358,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:25",
             "18:40",
             "21:05"
@@ -430,7 +426,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -439,7 +434,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:40",
             "18:25",
             "21:25"
@@ -584,7 +578,6 @@
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
-            "16:45",
             "21:50"
           ]
         },
@@ -699,14 +692,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt29356163/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:45"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -755,7 +740,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:40",
             "19:05",
             "21:25"
           ]
@@ -870,7 +854,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:00",
             "18:45"
           ]
         },
@@ -901,7 +884,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:10",
             "16:25",
             "20:30"
           ]
@@ -1044,7 +1026,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:40",
             "19:00"
           ]
         },
