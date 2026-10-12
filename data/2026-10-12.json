@@ -2,8 +2,8 @@
   "date": "2026-10-12",
   "dateLabel": "2026-10-12",
   "displayDate": "2026-10-12",
-  "generatedAt": "2026-10-11T23:35-04:00",
-  "updatedLabel": "23 h 35",
+  "generatedAt": "2026-10-12T00:34-04:00",
+  "updatedLabel": "00 h 34",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -318,7 +318,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/hantee.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.9,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
@@ -542,7 +542,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
@@ -593,7 +593,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/other-mommy.jpg",
-      "imdbRating": 5.7,
+      "imdbRating": 5.5,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
@@ -918,7 +918,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/run-terry-run.jpg",
-      "imdbRating": 8.7,
+      "imdbRating": 8.8,
       "imdbUrl": "https://www.imdb.com/title/tt39130015/",
       "showings": [
         {
@@ -1021,7 +1021,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": 6.7,
+      "imdbRating": 6.8,
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
         {
