@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "dateLabel": "2026-10-11",
   "displayDate": "2026-10-11",
-  "generatedAt": "2026-10-11T21:33-04:00",
-  "updatedLabel": "21 h 33",
+  "generatedAt": "2026-10-11T22:32-04:00",
+  "updatedLabel": "22 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -67,9 +67,9 @@
       ]
     },
     {
-      "title": "Avengers: Phase Finale",
+      "title": "Avengers: Endgame",
       "original": "Avengers: Endgame",
-      "translation": "Avengers: Phase Finale",
+      "translation": "",
       "runtime": "3 h 01",
       "genre": "",
       "badge": "",
@@ -77,14 +77,6 @@
       "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt4154796/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "19:30"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -199,14 +191,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:20"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -254,14 +238,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "21:00"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -296,14 +272,6 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
           "times": [
@@ -367,14 +335,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:05"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -432,14 +392,6 @@
       "imdbRating": 7.9,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -569,15 +521,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "19:15",
-            "21:30"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -656,14 +599,6 @@
           "format": "Standard",
           "times": [
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:40"
           ]
         },
         {
@@ -775,22 +710,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:15"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -830,9 +749,9 @@
       ]
     },
     {
-      "title": "Run Terry Run",
+      "title": "Cours Terry cours",
       "original": "Run Terry Run",
-      "translation": "",
+      "translation": "Cours Terry cours",
       "runtime": "1 h 48",
       "genre": "",
       "badge": "Nouveauté",
@@ -840,14 +759,6 @@
       "imdbRating": 8.7,
       "imdbUrl": "https://www.imdb.com/title/tt39130015/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -889,27 +800,6 @@
       ]
     },
     {
-      "title": "L'Odyssée",
-      "original": "The Odyssey",
-      "translation": "L'Odyssée",
-      "runtime": "2 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-odyssey.jpg",
-      "imdbRating": 8.4,
-      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "20:30"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Le jugement social",
       "original": "The Social Reckoning",
       "translation": "Le jugement social",
@@ -926,22 +816,6 @@
           "format": "Standard",
           "times": [
             "21:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:10"
           ]
         },
         {
@@ -998,14 +872,6 @@
           "format": "Standard",
           "times": [
             "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:35"
           ]
         },
         {
