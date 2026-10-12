@@ -2,8 +2,8 @@
   "date": "2026-10-12",
   "dateLabel": "2026-10-12",
   "displayDate": "2026-10-12",
-  "generatedAt": "2026-10-12T11:34-04:00",
-  "updatedLabel": "11 h 34",
+  "generatedAt": "2026-10-12T12:32-04:00",
+  "updatedLabel": "12 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,27 +44,6 @@
     }
   ],
   "movies": [
-    {
-      "title": "À pied d'oeuvre",
-      "original": "À pied d'oeuvre",
-      "translation": "",
-      "runtime": "1 h 32",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/a-pied-d-oeuvre.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37660587/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:40"
-          ]
-        }
-      ]
-    },
     {
       "title": "Avengers: Phase Finale",
       "original": "Avengers: Endgame",
@@ -163,7 +142,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:55",
             "18:50",
             "21:45"
           ]
@@ -286,7 +264,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "18:55",
             "21:30"
           ]
@@ -306,7 +283,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:30",
             "21:15"
           ]
@@ -352,7 +328,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:20",
             "21:50"
           ]
@@ -372,7 +347,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:40",
             "21:40"
           ]
@@ -430,7 +404,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -510,7 +483,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "16:00",
             "18:40",
             "21:10"
           ]
@@ -520,7 +492,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:25",
             "19:25",
             "21:45"
           ]
@@ -638,7 +609,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:20",
             "18:50"
           ]
         },
@@ -704,7 +674,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:40",
             "18:50",
             "21:35"
           ]
@@ -737,7 +706,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "15:45",
             "18:35",
             "21:00"
           ]
@@ -760,14 +728,6 @@
             "13:35",
             "16:20",
             "19:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:10"
           ]
         },
         {
@@ -820,14 +780,6 @@
             "16:05",
             "19:25"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:20"
-          ]
         }
       ]
     },
@@ -847,7 +799,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:35",
             "18:45",
             "21:55"
           ]
@@ -917,7 +868,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:30",
             "21:05"
           ]
@@ -962,7 +912,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:35"
           ]
         }
@@ -984,7 +933,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "19:00",
             "21:40"
           ]
@@ -994,7 +942,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:20",
             "19:00",
             "21:40"
           ]
@@ -1004,7 +951,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:10",
             "22:00"
           ]
