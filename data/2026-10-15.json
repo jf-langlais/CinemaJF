@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-12T23:33-04:00",
-  "updatedLabel": "23 h 33",
+  "generatedAt": "2026-10-13T00:34-04:00",
+  "updatedLabel": "00 h 34",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -309,7 +309,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/hantee.jpg",
-      "imdbRating": 7.9,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
@@ -612,7 +612,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/pauline-julien-femme-pays.jpg",
-      "imdbRating": 7.8,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
@@ -783,7 +783,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/run-terry-run.jpg",
-      "imdbRating": 8.8,
+      "imdbRating": 8.9,
       "imdbUrl": "https://www.imdb.com/title/tt39130015/",
       "showings": [
         {
@@ -847,7 +847,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/spider-man-brand-new-day.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 7.9,
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {
@@ -1220,7 +1220,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 7.9,
+      "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
