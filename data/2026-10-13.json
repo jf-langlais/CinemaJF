@@ -2,8 +2,8 @@
   "date": "2026-10-13",
   "dateLabel": "2026-10-13",
   "displayDate": "2026-10-13",
-  "generatedAt": "2026-10-13T13:33-04:00",
-  "updatedLabel": "13 h 33",
+  "generatedAt": "2026-10-13T14:40-04:00",
+  "updatedLabel": "14 h 40",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -101,27 +101,6 @@
             "14:50",
             "17:10",
             "19:00"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:00"
           ]
         }
       ]
@@ -285,7 +264,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:15"
           ]
         },
@@ -682,7 +660,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "18:35",
             "21:00"
           ]
         },
@@ -857,7 +834,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:05"
           ]
         },
