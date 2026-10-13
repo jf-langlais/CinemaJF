@@ -2,8 +2,8 @@
   "date": "2026-10-13",
   "dateLabel": "2026-10-13",
   "displayDate": "2026-10-13",
-  "generatedAt": "2026-10-13T10:37-04:00",
-  "updatedLabel": "10 h 37",
+  "generatedAt": "2026-10-13T11:35-04:00",
+  "updatedLabel": "11 h 35",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -288,7 +288,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:20",
             "18:55",
             "21:30"
           ]
@@ -469,27 +468,6 @@
       ]
     },
     {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.7,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:35"
-          ]
-        }
-      ]
-    },
-    {
       "title": "La meilleure façon, c'est par accident",
       "original": "La meilleure façon, c'est par accident",
       "translation": "",
@@ -546,7 +524,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:30",
             "19:25",
             "21:45"
           ]
@@ -647,7 +624,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:25",
             "19:15",
             "21:50"
           ]
@@ -858,7 +834,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:35",
             "18:45",
             "21:55"
           ]
