@@ -2,8 +2,8 @@
   "date": "2026-10-19",
   "dateLabel": "2026-10-19",
   "displayDate": "2026-10-19",
-  "generatedAt": "2026-10-13T12:35-04:00",
-  "updatedLabel": "12 h 35",
+  "generatedAt": "2026-10-13T13:33-04:00",
+  "updatedLabel": "13 h 33",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -43,5 +43,89 @@
       "source": "https://www.cinemacartier.com/"
     }
   ],
-  "movies": []
+  "movies": [
+    {
+      "title": "Raison et sentiments",
+      "original": "Sense and Sensibility",
+      "translation": "Raison et sentiments",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/sense-and-sensibility.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt13609648/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:40",
+            "18:50",
+            "22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Street Fighter",
+      "original": "Street Fighter",
+      "translation": "",
+      "runtime": "1 h 59",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/street-fighter.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt27419420/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "ScreenX",
+          "times": [
+            "13:30",
+            "16:20",
+            "19:10",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX",
+          "times": [
+            "13:00",
+            "15:50",
+            "18:40",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Au fond de la baleine",
+      "original": "Whalefall",
+      "translation": "Au fond de la baleine",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/whalefall.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt28535715/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:10",
+            "19:00",
+            "21:40"
+          ]
+        }
+      ]
+    }
+  ]
 }
