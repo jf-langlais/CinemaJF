@@ -2,8 +2,8 @@
   "date": "2026-10-14",
   "dateLabel": "2026-10-14",
   "displayDate": "2026-10-14",
-  "generatedAt": "2026-10-14T13:44-04:00",
-  "updatedLabel": "13 h 44",
+  "generatedAt": "2026-10-14T14:52-04:00",
+  "updatedLabel": "14 h 52",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -135,27 +135,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:15"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Digger",
       "original": "Digger",
       "translation": "",
@@ -171,7 +150,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:45"
           ]
         },
@@ -204,7 +182,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:40"
           ]
         },
@@ -302,7 +279,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:15"
           ]
         },
@@ -366,7 +342,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:40"
           ]
         },
@@ -455,27 +430,6 @@
       ]
     },
     {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.7,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "La meilleure façon, c'est par accident",
       "original": "La meilleure façon, c'est par accident",
       "translation": "",
@@ -521,7 +475,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:40",
             "21:10"
           ]
         },
@@ -642,14 +595,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -689,7 +634,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:35"
           ]
         }
@@ -720,7 +664,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "18:35",
             "21:00"
           ]
         },
@@ -821,7 +764,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:55"
           ]
         },
@@ -890,7 +832,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:05"
           ]
         },
