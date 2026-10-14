@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-13T23:44-04:00",
-  "updatedLabel": "23 h 44",
+  "generatedAt": "2026-10-14T00:46-04:00",
+  "updatedLabel": "00 h 46",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -173,7 +173,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/digger.jpg",
-      "imdbRating": 7.4,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt31450459/",
       "showings": [
         {
@@ -309,7 +309,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/hantee.jpg",
-      "imdbRating": 7.5,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
@@ -497,7 +497,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.3,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
@@ -993,7 +993,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": 6.8,
+      "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
         {
@@ -1220,7 +1220,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {

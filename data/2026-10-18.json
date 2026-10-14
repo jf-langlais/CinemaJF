@@ -2,8 +2,8 @@
   "date": "2026-10-18",
   "dateLabel": "2026-10-18",
   "displayDate": "2026-10-18",
-  "generatedAt": "2026-10-13T23:44-04:00",
-  "updatedLabel": "23 h 44",
+  "generatedAt": "2026-10-14T00:46-04:00",
+  "updatedLabel": "00 h 46",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -118,7 +118,7 @@
           "times": [
             "13:25",
             "16:00",
-            "19:15"
+            "19:10"
           ]
         },
         {
@@ -182,7 +182,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {

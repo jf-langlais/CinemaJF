@@ -2,8 +2,8 @@
   "date": "2026-10-17",
   "dateLabel": "2026-10-17",
   "displayDate": "2026-10-17",
-  "generatedAt": "2026-10-13T23:44-04:00",
-  "updatedLabel": "23 h 44",
+  "generatedAt": "2026-10-14T00:46-04:00",
+  "updatedLabel": "00 h 46",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -52,7 +52,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/always-lalisa.jpg",
-      "imdbRating": 7.4,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt37108970/",
       "showings": [
         {
@@ -129,8 +129,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:30",
-            "15:40",
             "18:50",
             "21:40"
           ]
@@ -244,7 +242,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 7.8,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
