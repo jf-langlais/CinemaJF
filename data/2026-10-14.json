@@ -2,8 +2,8 @@
   "date": "2026-10-14",
   "dateLabel": "2026-10-14",
   "displayDate": "2026-10-14",
-  "generatedAt": "2026-10-14T11:49-04:00",
-  "updatedLabel": "11 h 49",
+  "generatedAt": "2026-10-14T12:46-04:00",
+  "updatedLabel": "12 h 46",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -171,7 +171,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:55",
             "18:50",
             "21:45"
           ]
@@ -236,7 +235,6 @@
           "lang": "VF",
           "format": "3D",
           "times": [
-            "16:10",
             "22:00"
           ]
         },
@@ -304,7 +302,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:00",
             "18:30",
             "21:15"
           ]
@@ -369,7 +366,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:40",
             "21:40"
           ]
@@ -426,7 +422,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:55"
           ]
         },
@@ -526,7 +521,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "16:00",
             "18:40",
             "21:10"
           ]
@@ -578,7 +572,6 @@
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
-            "16:45",
             "21:50"
           ]
         },
@@ -653,7 +646,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:20",
             "18:50"
           ]
         },
@@ -682,9 +674,9 @@
       ]
     },
     {
-      "title": "En direct",
+      "title": "Primetime",
       "original": "Primetime",
-      "translation": "En direct",
+      "translation": "",
       "runtime": "1 h 47",
       "genre": "",
       "badge": "",
@@ -692,14 +684,6 @@
       "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:15"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -727,7 +711,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:05",
             "21:25"
           ]
@@ -759,14 +742,6 @@
             "13:35",
             "16:20",
             "19:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:10"
           ]
         },
         {
@@ -825,7 +800,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "19:00"
           ]
         }
@@ -916,7 +890,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:30",
             "21:05"
           ]
@@ -961,7 +934,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:35"
           ]
         }
@@ -983,7 +955,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "19:00",
             "21:40"
           ]
@@ -993,7 +964,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:20",
             "19:00",
             "21:40"
           ]
@@ -1003,7 +973,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:10",
             "22:00"
           ]
@@ -1031,7 +1000,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:40",
             "19:00"
           ]
         },
