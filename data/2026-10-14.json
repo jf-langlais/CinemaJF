@@ -2,8 +2,8 @@
   "date": "2026-10-14",
   "dateLabel": "2026-10-14",
   "displayDate": "2026-10-14",
-  "generatedAt": "2026-10-13T21:40-04:00",
-  "updatedLabel": "21 h 40",
+  "generatedAt": "2026-10-13T22:43-04:00",
+  "updatedLabel": "22 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -72,7 +72,7 @@
       "translation": "",
       "runtime": "1 h 40",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/always-lalisa.jpg",
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt37108970/",
