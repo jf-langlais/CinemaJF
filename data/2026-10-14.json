@@ -2,8 +2,8 @@
   "date": "2026-10-14",
   "dateLabel": "2026-10-14",
   "displayDate": "2026-10-14",
-  "generatedAt": "2026-10-14T10:45-04:00",
-  "updatedLabel": "10 h 45",
+  "generatedAt": "2026-10-14T11:49-04:00",
+  "updatedLabel": "11 h 49",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,27 +44,6 @@
     }
   ],
   "movies": [
-    {
-      "title": "À pied d'oeuvre",
-      "original": "À pied d'oeuvre",
-      "translation": "",
-      "runtime": "1 h 32",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/a-pied-d-oeuvre.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37660587/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:40"
-          ]
-        }
-      ]
-    },
     {
       "title": "Always Lalisa",
       "original": "Always Lalisa",
@@ -306,7 +285,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:20",
             "18:55",
             "21:30"
           ]
@@ -372,7 +350,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:40",
             "19:20",
             "21:50"
           ]
@@ -519,7 +496,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:40",
             "21:25"
           ]
         },
@@ -560,7 +536,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:30",
             "19:25",
             "21:45"
           ]
@@ -659,7 +634,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:25",
             "19:15",
             "21:50"
           ]
@@ -763,7 +737,6 @@
           "lang": "VOA",
           "format": "ScreenX",
           "times": [
-            "15:45",
             "18:35",
             "21:00"
           ]
@@ -874,7 +847,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:35",
             "18:45",
             "21:55"
           ]

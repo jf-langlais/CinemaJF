@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-14T10:45-04:00",
-  "updatedLabel": "10 h 45",
+  "generatedAt": "2026-10-14T11:49-04:00",
+  "updatedLabel": "11 h 49",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -200,9 +200,9 @@
       "runtime": "",
       "genre": "",
       "badge": "",
-      "poster": "",
+      "poster": "posters/faites-du-bruit-pour-jesus.jpg",
       "imdbRating": null,
-      "imdbUrl": "",
+      "imdbUrl": "https://www.imdb.com/title/tt49146024/",
       "showings": [
         {
           "cinema": "clap-ste-foy",
