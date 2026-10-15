@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-15T10:46-04:00",
-  "updatedLabel": "10 h 46",
+  "generatedAt": "2026-10-15T11:47-04:00",
+  "updatedLabel": "11 h 47",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,27 +44,6 @@
     }
   ],
   "movies": [
-    {
-      "title": "À pied d'oeuvre",
-      "original": "À pied d'oeuvre",
-      "translation": "",
-      "runtime": "1 h 32",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/a-pied-d-oeuvre.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37660587/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:40"
-          ]
-        }
-      ]
-    },
     {
       "title": "Avengers: Phase Finale",
       "original": "Avengers: Endgame",
@@ -279,7 +258,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:20",
             "18:55",
             "21:30"
           ]
@@ -345,7 +323,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:40",
             "19:20",
             "21:50"
           ]
@@ -434,14 +411,6 @@
       "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:40"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -551,7 +520,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:25",
             "19:15",
             "21:50"
           ]
@@ -739,7 +707,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:30",
             "18:40",
             "21:40"
           ]
@@ -771,7 +738,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:35",
             "18:45",
             "21:55"
           ]
@@ -1129,7 +1095,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:30",
             "19:15",
             "21:00"
           ]
