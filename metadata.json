@@ -63,6 +63,17 @@
     "ratingChecked": "2026-10-15",
     "ratingSource": "official-dataset-v1"
   },
+  "clayface": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt34890576/",
+    "imdbVotes": null,
+    "poster": "posters/clayface.jpg",
+    "posterChecked": "2026-10-15",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-15",
+    "ratingSource": "official-dataset-v1"
+  },
   "compostelle": {
     "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt39814688/",
@@ -238,7 +249,7 @@
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
-    "posterChecked": "2026-10-14",
+    "posterChecked": "2026-10-15",
     "posterSource": "missing"
   },
   "les aventuriers voyageurs reve d afrique": {
