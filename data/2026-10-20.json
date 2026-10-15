@@ -2,8 +2,8 @@
   "date": "2026-10-20",
   "dateLabel": "2026-10-20",
   "displayDate": "2026-10-20",
-  "generatedAt": "2026-10-15T05:45-04:00",
-  "updatedLabel": "05 h 45",
+  "generatedAt": "2026-10-15T06:45-04:00",
+  "updatedLabel": "06 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -85,6 +85,15 @@
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:00"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -115,6 +124,17 @@
       "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:20",
+            "18:30",
+            "21:05"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
@@ -150,6 +170,17 @@
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:45",
+            "19:20",
+            "21:50"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -209,6 +240,39 @@
       "imdbRating": 5.4,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:40",
+            "16:35",
+            "19:35",
+            "21:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:30",
+            "18:45",
+            "21:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "D-BOX",
+          "times": [
+            "12:55",
+            "15:30",
+            "18:45",
+            "21:10"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -290,6 +354,24 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:25",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:35",
+            "19:30"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -313,6 +395,17 @@
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt13609648/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:40",
+            "18:50",
+            "22:00"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -359,6 +452,15 @@
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:35",
+            "21:45"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -390,6 +492,28 @@
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "ScreenX",
+          "times": [
+            "13:30",
+            "16:20",
+            "19:10",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX",
+          "times": [
+            "13:00",
+            "15:50",
+            "18:40",
+            "21:30"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
@@ -398,6 +522,24 @@
             "16:00",
             "19:10",
             "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "15:45",
+            "21:15"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VF",
+          "format": "IMAX",
+          "times": [
+            "13:00",
+            "18:30"
           ]
         },
         {
@@ -458,11 +600,22 @@
       "translation": "Le jugement social",
       "runtime": "1 h 52",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/the-social-reckoning.jpg",
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "15:55",
+            "18:55",
+            "21:35"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -494,6 +647,28 @@
       "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:30",
+            "19:15",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:15",
+            "19:05",
+            "21:45"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -536,6 +711,28 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt28535715/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:10",
+            "19:00",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:05",
+            "16:05",
+            "19:25",
+            "21:55"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
