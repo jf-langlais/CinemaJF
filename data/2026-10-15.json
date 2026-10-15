@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-15T14:52-04:00",
-  "updatedLabel": "14 h 52",
+  "generatedAt": "2026-10-15T15:41-04:00",
+  "updatedLabel": "15 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -144,27 +144,6 @@
       ]
     },
     {
-      "title": "Faites du bruit pour Jésus",
-      "original": "Faites du bruit pour Jésus",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/faites-du-bruit-pour-jesus.jpg",
-      "imdbRating": null,
-      "imdbUrl": "https://www.imdb.com/title/tt49146024/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "L'île de l'oubli",
       "original": "Forgotten Island",
       "translation": "L'île de l'oubli",
@@ -175,14 +154,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -235,7 +206,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:30"
           ]
         },
@@ -298,7 +268,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:50"
           ]
         },
@@ -432,7 +401,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         },
@@ -444,14 +412,6 @@
             "13:20",
             "16:10",
             "19:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:10"
           ]
         },
         {
@@ -491,7 +451,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:50"
           ]
         },
@@ -566,7 +525,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:25"
           ]
         },
@@ -595,7 +553,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:30",
             "21:55"
           ]
         },
@@ -714,15 +671,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "ScreenX",
-          "times": [
-            "19:10",
-            "22:00"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
@@ -846,14 +794,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -878,7 +818,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:45"
           ]
         },
@@ -887,7 +826,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "19:00",
             "21:45"
           ]
         },
@@ -896,7 +834,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:10",
             "22:00"
           ]
         },
@@ -908,14 +845,6 @@
             "13:25",
             "16:05",
             "19:10"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00"
           ]
         },
         {
@@ -979,7 +908,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -1026,7 +954,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:00"
           ]
         }
