@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-14T23:44-04:00",
-  "updatedLabel": "23 h 44",
+  "generatedAt": "2026-10-15T00:43-04:00",
+  "updatedLabel": "00 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -289,7 +289,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/hantee.jpg",
-      "imdbRating": 7.4,
+      "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
@@ -477,7 +477,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
@@ -499,7 +499,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/other-mommy.jpg",
-      "imdbRating": 5.5,
+      "imdbRating": 5.4,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
@@ -733,7 +733,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/run-terry-run.jpg",
-      "imdbRating": 8.9,
+      "imdbRating": 9.0,
       "imdbUrl": "https://www.imdb.com/title/tt39130015/",
       "showings": [
         {
@@ -1161,7 +1161,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 7.8,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
