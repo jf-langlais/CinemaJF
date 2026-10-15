@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-15T01:43-04:00",
-  "updatedLabel": "01 h 43",
+  "generatedAt": "2026-10-15T02:55-04:00",
+  "updatedLabel": "02 h 55",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -866,7 +866,7 @@
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "14:00",
+            "13:40",
             "16:30",
             "19:15"
           ]

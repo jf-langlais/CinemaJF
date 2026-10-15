@@ -2,8 +2,8 @@
   "date": "2026-10-17",
   "dateLabel": "2026-10-17",
   "displayDate": "2026-10-17",
-  "generatedAt": "2026-10-15T01:43-04:00",
-  "updatedLabel": "01 h 43",
+  "generatedAt": "2026-10-15T02:55-04:00",
+  "updatedLabel": "02 h 55",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -74,6 +74,136 @@
       ]
     },
     {
+      "title": "Avengers: Phase Finale",
+      "original": "Avengers: Endgame",
+      "translation": "Avengers: Phase Finale",
+      "runtime": "3 h 01",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/avengers-endgame.jpg",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt4154796/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'île de l'oubli",
+      "original": "Forgotten Island",
+      "translation": "L'île de l'oubli",
+      "runtime": "1 h 49",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/forgotten-island.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt36583977/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "18:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "15:30",
+            "20:55"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hantée",
+      "original": "Hantée",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/hantee.jpg",
+      "imdbRating": 7.1,
+      "imdbUrl": "https://www.imdb.com/title/tt40202639/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:50",
+            "16:25",
+            "19:25",
+            "21:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Au coeur de la bête",
+      "original": "Heart of the Beast",
+      "translation": "Au coeur de la bête",
+      "runtime": "1 h 41",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/heart-of-the-beast.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt7526136/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:50",
+            "18:40",
+            "21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La bataille de Gaulle: Liberté",
+      "original": "La bataille de Gaulle: Liberté",
+      "translation": "",
+      "runtime": "2 h 37",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-bataille-de-gaulle-liberte.jpg",
+      "imdbRating": 7.9,
+      "imdbUrl": "https://www.imdb.com/title/tt35856133/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:20",
+            "18:30",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Opera: Macbeth",
       "original": "Opera: Macbeth",
       "translation": "",
@@ -98,6 +228,89 @@
           "format": "Standard",
           "times": [
             "13:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Autre Maman",
+      "original": "Other Mommy",
+      "translation": "Autre Maman",
+      "runtime": "1 h 33",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/other-mommy.jpg",
+      "imdbRating": 5.4,
+      "imdbUrl": "https://www.imdb.com/title/tt36586020/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "15:55",
+            "19:20",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "D-BOX",
+          "times": [
+            "13:15",
+            "15:55",
+            "19:20",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pauline Julien: Femme pays",
+      "original": "Pauline Julien: Femme pays",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/pauline-julien-femme-pays.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39387187/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "15:50",
+            "18:55",
+            "21:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil",
+      "original": "Resident Evil",
+      "translation": "",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/resident-evil.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35538033/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:35",
+            "18:45",
+            "21:05"
           ]
         }
       ]
@@ -129,8 +342,52 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
+            "12:30",
+            "15:40",
             "18:50",
             "21:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:00",
+            "15:10",
+            "18:20",
+            "21:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man : Un jour nouveau",
+      "original": "Spider-Man: Brand New Day",
+      "translation": "Spider-Man : Un jour nouveau",
+      "runtime": "2 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/spider-man-brand-new-day.jpg",
+      "imdbRating": 7.9,
+      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:10",
+            "18:35"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "15:20",
+            "21:35"
           ]
         }
       ]
@@ -195,6 +452,84 @@
           "times": [
             "15:45",
             "21:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Devils",
+      "original": "The Devils",
+      "translation": "",
+      "runtime": "1 h 51",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/the-devils.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt0066993/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:05",
+            "15:45",
+            "19:15",
+            "21:25"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le jugement social",
+      "original": "The Social Reckoning",
+      "translation": "Le jugement social",
+      "runtime": "1 h 52",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/the-social-reckoning.jpg",
+      "imdbRating": 6.7,
+      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "14:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:40",
+            "21:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verity",
+      "original": "Verity",
+      "translation": "",
+      "runtime": "1 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/verity.jpg",
+      "imdbRating": 6.0,
+      "imdbUrl": "https://www.imdb.com/title/tt32261958/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:40",
+            "16:15",
+            "19:05",
+            "21:40"
           ]
         }
       ]

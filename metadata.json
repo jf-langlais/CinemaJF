@@ -450,6 +450,17 @@
     "ratingChecked": "2026-10-15",
     "ratingSource": "official-dataset-v1"
   },
+  "the devils": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 7.7,
+    "imdbUrl": "https://www.imdb.com/title/tt0066993/",
+    "imdbVotes": 22162,
+    "poster": "posters/the-devils.jpg",
+    "posterChecked": "2026-10-15",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-15",
+    "ratingSource": "official-dataset-v1"
+  },
   "the odyssey": {
     "imdbRating": 8.4,
     "imdbUrl": "https://www.imdb.com/title/tt33764258/",
