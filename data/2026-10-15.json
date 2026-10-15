@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-15T13:42-04:00",
-  "updatedLabel": "13 h 42",
+  "generatedAt": "2026-10-15T14:52-04:00",
+  "updatedLabel": "14 h 52",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -106,27 +106,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Digger",
       "original": "Digger",
       "translation": "",
@@ -150,7 +129,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:40"
           ]
         },
@@ -276,7 +254,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:25"
           ]
         },
@@ -340,7 +317,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:40"
           ]
         },
@@ -530,14 +506,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -577,7 +545,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:35"
           ]
         }
@@ -684,7 +651,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:40"
           ]
         },
@@ -715,7 +681,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:55"
           ]
         },
@@ -763,7 +728,6 @@
           "lang": "VOA",
           "format": "UltraAVX",
           "times": [
-            "18:40",
             "21:30"
           ]
         },
@@ -857,7 +821,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:05"
           ]
         },
