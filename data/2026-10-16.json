@@ -2,8 +2,8 @@
   "date": "2026-10-16",
   "dateLabel": "2026-10-16",
   "displayDate": "2026-10-16",
-  "generatedAt": "2026-10-15T15:41-04:00",
-  "updatedLabel": "15 h 41",
+  "generatedAt": "2026-10-15T16:44-04:00",
+  "updatedLabel": "16 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -442,7 +442,7 @@
       "title": "Raison et sentiments",
       "original": "Sense and Sensibility",
       "translation": "Raison et sentiments",
-      "runtime": "",
+      "runtime": "2 h 11",
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/sense-and-sensibility.jpg",
