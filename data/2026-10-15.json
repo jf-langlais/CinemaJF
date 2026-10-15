@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-15T06:45-04:00",
-  "updatedLabel": "06 h 45",
+  "generatedAt": "2026-10-15T07:44-04:00",
+  "updatedLabel": "07 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -658,9 +658,9 @@
       ]
     },
     {
-      "title": "En direct",
+      "title": "Primetime",
       "original": "Primetime",
-      "translation": "En direct",
+      "translation": "",
       "runtime": "1 h 47",
       "genre": "",
       "badge": "",
@@ -668,14 +668,6 @@
       "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt34206385/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:50"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -734,7 +726,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:15",
             "16:10"
           ]
         },
@@ -1016,7 +1007,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:30",
             "18:55"
           ]
