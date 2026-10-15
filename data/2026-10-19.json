@@ -2,8 +2,8 @@
   "date": "2026-10-19",
   "dateLabel": "2026-10-19",
   "displayDate": "2026-10-19",
-  "generatedAt": "2026-10-15T16:44-04:00",
-  "updatedLabel": "16 h 44",
+  "generatedAt": "2026-10-15T17:43-04:00",
+  "updatedLabel": "17 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -218,6 +218,27 @@
       ]
     },
     {
+      "title": "Mia à l'école des monstres",
+      "original": "Monster Mia",
+      "translation": "Mia à l'école des monstres",
+      "runtime": "1 h 21",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/monster-mia.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt38807889/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Autre Maman",
       "original": "Other Mommy",
       "translation": "Autre Maman",
@@ -398,16 +419,6 @@
             "13:00",
             "16:00",
             "19:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:45",
-            "15:45",
-            "18:45"
           ]
         },
         {
