@@ -2,8 +2,8 @@
   "date": "2026-10-20",
   "dateLabel": "2026-10-20",
   "displayDate": "2026-10-20",
-  "generatedAt": "2026-10-15T18:42-04:00",
-  "updatedLabel": "18 h 42",
+  "generatedAt": "2026-10-15T19:38-04:00",
+  "updatedLabel": "19 h 38",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -69,6 +69,51 @@
           "format": "3D",
           "times": [
             "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "C'est quoi l'amour?",
+      "original": "C'est quoi l'amour?",
+      "translation": "",
+      "runtime": "1 h 40",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/c-est-quoi-l-amour.jpg",
+      "imdbRating": 6.4,
+      "imdbUrl": "https://www.imdb.com/title/tt34477890/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "19:00",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chers parents",
+      "original": "Chers parents",
+      "translation": "",
+      "runtime": "1 h 26",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/chers-parents.jpg",
+      "imdbRating": 5.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "17:00"
           ]
         }
       ]
@@ -156,6 +201,17 @@
             "18:45",
             "21:20"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:00",
+            "19:10",
+            "21:10"
+          ]
         }
       ]
     },
@@ -206,6 +262,28 @@
       ]
     },
     {
+      "title": "Juste une illusion",
+      "original": "Juste une illusion",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/juste-une-illusion.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt36842933/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:40",
+            "18:50"
+          ]
+        }
+      ]
+    },
+    {
       "title": "La bataille de Gaulle: Liberté",
       "original": "La bataille de Gaulle: Liberté",
       "translation": "",
@@ -225,6 +303,36 @@
             "15:40",
             "18:30",
             "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "15:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La meilleure façon, c'est par accident",
+      "original": "La meilleure façon, c'est par accident",
+      "translation": "",
+      "runtime": "1 h 51",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
+      "imdbRating": 7.1,
+      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00",
+            "21:30"
           ]
         }
       ]
@@ -360,6 +468,17 @@
             "16:10",
             "18:50"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20"
+          ]
         }
       ]
     },
@@ -446,6 +565,16 @@
             "13:00",
             "18:40",
             "21:35"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "18:40",
+            "21:10"
           ]
         }
       ]

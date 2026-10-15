@@ -53,6 +53,17 @@
     "ratingChecked": "2026-10-08",
     "ratingSource": "official-dataset-v1"
   },
+  "c est quoi l amour": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 6.4,
+    "imdbUrl": "https://www.imdb.com/title/tt34477890/",
+    "imdbVotes": 331,
+    "poster": "posters/c-est-quoi-l-amour.jpg",
+    "posterChecked": "2026-10-15",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-15",
+    "ratingSource": "official-dataset-v1"
+  },
   "chers parents": {
     "imdbRating": 5.6,
     "imdbUrl": "https://www.imdb.com/title/tt35405429/",
@@ -183,10 +194,11 @@
   "juste une illusion": {
     "imdbRating": 7.3,
     "imdbUrl": "https://www.imdb.com/title/tt36842933/",
-    "imdbVotes": 1760,
-    "poster": "https://www.cinemaclock.com/images/posters/1000x1500/89/juste-une-illusion-2026-orig-poster.jpg",
-    "posterChecked": "2026-09-27",
-    "ratingChecked": "2026-10-01",
+    "imdbVotes": 1930,
+    "poster": "posters/juste-une-illusion.jpg",
+    "posterChecked": "2026-10-15",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-15",
     "ratingSource": "official-dataset-v1"
   },
   "l autre": {
