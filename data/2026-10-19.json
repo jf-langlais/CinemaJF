@@ -2,8 +2,8 @@
   "date": "2026-10-19",
   "dateLabel": "2026-10-19",
   "displayDate": "2026-10-19",
-  "generatedAt": "2026-10-15T23:44-04:00",
-  "updatedLabel": "23 h 44",
+  "generatedAt": "2026-10-16T00:44-04:00",
+  "updatedLabel": "00 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -219,7 +219,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/hantee.jpg",
-      "imdbRating": 7.1,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
@@ -423,7 +423,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.1,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
@@ -635,6 +635,27 @@
           "times": [
             "18:40",
             "21:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Primeurs Surprises Du Lundi",
+      "original": "Primeurs Surprises Du Lundi",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:00"
           ]
         }
       ]
@@ -954,29 +975,6 @@
       ]
     },
     {
-      "title": "The Devils",
-      "original": "The Devils",
-      "translation": "",
-      "runtime": "1 h 51",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-devils.jpg",
-      "imdbRating": 7.7,
-      "imdbUrl": "https://www.imdb.com/title/tt0066993/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "13:05",
-            "15:45",
-            "18:35"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Le jugement social",
       "original": "The Social Reckoning",
       "translation": "Le jugement social",
@@ -1204,7 +1202,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
