@@ -208,6 +208,17 @@
     "ratingChecked": "2026-10-16",
     "ratingSource": "official-dataset-v1"
   },
+  "klara and the sun": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt14371256/",
+    "imdbVotes": null,
+    "poster": "posters/klara-and-the-sun.jpg",
+    "posterChecked": "2026-10-16",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-16",
+    "ratingSource": "official-dataset-v1"
+  },
   "l autre": {
     "imdbMatchScore": 1.08,
     "imdbRating": null,
