@@ -2,8 +2,8 @@
   "date": "2026-10-16",
   "dateLabel": "2026-10-16",
   "displayDate": "2026-10-16",
-  "generatedAt": "2026-10-16T14:49-04:00",
-  "updatedLabel": "14 h 49",
+  "generatedAt": "2026-10-16T15:41-04:00",
+  "updatedLabel": "15 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -84,14 +84,6 @@
       "imdbRating": 6.4,
       "imdbUrl": "https://www.imdb.com/title/tt34477890/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -243,7 +235,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:50"
           ]
         },
@@ -392,7 +383,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:35",
             "21:55"
           ]
         },
@@ -432,14 +422,6 @@
             "16:30",
             "19:15",
             "21:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:20"
           ]
         },
         {
@@ -482,14 +464,6 @@
             "16:05",
             "18:55",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         },
         {
@@ -556,14 +530,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -579,7 +545,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:40"
           ]
         }
@@ -601,7 +566,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "22:00"
           ]
         },
@@ -719,7 +683,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "19:10",
             "22:00"
           ]
         },
@@ -765,14 +728,6 @@
           "format": "Standard",
           "times": [
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:00"
           ]
         },
         {
@@ -836,7 +791,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:35"
           ]
         },
@@ -884,7 +838,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:15",
             "22:00"
           ]
         },
@@ -893,7 +846,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:45"
           ]
         },
@@ -906,14 +858,6 @@
             "16:15",
             "19:00",
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00"
           ]
         },
         {
@@ -960,7 +904,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -969,7 +912,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         },
@@ -981,14 +923,6 @@
             "16:10",
             "19:00",
             "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
