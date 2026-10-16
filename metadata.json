@@ -624,6 +624,13 @@
     "ratingChecked": "2026-10-16",
     "ratingSource": "official-dataset-v1"
   },
+  "wicker l homme d osier": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-10-16",
+    "posterSource": "missing"
+  },
   "you can see everything": {
     "imdbMatchScore": 1.08,
     "imdbRating": 7.6,
