@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "dateLabel": "2026-10-15",
   "displayDate": "2026-10-15",
-  "generatedAt": "2026-10-15T21:41-04:00",
-  "updatedLabel": "21 h 41",
+  "generatedAt": "2026-10-15T22:43-04:00",
+  "updatedLabel": "22 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -232,17 +232,8 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "3D",
           "times": [
-            "16:45",
             "22:00"
           ]
         },
@@ -272,21 +263,11 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/hantee.jpg",
       "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:20",
-            "18:55",
-            "21:30"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
@@ -348,8 +329,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:40",
-            "19:20",
             "21:50"
           ]
         },
@@ -513,8 +492,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
-            "19:25",
             "21:55"
           ]
         },
@@ -573,8 +550,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:25",
-            "19:15",
             "21:50"
           ]
         },
@@ -663,16 +638,6 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:15",
-            "19:05",
-            "21:25"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -766,8 +731,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:30",
-            "18:40",
             "21:40"
           ]
         },
@@ -797,8 +760,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:35",
-            "18:45",
             "21:55"
           ]
         },
@@ -828,17 +789,7 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "16:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "UltraAVX",
-          "times": [
-            "15:50",
-            "18:40",
-            "21:30"
+            "22:00"
           ]
         },
         {
@@ -847,22 +798,6 @@
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "19:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VOA",
-          "format": "IMAX",
-          "times": [
-            "19:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VF",
-          "format": "IMAX",
-          "times": [
-            "16:30"
           ]
         },
         {
@@ -903,16 +838,6 @@
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50",
-            "18:30",
-            "21:05"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -966,8 +891,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
-            "19:00",
             "21:45"
           ]
         },
@@ -976,8 +899,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:20",
-            "19:00",
             "21:45"
           ]
         },
@@ -986,8 +907,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
-            "19:10",
             "22:00"
           ]
         },
@@ -1077,8 +996,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
-            "19:00",
             "21:40"
           ]
         },

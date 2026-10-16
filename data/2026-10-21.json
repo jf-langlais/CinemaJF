@@ -2,8 +2,8 @@
   "date": "2026-10-21",
   "dateLabel": "2026-10-21",
   "displayDate": "2026-10-21",
-  "generatedAt": "2026-10-15T21:41-04:00",
-  "updatedLabel": "21 h 41",
+  "generatedAt": "2026-10-15T22:43-04:00",
+  "updatedLabel": "22 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -79,11 +79,21 @@
       "translation": "",
       "runtime": "1 h 40",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/c-est-quoi-l-amour.jpg",
       "imdbRating": 6.4,
       "imdbUrl": "https://www.imdb.com/title/tt34477890/",
       "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:15",
+            "18:50"
+          ]
+        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -102,7 +112,7 @@
       "translation": "",
       "runtime": "1 h 26",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/chers-parents.jpg",
       "imdbRating": 5.6,
       "imdbUrl": "https://www.imdb.com/title/tt35405429/",
@@ -114,6 +124,57 @@
           "times": [
             "12:50",
             "17:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "De Gaulle",
+      "original": "De Gaulle",
+      "translation": "",
+      "runtime": "1 h 48",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/de-gaulle.jpg",
+      "imdbRating": 6.1,
+      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "15:50"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Dolby Atmos",
+          "times": [
+            "14:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Digger",
+      "original": "Digger",
+      "translation": "",
+      "runtime": "2 h 08",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/digger.jpg",
+      "imdbRating": 7.5,
+      "imdbUrl": "https://www.imdb.com/title/tt31450459/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:55"
           ]
         }
       ]
@@ -163,7 +224,7 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/hantee.jpg",
       "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
@@ -187,6 +248,18 @@
             "13:50",
             "16:35",
             "19:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:45",
+            "16:20",
+            "18:45",
+            "21:15"
           ]
         },
         {
@@ -246,6 +319,16 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:10",
+            "18:45"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -264,7 +347,7 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/juste-une-illusion.jpg",
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt36842933/",
@@ -333,6 +416,35 @@
       ]
     },
     {
+      "title": "La bataille de Gaulle: Résistance",
+      "original": "La bataille de Gaulle: Résistance",
+      "translation": "",
+      "runtime": "2 h 40",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:05"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Dolby Atmos",
+          "times": [
+            "10:30"
+          ]
+        }
+      ]
+    },
+    {
       "title": "La meilleure façon, c'est par accident",
       "original": "La meilleure façon, c'est par accident",
       "translation": "",
@@ -343,6 +455,15 @@
       "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "21:25"
+          ]
+        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -360,7 +481,7 @@
       "translation": "Mia à l'école des monstres",
       "runtime": "1 h 21",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/monster-mia.jpg",
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt38807889/",
@@ -440,6 +561,24 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:15",
+            "16:20",
+            "18:50"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "22:00"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -474,6 +613,17 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:30",
+            "16:10",
+            "18:50"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -492,6 +642,28 @@
             "15:00",
             "17:10",
             "19:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Primetime",
+      "original": "Primetime",
+      "translation": "",
+      "runtime": "1 h 47",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/primetime.jpg",
+      "imdbRating": 7.1,
+      "imdbUrl": "https://www.imdb.com/title/tt34206385/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "21:55"
           ]
         }
       ]
@@ -533,6 +705,15 @@
             "13:35",
             "16:00",
             "19:05"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:15",
+            "21:40"
           ]
         }
       ]
@@ -577,6 +758,16 @@
             "12:45",
             "15:45",
             "18:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "15:30",
+            "21:30"
           ]
         },
         {
@@ -709,6 +900,25 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "16:30",
+            "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "19:00",
+            "21:50"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Dolby Atmos",
@@ -797,6 +1007,22 @@
           "times": [
             "16:20"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:20"
+          ]
         }
       ]
     },
@@ -841,6 +1067,24 @@
             "13:40",
             "16:15",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "19:10"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:00",
+            "21:45"
           ]
         },
         {
@@ -907,6 +1151,25 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:00",
+            "13:35",
+            "18:55"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:15",
+            "21:30"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -922,6 +1185,29 @@
           "format": "Standard",
           "times": [
             "19:05"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vous pouvez tout voir",
+      "original": "You Can See Everything",
+      "translation": "Vous pouvez tout voir",
+      "runtime": "2 h 54",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/you-can-see-everything.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "18:20",
+            "21:15"
           ]
         }
       ]
