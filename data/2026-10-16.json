@@ -2,8 +2,8 @@
   "date": "2026-10-16",
   "dateLabel": "2026-10-16",
   "displayDate": "2026-10-16",
-  "generatedAt": "2026-10-16T09:50-04:00",
-  "updatedLabel": "09 h 50",
+  "generatedAt": "2026-10-16T10:46-04:00",
+  "updatedLabel": "10 h 46",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -144,14 +144,6 @@
           "format": "Standard",
           "times": [
             "15:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "14:10"
           ]
         }
       ]
