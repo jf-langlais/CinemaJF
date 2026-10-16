@@ -2,8 +2,8 @@
   "date": "2026-10-16",
   "dateLabel": "2026-10-16",
   "displayDate": "2026-10-16",
-  "generatedAt": "2026-10-16T11:43-04:00",
-  "updatedLabel": "11 h 43",
+  "generatedAt": "2026-10-16T12:44-04:00",
+  "updatedLabel": "12 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -127,48 +127,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:50"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Digger",
-      "original": "Digger",
-      "translation": "",
-      "runtime": "2 h 08",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/digger.jpg",
-      "imdbRating": 7.5,
-      "imdbUrl": "https://www.imdb.com/title/tt31450459/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:55"
-          ]
-        }
-      ]
-    },
-    {
       "title": "L'île de l'oubli",
       "original": "Forgotten Island",
       "translation": "L'île de l'oubli",
@@ -179,14 +137,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -251,7 +201,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:20",
             "18:45",
             "21:15"
           ]
@@ -297,7 +246,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:45",
             "19:20",
             "21:50"
           ]
@@ -477,7 +425,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:35",
             "19:35",
             "21:55"
           ]
@@ -527,7 +474,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "19:20"
           ]
         },
@@ -579,7 +525,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:10",
             "18:50"
           ]
         },
@@ -644,7 +589,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:25",
             "21:50"
           ]
         },
@@ -824,7 +768,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "16:20",
             "19:10",
             "22:00"
           ]
@@ -834,7 +777,6 @@
           "lang": "VOA",
           "format": "UltraAVX",
           "times": [
-            "15:50",
             "18:40",
             "21:30"
           ]
@@ -881,14 +823,6 @@
           "format": "Dolby Atmos",
           "times": [
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:35"
           ]
         },
         {
@@ -952,7 +886,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:55",
             "18:55",
             "21:35"
           ]
@@ -1001,7 +934,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:15",
             "22:00"
           ]
@@ -1011,7 +943,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:05",
             "21:45"
           ]
@@ -1040,7 +971,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:00",
             "21:45"
           ]
         },
@@ -1080,7 +1010,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "19:00",
             "21:40"
           ]
@@ -1090,7 +1019,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:25",
             "21:55"
           ]
@@ -1119,7 +1047,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "21:30"
           ]
         },

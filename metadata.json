@@ -606,6 +606,13 @@
     "ratingChecked": "2026-10-16",
     "ratingSource": "official-dataset-v1"
   },
+  "violence du corps de l autre": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-10-16",
+    "posterSource": "missing"
+  },
   "whalefall": {
     "imdbMatchScore": 1.08,
     "imdbRating": null,
