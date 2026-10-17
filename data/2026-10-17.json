@@ -2,8 +2,8 @@
   "date": "2026-10-17",
   "dateLabel": "2026-10-17",
   "displayDate": "2026-10-17",
-  "generatedAt": "2026-10-17T15:35-04:00",
-  "updatedLabel": "15 h 35",
+  "generatedAt": "2026-10-17T16:39-04:00",
+  "updatedLabel": "16 h 39",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -426,7 +426,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:35",
             "21:55"
           ]
         },
