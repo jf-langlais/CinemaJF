@@ -2,8 +2,8 @@
   "date": "2026-10-17",
   "dateLabel": "2026-10-17",
   "displayDate": "2026-10-17",
-  "generatedAt": "2026-10-17T07:39-04:00",
-  "updatedLabel": "07 h 39",
+  "generatedAt": "2026-10-17T08:47-04:00",
+  "updatedLabel": "08 h 47",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -271,7 +271,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:40",
             "15:20",
             "18:30",
             "21:05"
@@ -783,7 +782,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:40",
             "18:50",
             "22:00"
@@ -1037,27 +1035,11 @@
       "translation": "L'arbre enchanté",
       "runtime": "1 h 50",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/the-magic-faraway-tree.jpg",
       "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt7734244/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:00"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
