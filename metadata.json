@@ -479,7 +479,9 @@
   "soiree quiz gratuit": {
     "imdbRating": null,
     "imdbUrl": "",
-    "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
+    "poster": "",
+    "posterChecked": "2026-10-17",
+    "posterSource": "missing"
   },
   "spider man brand new day": {
     "imdbRating": 7.9,
@@ -625,6 +627,13 @@
     "ratingSource": "official-dataset-v1"
   },
   "wicker l homme d osier": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-10-17",
+    "posterSource": "missing"
+  },
+  "wildwood la contree malefique": {
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
