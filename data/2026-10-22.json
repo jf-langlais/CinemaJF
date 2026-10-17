@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-16T23:42-04:00",
-  "updatedLabel": "23 h 42",
+  "generatedAt": "2026-10-17T00:42-04:00",
+  "updatedLabel": "00 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -371,7 +371,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/klara-and-the-sun.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.8,
       "imdbUrl": "https://www.imdb.com/title/tt14371256/",
       "showings": [
         {
@@ -424,7 +424,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt28553375/",
       "showings": [
         {
@@ -453,7 +453,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
@@ -674,7 +674,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/sense-and-sensibility.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt13609648/",
       "showings": [
         {
@@ -791,7 +791,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/street-fighter.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
         {
@@ -933,7 +933,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/verity.jpg",
-      "imdbRating": 6.0,
+      "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
@@ -992,7 +992,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/whalefall.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.8,
       "imdbUrl": "https://www.imdb.com/title/tt28535715/",
       "showings": [
         {
@@ -1073,7 +1073,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 9.3,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
