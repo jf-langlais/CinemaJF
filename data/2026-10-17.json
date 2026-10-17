@@ -2,8 +2,8 @@
   "date": "2026-10-17",
   "dateLabel": "2026-10-17",
   "displayDate": "2026-10-17",
-  "generatedAt": "2026-10-17T16:39-04:00",
-  "updatedLabel": "16 h 39",
+  "generatedAt": "2026-10-17T17:39-04:00",
+  "updatedLabel": "17 h 39",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -191,14 +191,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:05"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
@@ -207,14 +199,6 @@
             "16:25",
             "19:25",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:15"
           ]
         },
         {
@@ -350,14 +334,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -427,22 +403,6 @@
           "format": "Standard",
           "times": [
             "21:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "D-BOX",
-          "times": [
-            "21:10"
           ]
         },
         {
@@ -637,14 +597,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -688,14 +640,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:15"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -735,14 +679,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "UltraAVX",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
@@ -769,14 +705,6 @@
           "times": [
             "15:45",
             "21:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:35"
           ]
         },
         {
@@ -857,14 +785,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt37510326/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -879,14 +799,6 @@
           "times": [
             "16:40",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:20"
           ]
         }
       ]
@@ -977,14 +889,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:20"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -992,14 +896,6 @@
             "13:20",
             "16:10",
             "19:00",
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
             "21:30"
           ]
         },
@@ -1020,27 +916,6 @@
           "format": "Standard",
           "times": [
             "21:45"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Vous pouvez tout voir",
-      "original": "You Can See Everything",
-      "translation": "Vous pouvez tout voir",
-      "runtime": "2 h 54",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 9.3,
-      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:15"
           ]
         }
       ]
