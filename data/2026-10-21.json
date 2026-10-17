@@ -2,8 +2,8 @@
   "date": "2026-10-21",
   "dateLabel": "2026-10-21",
   "displayDate": "2026-10-21",
-  "generatedAt": "2026-10-16T22:42-04:00",
-  "updatedLabel": "22 h 42",
+  "generatedAt": "2026-10-16T23:42-04:00",
+  "updatedLabel": "23 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -92,6 +92,38 @@
             "10:30",
             "13:15",
             "18:50"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "19:00",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chers parents",
+      "original": "Chers parents",
+      "translation": "",
+      "runtime": "1 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/chers-parents.jpg",
+      "imdbRating": 5.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "17:00"
           ]
         }
       ]
@@ -240,6 +272,17 @@
             "18:45",
             "21:20"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:00",
+            "19:10",
+            "21:10"
+          ]
         }
       ]
     },
@@ -299,6 +342,28 @@
       ]
     },
     {
+      "title": "Juste une illusion",
+      "original": "Juste une illusion",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/juste-une-illusion.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt36842933/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:40",
+            "18:50"
+          ]
+        }
+      ]
+    },
+    {
       "title": "L'autre",
       "original": "L'autre",
       "translation": "",
@@ -338,6 +403,14 @@
             "12:50",
             "15:40",
             "18:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "15:10"
           ]
         }
       ]
@@ -389,6 +462,15 @@
           "times": [
             "10:40",
             "21:25"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00",
+            "21:30"
           ]
         }
       ]
@@ -550,6 +632,17 @@
             "16:10",
             "18:50"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20"
+          ]
         }
       ]
     },
@@ -701,6 +794,25 @@
           "format": "Standard",
           "times": [
             "16:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "18:40",
+            "21:10"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:20",
+            "21:10"
           ]
         }
       ]
