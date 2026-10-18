@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-18T07:39-04:00",
-  "updatedLabel": "07 h 39",
+  "generatedAt": "2026-10-18T08:47-04:00",
+  "updatedLabel": "08 h 47",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -99,6 +99,48 @@
           "format": "UltraAVX",
           "times": [
             "18:30",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "15:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "19:10",
+            "21:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wicker: L'homme d'osier",
+      "original": "Wicker: L'homme d'osier",
+      "translation": "",
+      "runtime": "1 h 45",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "16:10",
+            "18:50",
             "21:20"
           ]
         }
