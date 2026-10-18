@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-18T05:41-04:00",
-  "updatedLabel": "05 h 41",
+  "generatedAt": "2026-10-18T06:40-04:00",
+  "updatedLabel": "06 h 40",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -69,6 +69,68 @@
           "format": "Standard",
           "times": [
             "16:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gueule d'argile",
+      "original": "Clayface",
+      "translation": "Gueule d'argile",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/clayface.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt34890576/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "18:30",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wildwood: La contrée maléfique",
+      "original": "Wildwood: La contrée maléfique",
+      "translation": "",
+      "runtime": "2 h 12",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "18:45",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "UltraAVX",
+          "times": [
+            "12:30",
+            "15:30"
           ]
         }
       ]
