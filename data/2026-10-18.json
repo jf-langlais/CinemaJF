@@ -2,8 +2,8 @@
   "date": "2026-10-18",
   "dateLabel": "2026-10-18",
   "displayDate": "2026-10-18",
-  "generatedAt": "2026-10-18T02:49-04:00",
-  "updatedLabel": "02 h 49",
+  "generatedAt": "2026-10-18T03:40-04:00",
+  "updatedLabel": "03 h 40",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -92,15 +92,6 @@
             "10:30",
             "15:40",
             "18:50"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:00",
-            "19:00"
           ]
         }
       ]
@@ -281,16 +272,6 @@
             "18:45",
             "21:20"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:00",
-            "15:00",
-            "19:10"
-          ]
         }
       ]
     },
@@ -351,28 +332,6 @@
       ]
     },
     {
-      "title": "Juste une illusion",
-      "original": "Juste une illusion",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/juste-une-illusion.jpg",
-      "imdbRating": 7.3,
-      "imdbUrl": "https://www.imdb.com/title/tt36842933/",
-      "showings": [
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "14:40",
-            "18:50"
-          ]
-        }
-      ]
-    },
-    {
       "title": "La bataille de Gaulle: Liberté",
       "original": "La bataille de Gaulle: Liberté",
       "translation": "",
@@ -391,14 +350,6 @@
             "12:20",
             "15:40",
             "18:30"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:10"
           ]
         }
       ]
@@ -450,14 +401,6 @@
           "times": [
             "10:40",
             "21:25"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "17:00"
           ]
         }
       ]
@@ -810,14 +753,6 @@
           "times": [
             "12:50",
             "18:40"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:20"
           ]
         }
       ]
