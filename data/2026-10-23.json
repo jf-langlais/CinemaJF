@@ -2,8 +2,8 @@
   "date": "2026-10-23",
   "dateLabel": "2026-10-23",
   "displayDate": "2026-10-23",
-  "generatedAt": "2026-10-19T10:49-04:00",
-  "updatedLabel": "10 h 49",
+  "generatedAt": "2026-10-19T12:06-04:00",
+  "updatedLabel": "12 h 06",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -55,6 +55,14 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:00"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",

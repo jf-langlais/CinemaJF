@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-19T10:49-04:00",
-  "updatedLabel": "10 h 49",
+  "generatedAt": "2026-10-19T12:06-04:00",
+  "updatedLabel": "12 h 06",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -56,6 +56,14 @@
       "imdbUrl": "",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "15:00"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -69,6 +77,14 @@
           "format": "Standard",
           "times": [
             "13:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00"
           ]
         }
       ]
@@ -132,6 +148,14 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",

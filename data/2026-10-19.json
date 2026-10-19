@@ -2,8 +2,8 @@
   "date": "2026-10-19",
   "dateLabel": "2026-10-19",
   "displayDate": "2026-10-19",
-  "generatedAt": "2026-10-19T10:49-04:00",
-  "updatedLabel": "10 h 49",
+  "generatedAt": "2026-10-19T12:06-04:00",
+  "updatedLabel": "12 h 06",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -82,7 +82,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:50"
           ]
         },
@@ -120,48 +119,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:50"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Digger",
-      "original": "Digger",
-      "translation": "",
-      "runtime": "2 h 08",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/digger.jpg",
-      "imdbRating": 7.5,
-      "imdbUrl": "https://www.imdb.com/title/tt31450459/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:55"
-          ]
-        }
-      ]
-    },
-    {
       "title": "L'île de l'oubli",
       "original": "Forgotten Island",
       "translation": "L'île de l'oubli",
@@ -172,14 +129,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -214,7 +163,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:20",
             "18:30",
             "21:05"
           ]
@@ -278,7 +226,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:45",
             "19:20",
             "21:50"
           ]
@@ -443,7 +390,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:30",
             "18:45",
             "21:10"
           ]
@@ -453,7 +399,6 @@
           "lang": "VOA",
           "format": "D-BOX",
           "times": [
-            "15:30",
             "18:45",
             "21:10"
           ]
@@ -676,7 +621,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:40",
             "18:50",
             "22:00"
           ]
@@ -706,7 +650,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:30",
             "18:30"
           ]
         },
@@ -820,7 +763,6 @@
           "lang": "VOA",
           "format": "UltraAVX",
           "times": [
-            "15:50",
             "18:40",
             "21:30"
           ]
@@ -927,7 +869,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:55",
             "18:55",
             "21:35"
           ]
@@ -1013,7 +954,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:00",
             "21:45"
           ]
         },
@@ -1063,7 +1003,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:25",
             "21:55"
           ]
