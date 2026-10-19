@@ -2,8 +2,8 @@
   "date": "2026-10-19",
   "dateLabel": "2026-10-19",
   "displayDate": "2026-10-19",
-  "generatedAt": "2026-10-19T17:43-04:00",
-  "updatedLabel": "17 h 43",
+  "generatedAt": "2026-10-19T18:41-04:00",
+  "updatedLabel": "18 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -195,14 +195,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -332,14 +324,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -357,14 +341,6 @@
             "13:55",
             "16:30",
             "19:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "22:00"
           ]
         },
         {
@@ -457,14 +433,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -487,14 +455,6 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt13609648/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "22:00"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -564,14 +524,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -602,14 +554,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "ScreenX",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
@@ -625,22 +569,6 @@
           "format": "IMAX",
           "times": [
             "19:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VF",
-          "format": "IMAX",
-          "times": [
-            "16:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "21:50"
           ]
         },
         {
@@ -713,22 +641,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -736,14 +648,6 @@
             "13:40",
             "16:15",
             "19:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
           ]
         },
         {
@@ -767,9 +671,9 @@
       ]
     },
     {
-      "title": "Whalefall",
+      "title": "Au fond de la baleine",
       "original": "Whalefall",
-      "translation": "",
+      "translation": "Au fond de la baleine",
       "runtime": "",
       "genre": "",
       "badge": "Nouveauté",
@@ -777,14 +681,6 @@
       "imdbRating": 6.8,
       "imdbUrl": "https://www.imdb.com/title/tt28535715/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
