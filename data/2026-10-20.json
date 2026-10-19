@@ -2,8 +2,8 @@
   "date": "2026-10-20",
   "dateLabel": "2026-10-20",
   "displayDate": "2026-10-20",
-  "generatedAt": "2026-10-18T23:46-04:00",
-  "updatedLabel": "23 h 46",
+  "generatedAt": "2026-10-19T00:45-04:00",
+  "updatedLabel": "00 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -227,7 +227,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/hantee.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
@@ -466,7 +466,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/monster-mia.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt38807889/",
       "showings": [
         {
