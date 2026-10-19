@@ -2,8 +2,8 @@
   "date": "2026-10-18",
   "dateLabel": "2026-10-18",
   "displayDate": "2026-10-18",
-  "generatedAt": "2026-10-18T21:43-04:00",
-  "updatedLabel": "21 h 43",
+  "generatedAt": "2026-10-18T22:43-04:00",
+  "updatedLabel": "22 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,35 +44,6 @@
     }
   ],
   "movies": [
-    {
-      "title": "Avengers: Phase Finale",
-      "original": "Avengers: Endgame",
-      "translation": "Avengers: Phase Finale",
-      "runtime": "3 h 01",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/avengers-endgame.jpg",
-      "imdbRating": 8.4,
-      "imdbUrl": "https://www.imdb.com/title/tt4154796/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:25"
-          ]
-        }
-      ]
-    },
     {
       "title": "C'est quoi l'amour?",
       "original": "C'est quoi l'amour?",
@@ -190,22 +161,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "15:30"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -233,15 +188,6 @@
           "format": "Standard",
           "times": [
             "21:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:25",
-            "19:25"
           ]
         },
         {
@@ -301,15 +247,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:05",
-            "18:40"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -366,15 +303,6 @@
       "imdbRating": 7.9,
       "imdbUrl": "https://www.imdb.com/title/tt35856133/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:40",
-            "18:30"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -503,24 +431,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:55",
-            "19:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "15:55",
-            "19:15"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -562,15 +472,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:50",
-            "18:55"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
@@ -657,15 +558,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:35",
-            "19:05"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -700,24 +592,6 @@
           "format": "Standard",
           "times": [
             "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:40",
-            "18:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:10",
-            "18:20"
           ]
         },
         {
@@ -795,22 +669,6 @@
           "times": [
             "21:45"
           ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "15:20"
-          ]
         }
       ]
     },
@@ -840,15 +698,6 @@
           "format": "UltraAVX",
           "times": [
             "21:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "16:00",
-            "19:10"
           ]
         },
         {
@@ -919,22 +768,6 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:20"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -979,15 +812,6 @@
           "times": [
             "19:05",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:15",
-            "19:00"
           ]
         },
         {
@@ -1055,15 +879,6 @@
           "times": [
             "19:25",
             "21:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:10",
-            "19:00"
           ]
         },
         {
