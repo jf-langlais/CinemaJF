@@ -2,8 +2,8 @@
   "date": "2026-10-19",
   "dateLabel": "2026-10-19",
   "displayDate": "2026-10-19",
-  "generatedAt": "2026-10-19T14:53-04:00",
-  "updatedLabel": "14 h 53",
+  "generatedAt": "2026-10-19T15:45-04:00",
+  "updatedLabel": "15 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -215,7 +215,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:50"
           ]
         },
@@ -361,7 +360,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:35",
             "21:55"
           ]
         },
@@ -399,14 +397,6 @@
             "13:55",
             "16:30",
             "19:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:20"
           ]
         },
         {
@@ -536,14 +526,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -559,14 +541,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:15"
           ]
         }
       ]
@@ -709,7 +683,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "19:10",
             "22:00"
           ]
         },
@@ -753,14 +726,6 @@
           "format": "Standard",
           "times": [
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:00"
           ]
         },
         {
@@ -815,7 +780,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:35"
           ]
         },
@@ -862,7 +826,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:15",
             "22:00"
           ]
         },
@@ -871,7 +834,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:45"
           ]
         },
@@ -883,14 +845,6 @@
             "13:40",
             "16:15",
             "19:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00"
           ]
         },
         {
@@ -937,7 +891,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -946,7 +899,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         },
@@ -958,14 +910,6 @@
             "13:20",
             "16:10",
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
