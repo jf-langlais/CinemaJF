@@ -53,6 +53,17 @@
     "ratingChecked": "2026-10-08",
     "ratingSource": "official-dataset-v1"
   },
+  "bts world tour arirang in buenos aires": {
+    "imdbMatchScore": 0.934,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt45591705/",
+    "imdbVotes": null,
+    "poster": "posters/bts-world-tour-arirang-in-buenos-aires.jpg",
+    "posterChecked": "2026-10-19",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-19",
+    "ratingSource": "official-dataset-v1"
+  },
   "c est quoi l amour": {
     "imdbMatchScore": 1.08,
     "imdbRating": 6.4,
