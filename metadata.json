@@ -75,6 +75,17 @@
     "ratingChecked": "2026-10-20",
     "ratingSource": "official-dataset-v1"
   },
+  "carrie": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 7.9,
+    "imdbUrl": "https://www.imdb.com/title/tt11540908/",
+    "imdbVotes": 37261,
+    "poster": "posters/carrie.jpg",
+    "posterChecked": "2026-10-20",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-20",
+    "ratingSource": "official-dataset-v1"
+  },
   "charlebois symphonique une celebration grandiose avec l osm": {
     "imdbRating": null,
     "imdbUrl": "",
