@@ -2,8 +2,8 @@
   "date": "2026-10-26",
   "dateLabel": "2026-10-26",
   "displayDate": "2026-10-26",
-  "generatedAt": "2026-10-20T01:43-04:00",
-  "updatedLabel": "01 h 43",
+  "generatedAt": "2026-10-20T02:54-04:00",
+  "updatedLabel": "02 h 54",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,6 +45,37 @@
   ],
   "movies": [
     {
+      "title": "Gueule d'argile",
+      "original": "Clayface",
+      "translation": "Gueule d'argile",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/clayface.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt34890576/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "18:30",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
       "original": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
       "translation": "",
@@ -82,6 +113,37 @@
           "format": "Standard",
           "times": [
             "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wildwood: La contrée maléfique",
+      "original": "Wildwood: La contrée maléfique",
+      "translation": "",
+      "runtime": "2 h 12",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "18:45",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "UltraAVX",
+          "times": [
+            "12:30",
+            "15:30"
           ]
         }
       ]
