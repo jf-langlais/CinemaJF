@@ -2,8 +2,8 @@
   "date": "2026-10-20",
   "dateLabel": "2026-10-20",
   "displayDate": "2026-10-20",
-  "generatedAt": "2026-10-20T12:44-04:00",
-  "updatedLabel": "12 h 44",
+  "generatedAt": "2026-10-20T13:43-04:00",
+  "updatedLabel": "13 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -669,20 +669,20 @@
         },
         {
           "cinema": "cinema-cartier",
-          "lang": "VF",
+          "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:50",
-            "18:40",
+            "15:20",
             "21:10"
           ]
         },
         {
           "cinema": "cinema-cartier",
-          "lang": "VOA",
+          "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:20",
+            "12:50",
+            "18:40",
             "21:10"
           ]
         }
@@ -936,20 +936,20 @@
         },
         {
           "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:10",
             "16:05",
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:50"
           ]
         }
       ]
