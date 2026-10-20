@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-19T23:44-04:00",
-  "updatedLabel": "23 h 44",
+  "generatedAt": "2026-10-20T00:42-04:00",
+  "updatedLabel": "00 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -237,7 +237,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/hantee.jpg",
-      "imdbRating": 7.4,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
@@ -783,7 +783,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/street-fighter.jpg",
-      "imdbRating": 6.2,
+      "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
         {
@@ -1153,7 +1153,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 9.3,
+      "imdbRating": 9.4,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
