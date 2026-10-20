@@ -2,8 +2,8 @@
   "date": "2026-10-20",
   "dateLabel": "2026-10-20",
   "displayDate": "2026-10-20",
-  "generatedAt": "2026-10-20T18:41-04:00",
-  "updatedLabel": "18 h 41",
+  "generatedAt": "2026-10-20T19:39-04:00",
+  "updatedLabel": "19 h 39",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -443,9 +443,9 @@
       ]
     },
     {
-      "title": "Raison et sentiments",
+      "title": "Sense and Sensibility",
       "original": "Sense and Sensibility",
-      "translation": "Raison et sentiments",
+      "translation": "",
       "runtime": "2 h 11",
       "genre": "",
       "badge": "Nouveauté",
@@ -455,17 +455,6 @@
       "showings": [
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:00",
-            "15:55",
-            "18:50",
-            "21:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -473,6 +462,17 @@
             "15:35",
             "18:20",
             "21:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:55",
+            "18:50",
+            "21:40"
           ]
         },
         {
