@@ -2,8 +2,8 @@
   "date": "2026-10-27",
   "dateLabel": "2026-10-27",
   "displayDate": "2026-10-27",
-  "generatedAt": "2026-10-21T15:44-04:00",
-  "updatedLabel": "15 h 44",
+  "generatedAt": "2026-10-21T16:45-04:00",
+  "updatedLabel": "16 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -158,6 +158,24 @@
             "16:30",
             "21:55"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "13:00",
+            "15:30",
+            "19:00"
+          ]
         }
       ]
     },
@@ -214,6 +232,17 @@
           ]
         },
         {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "15:45",
+            "18:50",
+            "21:20"
+          ]
+        },
+        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -243,6 +272,17 @@
           "format": "Standard",
           "times": [
             "16:10"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "15:50",
+            "18:45",
+            "21:15"
           ]
         }
       ]
@@ -397,6 +437,15 @@
           "times": [
             "22:00"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "19:15",
+            "21:50"
+          ]
         }
       ]
     },
@@ -420,6 +469,15 @@
             "13:30",
             "16:05",
             "18:45"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "16:00"
           ]
         },
         {
@@ -508,6 +566,15 @@
           ]
         },
         {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:40"
+          ]
+        },
+        {
           "cinema": "cinema-cartier",
           "lang": "VF",
           "format": "Standard",
@@ -586,6 +653,24 @@
           "times": [
             "21:50"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:20",
+            "18:40"
+          ]
         }
       ]
     },
@@ -658,6 +743,14 @@
           "times": [
             "18:55"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "21:30"
+          ]
         }
       ]
     },
@@ -708,6 +801,24 @@
           "format": "Standard",
           "times": [
             "19:05"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:35",
+            "15:35",
+            "18:55"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:25"
           ]
         }
       ]
@@ -847,6 +958,16 @@
             "14:15",
             "18:15",
             "21:10"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "16:20",
+            "20:00"
           ]
         },
         {
