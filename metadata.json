@@ -425,6 +425,13 @@
     "posterChecked": "2026-10-19",
     "posterSource": "missing"
   },
+  "programme kino quebec": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-10-21",
+    "posterSource": "missing"
+  },
   "queen budapest": {
     "imdbMatchScore": 0.778,
     "imdbRating": 8.6,
@@ -512,6 +519,17 @@
     "posterChecked": "2026-10-21",
     "posterSource": "missing"
   },
+  "someone s daughter": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 6.7,
+    "imdbUrl": "https://www.imdb.com/title/tt38568255/",
+    "imdbVotes": 29,
+    "poster": "posters/someone-s-daughter.jpg",
+    "posterChecked": "2026-10-21",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-21",
+    "ratingSource": "official-dataset-v1"
+  },
   "spider man brand new day": {
     "imdbRating": 7.9,
     "imdbUrl": "https://www.imdb.com/title/tt22084616/",
@@ -542,6 +560,17 @@
     "posterChecked": "2026-10-15",
     "posterSource": "local-cache",
     "ratingChecked": "2026-10-15",
+    "ratingSource": "official-dataset-v1"
+  },
+  "the history of concrete": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 7.6,
+    "imdbUrl": "https://www.imdb.com/title/tt39150234/",
+    "imdbVotes": 1123,
+    "poster": "posters/the-history-of-concrete.jpg",
+    "posterChecked": "2026-10-21",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-21",
     "ratingSource": "official-dataset-v1"
   },
   "the magic faraway tree": {
@@ -655,12 +684,34 @@
     "ratingChecked": "2026-10-21",
     "ratingSource": "official-dataset-v1"
   },
+  "wicker": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 7.4,
+    "imdbUrl": "https://www.imdb.com/title/tt29611136/",
+    "imdbVotes": 602,
+    "poster": "posters/wicker.jpg",
+    "posterChecked": "2026-10-21",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-21",
+    "ratingSource": "official-dataset-v1"
+  },
   "wicker l homme d osier": {
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
     "posterChecked": "2026-10-21",
     "posterSource": "missing"
+  },
+  "wildwood": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 8.9,
+    "imdbUrl": "https://www.imdb.com/title/tt2056785/",
+    "imdbVotes": 492,
+    "poster": "posters/wildwood.jpg",
+    "posterChecked": "2026-10-21",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-21",
+    "ratingSource": "official-dataset-v1"
   },
   "wildwood la contree malefique": {
     "imdbRating": null,
