@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-20T23:44-04:00",
-  "updatedLabel": "23 h 44",
+  "generatedAt": "2026-10-21T00:43-04:00",
+  "updatedLabel": "00 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -674,7 +674,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/sense-and-sensibility.jpg",
-      "imdbRating": 7.3,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt13609648/",
       "showings": [
         {
@@ -754,7 +754,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/street-fighter.jpg",
-      "imdbRating": 6.3,
+      "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
         {
@@ -998,7 +998,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/whalefall.jpg",
-      "imdbRating": 6.8,
+      "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt28535715/",
       "showings": [
         {
