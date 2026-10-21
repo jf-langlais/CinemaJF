@@ -2,8 +2,8 @@
   "date": "2026-10-21",
   "dateLabel": "2026-10-21",
   "displayDate": "2026-10-21",
-  "generatedAt": "2026-10-21T05:45-04:00",
-  "updatedLabel": "05 h 45",
+  "generatedAt": "2026-10-21T06:45-04:00",
+  "updatedLabel": "06 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -89,9 +89,18 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:15",
             "18:50"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "19:00",
+            "21:20"
           ]
         }
       ]
@@ -134,7 +143,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "15:50"
           ]
         },
@@ -245,7 +253,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:45",
             "16:20",
             "18:45",
@@ -261,6 +268,17 @@
             "15:30",
             "18:45",
             "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:00",
+            "19:10",
+            "21:10"
           ]
         }
       ]
@@ -321,6 +339,28 @@
       ]
     },
     {
+      "title": "Juste une illusion",
+      "original": "Juste une illusion",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/juste-une-illusion.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt36842933/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:40",
+            "18:50"
+          ]
+        }
+      ]
+    },
+    {
       "title": "L'autre",
       "original": "L'autre",
       "translation": "",
@@ -361,6 +401,14 @@
             "15:40",
             "18:30"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "15:10"
+          ]
         }
       ]
     },
@@ -382,14 +430,6 @@
           "times": [
             "13:05"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:30"
-          ]
         }
       ]
     },
@@ -409,8 +449,16 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "21:25"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00",
+            "21:30"
           ]
         }
       ]
@@ -557,7 +605,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:30",
             "16:10",
             "18:50"
@@ -602,7 +649,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:40",
             "21:55"
           ]
         }
@@ -705,7 +751,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:20",
             "15:30",
             "21:30"
           ]
@@ -743,6 +788,15 @@
           "times": [
             "12:50",
             "18:40",
+            "21:10"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:20",
             "21:10"
           ]
         }
@@ -899,19 +953,19 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:45",
             "19:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:20"
           ]
         },
         {
@@ -995,20 +1049,20 @@
         },
         {
           "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:10",
             "16:05",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:50"
           ]
         }
       ]
@@ -1077,20 +1131,20 @@
         },
         {
           "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:05"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:45",
             "15:25",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:05"
           ]
         }
       ]

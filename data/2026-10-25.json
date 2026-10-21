@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-21T05:45-04:00",
-  "updatedLabel": "05 h 45",
+  "generatedAt": "2026-10-21T06:45-04:00",
+  "updatedLabel": "06 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -66,6 +66,27 @@
       ]
     },
     {
+      "title": "C'est quoi l'amour?",
+      "original": "C'est quoi l'amour?",
+      "translation": "",
+      "runtime": "1 h 40",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/c-est-quoi-l-amour.jpg",
+      "imdbRating": 6.4,
+      "imdbUrl": "https://www.imdb.com/title/tt34477890/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:50"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Charlebois symphonique - Une célébration grandiose avec l'OSM",
       "original": "Charlebois symphonique - Une célébration grandiose avec l'OSM",
       "translation": "",
@@ -98,6 +119,36 @@
           "format": "Standard",
           "times": [
             "13:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chers parents",
+      "original": "Chers parents",
+      "translation": "",
+      "runtime": "1 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/chers-parents.jpg",
+      "imdbRating": 5.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:50",
+            "16:40"
           ]
         }
       ]
@@ -151,6 +202,71 @@
       ]
     },
     {
+      "title": "Hantée",
+      "original": "Hantée",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/hantee.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt40202639/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "14:50",
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Juste une illusion",
+      "original": "Juste une illusion",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/juste-une-illusion.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt36842933/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La meilleure façon, c'est par accident",
+      "original": "La meilleure façon, c'est par accident",
+      "translation": "",
+      "runtime": "1 h 51",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:50"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
       "original": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
       "translation": "",
@@ -183,6 +299,60 @@
           "format": "Standard",
           "times": [
             "16:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pauline Julien: Femme pays",
+      "original": "Pauline Julien: Femme pays",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/pauline-julien-femme-pays.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39387187/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Raison et sentiments",
+      "original": "Sense and Sensibility",
+      "translation": "Raison et sentiments",
+      "runtime": "2 h 11",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/sense-and-sensibility.jpg",
+      "imdbRating": 7.4,
+      "imdbUrl": "https://www.imdb.com/title/tt13609648/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:10"
           ]
         }
       ]
