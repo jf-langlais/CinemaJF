@@ -2,8 +2,8 @@
   "date": "2026-10-26",
   "dateLabel": "2026-10-26",
   "displayDate": "2026-10-26",
-  "generatedAt": "2026-10-21T14:51-04:00",
-  "updatedLabel": "14 h 51",
+  "generatedAt": "2026-10-21T15:44-04:00",
+  "updatedLabel": "15 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -197,18 +197,18 @@
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
-          "format": "Dolby Atmos",
+          "format": "Standard",
           "times": [
-            "10:20"
+            "12:50",
+            "15:30"
           ]
         },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
-          "format": "Standard",
+          "format": "Dolby Atmos",
           "times": [
-            "12:50",
-            "15:30"
+            "10:20"
           ]
         }
       ]
@@ -849,6 +849,15 @@
             "14:15",
             "18:15",
             "21:10"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "18:30"
           ]
         }
       ]
