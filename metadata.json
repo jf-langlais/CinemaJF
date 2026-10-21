@@ -696,11 +696,14 @@
     "ratingSource": "official-dataset-v1"
   },
   "wicker l homme d osier": {
-    "imdbRating": null,
-    "imdbUrl": "",
+    "imdbRating": 7.4,
+    "imdbUrl": "https://www.imdb.com/title/tt29611136/",
+    "imdbVotes": 606,
     "poster": "",
     "posterChecked": "2026-10-21",
-    "posterSource": "missing"
+    "posterSource": "missing",
+    "ratingChecked": "2026-10-21",
+    "ratingSource": "official-dataset-v1"
   },
   "wildwood": {
     "imdbMatchScore": 1.08,
@@ -714,11 +717,14 @@
     "ratingSource": "official-dataset-v1"
   },
   "wildwood la contree malefique": {
-    "imdbRating": null,
-    "imdbUrl": "",
+    "imdbRating": 8.9,
+    "imdbUrl": "https://www.imdb.com/title/tt2056785/",
+    "imdbVotes": 517,
     "poster": "",
     "posterChecked": "2026-10-21",
-    "posterSource": "missing"
+    "posterSource": "missing",
+    "ratingChecked": "2026-10-21",
+    "ratingSource": "official-dataset-v1"
   },
   "you can see everything": {
     "imdbMatchScore": 1.08,

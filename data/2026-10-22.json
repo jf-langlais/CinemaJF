@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-21T10:46-04:00",
-  "updatedLabel": "10 h 46",
+  "generatedAt": "2026-10-21T11:47-04:00",
+  "updatedLabel": "11 h 47",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -1192,8 +1192,8 @@
       "genre": "",
       "badge": "",
       "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "imdbRating": 7.4,
+      "imdbUrl": "https://www.imdb.com/title/tt29611136/",
       "showings": [
         {
           "cinema": "cineplex-beauport",
@@ -1213,8 +1213,8 @@
       "genre": "",
       "badge": "",
       "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "imdbRating": 8.9,
+      "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
