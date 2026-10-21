@@ -2,8 +2,8 @@
   "date": "2026-10-21",
   "dateLabel": "2026-10-21",
   "displayDate": "2026-10-21",
-  "generatedAt": "2026-10-21T13:42-04:00",
-  "updatedLabel": "13 h 42",
+  "generatedAt": "2026-10-21T14:51-04:00",
+  "updatedLabel": "14 h 51",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -85,14 +85,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt34477890/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -172,7 +164,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:05"
           ]
         },
@@ -191,7 +182,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:15"
           ]
         },
@@ -247,14 +237,6 @@
             "13:30",
             "15:50",
             "18:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:45"
           ]
         },
         {
@@ -420,7 +402,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:10"
           ]
         },
@@ -429,7 +410,6 @@
           "lang": "VOA",
           "format": "D-BOX",
           "times": [
-            "18:45",
             "21:10"
           ]
         },
@@ -451,14 +431,6 @@
             "13:55",
             "16:30",
             "19:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         },
         {
@@ -501,14 +473,6 @@
             "13:10",
             "16:05",
             "18:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         },
         {
@@ -619,18 +583,7 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:45",
-            "15:45",
-            "18:45"
           ]
         },
         {
@@ -644,19 +597,21 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "15:45",
+            "18:45"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
           ]
         },
         {
@@ -714,7 +669,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:35",
             "21:45"
           ]
         }
@@ -745,7 +699,6 @@
           "lang": "VOA",
           "format": "UltraAVX",
           "times": [
-            "18:40",
             "21:30"
           ]
         },
@@ -786,6 +739,15 @@
         },
         {
           "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "19:00",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -799,15 +761,6 @@
           "times": [
             "12:50",
             "15:50"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:00",
-            "21:50"
           ]
         }
       ]
@@ -1025,7 +978,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:20",
             "21:15"
           ]
         }

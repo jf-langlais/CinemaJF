@@ -340,6 +340,13 @@
     "ratingChecked": "2026-10-21",
     "ratingSource": "official-dataset-v1"
   },
+  "mylene farmer egregore": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-10-21",
+    "posterSource": "missing"
+  },
   "nitassinan": {
     "imdbRating": null,
     "imdbUrl": "https://www.imdb.com/title/tt43752956/",
