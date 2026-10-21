@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-20T19:39-04:00",
-  "updatedLabel": "19 h 39",
+  "generatedAt": "2026-10-20T20:55-04:00",
+  "updatedLabel": "20 h 55",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -690,22 +690,22 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:45",
-            "15:45",
-            "18:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:00",
             "16:00",
             "19:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "15:45",
+            "18:45"
           ]
         },
         {
@@ -742,35 +742,6 @@
           "format": "Standard",
           "times": [
             "16:00"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Spider-Man : Un jour nouveau",
-      "original": "Spider-Man: Brand New Day",
-      "translation": "Spider-Man : Un jour nouveau",
-      "runtime": "2 h 30",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/spider-man-brand-new-day.jpg",
-      "imdbRating": 7.9,
-      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "15:45"
           ]
         }
       ]
@@ -978,8 +949,7 @@
           "format": "Standard",
           "times": [
             "13:40",
-            "16:15",
-            "18:45"
+            "16:15"
           ]
         },
         {
