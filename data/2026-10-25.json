@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-21T16:45-04:00",
-  "updatedLabel": "16 h 45",
+  "generatedAt": "2026-10-21T17:45-04:00",
+  "updatedLabel": "17 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -83,14 +83,6 @@
           "times": [
             "16:40"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:50"
-          ]
         }
       ]
     },
@@ -127,36 +119,6 @@
           "format": "Standard",
           "times": [
             "13:30"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:00"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Chers parents",
-      "original": "Chers parents",
-      "translation": "",
-      "runtime": "1 h 26",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/chers-parents.jpg",
-      "imdbRating": 5.6,
-      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
-      "showings": [
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "14:50",
-            "16:40"
           ]
         }
       ]
@@ -329,16 +291,6 @@
             "18:50",
             "21:20"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "14:50",
-            "19:00"
-          ]
         }
       ]
     },
@@ -375,27 +327,6 @@
       ]
     },
     {
-      "title": "Juste une illusion",
-      "original": "Juste une illusion",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/juste-une-illusion.jpg",
-      "imdbRating": 7.3,
-      "imdbUrl": "https://www.imdb.com/title/tt36842933/",
-      "showings": [
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "La bataille de Gaulle: Résistance",
       "original": "La bataille de Gaulle: Résistance",
       "translation": "",
@@ -413,27 +344,6 @@
           "times": [
             "10:20",
             "13:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La meilleure façon, c'est par accident",
-      "original": "La meilleure façon, c'est par accident",
-      "translation": "",
-      "runtime": "1 h 51",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
-      "showings": [
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:50"
           ]
         }
       ]
@@ -575,17 +485,6 @@
             "13:15",
             "16:15"
           ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "15:00",
-            "17:10",
-            "19:20"
-          ]
         }
       ]
     },
@@ -689,23 +588,6 @@
           "times": [
             "13:00",
             "18:35"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:40",
-            "18:40"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:10"
           ]
         }
       ]
@@ -1076,15 +958,6 @@
             "12:45",
             "16:20",
             "20:00"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:30",
-            "18:30"
           ]
         }
       ]
