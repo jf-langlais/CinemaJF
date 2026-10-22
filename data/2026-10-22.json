@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-22T10:47-04:00",
-  "updatedLabel": "10 h 47",
+  "generatedAt": "2026-10-22T11:50-04:00",
+  "updatedLabel": "11 h 50",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -55,14 +55,6 @@
       "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt34477890/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:40"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -178,27 +170,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:50"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Digger",
       "original": "Digger",
       "translation": "",
@@ -265,7 +236,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:20",
             "18:30",
             "21:05"
           ]
@@ -329,7 +299,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:45",
             "19:20",
             "21:50"
           ]
@@ -516,7 +485,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:30",
             "18:45",
             "21:10"
           ]
@@ -526,7 +494,6 @@
           "lang": "VOA",
           "format": "D-BOX",
           "times": [
-            "15:30",
             "18:45",
             "21:10"
           ]
@@ -718,7 +685,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:40",
             "18:50",
             "22:00"
           ]
@@ -748,7 +714,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:30",
             "18:30"
           ]
         },
