@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-22T03:55-04:00",
-  "updatedLabel": "03 h 55",
+  "generatedAt": "2026-10-22T04:50-04:00",
+  "updatedLabel": "04 h 50",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -63,6 +63,16 @@
             "10:30",
             "13:15",
             "15:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "19:00",
+            "21:20"
           ]
         }
       ]
@@ -305,6 +315,17 @@
             "18:45",
             "21:20"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:00",
+            "19:10",
+            "21:10"
+          ]
         }
       ]
     },
@@ -363,6 +384,28 @@
       ]
     },
     {
+      "title": "Juste une illusion",
+      "original": "Juste une illusion",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/juste-une-illusion.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt36842933/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:40",
+            "18:50"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Klara et le soleil",
       "original": "Klara and the Sun",
       "translation": "Klara et le soleil",
@@ -403,6 +446,14 @@
             "12:50",
             "15:40",
             "18:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "15:10"
           ]
         }
       ]
@@ -454,6 +505,15 @@
           "times": [
             "10:40",
             "21:25"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "17:00",
+            "21:30"
           ]
         }
       ]
@@ -786,6 +846,15 @@
             "18:40",
             "21:10"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:20",
+            "21:10"
+          ]
         }
       ]
     },
@@ -890,14 +959,6 @@
         },
         {
           "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -912,6 +973,14 @@
           "times": [
             "15:50",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "21:50"
           ]
         }
       ]
