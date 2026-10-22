@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-22T16:43-04:00",
-  "updatedLabel": "16 h 43",
+  "generatedAt": "2026-10-22T17:54-04:00",
+  "updatedLabel": "17 h 54",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -109,14 +109,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Standard",
@@ -145,14 +137,6 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:05"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -188,14 +172,6 @@
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -263,14 +239,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -298,22 +266,6 @@
           "format": "Standard",
           "times": [
             "21:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "D-BOX",
-          "times": [
-            "21:10"
           ]
         },
         {
@@ -391,35 +343,6 @@
       ]
     },
     {
-      "title": "Resident Evil",
-      "original": "Resident Evil",
-      "translation": "",
-      "runtime": "1 h 30",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/resident-evil.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt35538033/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:15"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Raison et sentiments",
       "original": "Sense and Sensibility",
       "translation": "Raison et sentiments",
@@ -436,14 +359,6 @@
           "format": "Standard",
           "times": [
             "22:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:30"
           ]
         },
         {
@@ -505,30 +420,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Dolby Atmos",
@@ -557,27 +448,6 @@
       ]
     },
     {
-      "title": "The Social Reckoning",
-      "original": "The Social Reckoning",
-      "translation": "",
-      "runtime": "1 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:20"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -594,22 +464,6 @@
           "format": "Standard",
           "times": [
             "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
           ]
         },
         {
@@ -633,9 +487,9 @@
       ]
     },
     {
-      "title": "Au fond de la baleine",
+      "title": "Whalefall",
       "original": "Whalefall",
-      "translation": "Au fond de la baleine",
+      "translation": "",
       "runtime": "",
       "genre": "",
       "badge": "",
@@ -645,26 +499,10 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
             "21:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:30"
           ]
         },
         {
@@ -683,48 +521,6 @@
           "format": "Standard",
           "times": [
             "21:45"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Wildwood: La contrée maléfique",
-      "original": "Wildwood: La contrée maléfique",
-      "translation": "",
-      "runtime": "2 h 12",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": 8.9,
-      "imdbUrl": "https://www.imdb.com/title/tt2056785/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Vous pouvez tout voir",
-      "original": "You Can See Everything",
-      "translation": "Vous pouvez tout voir",
-      "runtime": "2 h 54",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 9.3,
-      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:15"
           ]
         }
       ]
