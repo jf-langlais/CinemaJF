@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-22T14:51-04:00",
-  "updatedLabel": "14 h 51",
+  "generatedAt": "2026-10-22T15:44-04:00",
+  "updatedLabel": "15 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -105,7 +105,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "19:10",
             "22:00"
           ]
         },
@@ -132,14 +131,6 @@
           "format": "Standard",
           "times": [
             "21:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:15"
           ]
         },
         {
@@ -259,7 +250,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "21:50"
           ]
         },
@@ -391,27 +381,6 @@
       ]
     },
     {
-      "title": "Murmures d'arbres",
-      "original": "Murmures d'arbres",
-      "translation": "",
-      "runtime": "1 h 23",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/murmures-d-arbres.jpg",
-      "imdbRating": null,
-      "imdbUrl": "https://www.imdb.com/title/tt47737481/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Autre Maman",
       "original": "Other Mommy",
       "translation": "Autre Maman",
@@ -427,7 +396,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:35",
             "21:55"
           ]
         },
@@ -571,14 +539,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -593,7 +553,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:55",
             "21:15"
           ]
         }
@@ -701,7 +660,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "19:10",
             "22:00"
           ]
         },
@@ -736,14 +694,6 @@
           "format": "Standard",
           "times": [
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:00"
           ]
         },
         {
@@ -827,7 +777,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:15",
             "22:00"
           ]
         },
@@ -836,7 +785,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:05",
             "21:45"
           ]
         },
@@ -847,14 +795,6 @@
           "times": [
             "13:40",
             "16:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:10"
           ]
         },
         {
@@ -901,7 +841,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:40"
           ]
         },
@@ -910,7 +849,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         },
@@ -922,14 +860,6 @@
             "13:20",
             "16:10",
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
