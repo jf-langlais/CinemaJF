@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-21T22:43-04:00",
-  "updatedLabel": "22 h 43",
+  "generatedAt": "2026-10-21T23:45-04:00",
+  "updatedLabel": "23 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -878,7 +878,7 @@
       "translation": "Vous pouvez tout voir",
       "runtime": "2 h 54",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
       "imdbRating": 9.4,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
