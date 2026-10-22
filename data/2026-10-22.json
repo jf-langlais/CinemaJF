@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-22T13:41-04:00",
-  "updatedLabel": "13 h 41",
+  "generatedAt": "2026-10-22T14:51-04:00",
+  "updatedLabel": "14 h 51",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -206,7 +206,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:30",
             "21:05"
           ]
         },
@@ -218,14 +217,6 @@
             "13:50",
             "16:35",
             "19:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:45"
           ]
         },
         {
@@ -280,14 +271,6 @@
             "13:30",
             "15:50",
             "18:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:45"
           ]
         },
         {
@@ -453,7 +436,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:10"
           ]
         },
@@ -462,7 +444,6 @@
           "lang": "VOA",
           "format": "D-BOX",
           "times": [
-            "18:45",
             "21:10"
           ]
         },
@@ -484,14 +465,6 @@
             "13:55",
             "16:30",
             "19:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         },
         {
@@ -533,14 +506,6 @@
             "13:10",
             "16:05",
             "18:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         },
         {
@@ -650,7 +615,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "22:00"
           ]
         },
@@ -676,18 +640,18 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
             "21:30"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:00"
           ]
         },
         {
@@ -698,14 +662,6 @@
             "13:00",
             "18:40",
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:00"
           ]
         },
         {
@@ -754,7 +710,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:30"
           ]
         },
@@ -801,6 +756,14 @@
         },
         {
           "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -815,14 +778,6 @@
           "times": [
             "15:50",
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "21:50"
           ]
         }
       ]
@@ -1042,7 +997,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:45"
           ]
         }
@@ -1064,7 +1018,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:20",
             "21:15"
           ]
         }
