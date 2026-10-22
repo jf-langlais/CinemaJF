@@ -2,8 +2,8 @@
   "date": "2026-10-21",
   "dateLabel": "2026-10-21",
   "displayDate": "2026-10-21",
-  "generatedAt": "2026-10-21T19:42-04:00",
-  "updatedLabel": "19 h 42",
+  "generatedAt": "2026-10-21T20:55-04:00",
+  "updatedLabel": "20 h 55",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -570,9 +570,9 @@
       ]
     },
     {
-      "title": "The Social Reckoning",
+      "title": "Le jugement social",
       "original": "The Social Reckoning",
-      "translation": "",
+      "translation": "Le jugement social",
       "runtime": "1 h 52",
       "genre": "",
       "badge": "",
@@ -582,19 +582,19 @@
       "showings": [
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:45",
             "19:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:20"
           ]
         }
       ]
