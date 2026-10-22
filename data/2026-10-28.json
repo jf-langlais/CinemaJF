@@ -2,8 +2,8 @@
   "date": "2026-10-28",
   "dateLabel": "2026-10-28",
   "displayDate": "2026-10-28",
-  "generatedAt": "2026-10-22T07:44-04:00",
-  "updatedLabel": "07 h 44",
+  "generatedAt": "2026-10-22T08:55-04:00",
+  "updatedLabel": "08 h 55",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -512,6 +512,14 @@
       "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VF",
+          "format": "IMAX",
+          "times": [
+            "19:20"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
