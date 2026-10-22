@@ -580,6 +580,17 @@
     "ratingChecked": "2026-10-22",
     "ratingSource": "official-dataset-v1"
   },
+  "the house with a clock in its walls": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 6.1,
+    "imdbUrl": "https://www.imdb.com/title/tt2119543/",
+    "imdbVotes": 60892,
+    "poster": "posters/the-house-with-a-clock-in-its-walls.jpg",
+    "posterChecked": "2026-10-22",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-22",
+    "ratingSource": "official-dataset-v1"
+  },
   "the magic faraway tree": {
     "imdbMatchScore": 1.08,
     "imdbRating": 6.2,

@@ -2,8 +2,8 @@
   "date": "2026-10-23",
   "dateLabel": "2026-10-23",
   "displayDate": "2026-10-23",
-  "generatedAt": "2026-10-22T15:44-04:00",
-  "updatedLabel": "15 h 44",
+  "generatedAt": "2026-10-22T16:43-04:00",
+  "updatedLabel": "16 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -150,24 +150,6 @@
           "times": [
             "18:30",
             "21:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:25",
-            "15:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "19:10",
-            "21:45"
           ]
         },
         {
@@ -860,20 +842,11 @@
       "translation": "",
       "runtime": "1 h 45",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "",
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt29611136/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:30",
-            "18:45"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
