@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-22T11:50-04:00",
-  "updatedLabel": "11 h 50",
+  "generatedAt": "2026-10-22T12:47-04:00",
+  "updatedLabel": "12 h 47",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -103,17 +103,8 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "16:35",
             "19:10",
             "22:00"
           ]
@@ -165,27 +156,6 @@
           "format": "Standard",
           "times": [
             "18:50"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Digger",
-      "original": "Digger",
-      "translation": "",
-      "runtime": "2 h 08",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/digger.jpg",
-      "imdbRating": 7.5,
-      "imdbUrl": "https://www.imdb.com/title/tt31450459/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:55"
           ]
         }
       ]
@@ -255,7 +225,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:20",
             "18:45"
           ]
         },
@@ -475,7 +444,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:35",
             "19:35",
             "21:55"
           ]
@@ -523,7 +491,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "18:50"
           ]
         },
@@ -573,7 +540,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:10",
             "18:50"
           ]
         },
@@ -636,7 +602,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:25",
             "21:50"
           ]
         },
@@ -780,7 +745,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "16:20",
             "19:10",
             "22:00"
           ]
@@ -790,7 +754,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:40",
             "21:30"
           ]
@@ -826,14 +789,6 @@
           "format": "Dolby Atmos",
           "times": [
             "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:30"
           ]
         },
         {
@@ -917,7 +872,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:15",
             "22:00"
           ]
@@ -927,7 +881,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:05",
             "21:45"
           ]
@@ -954,7 +907,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:00",
             "21:45"
           ]
         },
@@ -994,7 +946,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "19:00",
             "21:40"
           ]
@@ -1004,7 +955,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:25",
             "21:55"
           ]
@@ -1032,7 +982,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "21:30"
           ]
         },
