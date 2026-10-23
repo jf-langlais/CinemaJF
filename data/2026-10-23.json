@@ -2,8 +2,8 @@
   "date": "2026-10-23",
   "dateLabel": "2026-10-23",
   "displayDate": "2026-10-23",
-  "generatedAt": "2026-10-22T21:48-04:00",
-  "updatedLabel": "21 h 48",
+  "generatedAt": "2026-10-22T22:44-04:00",
+  "updatedLabel": "22 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -153,6 +153,35 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:35",
+            "18:30",
+            "21:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "15:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "19:10",
+            "21:45"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Dolby Atmos",
@@ -241,6 +270,24 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:05",
+            "18:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "15:40",
+            "21:45"
+          ]
+        },
+        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -270,6 +317,17 @@
             "15:20",
             "18:45",
             "21:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:50",
+            "16:25",
+            "19:25",
+            "20:45"
           ]
         },
         {
@@ -321,6 +379,17 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:35",
+            "16:00",
+            "18:35",
+            "21:05"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -361,6 +430,17 @@
             "16:30",
             "19:15",
             "21:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:40",
+            "16:20",
+            "18:55",
+            "21:30"
           ]
         }
       ]
@@ -414,7 +494,7 @@
       "translation": "",
       "runtime": "1 h 30",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
@@ -508,6 +588,17 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:55",
+            "16:35",
+            "19:20",
+            "21:40"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -545,6 +636,17 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "15:55",
+            "18:25",
+            "21:00"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
@@ -618,6 +720,17 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "14:00",
+            "16:40",
+            "19:25",
+            "21:45"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
@@ -646,6 +759,24 @@
           "times": [
             "18:50",
             "21:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:45",
+            "21:35"
           ]
         },
         {
@@ -747,6 +878,28 @@
             "15:50",
             "18:40",
             "21:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:15",
+            "19:00",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "D-BOX",
+          "times": [
+            "13:25",
+            "16:15",
+            "19:00",
+            "21:45"
           ]
         },
         {
@@ -875,6 +1028,17 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "16:10",
+            "18:50",
+            "21:25"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -956,6 +1120,17 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:30",
+            "19:15",
+            "21:40"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -1021,11 +1196,20 @@
       "translation": "",
       "runtime": "1 h 45",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt29611136/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "18:45"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
@@ -1089,6 +1273,24 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "18:15",
+            "21:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:05",
+            "16:05"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -1118,6 +1320,16 @@
             "13:50",
             "17:30",
             "21:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "16:45",
+            "20:20"
           ]
         },
         {

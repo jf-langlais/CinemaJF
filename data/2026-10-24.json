@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-22T21:48-04:00",
-  "updatedLabel": "21 h 48",
+  "generatedAt": "2026-10-22T22:44-04:00",
+  "updatedLabel": "22 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -1168,20 +1168,11 @@
       "translation": "",
       "runtime": "1 h 45",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/wicker.jpg",
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt29611136/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:00",
-            "21:15"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
