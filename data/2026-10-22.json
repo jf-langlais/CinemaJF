@@ -2,8 +2,8 @@
   "date": "2026-10-22",
   "dateLabel": "2026-10-22",
   "displayDate": "2026-10-22",
-  "generatedAt": "2026-10-22T19:41-04:00",
-  "updatedLabel": "19 h 41",
+  "generatedAt": "2026-10-22T20:59-04:00",
+  "updatedLabel": "20 h 59",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -298,9 +298,9 @@
       ]
     },
     {
-      "title": "Raison et sentiments",
+      "title": "Sense and Sensibility",
       "original": "Sense and Sensibility",
-      "translation": "Raison et sentiments",
+      "translation": "",
       "runtime": "2 h 11",
       "genre": "",
       "badge": "Nouveauté",
@@ -310,20 +310,20 @@
       "showings": [
         {
           "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:00",
             "18:40",
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:00"
           ]
         },
         {

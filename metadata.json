@@ -163,6 +163,17 @@
     "ratingChecked": "2026-10-22",
     "ratingSource": "official-dataset-v1"
   },
+  "e t the extra terrestrial": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 7.9,
+    "imdbUrl": "https://www.imdb.com/title/tt0083866/",
+    "imdbVotes": 478334,
+    "poster": "posters/e-t-the-extra-terrestrial.jpg",
+    "posterChecked": "2026-10-22",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-22",
+    "ratingSource": "official-dataset-v1"
+  },
   "faites du bruit pour jesus": {
     "imdbMatchScore": 1.08,
     "imdbRating": null,
@@ -381,6 +392,17 @@
     "imdbVotes": 11724,
     "poster": "posters/other-mommy.jpg",
     "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-22",
+    "ratingSource": "official-dataset-v1"
+  },
+  "ozzy black sabbath back to the beginning": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt46055956/",
+    "imdbVotes": null,
+    "poster": "posters/ozzy-black-sabbath-back-to-the-beginning.jpg",
+    "posterChecked": "2026-10-22",
     "posterSource": "local-cache",
     "ratingChecked": "2026-10-22",
     "ratingSource": "official-dataset-v1"
