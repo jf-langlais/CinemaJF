@@ -2,8 +2,8 @@
   "date": "2026-10-26",
   "dateLabel": "2026-10-26",
   "displayDate": "2026-10-26",
-  "generatedAt": "2026-10-22T22:44-04:00",
-  "updatedLabel": "22 h 44",
+  "generatedAt": "2026-10-22T23:45-04:00",
+  "updatedLabel": "23 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -50,7 +50,7 @@
       "translation": "",
       "runtime": "1 h 40",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/c-est-quoi-l-amour.jpg",
       "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt34477890/",
@@ -62,6 +62,14 @@
           "times": [
             "10:20",
             "13:25"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:50"
           ]
         }
       ]
@@ -96,10 +104,32 @@
       ]
     },
     {
+      "title": "Chers parents",
+      "original": "Chers parents",
+      "translation": "",
+      "runtime": "1 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/chers-parents.jpg",
+      "imdbRating": 5.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35405429/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "16:40"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Gueule d'argile",
       "original": "Clayface",
       "translation": "Gueule d'argile",
-      "runtime": "",
+      "runtime": "1 h 48",
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/clayface.jpg",
@@ -109,19 +139,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "UltraAVX",
           "times": [
-            "13:10",
-            "16:00"
+            "18:30",
+            "21:20"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "UltraAVX",
+          "format": "Standard",
           "times": [
-            "18:30",
-            "21:20"
+            "13:10",
+            "16:00"
           ]
         },
         {
@@ -311,6 +341,16 @@
             "18:50",
             "21:20"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "14:50",
+            "19:00"
+          ]
         }
       ]
     },
@@ -368,12 +408,34 @@
       ]
     },
     {
+      "title": "Juste une illusion",
+      "original": "Juste une illusion",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/juste-une-illusion.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt36842933/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:30",
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Klara et le soleil",
       "original": "Klara and the Sun",
       "translation": "Klara et le soleil",
       "runtime": "",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/klara-and-the-sun.jpg",
       "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt14371256/",
@@ -440,6 +502,14 @@
           "format": "Standard",
           "times": [
             "16:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:50"
           ]
         }
       ]
@@ -589,6 +659,17 @@
             "13:15",
             "16:00"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20"
+          ]
         }
       ]
     },
@@ -726,6 +807,23 @@
             "15:40",
             "18:35"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:10"
+          ]
         }
       ]
     },
@@ -756,7 +854,7 @@
       "translation": "Sans témoin",
       "runtime": "1 h 36",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/someone-s-daughter.jpg",
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt38568255/",
@@ -877,7 +975,7 @@
       "translation": "",
       "runtime": "1 h 40",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/the-history-of-concrete.jpg",
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt39150234/",
@@ -985,7 +1083,7 @@
       "translation": "",
       "runtime": "1 h 58",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
@@ -1147,7 +1245,7 @@
       "translation": "",
       "runtime": "2 h 12",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/wildwood.jpg",
       "imdbRating": 8.9,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
@@ -1226,7 +1324,7 @@
       "translation": "",
       "runtime": "2 h 54",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/you-can-see-everything.jpg",
       "imdbRating": 9.3,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
@@ -1269,6 +1367,15 @@
             "12:45",
             "16:20",
             "20:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "18:30"
           ]
         }
       ]
