@@ -2,8 +2,8 @@
   "date": "2026-10-23",
   "dateLabel": "2026-10-23",
   "displayDate": "2026-10-23",
-  "generatedAt": "2026-10-23T17:42-04:00",
-  "updatedLabel": "17 h 42",
+  "generatedAt": "2026-10-23T18:48-04:00",
+  "updatedLabel": "18 h 48",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -146,14 +146,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Dolby Atmos",
@@ -270,14 +262,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -333,14 +317,6 @@
       "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt14371256/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -440,14 +416,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -514,14 +482,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -529,14 +489,6 @@
             "16:40",
             "19:25",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:50"
           ]
         }
       ]
@@ -552,14 +504,6 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt13609648/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -619,14 +563,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "ScreenX",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -663,14 +599,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Standard",
@@ -702,14 +630,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -730,9 +650,9 @@
       ]
     },
     {
-      "title": "Whalefall",
+      "title": "Au fond de la baleine",
       "original": "Whalefall",
-      "translation": "",
+      "translation": "Au fond de la baleine",
       "runtime": "",
       "genre": "",
       "badge": "",
@@ -740,14 +660,6 @@
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt28535715/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -823,27 +735,6 @@
       ]
     },
     {
-      "title": "Wildwood",
-      "original": "Wildwood",
-      "translation": "",
-      "runtime": "2 h 12",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/wildwood.jpg",
-      "imdbRating": 8.9,
-      "imdbUrl": "https://www.imdb.com/title/tt2056785/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Wildwood: La contrée maléfique",
       "original": "Wildwood: La contrée maléfique",
       "translation": "",
@@ -854,14 +745,6 @@
       "imdbRating": 8.9,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
