@@ -2,8 +2,8 @@
   "date": "2026-10-23",
   "dateLabel": "2026-10-23",
   "displayDate": "2026-10-23",
-  "generatedAt": "2026-10-23T06:49-04:00",
-  "updatedLabel": "06 h 49",
+  "generatedAt": "2026-10-23T07:58-04:00",
+  "updatedLabel": "07 h 58",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -549,7 +549,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:10"
           ]
         },
@@ -1014,27 +1013,6 @@
           "format": "Standard",
           "times": [
             "16:45"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Le jugement social",
-      "original": "The Social Reckoning",
-      "translation": "Le jugement social",
-      "runtime": "1 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:00"
           ]
         }
       ]
