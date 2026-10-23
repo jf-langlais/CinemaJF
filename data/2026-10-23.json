@@ -2,8 +2,8 @@
   "date": "2026-10-23",
   "dateLabel": "2026-10-23",
   "displayDate": "2026-10-23",
-  "generatedAt": "2026-10-23T05:45-04:00",
-  "updatedLabel": "05 h 45",
+  "generatedAt": "2026-10-23T06:49-04:00",
+  "updatedLabel": "06 h 49",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -246,14 +246,6 @@
           "times": [
             "15:25"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:20"
-          ]
         }
       ]
     },
@@ -343,7 +335,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:30",
             "16:05",
             "18:40",
@@ -406,14 +397,6 @@
             "16:00",
             "18:35",
             "21:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:30"
           ]
         },
         {
@@ -502,7 +485,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:10"
           ]
         }
@@ -519,14 +501,6 @@
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:30"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -702,7 +676,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:20",
             "16:05",
             "18:45"
@@ -845,7 +818,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:20",
             "18:30"
           ]
@@ -993,7 +965,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:15",
             "19:00"
           ]
@@ -1254,7 +1225,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:40",
             "21:30"
           ]
         }
@@ -1407,7 +1377,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "14:15",
             "18:15",
             "21:10"
