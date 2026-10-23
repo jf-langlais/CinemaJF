@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-23T00:43-04:00",
-  "updatedLabel": "00 h 43",
+  "generatedAt": "2026-10-23T01:43-04:00",
+  "updatedLabel": "01 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -166,19 +166,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "UltraAVX",
+          "format": "Standard",
           "times": [
-            "18:30",
-            "21:20"
+            "13:10",
+            "16:00"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "UltraAVX",
           "times": [
-            "13:10",
-            "16:00"
+            "18:30",
+            "21:20"
           ]
         },
         {
@@ -1372,19 +1372,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
-          "format": "Standard",
+          "format": "UltraAVX",
           "times": [
-            "18:45",
-            "21:45"
+            "12:30",
+            "15:30"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
-          "format": "UltraAVX",
+          "format": "Standard",
           "times": [
-            "12:30",
-            "15:30"
+            "18:45",
+            "21:45"
           ]
         },
         {
