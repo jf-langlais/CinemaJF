@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-24T12:42-04:00",
-  "updatedLabel": "12 h 42",
+  "generatedAt": "2026-10-24T13:39-04:00",
+  "updatedLabel": "13 h 39",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -203,14 +203,6 @@
         },
         {
           "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Dolby Atmos",
           "times": [
@@ -218,6 +210,14 @@
             "13:40",
             "16:25",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "21:40"
           ]
         }
       ]
@@ -766,7 +766,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:50",
             "19:40",
             "22:30"
           ]
@@ -843,27 +842,6 @@
           "format": "Standard",
           "times": [
             "21:35"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "The History of Concrete",
-      "original": "The History of Concrete",
-      "translation": "",
-      "runtime": "1 h 40",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/the-history-of-concrete.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt39150234/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:45"
           ]
         }
       ]
@@ -978,7 +956,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:45",
             "19:25",
             "21:55"
           ]
@@ -1167,7 +1144,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "17:30",
             "21:10"
           ]
         },
