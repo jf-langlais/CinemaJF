@@ -64,6 +64,17 @@
     "ratingChecked": "2026-10-24",
     "ratingSource": "official-dataset-v1"
   },
+  "bts world tour arirang in sao paulo": {
+    "imdbMatchScore": 0.923,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt45591708/",
+    "imdbVotes": null,
+    "poster": "posters/bts-world-tour-arirang-in-sao-paulo.jpg",
+    "posterChecked": "2026-10-24",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-24",
+    "ratingSource": "official-dataset-v1"
+  },
   "c est quoi l amour": {
     "imdbMatchScore": 1.08,
     "imdbRating": 6.5,
@@ -622,6 +633,17 @@
     "posterChecked": "2026-10-15",
     "posterSource": "local-cache",
     "ratingChecked": "2026-10-17",
+    "ratingSource": "official-dataset-v1"
+  },
+  "the nightmare before christmas": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 7.9,
+    "imdbUrl": "https://www.imdb.com/title/tt0107688/",
+    "imdbVotes": 418148,
+    "poster": "posters/the-nightmare-before-christmas.jpg",
+    "posterChecked": "2026-10-24",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-24",
     "ratingSource": "official-dataset-v1"
   },
   "the odyssey": {
