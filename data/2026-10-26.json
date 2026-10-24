@@ -2,8 +2,8 @@
   "date": "2026-10-26",
   "dateLabel": "2026-10-26",
   "displayDate": "2026-10-26",
-  "generatedAt": "2026-10-24T09:41-04:00",
-  "updatedLabel": "09 h 41",
+  "generatedAt": "2026-10-24T10:41-04:00",
+  "updatedLabel": "10 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -81,9 +81,9 @@
       "runtime": "",
       "genre": "",
       "badge": "",
-      "poster": "",
+      "poster": "posters/charlebois-symphonique-une-celebration-grandiose-avec-l-osm.jpg",
       "imdbRating": null,
-      "imdbUrl": "",
+      "imdbUrl": "https://www.imdb.com/title/tt49970957/",
       "showings": [
         {
           "cinema": "clap-ste-foy",
@@ -951,20 +951,20 @@
         },
         {
           "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:30",
             "15:20",
             "18:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:35"
           ]
         }
       ]

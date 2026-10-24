@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-24T09:41-04:00",
-  "updatedLabel": "09 h 41",
+  "generatedAt": "2026-10-24T10:41-04:00",
+  "updatedLabel": "10 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -93,9 +93,9 @@
       "runtime": "",
       "genre": "",
       "badge": "",
-      "poster": "",
+      "poster": "posters/charlebois-symphonique-une-celebration-grandiose-avec-l-osm.jpg",
       "imdbRating": null,
-      "imdbUrl": "",
+      "imdbUrl": "https://www.imdb.com/title/tt49970957/",
       "showings": [
         {
           "cinema": "clap-loretteville",
@@ -198,7 +198,6 @@
           "lang": "VF",
           "format": "Dolby Atmos",
           "times": [
-            "13:50",
             "19:15"
           ]
         },
@@ -317,7 +316,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "14:00",
             "16:30",
             "19:00",
             "21:30"
@@ -691,14 +689,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "14:10"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -805,9 +795,9 @@
       ]
     },
     {
-      "title": "Sans témoin",
+      "title": "Someone's Daughter",
       "original": "Someone's Daughter",
-      "translation": "Sans témoin",
+      "translation": "",
       "runtime": "1 h 36",
       "genre": "",
       "badge": "Nouveauté",
@@ -815,14 +805,6 @@
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt38568255/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:45"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
@@ -859,7 +841,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "14:05",
             "16:50",
             "19:40",
             "22:30"
@@ -924,20 +905,20 @@
         },
         {
           "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "10:40",
             "13:25",
             "18:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:35"
           ]
         }
       ]
@@ -1097,7 +1078,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "14:15",
             "16:45",
             "19:25",
             "21:55"
@@ -1297,7 +1277,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:50",
             "17:30",
             "21:10"
           ]
@@ -1317,7 +1296,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "14:15",
             "18:15",
             "21:10"
           ]
