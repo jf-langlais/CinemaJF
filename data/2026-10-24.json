@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-24T11:42-04:00",
-  "updatedLabel": "11 h 42",
+  "generatedAt": "2026-10-24T12:42-04:00",
+  "updatedLabel": "12 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -150,14 +150,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "UltraAVX",
           "times": [
             "18:30",
@@ -206,7 +198,6 @@
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
-            "16:30",
             "21:55"
           ]
         },
@@ -242,14 +233,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:05"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -295,7 +278,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:00",
             "21:30"
           ]
@@ -316,7 +298,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:05",
             "18:40",
             "21:25"
           ]
@@ -362,7 +343,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:45",
             "19:20",
             "22:00"
           ]
@@ -428,7 +408,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:15",
             "21:55"
           ]
@@ -598,7 +577,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:05",
             "18:45"
           ]
         },
@@ -657,14 +635,6 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:30"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -772,27 +742,6 @@
       ]
     },
     {
-      "title": "Someone's Daughter",
-      "original": "Someone's Daughter",
-      "translation": "",
-      "runtime": "1 h 36",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/someone-s-daughter.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt38568255/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:10"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Street Fighter",
       "original": "Street Fighter",
       "translation": "",
@@ -808,7 +757,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "16:20",
             "19:10",
             "22:00"
           ]
@@ -868,7 +816,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:00"
           ]
         },
@@ -958,7 +905,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:50"
           ]
         },
@@ -994,7 +940,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:20",
             "21:40"
           ]
         },
@@ -1004,27 +949,6 @@
           "format": "Standard",
           "times": [
             "21:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Violence du corps de l'autre",
-      "original": "Violence du corps de l'autre",
-      "translation": "",
-      "runtime": "1 h 58",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:15"
           ]
         }
       ]
@@ -1045,7 +969,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "18:40",
             "21:40"
           ]
@@ -1154,7 +1077,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:00",
             "19:00"
           ]
         }
@@ -1176,7 +1098,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
             "21:45"
           ]
         }
