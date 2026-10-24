@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-24T06:42-04:00",
-  "updatedLabel": "06 h 42",
+  "generatedAt": "2026-10-24T07:41-04:00",
+  "updatedLabel": "07 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -263,27 +263,6 @@
       ]
     },
     {
-      "title": "E.T. The Extra-Terrestrial",
-      "original": "E.T. The Extra-Terrestrial",
-      "translation": "",
-      "runtime": "2 h 00",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/e-t-the-extra-terrestrial.jpg",
-      "imdbRating": 7.9,
-      "imdbUrl": "https://www.imdb.com/title/tt0083866/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "11:30"
-          ]
-        }
-      ]
-    },
-    {
       "title": "L'île de l'oubli",
       "original": "Forgotten Island",
       "translation": "L'île de l'oubli",
@@ -299,7 +278,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:30",
             "13:15",
             "16:05"
           ]
@@ -349,7 +327,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "11:30",
             "14:00",
             "16:30",
             "19:00",
@@ -572,7 +549,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:10"
           ]
         },
@@ -1054,40 +1030,11 @@
       "imdbUrl": "https://www.imdb.com/title/tt2119543/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:00"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Le jugement social",
-      "original": "The Social Reckoning",
-      "translation": "Le jugement social",
-      "runtime": "1 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:00"
           ]
         }
       ]
