@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-24T14:44-04:00",
-  "updatedLabel": "14 h 44",
+  "generatedAt": "2026-10-24T15:37-04:00",
+  "updatedLabel": "15 h 37",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,27 +44,6 @@
     }
   ],
   "movies": [
-    {
-      "title": "BTS World Tour 'Arirang' in Buenos Aires",
-      "original": "BTS World Tour 'Arirang' in Buenos Aires",
-      "translation": "",
-      "runtime": "3 h 15",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/bts-world-tour-arirang-in-buenos-aires.jpg",
-      "imdbRating": null,
-      "imdbUrl": "https://www.imdb.com/title/tt45591705/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        }
-      ]
-    },
     {
       "title": "C'est quoi l'amour?",
       "original": "C'est quoi l'amour?",
@@ -186,14 +165,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
@@ -277,7 +248,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "19:00",
             "21:30"
           ]
         },
@@ -341,7 +311,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "22:00"
           ]
         },
@@ -406,7 +375,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:15",
             "21:55"
           ]
         },
@@ -507,14 +475,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:10"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -552,14 +512,6 @@
             "15:30",
             "18:25",
             "21:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:45"
           ]
         },
         {
@@ -633,7 +585,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:50"
           ]
         }
@@ -655,7 +606,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:50"
           ]
         },
@@ -731,7 +681,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "19:10",
             "22:00"
           ]
         },
@@ -782,14 +731,6 @@
           "times": [
             "15:45",
             "21:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:00"
           ]
         },
         {
@@ -861,14 +802,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:05"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -877,14 +810,6 @@
             "15:40",
             "18:50",
             "21:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
@@ -929,7 +854,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         },
@@ -950,14 +874,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:05"
           ]
         },
         {
@@ -1021,14 +937,6 @@
             "13:30",
             "18:45"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
         }
       ]
     },
@@ -1069,7 +977,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:45"
           ]
         },
@@ -1089,14 +996,6 @@
           "times": [
             "12:15",
             "15:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         }
       ]
