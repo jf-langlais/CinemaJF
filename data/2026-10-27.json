@@ -2,8 +2,8 @@
   "date": "2026-10-27",
   "dateLabel": "2026-10-27",
   "displayDate": "2026-10-27",
-  "generatedAt": "2026-10-23T23:44-04:00",
-  "updatedLabel": "23 h 44",
+  "generatedAt": "2026-10-24T00:42-04:00",
+  "updatedLabel": "00 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -102,7 +102,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/clayface.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt34890576/",
       "showings": [
         {
@@ -412,7 +412,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/klara-and-the-sun.jpg",
-      "imdbRating": 6.1,
+      "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt14371256/",
       "showings": [
         {
@@ -469,7 +469,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
@@ -549,7 +549,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/other-mommy.jpg",
-      "imdbRating": 5.4,
+      "imdbRating": 5.3,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
         {
@@ -633,7 +633,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/pauline-julien-femme-pays.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
@@ -1197,7 +1197,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/wicker.jpg",
-      "imdbRating": 7.4,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt29611136/",
       "showings": [
         {
@@ -1228,7 +1228,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "",
-      "imdbRating": 7.4,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt29611136/",
       "showings": [
         {
@@ -1259,7 +1259,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/wildwood.jpg",
-      "imdbRating": 8.9,
+      "imdbRating": 8.8,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
         {
@@ -1281,7 +1281,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "",
-      "imdbRating": 8.9,
+      "imdbRating": 8.8,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
         {
