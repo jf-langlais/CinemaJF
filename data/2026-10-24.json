@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-24T13:39-04:00",
-  "updatedLabel": "13 h 39",
+  "generatedAt": "2026-10-24T14:44-04:00",
+  "updatedLabel": "14 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -152,7 +152,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:30",
             "21:20"
           ]
         },
@@ -298,7 +297,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:25"
           ]
         },
@@ -497,22 +495,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "D-BOX",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -693,14 +675,6 @@
           "times": [
             "15:20",
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:30"
           ]
         },
         {
@@ -947,7 +921,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:40"
           ]
         },
@@ -1162,7 +1135,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:15",
             "21:10"
           ]
         },
