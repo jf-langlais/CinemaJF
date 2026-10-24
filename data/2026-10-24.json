@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-24T05:43-04:00",
-  "updatedLabel": "05 h 43",
+  "generatedAt": "2026-10-24T06:42-04:00",
+  "updatedLabel": "06 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -76,14 +76,6 @@
       "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt34477890/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:30"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -267,14 +259,6 @@
           "times": [
             "15:25"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:20"
-          ]
         }
       ]
     },
@@ -388,7 +372,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:30",
             "16:05",
             "18:40",
@@ -546,7 +529,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:10"
           ]
         }
@@ -717,7 +699,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:20",
             "16:05",
             "18:45"
@@ -859,7 +840,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:20",
             "18:30"
           ]
@@ -1009,7 +989,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:15",
             "19:00"
           ]
@@ -1299,7 +1278,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:40",
             "21:30"
           ]
         }
@@ -1372,19 +1350,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
-          "format": "Standard",
+          "format": "UltraAVX",
           "times": [
-            "18:45",
-            "21:45"
+            "12:30",
+            "15:30"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
-          "format": "UltraAVX",
+          "format": "Standard",
           "times": [
-            "12:30",
-            "15:30"
+            "18:45",
+            "21:45"
           ]
         },
         {
@@ -1452,7 +1430,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "14:15",
             "18:15",
             "21:10"
