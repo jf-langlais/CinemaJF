@@ -2,8 +2,8 @@
   "date": "2026-10-24",
   "dateLabel": "2026-10-24",
   "displayDate": "2026-10-24",
-  "generatedAt": "2026-10-24T08:50-04:00",
-  "updatedLabel": "08 h 50",
+  "generatedAt": "2026-10-24T09:41-04:00",
+  "updatedLabel": "09 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -98,14 +98,6 @@
       "imdbUrl": "",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:15"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -160,7 +152,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:10",
             "16:00"
           ]
         },
@@ -278,7 +269,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:05"
           ]
         },
@@ -349,7 +339,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:30",
             "16:05",
             "18:40",
             "21:25"
@@ -396,7 +385,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:45",
             "19:20",
             "22:00"
@@ -411,14 +399,6 @@
             "15:25",
             "18:35",
             "21:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:35"
           ]
         },
         {
@@ -471,7 +451,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:40",
             "16:30",
             "19:15",
             "21:55"
@@ -486,27 +465,6 @@
             "16:20",
             "18:55",
             "21:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:10"
           ]
         }
       ]
@@ -539,19 +497,11 @@
       "translation": "Mia à l'école des monstres",
       "runtime": "1 h 21",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/monster-mia.jpg",
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt38807889/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:10"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VF",
@@ -597,7 +547,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:55",
             "18:30"
           ]
         },
@@ -606,7 +555,6 @@
           "lang": "VOA",
           "format": "D-BOX",
           "times": [
-            "12:55",
             "18:30"
           ]
         },
@@ -675,7 +623,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:05",
             "18:45"
           ]
@@ -816,7 +763,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "18:30"
           ]
         },
@@ -903,7 +849,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "13:30",
             "16:20",
             "19:10",
             "22:00"
@@ -1064,7 +1009,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:25",
             "19:05"
           ]
         },
@@ -1143,7 +1087,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:10",
             "18:40",
             "21:40"
@@ -1176,7 +1119,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:40",
             "21:40"
           ]
         },
@@ -1334,7 +1276,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:00",
             "18:50"
           ]
         }
