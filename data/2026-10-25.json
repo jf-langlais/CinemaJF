@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-25T10:41-04:00",
-  "updatedLabel": "10 h 41",
+  "generatedAt": "2026-10-25T11:51-04:00",
+  "updatedLabel": "11 h 51",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -105,14 +105,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt49970957/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:00"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -242,27 +234,6 @@
             "13:40",
             "16:25",
             "21:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:25"
           ]
         }
       ]
@@ -570,7 +541,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:30",
             "21:10"
           ]
         },
@@ -579,7 +549,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "15:30",
             "21:10"
           ]
         },
@@ -750,14 +719,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "14:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -800,19 +761,19 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:20",
             "18:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:20"
           ]
         },
         {
@@ -885,7 +846,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:40",
             "21:30"
           ]
@@ -1221,14 +1181,6 @@
       "imdbRating": 8.8,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "UltraAVX",
-          "times": [
-            "15:30"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
