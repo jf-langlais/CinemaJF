@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-24T22:43-04:00",
-  "updatedLabel": "22 h 43",
+  "generatedAt": "2026-10-24T23:44-04:00",
+  "updatedLabel": "23 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -556,7 +556,7 @@
       "translation": "",
       "runtime": "1 h 30",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
@@ -868,19 +868,19 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:20",
             "18:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:20"
           ]
         },
         {

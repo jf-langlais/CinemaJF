@@ -2,8 +2,8 @@
   "date": "2026-10-29",
   "dateLabel": "2026-10-29",
   "displayDate": "2026-10-29",
-  "generatedAt": "2026-10-24T22:43-04:00",
-  "updatedLabel": "22 h 43",
+  "generatedAt": "2026-10-24T23:44-04:00",
+  "updatedLabel": "23 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -786,19 +786,19 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:00",
             "18:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:55"
           ]
         },
         {
