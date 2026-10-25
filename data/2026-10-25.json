@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-25T12:43-04:00",
-  "updatedLabel": "12 h 43",
+  "generatedAt": "2026-10-25T13:43-04:00",
+  "updatedLabel": "13 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,27 +44,6 @@
     }
   ],
   "movies": [
-    {
-      "title": "BTS World Tour 'Arirang' in Buenos Aires",
-      "original": "BTS World Tour 'Arirang' in Buenos Aires",
-      "translation": "",
-      "runtime": "3 h 15",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/bts-world-tour-arirang-in-buenos-aires.jpg",
-      "imdbRating": null,
-      "imdbUrl": "https://www.imdb.com/title/tt45591705/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:45"
-          ]
-        }
-      ]
-    },
     {
       "title": "C'est quoi l'amour?",
       "original": "C'est quoi l'amour?",
@@ -338,7 +317,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "17:15",
             "19:40",
             "21:00"
           ]
@@ -1154,7 +1132,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "17:30",
             "21:10"
           ]
         },
