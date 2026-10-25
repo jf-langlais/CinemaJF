@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-25T18:47-04:00",
-  "updatedLabel": "18 h 47",
+  "generatedAt": "2026-10-25T19:37-04:00",
+  "updatedLabel": "19 h 37",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -117,9 +117,9 @@
       ]
     },
     {
-      "title": "Clayface",
+      "title": "Gueule d'argile",
       "original": "Clayface",
-      "translation": "",
+      "translation": "Gueule d'argile",
       "runtime": "1 h 48",
       "genre": "",
       "badge": "Nouveauté",
@@ -127,15 +127,6 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt34890576/",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:35",
-            "18:30"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -150,6 +141,15 @@
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "19:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:35",
+            "18:30"
           ]
         },
         {
