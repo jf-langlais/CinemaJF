@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-25T09:41-04:00",
-  "updatedLabel": "09 h 41",
+  "generatedAt": "2026-10-25T10:41-04:00",
+  "updatedLabel": "10 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -213,7 +213,6 @@
           "lang": "VF",
           "format": "Dolby Atmos",
           "times": [
-            "13:50",
             "16:30",
             "21:55"
           ]
@@ -330,7 +329,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "14:15",
             "18:35",
             "21:05"
           ]
@@ -802,19 +800,19 @@
         },
         {
           "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:20",
             "18:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:20"
           ]
         },
         {
@@ -857,27 +855,6 @@
           "format": "Standard",
           "times": [
             "15:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Sans témoin",
-      "original": "Someone's Daughter",
-      "translation": "Sans témoin",
-      "runtime": "1 h 36",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/someone-s-daughter.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt38568255/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:45"
           ]
         }
       ]
@@ -1304,7 +1281,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:50",
             "17:30",
             "21:10"
           ]
@@ -1323,7 +1299,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "14:15",
             "18:15",
             "21:10"
           ]
