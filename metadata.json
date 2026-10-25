@@ -595,6 +595,13 @@
     "ratingChecked": "2026-10-25",
     "ratingSource": "official-dataset-v1"
   },
+  "super simple songs": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-10-25",
+    "posterSource": "missing"
+  },
   "the devils": {
     "imdbMatchScore": 1.0,
     "imdbRating": 7.7,
@@ -658,6 +665,17 @@
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
     "ratingChecked": "2026-10-15",
+    "ratingSource": "official-dataset-v1"
+  },
+  "the shining": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 8.4,
+    "imdbUrl": "https://www.imdb.com/title/tt0081505/",
+    "imdbVotes": 1249808,
+    "poster": "posters/the-shining.jpg",
+    "posterChecked": "2026-10-25",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-25",
     "ratingSource": "official-dataset-v1"
   },
   "the social reckoning": {

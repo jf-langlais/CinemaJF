@@ -2,8 +2,8 @@
   "date": "2026-10-31",
   "dateLabel": "2026-10-31",
   "displayDate": "2026-10-31",
-  "generatedAt": "2026-10-25T05:44-04:00",
-  "updatedLabel": "05 h 44",
+  "generatedAt": "2026-10-25T06:42-04:00",
+  "updatedLabel": "06 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -43,5 +43,70 @@
       "source": "https://www.cinemacartier.com/"
     }
   ],
-  "movies": []
+  "movies": [
+    {
+      "title": "BTS World Tour 'Arirang' in São Paulo",
+      "original": "BTS World Tour 'Arirang' in São Paulo",
+      "translation": "",
+      "runtime": "3 h 15",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/bts-world-tour-arirang-in-sao-paulo.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt45591708/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Super Simple Songs",
+      "original": "Super Simple Songs",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "10:45",
+            "12:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Shining",
+      "original": "The Shining",
+      "translation": "",
+      "runtime": "2 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/the-shining.jpg",
+      "imdbRating": 8.4,
+      "imdbUrl": "https://www.imdb.com/title/tt0081505/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:30"
+          ]
+        }
+      ]
+    }
+  ]
 }

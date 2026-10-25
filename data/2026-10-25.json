@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-25T05:44-04:00",
-  "updatedLabel": "05 h 44",
+  "generatedAt": "2026-10-25T06:42-04:00",
+  "updatedLabel": "06 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -274,14 +274,6 @@
           "times": [
             "15:25"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:20"
-          ]
         }
       ]
     },
@@ -369,7 +361,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:30",
             "18:40",
             "21:45"
@@ -523,7 +514,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:10"
           ]
         }
@@ -727,7 +717,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:20",
             "16:05",
             "18:45"
@@ -888,7 +877,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:20",
             "18:30"
           ]
@@ -945,7 +933,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:45"
           ]
         }
@@ -1026,7 +1013,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:15",
             "19:00"
           ]
@@ -1055,27 +1041,6 @@
             "10:40",
             "15:55",
             "18:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "The History of Concrete",
-      "original": "The History of Concrete",
-      "translation": "",
-      "runtime": "1 h 40",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/the-history-of-concrete.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt39150234/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "10:30"
           ]
         }
       ]
@@ -1293,7 +1258,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:40",
             "21:30"
           ]
         }
@@ -1444,7 +1408,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "14:15",
             "18:15",
             "21:10"
