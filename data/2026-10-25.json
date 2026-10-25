@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-25T06:42-04:00",
-  "updatedLabel": "06 h 42",
+  "generatedAt": "2026-10-25T07:41-04:00",
+  "updatedLabel": "07 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -593,7 +593,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:10"
           ]
         },
@@ -1046,27 +1045,6 @@
       ]
     },
     {
-      "title": "Le jugement social",
-      "original": "The Social Reckoning",
-      "translation": "Le jugement social",
-      "runtime": "1 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -1330,19 +1308,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
-          "format": "UltraAVX",
+          "format": "Standard",
           "times": [
-            "12:30",
-            "15:30"
+            "18:45",
+            "21:45"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
-          "format": "Standard",
+          "format": "UltraAVX",
           "times": [
-            "18:45",
-            "21:45"
+            "12:30",
+            "15:30"
           ]
         },
         {
