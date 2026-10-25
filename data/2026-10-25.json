@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-25T13:43-04:00",
-  "updatedLabel": "13 h 43",
+  "generatedAt": "2026-10-25T14:45-04:00",
+  "updatedLabel": "14 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -132,7 +132,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:30",
             "21:20"
           ]
         },
@@ -141,7 +140,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:35",
             "15:35",
             "18:30"
           ]
@@ -151,7 +149,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:10",
             "15:50"
           ]
         },
@@ -216,7 +213,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:30",
             "18:20"
           ]
         },
@@ -254,7 +250,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:35",
             "21:05"
           ]
         },
@@ -263,7 +258,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:35",
             "16:25",
             "19:05"
           ]
@@ -273,7 +267,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:45"
           ]
         },
@@ -326,7 +319,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:55",
             "15:45",
             "18:35"
           ]
@@ -390,7 +382,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:05",
             "16:20",
             "18:55"
           ]
@@ -429,14 +420,6 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:00"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -497,22 +480,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "D-BOX",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -556,7 +523,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:45",
             "15:30",
             "18:25"
           ]
@@ -658,7 +624,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "15:55",
             "19:25"
           ]
@@ -699,7 +664,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:20",
             "18:40"
           ]
         },
@@ -709,14 +673,6 @@
           "format": "Standard",
           "times": [
             "15:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:30"
           ]
         },
         {
@@ -780,7 +736,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:30"
           ]
         },
@@ -789,7 +744,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:15",
             "19:00"
           ]
@@ -799,7 +753,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "13:15",
             "16:15",
             "19:00"
           ]
@@ -889,7 +842,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:40",
             "18:50"
           ]
@@ -936,7 +888,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:40"
           ]
         },
@@ -954,7 +905,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "16:30",
             "19:15"
           ]
@@ -1041,7 +991,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:30",
             "18:45"
           ]
         },
@@ -1110,7 +1059,6 @@
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "12:15",
             "15:25"
           ]
         }
@@ -1140,7 +1088,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:40",
             "18:15"
           ]
         },
@@ -1149,7 +1096,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:15",
             "21:10"
           ]
         },
