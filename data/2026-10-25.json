@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-25T11:51-04:00",
-  "updatedLabel": "11 h 51",
+  "generatedAt": "2026-10-25T12:43-04:00",
+  "updatedLabel": "12 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -76,14 +76,6 @@
       "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt34477890/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:40"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -159,14 +151,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "UltraAVX",
           "times": [
             "18:30",
@@ -205,7 +189,6 @@
           "lang": "VF",
           "format": "Dolby Atmos",
           "times": [
-            "16:30",
             "21:55"
           ]
         },
@@ -249,14 +232,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:05"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -428,7 +403,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:15",
             "21:55"
           ]
@@ -483,14 +457,6 @@
           "format": "Standard",
           "times": [
             "13:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:15"
           ]
         },
         {
@@ -579,14 +545,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:10"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -630,7 +588,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:05",
             "18:45"
           ]
         },
@@ -836,7 +793,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "16:20",
             "19:10",
             "22:00"
           ]
@@ -892,7 +848,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:00"
           ]
         },
@@ -940,7 +895,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:50"
           ]
         },
@@ -967,7 +921,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "21:40"
           ]
         },
@@ -990,27 +943,6 @@
       ]
     },
     {
-      "title": "Violence du corps de l'autre",
-      "original": "Violence du corps de l'autre",
-      "translation": "",
-      "runtime": "1 h 58",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Au fond de la baleine",
       "original": "Whalefall",
       "translation": "Au fond de la baleine",
@@ -1026,7 +958,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "18:40",
             "21:40"
           ]
@@ -1036,7 +967,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
             "19:25",
             "21:55"
           ]
@@ -1142,7 +1072,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "19:00"
           ]
         }
@@ -1205,14 +1134,6 @@
           "times": [
             "12:15",
             "15:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:55"
           ]
         }
       ]
