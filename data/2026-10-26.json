@@ -2,8 +2,8 @@
   "date": "2026-10-26",
   "dateLabel": "2026-10-26",
   "displayDate": "2026-10-26",
-  "generatedAt": "2026-10-26T11:14-04:00",
-  "updatedLabel": "11 h 14",
+  "generatedAt": "2026-10-26T12:13-04:00",
+  "updatedLabel": "12 h 13",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -122,14 +122,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "UltraAVX",
           "times": [
             "18:30",
@@ -201,27 +193,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:30"
-          ]
-        }
-      ]
-    },
-    {
       "title": "L'île de l'oubli",
       "original": "Forgotten Island",
       "translation": "L'île de l'oubli",
@@ -232,14 +203,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:05"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -275,7 +238,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:20",
             "18:35",
             "21:05"
           ]
@@ -338,7 +300,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:45",
             "19:20",
             "22:00"
           ]
@@ -351,14 +312,6 @@
             "13:35",
             "16:00",
             "18:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:10"
           ]
         },
         {
@@ -495,7 +448,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:30",
             "21:10"
           ]
         },
@@ -504,7 +456,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "15:30",
             "21:10"
           ]
         },
@@ -587,7 +538,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:05",
             "18:45"
           ]
         },
@@ -677,7 +627,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:50"
           ]
         }
@@ -811,7 +760,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:50",
             "18:40",
             "21:30"
           ]
@@ -897,7 +845,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:50"
           ]
         },
@@ -983,7 +930,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "18:40",
             "21:40"
           ]
@@ -993,7 +939,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
             "19:25",
             "21:55"
           ]
@@ -1098,7 +1043,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:00",
             "19:00"
           ]
         }
@@ -1120,7 +1064,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
             "21:45"
           ]
         }
@@ -1137,14 +1080,6 @@
       "imdbRating": 8.8,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "UltraAVX",
-          "times": [
-            "15:30"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
