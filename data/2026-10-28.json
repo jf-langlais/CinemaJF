@@ -2,8 +2,8 @@
   "date": "2026-10-28",
   "dateLabel": "2026-10-28",
   "displayDate": "2026-10-28",
-  "generatedAt": "2026-10-26T00:46-04:00",
-  "updatedLabel": "00 h 46",
+  "generatedAt": "2026-10-26T01:46-04:00",
+  "updatedLabel": "01 h 46",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -973,20 +973,20 @@
         },
         {
           "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:30",
             "15:20",
             "18:40"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
           ]
         }
       ]
