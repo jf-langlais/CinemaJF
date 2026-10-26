@@ -2,8 +2,8 @@
   "date": "2026-10-28",
   "dateLabel": "2026-10-28",
   "displayDate": "2026-10-28",
-  "generatedAt": "2026-10-25T23:47-04:00",
-  "updatedLabel": "23 h 47",
+  "generatedAt": "2026-10-26T00:46-04:00",
+  "updatedLabel": "00 h 46",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -428,7 +428,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/klara-and-the-sun.jpg",
-      "imdbRating": 6.0,
+      "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt14371256/",
       "showings": [
         {
@@ -793,7 +793,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/sense-and-sensibility.jpg",
-      "imdbRating": 7.3,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt13609648/",
       "showings": [
         {
@@ -1187,7 +1187,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/wicker.jpg",
-      "imdbRating": 7.3,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt29611136/",
       "showings": [
         {
@@ -1217,7 +1217,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "",
-      "imdbRating": 7.3,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt29611136/",
       "showings": [
         {
