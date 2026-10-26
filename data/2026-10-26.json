@@ -2,8 +2,8 @@
   "date": "2026-10-26",
   "dateLabel": "2026-10-26",
   "displayDate": "2026-10-26",
-  "generatedAt": "2026-10-26T05:55-04:00",
-  "updatedLabel": "05 h 55",
+  "generatedAt": "2026-10-26T06:51-04:00",
+  "updatedLabel": "06 h 51",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -60,7 +60,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:25"
           ]
         },
@@ -238,14 +237,6 @@
             "12:50",
             "15:30"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:20"
-          ]
         }
       ]
     },
@@ -325,7 +316,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:00",
             "18:40",
             "21:25"
@@ -479,7 +469,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:10"
           ]
         }
@@ -645,7 +634,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:30",
             "16:05",
             "18:45"
@@ -786,7 +774,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:20",
             "18:30"
           ]
@@ -864,7 +851,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:45"
           ]
         }
@@ -936,7 +922,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:15",
             "19:00"
           ]
@@ -965,27 +950,6 @@
             "12:30",
             "15:20",
             "18:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "The History of Concrete",
-      "original": "The History of Concrete",
-      "translation": "",
-      "runtime": "1 h 40",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/the-history-of-concrete.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt39150234/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "10:30"
           ]
         }
       ]
@@ -1202,7 +1166,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:40",
             "21:30"
           ]
         }
@@ -1353,7 +1316,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "14:15",
             "18:15",
             "21:10"
