@@ -2,8 +2,8 @@
   "date": "2026-10-26",
   "dateLabel": "2026-10-26",
   "displayDate": "2026-10-26",
-  "generatedAt": "2026-10-26T06:51-04:00",
-  "updatedLabel": "06 h 51",
+  "generatedAt": "2026-10-26T08:39-04:00",
+  "updatedLabel": "08 h 39",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -797,19 +797,19 @@
         },
         {
           "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:10"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:40",
             "18:40"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:10"
           ]
         }
       ]
@@ -950,27 +950,6 @@
             "12:30",
             "15:20",
             "18:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Le jugement social",
-      "original": "The Social Reckoning",
-      "translation": "Le jugement social",
-      "runtime": "1 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:00"
           ]
         }
       ]
@@ -1240,7 +1219,6 @@
           "lang": "VOF",
           "format": "UltraAVX",
           "times": [
-            "12:30",
             "15:30"
           ]
         },
