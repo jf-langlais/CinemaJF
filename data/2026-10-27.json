@@ -2,8 +2,8 @@
   "date": "2026-10-27",
   "dateLabel": "2026-10-27",
   "displayDate": "2026-10-27",
-  "generatedAt": "2026-10-26T08:39-04:00",
-  "updatedLabel": "08 h 39",
+  "generatedAt": "2026-10-26T11:14-04:00",
+  "updatedLabel": "11 h 14",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -819,21 +819,21 @@
         },
         {
           "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:10",
-            "21:10"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:40",
             "18:40",
             "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:10",
+            "21:10"
           ]
         }
       ]
