@@ -2,8 +2,8 @@
   "date": "2026-10-25",
   "dateLabel": "2026-10-25",
   "displayDate": "2026-10-25",
-  "generatedAt": "2026-10-25T22:46-04:00",
-  "updatedLabel": "22 h 46",
+  "generatedAt": "2026-10-25T23:47-04:00",
+  "updatedLabel": "23 h 47",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -144,15 +144,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt34890576/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "18:30",
-            "21:20"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Dolby Atmos",
@@ -253,15 +244,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:35",
-            "21:05"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -308,16 +290,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "17:15",
-            "19:40",
-            "21:00"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -355,28 +327,6 @@
           "format": "Standard",
           "times": [
             "19:00"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Klara et le soleil",
-      "original": "Klara and the Sun",
-      "translation": "Klara et le soleil",
-      "runtime": "",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/klara-and-the-sun.jpg",
-      "imdbRating": 6.0,
-      "imdbUrl": "https://www.imdb.com/title/tt14371256/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:15",
-            "21:55"
           ]
         }
       ]
@@ -495,38 +445,6 @@
       "imdbRating": 5.3,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "D-BOX",
-          "times": [
-            "18:30"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -653,14 +571,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "22:00"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
@@ -682,15 +592,6 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt13609648/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:50",
-            "21:50"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -720,19 +621,19 @@
         },
         {
           "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:10"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:40",
             "18:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:10"
           ]
         }
       ]
@@ -770,32 +671,6 @@
       "imdbRating": 6.2,
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "ScreenX",
-          "times": [
-            "19:10",
-            "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:40",
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VOA",
-          "format": "IMAX",
-          "times": [
-            "18:30"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -888,22 +763,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:05"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
@@ -962,24 +821,6 @@
       "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt28535715/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:40",
-            "21:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:25",
-            "21:55"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
@@ -1096,15 +937,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:45",
-            "21:45"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
@@ -1116,25 +948,16 @@
       ]
     },
     {
-      "title": "You Can See Everything",
+      "title": "Vous pouvez tout voir",
       "original": "You Can See Everything",
-      "translation": "",
+      "translation": "Vous pouvez tout voir",
       "runtime": "2 h 54",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
       "imdbRating": 9.3,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "17:30",
-            "21:10"
-          ]
-        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VF",
