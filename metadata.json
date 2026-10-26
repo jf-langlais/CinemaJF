@@ -139,6 +139,17 @@
     "ratingChecked": "2026-10-08",
     "ratingSource": "official-dataset-v1"
   },
+  "cosi fan tutte": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 7.3,
+    "imdbUrl": "https://www.imdb.com/title/tt2973692/",
+    "imdbVotes": 109,
+    "poster": "posters/cosi-fan-tutte.jpg",
+    "posterChecked": "2026-10-26",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-26",
+    "ratingSource": "official-dataset-v1"
+  },
   "coyote vs acme": {
     "imdbRating": 7.4,
     "imdbUrl": "https://www.imdb.com/title/tt1756855/",

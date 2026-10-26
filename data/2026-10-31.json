@@ -2,8 +2,8 @@
   "date": "2026-10-31",
   "dateLabel": "2026-10-31",
   "displayDate": "2026-10-31",
-  "generatedAt": "2026-10-26T12:13-04:00",
-  "updatedLabel": "12 h 13",
+  "generatedAt": "2026-10-26T17:02-04:00",
+  "updatedLabel": "17 h 02",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -61,6 +61,27 @@
           "format": "Standard",
           "times": [
             "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cosi Fan Tutte",
+      "original": "Cosi Fan Tutte",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/cosi-fan-tutte.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt2973692/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:30"
           ]
         }
       ]

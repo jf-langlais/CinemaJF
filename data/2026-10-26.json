@@ -2,8 +2,8 @@
   "date": "2026-10-26",
   "dateLabel": "2026-10-26",
   "displayDate": "2026-10-26",
-  "generatedAt": "2026-10-26T12:13-04:00",
-  "updatedLabel": "12 h 13",
+  "generatedAt": "2026-10-26T17:02-04:00",
+  "updatedLabel": "17 h 02",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -124,7 +124,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:30",
             "21:20"
           ]
         },
@@ -133,7 +132,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:00",
             "15:35",
             "18:30"
           ]
@@ -157,18 +155,9 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
-            "16:30",
             "21:55"
           ]
         },
@@ -208,7 +197,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:05",
             "18:20"
           ]
         },
@@ -238,7 +226,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:35",
             "21:05"
           ]
         },
@@ -257,7 +244,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:25"
           ]
         },
@@ -300,7 +286,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "19:20",
             "22:00"
           ]
         },
@@ -365,8 +350,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:30",
-            "19:15",
             "21:55"
           ]
         },
@@ -394,40 +377,11 @@
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:40"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
           "times": [
             "16:50"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
-      "original": "Les aventuriers voyageurs: Islande à vélo - au gré du vent",
-      "translation": "",
-      "runtime": "1 h 30",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:15"
           ]
         }
       ]
@@ -460,22 +414,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "D-BOX",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -483,14 +421,6 @@
             "13:55",
             "16:35",
             "19:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:10"
           ]
         },
         {
@@ -528,17 +458,8 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:20",
             "15:55",
             "18:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:45"
           ]
         },
         {
@@ -600,16 +521,7 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:25",
             "21:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:30"
           ]
         },
         {
@@ -648,7 +560,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:50"
           ]
         },
@@ -657,7 +568,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:00",
             "18:50"
           ]
         },
@@ -667,14 +577,6 @@
           "format": "Standard",
           "times": [
             "15:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:30"
           ]
         },
         {
@@ -714,27 +616,6 @@
       ]
     },
     {
-      "title": "Soirée Quiz Gratuit",
-      "original": "Soirée Quiz Gratuit",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Street Fighter",
       "original": "Street Fighter",
       "translation": "",
@@ -750,8 +631,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "16:20",
-            "19:10",
             "22:00"
           ]
         },
@@ -760,7 +639,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:30"
           ]
         },
@@ -790,15 +668,6 @@
           "format": "IMAX",
           "times": [
             "18:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:15",
-            "19:00"
           ]
         },
         {
@@ -849,19 +718,10 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:05"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:10",
             "18:50"
           ]
@@ -871,16 +731,7 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:55"
           ]
         },
         {
@@ -889,27 +740,6 @@
           "format": "Standard",
           "times": [
             "21:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Violence du corps de l'autre",
-      "original": "Violence du corps de l'autre",
-      "translation": "",
-      "runtime": "1 h 58",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:15"
           ]
         }
       ]
@@ -930,7 +760,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:40",
             "21:40"
           ]
         },
@@ -939,7 +768,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "19:25",
             "21:55"
           ]
         },
@@ -959,14 +787,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:05"
           ]
         },
         {
@@ -1037,14 +857,6 @@
             "13:30",
             "18:50"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
         }
       ]
     },
@@ -1085,7 +897,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:45"
           ]
         },
@@ -1102,16 +913,7 @@
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "13:05",
             "16:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         }
       ]
@@ -1132,7 +934,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "17:30",
             "21:10"
           ]
         },
@@ -1150,7 +951,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:15",
             "21:10"
           ]
         },
