@@ -324,11 +324,15 @@
     "ratingSource": "official-dataset-v1"
   },
   "le fantome de l opera": {
+    "imdbMatchScore": 1.0,
     "imdbRating": null,
-    "imdbUrl": "",
-    "poster": "",
+    "imdbUrl": "https://www.imdb.com/title/tt14647340/",
+    "imdbVotes": null,
+    "poster": "posters/le-fantome-de-l-opera.jpg",
     "posterChecked": "2026-10-25",
-    "posterSource": "missing"
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-25",
+    "ratingSource": "official-dataset-v1"
   },
   "les aventuriers voyageurs islande a velo au gre du vent": {
     "imdbRating": null,

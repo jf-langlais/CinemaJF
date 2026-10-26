@@ -2,8 +2,8 @@
   "date": "2026-10-29",
   "dateLabel": "2026-10-29",
   "displayDate": "2026-10-29",
-  "generatedAt": "2026-10-25T21:54-04:00",
-  "updatedLabel": "21 h 54",
+  "generatedAt": "2026-10-25T22:46-04:00",
+  "updatedLabel": "22 h 46",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -786,19 +786,19 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:00",
             "18:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:55"
           ]
         },
         {
@@ -830,21 +830,21 @@
         },
         {
           "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:10",
+            "21:10"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:40",
             "18:40",
             "21:20"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:10",
-            "21:10"
           ]
         }
       ]
