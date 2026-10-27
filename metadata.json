@@ -72,29 +72,29 @@
     "poster": "posters/bts-world-tour-arirang-in-sao-paulo.jpg",
     "posterChecked": "2026-10-24",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "c est quoi l amour": {
     "imdbMatchScore": 1.08,
     "imdbRating": 6.5,
     "imdbUrl": "https://www.imdb.com/title/tt34477890/",
-    "imdbVotes": 345,
+    "imdbVotes": 347,
     "poster": "posters/c-est-quoi-l-amour.jpg",
     "posterChecked": "2026-10-15",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "carrie": {
     "imdbMatchScore": 1.08,
     "imdbRating": 7.9,
     "imdbUrl": "https://www.imdb.com/title/tt11540908/",
-    "imdbVotes": 46766,
+    "imdbVotes": 48846,
     "poster": "posters/carrie.jpg",
     "posterChecked": "2026-10-20",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "charlebois symphonique une celebration grandiose avec l osm": {
@@ -105,28 +105,28 @@
     "poster": "posters/charlebois-symphonique-une-celebration-grandiose-avec-l-osm.jpg",
     "posterChecked": "2026-10-24",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "chers parents": {
     "imdbRating": 5.6,
     "imdbUrl": "https://www.imdb.com/title/tt35405429/",
-    "imdbVotes": 441,
+    "imdbVotes": 442,
     "poster": "posters/chers-parents.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "clayface": {
     "imdbMatchScore": 1.08,
     "imdbRating": 7.6,
     "imdbUrl": "https://www.imdb.com/title/tt34890576/",
-    "imdbVotes": 12151,
+    "imdbVotes": 17416,
     "poster": "posters/clayface.jpg",
     "posterChecked": "2026-10-15",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "compostelle": {
@@ -147,7 +147,7 @@
     "poster": "posters/cosi-fan-tutte.jpg",
     "posterChecked": "2026-10-26",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "coyote vs acme": {
@@ -164,11 +164,11 @@
     "imdbMatchScore": 1,
     "imdbRating": 6.1,
     "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-    "imdbVotes": 2395,
+    "imdbVotes": 2397,
     "poster": "posters/de-gaulle.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "desole pardon je m excuse": {
@@ -211,14 +211,25 @@
     "ratingChecked": "2026-10-15",
     "ratingSource": "official-dataset-v1"
   },
+  "fjord": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 7.6,
+    "imdbUrl": "https://www.imdb.com/title/tt35410859/",
+    "imdbVotes": 5550,
+    "poster": "posters/fjord.jpg",
+    "posterChecked": "2026-10-27",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-27",
+    "ratingSource": "official-dataset-v1"
+  },
   "forgotten island": {
     "imdbRating": 7.7,
     "imdbUrl": "https://www.imdb.com/title/tt36583977/",
-    "imdbVotes": 7434,
+    "imdbVotes": 7573,
     "poster": "posters/forgotten-island.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "geugjangpan syupeo wingseu maegsimeom seupideu": {
@@ -230,21 +241,21 @@
     "imdbMatchScore": 1.08,
     "imdbRating": 7.3,
     "imdbUrl": "https://www.imdb.com/title/tt40202639/",
-    "imdbVotes": 49,
+    "imdbVotes": 55,
     "poster": "posters/hantee.jpg",
     "posterChecked": "2026-10-07",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "heart of the beast": {
     "imdbRating": 7.2,
     "imdbUrl": "https://www.imdb.com/title/tt7526136/",
-    "imdbVotes": 30601,
+    "imdbVotes": 31095,
     "poster": "posters/heart-of-the-beast.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "insidious out of the further": {
@@ -260,33 +271,33 @@
   "juste une illusion": {
     "imdbRating": 7.3,
     "imdbUrl": "https://www.imdb.com/title/tt36842933/",
-    "imdbVotes": 2030,
+    "imdbVotes": 2041,
     "poster": "posters/juste-une-illusion.jpg",
     "posterChecked": "2026-10-15",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "klara and the sun": {
     "imdbMatchScore": 1.08,
-    "imdbRating": 6.2,
+    "imdbRating": 6.4,
     "imdbUrl": "https://www.imdb.com/title/tt14371256/",
-    "imdbVotes": 743,
+    "imdbVotes": 981,
     "poster": "posters/klara-and-the-sun.jpg",
     "posterChecked": "2026-10-16",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "l autre": {
     "imdbMatchScore": 1.08,
-    "imdbRating": 7.2,
+    "imdbRating": 7.3,
     "imdbUrl": "https://www.imdb.com/title/tt43106511/",
-    "imdbVotes": 5,
+    "imdbVotes": 6,
     "poster": "",
-    "posterChecked": "2026-10-22",
+    "posterChecked": "2026-10-27",
     "posterSource": "missing",
-    "ratingChecked": "2026-10-22",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "la bataille de gaulle j ecris ton nom": {
@@ -308,11 +319,11 @@
   "la bataille de gaulle resistance": {
     "imdbRating": 7.6,
     "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-    "imdbVotes": 4253,
+    "imdbVotes": 4311,
     "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "la meilleure facon c est par accident": {
@@ -322,7 +333,7 @@
     "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "la place": {
@@ -342,14 +353,14 @@
     "poster": "posters/le-fantome-de-l-opera.jpg",
     "posterChecked": "2026-10-25",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "les aventuriers voyageurs islande a velo au gre du vent": {
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
-    "posterChecked": "2026-10-26",
+    "posterChecked": "2026-10-27",
     "posterSource": "missing"
   },
   "les aventuriers voyageurs reve d afrique": {
@@ -385,7 +396,7 @@
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
-    "posterChecked": "2026-10-26",
+    "posterChecked": "2026-10-27",
     "posterSource": "missing"
   },
   "nitassinan": {
@@ -405,7 +416,7 @@
     "poster": "posters/opera-cosi-fan-tutte.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "opera macbeth": {
@@ -419,11 +430,11 @@
     "imdbMatchScore": 1.08,
     "imdbRating": 5.3,
     "imdbUrl": "https://www.imdb.com/title/tt36586020/",
-    "imdbVotes": 12611,
+    "imdbVotes": 12947,
     "poster": "posters/other-mommy.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "ozzy black sabbath back to the beginning": {
@@ -434,17 +445,17 @@
     "poster": "posters/ozzy-black-sabbath-back-to-the-beginning.jpg",
     "posterChecked": "2026-10-22",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "pauline julien femme pays": {
     "imdbRating": 7.6,
     "imdbUrl": "https://www.imdb.com/title/tt39387187/",
-    "imdbVotes": 62,
+    "imdbVotes": 64,
     "poster": "posters/pauline-julien-femme-pays.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "paw patrol the dino movie": {
@@ -470,11 +481,11 @@
   "primetime": {
     "imdbRating": 7.1,
     "imdbUrl": "https://www.imdb.com/title/tt34206385/",
-    "imdbVotes": 21913,
+    "imdbVotes": 22302,
     "poster": "posters/primetime.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "primeurs surprises du lundi": {
@@ -505,11 +516,11 @@
   "resident evil": {
     "imdbRating": 7.6,
     "imdbUrl": "https://www.imdb.com/title/tt35538033/",
-    "imdbVotes": 114673,
+    "imdbVotes": 115818,
     "poster": "posters/resident-evil.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "run terry run": {
@@ -555,11 +566,11 @@
     "imdbMatchScore": 1.08,
     "imdbRating": 7.4,
     "imdbUrl": "https://www.imdb.com/title/tt13609648/",
-    "imdbVotes": 5055,
+    "imdbVotes": 5520,
     "poster": "posters/sense-and-sensibility.jpg",
     "posterChecked": "2026-10-09",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "shaun the sheep the beast of mossy bottom": {
@@ -580,13 +591,13 @@
   },
   "someone s daughter": {
     "imdbMatchScore": 1.08,
-    "imdbRating": 6.7,
+    "imdbRating": 6.5,
     "imdbUrl": "https://www.imdb.com/title/tt38568255/",
-    "imdbVotes": 29,
+    "imdbVotes": 30,
     "poster": "posters/someone-s-daughter.jpg",
     "posterChecked": "2026-10-21",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "spider man brand new day": {
@@ -603,18 +614,18 @@
     "imdbMatchScore": 1.08,
     "imdbRating": 6.2,
     "imdbUrl": "https://www.imdb.com/title/tt27419420/",
-    "imdbVotes": 15990,
+    "imdbVotes": 16999,
     "poster": "posters/street-fighter.jpg",
     "posterChecked": "2026-10-07",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "super simple songs": {
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
-    "posterChecked": "2026-10-26",
+    "posterChecked": "2026-10-27",
     "posterSource": "missing"
   },
   "the devils": {
@@ -632,11 +643,11 @@
     "imdbMatchScore": 1.08,
     "imdbRating": 7.6,
     "imdbUrl": "https://www.imdb.com/title/tt39150234/",
-    "imdbVotes": 1188,
+    "imdbVotes": 1209,
     "poster": "posters/the-history-of-concrete.jpg",
     "posterChecked": "2026-10-21",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "the house with a clock in its walls": {
@@ -665,11 +676,11 @@
     "imdbMatchScore": 1.0,
     "imdbRating": 7.9,
     "imdbUrl": "https://www.imdb.com/title/tt0107688/",
-    "imdbVotes": 418296,
+    "imdbVotes": 418442,
     "poster": "posters/the-nightmare-before-christmas.jpg",
     "posterChecked": "2026-10-24",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "the odyssey": {
@@ -686,22 +697,22 @@
     "imdbMatchScore": 1.0,
     "imdbRating": 8.4,
     "imdbUrl": "https://www.imdb.com/title/tt0081505/",
-    "imdbVotes": 1249950,
+    "imdbVotes": 1250325,
     "poster": "posters/the-shining.jpg",
     "posterChecked": "2026-10-25",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "the social reckoning": {
     "imdbMatchScore": 1.08,
     "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt37510326/",
-    "imdbVotes": 9069,
+    "imdbVotes": 9297,
     "poster": "posters/the-social-reckoning.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "the stunt driver": {
@@ -758,89 +769,89 @@
     "imdbMatchScore": 1.08,
     "imdbRating": 6.1,
     "imdbUrl": "https://www.imdb.com/title/tt32261958/",
-    "imdbVotes": 21290,
+    "imdbVotes": 21839,
     "poster": "posters/verity.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "villeneuve l ascension d une legende": {
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
-    "posterChecked": "2026-10-26",
+    "posterChecked": "2026-10-27",
     "posterSource": "missing"
   },
   "violence du corps de l autre": {
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
-    "posterChecked": "2026-10-26",
+    "posterChecked": "2026-10-27",
     "posterSource": "missing"
   },
   "whalefall": {
     "imdbMatchScore": 1.08,
     "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt28535715/",
-    "imdbVotes": 7489,
+    "imdbVotes": 8064,
     "poster": "posters/whalefall.jpg",
     "posterChecked": "2026-10-07",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "wicker": {
     "imdbMatchScore": 1.08,
     "imdbRating": 7.4,
     "imdbUrl": "https://www.imdb.com/title/tt29611136/",
-    "imdbVotes": 1307,
+    "imdbVotes": 1641,
     "poster": "posters/wicker.jpg",
     "posterChecked": "2026-10-21",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "wicker l homme d osier": {
     "imdbRating": 7.4,
     "imdbUrl": "https://www.imdb.com/title/tt29611136/",
-    "imdbVotes": 1307,
+    "imdbVotes": 1641,
     "poster": "",
-    "posterChecked": "2026-10-26",
+    "posterChecked": "2026-10-27",
     "posterSource": "missing",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "wildwood": {
     "imdbMatchScore": 1.08,
-    "imdbRating": 8.8,
+    "imdbRating": 8.7,
     "imdbUrl": "https://www.imdb.com/title/tt2056785/",
-    "imdbVotes": 3103,
+    "imdbVotes": 5079,
     "poster": "posters/wildwood.jpg",
     "posterChecked": "2026-10-21",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "wildwood la contree malefique": {
-    "imdbRating": 8.8,
+    "imdbRating": 8.7,
     "imdbUrl": "https://www.imdb.com/title/tt2056785/",
-    "imdbVotes": 3103,
+    "imdbVotes": 5079,
     "poster": "",
-    "posterChecked": "2026-10-26",
+    "posterChecked": "2026-10-27",
     "posterSource": "missing",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   },
   "you can see everything": {
     "imdbMatchScore": 1.08,
     "imdbRating": 9.3,
     "imdbUrl": "https://www.imdb.com/title/tt45368240/",
-    "imdbVotes": 13664,
+    "imdbVotes": 15552,
     "poster": "posters/you-can-see-everything.jpg",
     "posterChecked": "2026-10-07",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-27",
     "ratingSource": "official-dataset-v1"
   }
 }

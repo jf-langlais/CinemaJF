@@ -2,8 +2,8 @@
   "date": "2026-10-31",
   "dateLabel": "2026-10-31",
   "displayDate": "2026-10-31",
-  "generatedAt": "2026-10-26T20:26-04:00",
-  "updatedLabel": "20 h 26",
+  "generatedAt": "2026-10-27T02:22-04:00",
+  "updatedLabel": "02 h 22",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -87,6 +87,120 @@
       ]
     },
     {
+      "title": "Fjord",
+      "original": "Fjord",
+      "translation": "",
+      "runtime": "2 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/fjord.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35410859/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:20",
+            "20:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hantée",
+      "original": "Hantée",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/hantee.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt40202639/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "14:50",
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'autre",
+      "original": "L'autre",
+      "translation": "",
+      "runtime": "1 h 38",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt43106511/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "17:10",
+            "18:10",
+            "21:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La meilleure façon, c'est par accident",
+      "original": "La meilleure façon, c'est par accident",
+      "translation": "",
+      "runtime": "1 h 51",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le Fantôme de L'Opéra",
+      "original": "Le Fantôme de L'Opéra",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/le-fantome-de-l-opera.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt14647340/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:40",
+            "19:10",
+            "21:00"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Opera: Cosi Fan Tutte",
       "original": "Opera: Cosi Fan Tutte",
       "translation": "",
@@ -103,6 +217,28 @@
           "format": "Standard",
           "times": [
             "12:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pauline Julien: Femme pays",
+      "original": "Pauline Julien: Femme pays",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/pauline-julien-femme-pays.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt39387187/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:50",
+            "19:10"
           ]
         }
       ]
@@ -154,6 +290,29 @@
           "format": "Standard",
           "times": [
             "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vous pouvez tout voir",
+      "original": "You Can See Everything",
+      "translation": "Vous pouvez tout voir",
+      "runtime": "2 h 54",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/you-can-see-everything.jpg",
+      "imdbRating": 9.3,
+      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "16:00",
+            "19:30"
           ]
         }
       ]
