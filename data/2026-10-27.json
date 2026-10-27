@@ -2,8 +2,8 @@
   "date": "2026-10-27",
   "dateLabel": "2026-10-27",
   "displayDate": "2026-10-27",
-  "generatedAt": "2026-10-27T02:22-04:00",
-  "updatedLabel": "02 h 22",
+  "generatedAt": "2026-10-27T08:24-04:00",
+  "updatedLabel": "08 h 24",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -209,14 +209,6 @@
             "12:50",
             "15:30"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:20"
-          ]
         }
       ]
     },
@@ -298,7 +290,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:00",
             "18:40",
             "21:25"
@@ -455,7 +446,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:10"
           ]
         }
@@ -472,14 +462,6 @@
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt42353729/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:30"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -502,14 +484,6 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:30"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -652,7 +626,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:30",
             "16:05",
             "18:45"
@@ -795,7 +768,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:20",
             "18:30"
           ]
@@ -854,7 +826,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:45"
           ]
         },
@@ -945,7 +916,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:15",
             "19:00"
           ]
@@ -995,27 +965,6 @@
           "format": "Standard",
           "times": [
             "16:45"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Le jugement social",
-      "original": "The Social Reckoning",
-      "translation": "Le jugement social",
-      "runtime": "1 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:00"
           ]
         }
       ]
@@ -1214,7 +1163,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:40",
             "21:30"
           ]
         }
@@ -1367,7 +1315,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "14:15",
             "18:15",
             "21:10"
