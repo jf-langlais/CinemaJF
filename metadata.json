@@ -765,6 +765,17 @@
     "ratingChecked": "2026-10-03",
     "ratingSource": "official-dataset-v1"
   },
+  "v for vendetta": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 8.1,
+    "imdbUrl": "https://www.imdb.com/title/tt0434409/",
+    "imdbVotes": 1259707,
+    "poster": "posters/v-for-vendetta.jpg",
+    "posterChecked": "2026-10-27",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-27",
+    "ratingSource": "official-dataset-v1"
+  },
   "verity": {
     "imdbMatchScore": 1.08,
     "imdbRating": 6.1,
