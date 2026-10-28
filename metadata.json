@@ -248,6 +248,13 @@
     "imdbUrl": "",
     "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
   },
+  "gojira 0 0": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-10-28",
+    "posterSource": "missing"
+  },
   "hantee": {
     "imdbMatchScore": 1.08,
     "imdbRating": 7.3,
