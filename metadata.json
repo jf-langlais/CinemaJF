@@ -383,13 +383,13 @@
   },
   "monster mia": {
     "imdbMatchScore": 1.08,
-    "imdbRating": 7.2,
+    "imdbRating": 7.1,
     "imdbUrl": "https://www.imdb.com/title/tt38807889/",
-    "imdbVotes": 65,
+    "imdbVotes": 76,
     "poster": "posters/monster-mia.jpg",
     "posterChecked": "2026-10-15",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-26",
+    "ratingChecked": "2026-10-28",
     "ratingSource": "official-dataset-v1"
   },
   "murmures d arbres": {
