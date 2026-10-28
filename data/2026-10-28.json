@@ -2,8 +2,8 @@
   "date": "2026-10-28",
   "dateLabel": "2026-10-28",
   "displayDate": "2026-10-28",
-  "generatedAt": "2026-10-27T22:16-04:00",
-  "updatedLabel": "22 h 16",
+  "generatedAt": "2026-10-28T04:40-04:00",
+  "updatedLabel": "04 h 40",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -52,7 +52,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/c-est-quoi-l-amour.jpg",
-      "imdbRating": 6.5,
+      "imdbRating": 6.4,
       "imdbUrl": "https://www.imdb.com/title/tt34477890/",
       "showings": [
         {
@@ -512,7 +512,7 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/le-fantome-de-l-opera.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt14647340/",
@@ -646,7 +646,7 @@
       "translation": "",
       "runtime": "2 h 27",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/ozzy-black-sabbath-back-to-the-beginning.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt46055956/",
@@ -744,7 +744,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/resident-evil.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
@@ -793,7 +793,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/sense-and-sensibility.jpg",
-      "imdbRating": 7.4,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt13609648/",
       "showings": [
         {
@@ -878,7 +878,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/someone-s-daughter.jpg",
-      "imdbRating": 6.5,
+      "imdbRating": 6.8,
       "imdbUrl": "https://www.imdb.com/title/tt38568255/",
       "showings": [
         {
@@ -1107,7 +1107,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/whalefall.jpg",
-      "imdbRating": 6.7,
+      "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt28535715/",
       "showings": [
         {
@@ -1327,7 +1327,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 9.3,
+      "imdbRating": 9.2,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
