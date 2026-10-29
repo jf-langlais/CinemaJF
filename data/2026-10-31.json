@@ -2,8 +2,8 @@
   "date": "2026-10-31",
   "dateLabel": "2026-10-31",
   "displayDate": "2026-10-31",
-  "generatedAt": "2026-10-28T20:57-04:00",
-  "updatedLabel": "20 h 57",
+  "generatedAt": "2026-10-29T03:06-04:00",
+  "updatedLabel": "03 h 06",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -119,7 +119,7 @@
       "translation": "Gueule d'argile",
       "runtime": "1 h 48",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/clayface.jpg",
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt34890576/",
@@ -926,6 +926,15 @@
           ]
         },
         {
+          "cinema": "cineplex-imax",
+          "lang": "VF",
+          "format": "IMAX",
+          "times": [
+            "13:30",
+            "18:30"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
@@ -1152,7 +1161,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/verity.jpg",
-      "imdbRating": 6.1,
+      "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
@@ -1279,7 +1288,7 @@
       "translation": "",
       "runtime": "1 h 45",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/wicker.jpg",
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt29611136/",
@@ -1308,7 +1317,7 @@
       "translation": "",
       "runtime": "1 h 45",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "",
       "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt29611136/",
@@ -1359,7 +1368,7 @@
       "translation": "",
       "runtime": "2 h 12",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "",
       "imdbRating": 8.7,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
