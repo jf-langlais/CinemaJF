@@ -2,8 +2,8 @@
   "date": "2026-10-29",
   "dateLabel": "2026-10-29",
   "displayDate": "2026-10-29",
-  "generatedAt": "2026-10-29T10:20-04:00",
-  "updatedLabel": "10 h 20",
+  "generatedAt": "2026-10-29T16:18-04:00",
+  "updatedLabel": "16 h 18",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -66,27 +66,6 @@
       ]
     },
     {
-      "title": "Carrie",
-      "original": "Carrie",
-      "translation": "",
-      "runtime": "1 h 38",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/carrie.jpg",
-      "imdbRating": 7.9,
-      "imdbUrl": "https://www.imdb.com/title/tt11540908/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Charlebois symphonique - Une célébration grandiose avec l'OSM",
       "original": "Charlebois symphonique - Une célébration grandiose avec l'OSM",
       "translation": "",
@@ -142,17 +121,8 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "18:30",
             "21:20"
           ]
         },
@@ -185,18 +155,9 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
-            "16:15",
             "21:55"
           ]
         },
@@ -221,27 +182,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:30"
-          ]
-        }
-      ]
-    },
-    {
       "title": "L'île de l'oubli",
       "original": "Forgotten Island",
       "translation": "L'île de l'oubli",
@@ -252,14 +192,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:05"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -295,8 +227,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:20",
-            "19:30",
             "22:15"
           ]
         },
@@ -315,8 +245,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:10",
-            "18:40",
             "21:25"
           ]
         },
@@ -360,8 +288,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:45",
-            "19:20",
             "22:00"
           ]
         },
@@ -426,8 +352,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:30",
-            "19:15",
             "21:55"
           ]
         },
@@ -481,7 +405,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:30",
             "21:10"
           ]
         },
@@ -490,24 +413,7 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "15:30",
             "21:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "D-BOX",
-          "times": [
-            "18:30"
           ]
         },
         {
@@ -518,14 +424,6 @@
             "13:55",
             "16:35",
             "19:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:10"
           ]
         },
         {
@@ -543,27 +441,6 @@
           "times": [
             "19:15",
             "21:50"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Ozzy & Black Sabbath: Back to the Beginning",
-      "original": "Ozzy & Black Sabbath: Back to the Beginning",
-      "translation": "",
-      "runtime": "2 h 27",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/ozzy-black-sabbath-back-to-the-beginning.jpg",
-      "imdbRating": null,
-      "imdbUrl": "https://www.imdb.com/title/tt46055956/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:00"
           ]
         }
       ]
@@ -587,15 +464,6 @@
             "13:20",
             "15:55",
             "18:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:05",
-            "18:45"
           ]
         },
         {
@@ -657,7 +525,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:25",
             "22:00"
           ]
         },
@@ -676,7 +543,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:30",
             "21:50"
           ]
         }
@@ -698,7 +564,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:50",
             "21:50"
           ]
         },
@@ -717,14 +582,6 @@
           "format": "Standard",
           "times": [
             "15:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:30"
           ]
         },
         {
@@ -781,8 +638,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "16:20",
-            "19:10",
             "22:00"
           ]
         },
@@ -791,8 +646,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:50",
-            "18:40",
             "21:30"
           ]
         },
@@ -826,15 +679,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:15",
-            "19:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -862,27 +706,6 @@
       ]
     },
     {
-      "title": "The History of Concrete",
-      "original": "The History of Concrete",
-      "translation": "",
-      "runtime": "1 h 40",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/the-history-of-concrete.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt39150234/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -898,16 +721,7 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:05"
           ]
         },
         {
@@ -929,40 +743,11 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "21:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Violence du corps de l'autre",
-      "original": "Violence du corps de l'autre",
-      "translation": "",
-      "runtime": "1 h 58",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:15"
           ]
         }
       ]
@@ -983,8 +768,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
-            "18:40",
             "21:40"
           ]
         },
@@ -993,8 +776,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
-            "19:25",
             "21:55"
           ]
         },
@@ -1014,14 +795,6 @@
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:05"
           ]
         },
         {
@@ -1092,15 +865,6 @@
             "13:30",
             "18:45"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:00",
-            "19:00"
-          ]
         }
       ]
     },
@@ -1120,7 +884,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:55",
             "21:45"
           ]
         }
@@ -1142,16 +905,7 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "18:45",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "UltraAVX",
-          "times": [
-            "15:30"
           ]
         },
         {
@@ -1169,14 +923,6 @@
           "times": [
             "13:05",
             "16:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:50"
           ]
         }
       ]
@@ -1197,7 +943,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "17:30",
             "21:10"
           ]
         },
@@ -1215,7 +960,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "18:15",
             "21:10"
           ]
         },
