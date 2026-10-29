@@ -426,6 +426,13 @@
     "ratingChecked": "2026-10-01",
     "ratingSource": "official-dataset-v1"
   },
+  "ojczyzna": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-10-28",
+    "posterSource": "missing"
+  },
   "opera cosi fan tutte": {
     "imdbMatchScore": 0.824,
     "imdbRating": 7.3,
@@ -709,6 +716,17 @@
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
     "ratingChecked": "2026-10-15",
+    "ratingSource": "official-dataset-v1"
+  },
+  "the only living pickpocket in new york": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 7.2,
+    "imdbUrl": "https://www.imdb.com/title/tt36482679/",
+    "imdbVotes": 956,
+    "poster": "posters/the-only-living-pickpocket-in-new-york.jpg",
+    "posterChecked": "2026-10-28",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-10-28",
     "ratingSource": "official-dataset-v1"
   },
   "the shining": {

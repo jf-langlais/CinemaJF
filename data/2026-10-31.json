@@ -2,8 +2,8 @@
   "date": "2026-10-31",
   "dateLabel": "2026-10-31",
   "displayDate": "2026-10-31",
-  "generatedAt": "2026-10-28T17:05-04:00",
-  "updatedLabel": "17 h 05",
+  "generatedAt": "2026-10-28T20:57-04:00",
+  "updatedLabel": "20 h 57",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -71,11 +71,19 @@
       "translation": "",
       "runtime": "1 h 29",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/charlebois-symphonique-une-celebration-grandiose-avec-l-osm.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt49970957/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:00"
+          ]
+        },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
@@ -92,6 +100,15 @@
           "times": [
             "13:30",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "17:10"
           ]
         }
       ]
@@ -600,10 +617,10 @@
       ]
     },
     {
-      "title": "Le Fantôme de L'Opéra",
-      "original": "Le Fantôme de L'Opéra",
+      "title": "Le Fantôme de l'Opéra",
+      "original": "Le Fantôme de l'Opéra",
       "translation": "",
-      "runtime": "",
+      "runtime": "2 h 14",
       "genre": "",
       "badge": "",
       "poster": "posters/le-fantome-de-l-opera.jpg",
@@ -694,6 +711,28 @@
           "times": [
             "10:30",
             "13:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La Patrie",
+      "original": "Ojczyzna",
+      "translation": "La Patrie",
+      "runtime": "1 h 22",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "17:40"
           ]
         }
       ]
@@ -878,6 +917,15 @@
           ]
         },
         {
+          "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "16:00",
+            "21:00"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
@@ -1040,6 +1088,29 @@
           "format": "Standard",
           "times": [
             "16:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le dernier pickpocket de New York",
+      "original": "The Only Living Pickpocket in New York",
+      "translation": "Le dernier pickpocket de New York",
+      "runtime": "1 h 28",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/the-only-living-pickpocket-in-new-york.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt36482679/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "16:40",
+            "19:45"
           ]
         }
       ]
