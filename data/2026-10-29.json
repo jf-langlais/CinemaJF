@@ -2,8 +2,8 @@
   "date": "2026-10-29",
   "dateLabel": "2026-10-29",
   "displayDate": "2026-10-29",
-  "generatedAt": "2026-10-29T03:06-04:00",
-  "updatedLabel": "03 h 06",
+  "generatedAt": "2026-10-29T10:20-04:00",
+  "updatedLabel": "10 h 20",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -56,14 +56,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt34477890/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:20"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -105,14 +97,6 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt49970957/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:15"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -160,7 +144,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:10",
             "16:00"
           ]
         },
@@ -210,14 +193,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "13:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
@@ -261,16 +236,7 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:20"
           ]
         }
       ]
@@ -291,7 +257,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:05"
           ]
         },
@@ -330,7 +295,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:40",
             "15:20",
             "19:30",
             "22:15"
@@ -351,8 +315,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
-            "13:00",
             "16:10",
             "18:40",
             "21:25"
@@ -398,7 +360,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:45",
             "19:20",
             "22:00"
@@ -412,14 +373,6 @@
             "13:35",
             "16:00",
             "18:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:40"
           ]
         },
         {
@@ -473,7 +426,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:40",
             "16:30",
             "19:15",
             "21:55"
@@ -487,28 +439,6 @@
             "13:40",
             "16:20",
             "18:55"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:20",
-            "13:10"
           ]
         }
       ]
@@ -569,7 +499,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:55",
             "18:30"
           ]
         },
@@ -578,7 +507,6 @@
           "lang": "VOA",
           "format": "D-BOX",
           "times": [
-            "12:55",
             "18:30"
           ]
         },
@@ -666,8 +594,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
-            "13:30",
             "16:05",
             "18:45"
           ]
@@ -736,14 +662,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "13:35"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -806,8 +724,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:20",
-            "13:20",
             "18:30"
           ]
         },
@@ -850,28 +766,6 @@
       ]
     },
     {
-      "title": "Sans témoin",
-      "original": "Someone's Daughter",
-      "translation": "Sans témoin",
-      "runtime": "1 h 36",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/someone-s-daughter.jpg",
-      "imdbRating": 6.8,
-      "imdbUrl": "https://www.imdb.com/title/tt38568255/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:30",
-            "13:45"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Street Fighter",
       "original": "Street Fighter",
       "translation": "",
@@ -887,7 +781,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "13:30",
             "16:20",
             "19:10",
             "22:00"
@@ -898,7 +791,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:00",
             "15:50",
             "18:40",
             "21:30"
@@ -937,7 +829,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:15",
             "19:00"
           ]
@@ -992,27 +883,6 @@
       ]
     },
     {
-      "title": "Le jugement social",
-      "original": "The Social Reckoning",
-      "translation": "Le jugement social",
-      "runtime": "1 h 52",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-social-reckoning.jpg",
-      "imdbRating": 6.7,
-      "imdbUrl": "https://www.imdb.com/title/tt37510326/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "11:00"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -1037,7 +907,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:25",
             "19:05"
           ]
         },
@@ -1056,7 +925,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "21:40"
           ]
         },
@@ -1115,7 +983,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:10",
             "18:40",
             "21:40"
@@ -1126,7 +993,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:05",
             "15:55",
             "19:25",
             "21:55"
@@ -1147,7 +1013,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:40",
             "21:40"
           ]
         },
@@ -1203,7 +1068,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:40",
             "21:30"
           ]
         }
@@ -1287,7 +1151,6 @@
           "lang": "VOF",
           "format": "UltraAVX",
           "times": [
-            "12:30",
             "15:30"
           ]
         },
@@ -1313,7 +1176,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:00",
             "18:50"
           ]
         }
@@ -1335,7 +1197,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:50",
             "17:30",
             "21:10"
           ]
@@ -1354,8 +1215,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
-            "14:15",
             "18:15",
             "21:10"
           ]
