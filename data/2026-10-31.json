@@ -2,8 +2,8 @@
   "date": "2026-10-31",
   "dateLabel": "2026-10-31",
   "displayDate": "2026-10-31",
-  "generatedAt": "2026-10-31T08:30-04:00",
-  "updatedLabel": "08 h 30",
+  "generatedAt": "2026-10-31T13:44-04:00",
+  "updatedLabel": "13 h 44",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -89,7 +89,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:15",
             "19:00"
           ]
         },
@@ -129,8 +128,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "13:00",
-            "15:50",
             "18:30",
             "21:10"
           ]
@@ -173,7 +170,6 @@
           "lang": "VF",
           "format": "Dolby Atmos",
           "times": [
-            "13:55",
             "19:10"
           ]
         },
@@ -182,7 +178,6 @@
           "lang": "VOA",
           "format": "Dolby Atmos",
           "times": [
-            "16:30",
             "21:50"
           ]
         },
@@ -258,27 +253,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:30"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Fjord",
       "original": "Fjord",
       "translation": "",
@@ -294,7 +268,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:30",
             "18:50",
             "21:25"
           ]
@@ -334,15 +307,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:25",
-            "16:15"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -369,8 +333,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:30",
-            "16:20",
             "19:25",
             "21:55"
           ]
@@ -391,8 +353,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:30",
-            "16:05",
             "18:40"
           ]
         },
@@ -435,8 +395,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:05",
-            "16:05",
             "19:00"
           ]
         },
@@ -511,8 +469,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:20",
-            "15:45",
             "18:35",
             "21:20"
           ]
@@ -533,7 +489,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:40",
             "18:55",
             "21:20"
           ]
@@ -547,27 +502,6 @@
             "17:10",
             "18:10",
             "21:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "12:45"
           ]
         }
       ]
@@ -609,8 +543,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:30",
-            "15:35",
             "18:40",
             "21:40"
           ]
@@ -631,7 +563,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:45",
             "18:45",
             "21:15"
           ]
@@ -672,63 +603,12 @@
       "imdbUrl": "https://www.imdb.com/title/tt38807889/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:25"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "10:30",
             "13:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La Patrie",
-      "original": "Ojczyzna",
-      "translation": "La Patrie",
-      "runtime": "1 h 22",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:00",
-            "17:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Opera: Cosi Fan Tutte",
-      "original": "Opera: Cosi Fan Tutte",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/opera-cosi-fan-tutte.jpg",
-      "imdbRating": 7.3,
-      "imdbUrl": "https://www.imdb.com/title/tt2973692/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:30"
           ]
         }
       ]
@@ -749,7 +629,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:30",
             "21:45"
           ]
         },
@@ -758,7 +637,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "16:30",
             "21:45"
           ]
         },
@@ -767,7 +645,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:35",
             "19:15"
           ]
         },
@@ -776,7 +653,6 @@
           "lang": "VOA",
           "format": "D-BOX",
           "times": [
-            "13:35",
             "19:15"
           ]
         },
@@ -832,8 +708,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:10",
-            "15:50",
             "18:50"
           ]
         },
@@ -947,39 +821,10 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Sans témoin",
-      "original": "Someone's Daughter",
-      "translation": "Sans témoin",
-      "runtime": "1 h 36",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/someone-s-daughter.jpg",
-      "imdbRating": 6.8,
-      "imdbUrl": "https://www.imdb.com/title/tt38568255/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:45"
           ]
         }
       ]
@@ -1000,8 +845,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "12:35",
-            "15:25",
             "18:55",
             "21:40"
           ]
@@ -1011,7 +854,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "14:55",
             "18:40",
             "21:55"
           ]
@@ -1025,48 +867,6 @@
             "16:10",
             "19:05",
             "21:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Super Simple Songs",
-      "original": "Super Simple Songs",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:45"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "The History of Concrete",
-      "original": "The History of Concrete",
-      "translation": "",
-      "runtime": "1 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-history-of-concrete.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt39150234/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:10"
           ]
         }
       ]
@@ -1087,7 +887,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:40",
             "19:45"
           ]
         }
@@ -1135,18 +934,9 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:15",
             "19:10"
           ]
         },
@@ -1166,7 +956,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:20",
             "19:00"
           ]
         },
@@ -1189,27 +978,6 @@
       ]
     },
     {
-      "title": "Violence du corps de l'autre",
-      "original": "Violence du corps de l'autre",
-      "translation": "",
-      "runtime": "1 h 58",
-      "genre": "",
-      "badge": "",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:05"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Au fond de la baleine",
       "original": "Whalefall",
       "translation": "Au fond de la baleine",
@@ -1225,16 +993,7 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "13:35"
           ]
         },
         {
@@ -1297,14 +1056,6 @@
           "times": [
             "18:55"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:10"
-          ]
         }
       ]
     },
@@ -1324,7 +1075,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:15",
             "21:30"
           ]
         }
@@ -1346,8 +1096,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:40",
-            "15:40",
             "19:05",
             "22:00"
           ]
@@ -1399,7 +1147,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "14:40",
             "18:20",
             "21:30"
           ]
@@ -1419,7 +1166,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "14:15",
             "18:15",
             "21:10"
           ]
