@@ -2,8 +2,8 @@
   "date": "2026-11-05",
   "dateLabel": "2026-11-05",
   "displayDate": "2026-11-05",
-  "generatedAt": "2026-10-30T19:47-04:00",
-  "updatedLabel": "19 h 47",
+  "generatedAt": "2026-10-31T01:41-04:00",
+  "updatedLabel": "01 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -82,7 +82,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/clayface.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt34890576/",
       "showings": [
         {
@@ -105,6 +105,23 @@
         },
         {
           "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "19:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:25",
+            "16:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -121,23 +138,6 @@
             "13:00",
             "15:30",
             "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "13:25",
-            "16:00"
           ]
         },
         {
@@ -281,7 +281,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/forgotten-island.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {

@@ -2,8 +2,8 @@
   "date": "2026-11-03",
   "dateLabel": "2026-11-03",
   "displayDate": "2026-11-03",
-  "generatedAt": "2026-10-30T19:47-04:00",
-  "updatedLabel": "19 h 47",
+  "generatedAt": "2026-10-31T01:41-04:00",
+  "updatedLabel": "01 h 41",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -83,7 +83,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/clayface.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt34890576/",
       "showings": [
         {
@@ -95,6 +95,17 @@
             "15:50",
             "18:30",
             "21:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:25",
+            "16:00",
+            "19:00",
+            "21:30"
           ]
         },
         {
@@ -117,17 +128,6 @@
             "15:30",
             "18:30",
             "20:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "13:25",
-            "16:00",
-            "19:00",
-            "21:30"
           ]
         },
         {
@@ -258,7 +258,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/forgotten-island.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
@@ -784,19 +784,19 @@
         },
         {
           "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "18:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
           "lang": "VF",
           "format": "IMAX",
           "times": [
             "16:00",
             "21:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VOA",
-          "format": "IMAX",
-          "times": [
-            "18:30"
           ]
         },
         {
