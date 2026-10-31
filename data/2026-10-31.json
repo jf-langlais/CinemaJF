@@ -2,8 +2,8 @@
   "date": "2026-10-31",
   "dateLabel": "2026-10-31",
   "displayDate": "2026-10-31",
-  "generatedAt": "2026-10-31T01:41-04:00",
-  "updatedLabel": "01 h 41",
+  "generatedAt": "2026-10-31T08:30-04:00",
+  "updatedLabel": "08 h 30",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -137,17 +137,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "13:25",
-            "16:00",
-            "19:00",
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -166,6 +155,17 @@
             "15:30",
             "18:30",
             "20:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:25",
+            "16:00",
+            "19:00",
+            "21:30"
           ]
         },
         {
@@ -227,14 +227,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt0121164/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:45"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -283,14 +275,6 @@
           "times": [
             "15:30"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:30"
-          ]
         }
       ]
     },
@@ -310,7 +294,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:30",
             "18:50",
             "21:25"
@@ -355,7 +338,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:25",
             "16:15"
           ]
@@ -387,7 +369,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "11:00",
             "13:30",
             "16:20",
             "19:25",
@@ -410,7 +391,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:30",
             "16:05",
             "18:40"
@@ -531,7 +511,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:55",
             "13:20",
             "15:45",
             "18:35",
@@ -554,7 +533,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "11:10",
             "13:40",
             "18:55",
             "21:20"
@@ -589,7 +567,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "12:45"
           ]
         }
@@ -654,7 +631,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "15:45",
             "18:45",
             "21:15"
@@ -700,7 +676,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:25"
           ]
         },
@@ -774,7 +749,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:10",
             "16:30",
             "21:45"
           ]
@@ -784,7 +758,6 @@
           "lang": "VF",
           "format": "D-BOX",
           "times": [
-            "11:10",
             "16:30",
             "21:45"
           ]
@@ -859,7 +832,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:10",
             "15:50",
             "18:50"
@@ -1007,7 +979,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:45"
           ]
         }
@@ -1074,7 +1045,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:45",
             "12:45"
           ]
         }
@@ -1117,7 +1087,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:40",
             "19:45"
           ]
@@ -1256,7 +1225,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:05",
             "16:10",
             "21:50"
           ]
@@ -1400,7 +1368,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "18:30"
           ]
         },
@@ -1432,7 +1399,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "11:15",
             "14:40",
             "18:20",
             "21:30"
@@ -1453,7 +1419,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "14:15",
             "18:15",
             "21:10"
