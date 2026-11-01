@@ -2,8 +2,8 @@
   "date": "2026-11-01",
   "dateLabel": "2026-11-01",
   "displayDate": "2026-11-01",
-  "generatedAt": "2026-11-01T02:32-05:00",
-  "updatedLabel": "02 h 32",
+  "generatedAt": "2026-11-01T10:09-05:00",
+  "updatedLabel": "10 h 09",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -56,19 +56,10 @@
       "imdbUrl": "https://www.imdb.com/title/tt49970957/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:00"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:15",
             "19:00"
           ]
         },
@@ -108,7 +99,6 @@
           "lang": "VF",
           "format": "UltraAVX",
           "times": [
-            "13:00",
             "15:50",
             "18:30",
             "21:10"
@@ -149,7 +139,6 @@
           "lang": "VF",
           "format": "Dolby Atmos",
           "times": [
-            "13:55",
             "21:50"
           ]
         },
@@ -209,14 +198,6 @@
           "times": [
             "15:30"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:30"
-          ]
         }
       ]
     },
@@ -236,8 +217,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:20",
-            "13:30",
             "18:50",
             "21:25"
           ]
@@ -281,7 +260,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "16:15"
           ]
         },
@@ -312,7 +290,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:55",
             "15:45",
             "19:25",
             "21:55"
@@ -333,8 +310,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
-            "13:30",
             "16:15",
             "19:05"
           ]
@@ -379,7 +354,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:35",
             "15:55",
             "18:45",
             "21:15"
@@ -422,7 +396,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:45",
             "18:50"
           ]
         },
@@ -454,7 +427,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:05",
             "15:30",
             "18:35",
             "21:20"
@@ -475,8 +447,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "11:10",
-            "13:40",
             "18:55",
             "21:20"
           ]
@@ -488,28 +458,6 @@
           "times": [
             "12:40",
             "17:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:20",
-            "12:45"
           ]
         }
       ]
@@ -551,7 +499,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:35",
             "18:40",
             "21:40"
@@ -572,7 +519,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "15:45",
             "18:45",
             "21:15"
@@ -642,15 +588,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt38807889/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:30",
-            "13:25"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -677,7 +614,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:00",
             "17:40"
           ]
         }
@@ -717,7 +653,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:30",
             "19:15"
           ]
         },
@@ -726,7 +661,6 @@
           "lang": "VOA",
           "format": "D-BOX",
           "times": [
-            "13:30",
             "19:15"
           ]
         },
@@ -782,8 +716,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
-            "13:10",
             "15:55",
             "18:50"
           ]
@@ -896,40 +828,10 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
             "21:40"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Sans témoin",
-      "original": "Someone's Daughter",
-      "translation": "Sans témoin",
-      "runtime": "1 h 36",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/someone-s-daughter.jpg",
-      "imdbRating": 6.8,
-      "imdbUrl": "https://www.imdb.com/title/tt38568255/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:50",
-            "13:45"
           ]
         }
       ]
@@ -950,7 +852,6 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "12:35",
             "15:25",
             "18:55",
             "21:40"
@@ -961,7 +862,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:10",
             "16:05",
             "19:00",
             "21:45"
@@ -995,7 +895,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:40",
             "19:45"
           ]
@@ -1027,7 +926,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:15",
             "19:10"
           ]
         },
@@ -1114,7 +1012,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:20",
             "19:20"
           ]
         },
@@ -1227,7 +1124,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:40",
             "15:40",
             "19:05",
             "22:00"
@@ -1248,7 +1144,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "16:00"
           ]
         },
@@ -1280,7 +1175,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:50",
             "16:45",
             "20:45"
           ]
@@ -1299,8 +1193,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
-            "14:15",
             "18:15",
             "21:10"
           ]

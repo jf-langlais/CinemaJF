@@ -649,6 +649,17 @@
     "ratingChecked": "2026-10-22",
     "ratingSource": "official-dataset-v1"
   },
+  "stray kids world tour run it live viewing": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt48391060/",
+    "imdbVotes": null,
+    "poster": "posters/stray-kids-world-tour-run-it-live-viewing.jpg",
+    "posterChecked": "2026-11-01",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-01",
+    "ratingSource": "official-dataset-v1"
+  },
   "street fighter": {
     "imdbMatchScore": 1.08,
     "imdbRating": 6.2,
