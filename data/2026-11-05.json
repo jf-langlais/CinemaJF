@@ -2,8 +2,8 @@
   "date": "2026-11-05",
   "dateLabel": "2026-11-05",
   "displayDate": "2026-11-05",
-  "generatedAt": "2026-10-31T21:10-04:00",
-  "updatedLabel": "21 h 10",
+  "generatedAt": "2026-11-01T02:32-05:00",
+  "updatedLabel": "02 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -358,14 +358,6 @@
         },
         {
           "cinema": "clap-loretteville",
-          "lang": "VO",
-          "format": "Dolby Atmos",
-          "times": [
-            "21:40"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -378,6 +370,14 @@
           "format": "Dolby Atmos",
           "times": [
             "18:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VO",
+          "format": "Dolby Atmos",
+          "times": [
+            "21:40"
           ]
         }
       ]
@@ -781,7 +781,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/pauline-julien-femme-pays.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
@@ -840,17 +840,17 @@
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
-          "format": "Dolby Atmos",
+          "format": "Standard",
           "times": [
-            "16:20"
+            "21:55"
           ]
         },
         {
           "cinema": "clap-ste-foy",
           "lang": "VOA",
-          "format": "Standard",
+          "format": "Dolby Atmos",
           "times": [
-            "21:55"
+            "16:20"
           ]
         }
       ]
