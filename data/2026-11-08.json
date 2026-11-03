@@ -2,8 +2,8 @@
   "date": "2026-11-08",
   "dateLabel": "2026-11-08",
   "displayDate": "2026-11-08",
-  "generatedAt": "2026-11-03T01:47-05:00",
-  "updatedLabel": "01 h 47",
+  "generatedAt": "2026-11-03T10:08-05:00",
+  "updatedLabel": "10 h 08",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -66,6 +66,29 @@
       ]
     },
     {
+      "title": "Fjord",
+      "original": "Fjord",
+      "translation": "",
+      "runtime": "2 h 26",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/fjord.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35410859/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:30",
+            "18:30"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Gojira-0.0",
       "original": "Gojira-0.0",
       "translation": "",
@@ -113,6 +136,72 @@
       ]
     },
     {
+      "title": "L'autre",
+      "original": "L'autre",
+      "translation": "",
+      "runtime": "1 h 38",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "",
+      "imdbRating": 7.0,
+      "imdbUrl": "https://www.imdb.com/title/tt43106511/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:40",
+            "17:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le Fantôme de l'Opéra",
+      "original": "Le Fantôme de l'Opéra",
+      "translation": "",
+      "runtime": "2 h 14",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/le-fantome-de-l-opera.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt14647340/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pauline Julien: Femme pays",
+      "original": "Pauline Julien: Femme pays",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/pauline-julien-femme-pays.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39387187/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "16:00",
+            "19:10"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Le chat chapeauté",
       "original": "The Cat in the Hat",
       "translation": "Le chat chapeauté",
@@ -155,6 +244,28 @@
           "format": "3D",
           "times": [
             "18:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vous pouvez tout voir",
+      "original": "You Can See Everything",
+      "translation": "Vous pouvez tout voir",
+      "runtime": "2 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/you-can-see-everything.jpg",
+      "imdbRating": 9.1,
+      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "18:20"
           ]
         }
       ]
