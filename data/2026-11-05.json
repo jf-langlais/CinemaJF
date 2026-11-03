@@ -2,8 +2,8 @@
   "date": "2026-11-05",
   "dateLabel": "2026-11-05",
   "displayDate": "2026-11-05",
-  "generatedAt": "2026-11-02T18:30-05:00",
-  "updatedLabel": "18 h 30",
+  "generatedAt": "2026-11-03T01:47-05:00",
+  "updatedLabel": "01 h 47",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -281,7 +281,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/forgotten-island.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
@@ -390,7 +390,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/hantee.jpg",
-      "imdbRating": 7.3,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
@@ -496,7 +496,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "",
-      "imdbRating": 7.3,
+      "imdbRating": 7.0,
       "imdbUrl": "https://www.imdb.com/title/tt43106511/",
       "showings": [
         {
@@ -863,7 +863,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/sense-and-sensibility.jpg",
-      "imdbRating": 7.3,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt13609648/",
       "showings": [
         {
@@ -1035,7 +1035,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-only-living-pickpocket-in-new-york.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt36482679/",
       "showings": [
         {
@@ -1343,7 +1343,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 9.2,
+      "imdbRating": 9.1,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
