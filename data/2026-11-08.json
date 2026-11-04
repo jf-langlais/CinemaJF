@@ -2,8 +2,8 @@
   "date": "2026-11-08",
   "dateLabel": "2026-11-08",
   "displayDate": "2026-11-08",
-  "generatedAt": "2026-11-03T15:59-05:00",
-  "updatedLabel": "15 h 59",
+  "generatedAt": "2026-11-03T20:21-05:00",
+  "updatedLabel": "20 h 21",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -219,10 +219,10 @@
       ]
     },
     {
-      "title": "Le chat chapeauté",
+      "title": "Le Chat Chapeauté",
       "original": "The Cat in the Hat",
-      "translation": "Le chat chapeauté",
-      "runtime": "1 h 31",
+      "translation": "Le Chat Chapeauté",
+      "runtime": "1 h 47",
       "genre": "",
       "badge": "",
       "poster": "posters/the-cat-in-the-hat.jpg",
