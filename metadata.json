@@ -169,13 +169,13 @@
     "ratingSource": "official-dataset-v1"
   },
   "coyote vs acme": {
-    "imdbRating": 7.4,
+    "imdbRating": 7.3,
     "imdbUrl": "https://www.imdb.com/title/tt1756855/",
-    "imdbVotes": 39376,
+    "imdbVotes": 49341,
     "poster": "posters/coyote-vs-acme.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-10-07",
+    "ratingChecked": "2026-11-04",
     "ratingSource": "official-dataset-v1"
   },
   "de gaulle": {
@@ -290,6 +290,17 @@
     "imdbVotes": 33370,
     "poster": "posters/heart-of-the-beast.jpg",
     "posterChecked": "2026-10-03",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-04",
+    "ratingSource": "official-dataset-v1"
+  },
+  "how to rob a bank": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt35866986/",
+    "imdbVotes": null,
+    "poster": "posters/how-to-rob-a-bank.jpg",
+    "posterChecked": "2026-11-04",
     "posterSource": "local-cache",
     "ratingChecked": "2026-11-04",
     "ratingSource": "official-dataset-v1"
@@ -561,6 +572,17 @@
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
     "ratingChecked": "2026-10-10",
+    "ratingSource": "official-dataset-v1"
+  },
+  "ramayana rise of a legend": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt27988879/",
+    "imdbVotes": null,
+    "poster": "posters/ramayana-rise-of-a-legend.jpg",
+    "posterChecked": "2026-11-04",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-04",
     "ratingSource": "official-dataset-v1"
   },
   "resident evil": {
@@ -913,6 +935,17 @@
     "poster": "",
     "posterChecked": "2026-11-04",
     "posterSource": "missing",
+    "ratingChecked": "2026-11-04",
+    "ratingSource": "official-dataset-v1"
+  },
+  "wild horse nine": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 8.1,
+    "imdbUrl": "https://www.imdb.com/title/tt15799564/",
+    "imdbVotes": 2246,
+    "poster": "posters/wild-horse-nine.jpg",
+    "posterChecked": "2026-11-04",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-11-04",
     "ratingSource": "official-dataset-v1"
   },
