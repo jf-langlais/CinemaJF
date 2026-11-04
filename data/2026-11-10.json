@@ -2,8 +2,8 @@
   "date": "2026-11-10",
   "dateLabel": "2026-11-10",
   "displayDate": "2026-11-10",
-  "generatedAt": "2026-11-04T04:13-05:00",
-  "updatedLabel": "04 h 13",
+  "generatedAt": "2026-11-04T12:16-05:00",
+  "updatedLabel": "12 h 16",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -114,6 +114,30 @@
       ]
     },
     {
+      "title": "Soldat fantôme",
+      "original": "Ghost Soldier",
+      "translation": "Soldat fantôme",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/ghost-soldier.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt38686316/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "14:00",
+            "16:10",
+            "19:10",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Gojira-0.0",
       "original": "Gojira-0.0",
       "translation": "",
@@ -125,11 +149,12 @@
       "imdbUrl": "",
       "showings": [
         {
-          "cinema": "cineplex-beauport",
+          "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
-          "format": "Standard",
+          "format": "UltraAVX",
           "times": [
-            "13:00"
+            "18:50",
+            "22:00"
           ]
         },
         {
@@ -137,8 +162,17 @@
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
+            "13:00",
             "18:50",
             "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "15:55"
           ]
         },
         {
@@ -394,6 +428,24 @@
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:40",
+            "21:40"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -409,6 +461,24 @@
           "times": [
             "18:45",
             "21:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "18:20",
+            "21:00"
           ]
         },
         {
@@ -542,6 +612,7 @@
           "format": "Standard",
           "times": [
             "13:35",
+            "18:15",
             "20:45"
           ]
         },

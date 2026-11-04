@@ -255,6 +255,17 @@
     "imdbUrl": "",
     "poster": "https://www.cinemaclock.com/html/ccimg/logo-256x256-alpha.png"
   },
+  "ghost soldier": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt38686316/",
+    "imdbVotes": null,
+    "poster": "posters/ghost-soldier.jpg",
+    "posterChecked": "2026-11-04",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-04",
+    "ratingSource": "official-dataset-v1"
+  },
   "gojira 0 0": {
     "imdbRating": null,
     "imdbUrl": "",
