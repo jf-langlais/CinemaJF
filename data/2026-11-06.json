@@ -2,8 +2,8 @@
   "date": "2026-11-06",
   "dateLabel": "2026-11-06",
   "displayDate": "2026-11-06",
-  "generatedAt": "2026-11-05T07:21-05:00",
-  "updatedLabel": "07 h 21",
+  "generatedAt": "2026-11-05T15:40-05:00",
+  "updatedLabel": "15 h 40",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -296,20 +296,20 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "15:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "13:00",
             "18:50",
             "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "15:55"
           ]
         },
         {
@@ -625,9 +625,9 @@
       ]
     },
     {
-      "title": "La Patrie",
+      "title": "La patrie",
       "original": "Ojczyzna",
-      "translation": "La Patrie",
+      "translation": "La patrie",
       "runtime": "1 h 22",
       "genre": "",
       "badge": "Nouveauté",
@@ -932,24 +932,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:55",
-            "15:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "3D",
-          "times": [
-            "18:20",
-            "21:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -964,6 +946,24 @@
           "times": [
             "18:45",
             "21:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "18:20",
+            "21:00"
           ]
         },
         {
@@ -1174,31 +1174,6 @@
           "times": [
             "13:25",
             "18:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Wild Horse Nine",
-      "original": "Wild Horse Nine",
-      "translation": "",
-      "runtime": "1 h 58",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/wild-horse-nine.jpg",
-      "imdbRating": 8.1,
-      "imdbUrl": "https://www.imdb.com/title/tt15799564/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "10:50",
-            "13:40",
-            "16:25",
-            "19:15",
-            "21:55"
           ]
         }
       ]
