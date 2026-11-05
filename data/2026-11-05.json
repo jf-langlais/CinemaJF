@@ -2,8 +2,8 @@
   "date": "2026-11-05",
   "dateLabel": "2026-11-05",
   "displayDate": "2026-11-05",
-  "generatedAt": "2026-11-04T22:30-05:00",
-  "updatedLabel": "22 h 30",
+  "generatedAt": "2026-11-05T07:21-05:00",
+  "updatedLabel": "07 h 21",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -105,23 +105,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "13:25",
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -138,6 +121,23 @@
             "13:00",
             "15:30",
             "18:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "19:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:25",
+            "16:00"
           ]
         },
         {
@@ -217,14 +217,6 @@
           "times": [
             "15:25"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:30"
-          ]
         }
       ]
     },
@@ -244,7 +236,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:30",
             "18:50",
             "21:25"
@@ -300,7 +291,7 @@
       "translation": "",
       "runtime": "2 h 15",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
@@ -419,7 +410,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:30",
             "19:05"
           ]
@@ -496,7 +486,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "",
-      "imdbRating": 7.0,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt43106511/",
       "showings": [
         {
@@ -525,7 +515,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "11:10",
             "13:40",
             "18:55",
             "21:20"
@@ -560,7 +549,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "12:50"
           ]
         }
@@ -660,7 +648,7 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
@@ -691,7 +679,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:00",
             "17:40"
           ]
@@ -789,7 +776,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:10",
             "15:50",
             "18:50"
@@ -900,7 +886,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/someone-s-daughter.jpg",
-      "imdbRating": 6.8,
+      "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt38568255/",
       "showings": [
         {
@@ -908,7 +894,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:45"
           ]
         }
@@ -965,7 +950,7 @@
       "translation": "Le Chat Chapeauté",
       "runtime": "1 h 47",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/the-cat-in-the-hat.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
@@ -1007,27 +992,6 @@
       ]
     },
     {
-      "title": "The History of Concrete",
-      "original": "The History of Concrete",
-      "translation": "",
-      "runtime": "1 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-history-of-concrete.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt39150234/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "10:20"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Le dernier pickpocket de New York",
       "original": "The Only Living Pickpocket in New York",
       "translation": "Le dernier pickpocket de New York",
@@ -1043,7 +1007,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "16:40",
             "19:45"
           ]
@@ -1320,7 +1283,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "18:45"
           ]
         },
@@ -1351,6 +1313,7 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
+            "12:50",
             "16:45",
             "20:45"
           ]
@@ -1369,7 +1332,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "14:15",
             "18:15",
             "21:10"

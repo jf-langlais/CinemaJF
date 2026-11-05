@@ -2,8 +2,8 @@
   "date": "2026-11-09",
   "dateLabel": "2026-11-09",
   "displayDate": "2026-11-09",
-  "generatedAt": "2026-11-04T22:30-05:00",
-  "updatedLabel": "22 h 30",
+  "generatedAt": "2026-11-05T07:21-05:00",
+  "updatedLabel": "07 h 21",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -97,16 +97,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:55",
-            "16:25",
-            "18:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -123,6 +113,16 @@
             "13:30",
             "16:00",
             "18:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:55",
+            "16:25",
+            "18:55"
           ]
         },
         {
@@ -269,7 +269,7 @@
       "translation": "Godzilla-0.0",
       "runtime": "2 h 15",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
@@ -294,19 +294,19 @@
         },
         {
           "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "15:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "13:00",
             "18:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "15:55"
           ]
         },
         {
@@ -486,7 +486,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "",
-      "imdbRating": 7.0,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt43106511/",
       "showings": [
         {
@@ -912,7 +912,7 @@
       "translation": "Le Chat Chapeauté",
       "runtime": "1 h 47",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/the-cat-in-the-hat.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
@@ -937,23 +937,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:20",
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -967,6 +950,23 @@
           "format": "3D",
           "times": [
             "18:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:45"
           ]
         },
         {

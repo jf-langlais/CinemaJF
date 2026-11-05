@@ -1,0 +1,1253 @@
+{
+  "date": "2026-11-11",
+  "dateLabel": "2026-11-11",
+  "displayDate": "2026-11-11",
+  "generatedAt": "2026-11-05T07:21-05:00",
+  "updatedLabel": "07 h 21",
+  "location": "Québec, QC",
+  "cinemas": [
+    {
+      "id": "cineplex-sainte-foy",
+      "name": "Cineplex Ste-Foy",
+      "short": "Cineplex Ste-Foy",
+      "source": "https://www.cineplex.com/theatre/cinema-cineplex-odeon-saintefoy?openTM=true"
+    },
+    {
+      "id": "cineplex-beauport",
+      "name": "Cineplex Beauport",
+      "short": "Cineplex Beauport",
+      "source": "https://www.cineplex.com/fr/theatre/Cinema-Cineplex-Odeon-Beauport"
+    },
+    {
+      "id": "cineplex-imax",
+      "name": "Cineplex IMAX",
+      "short": "Cineplex IMAX",
+      "source": "https://www.cineplex.com/fr/theatre/cinema-cineplex-imax-aux-galeries-de-la-capitale"
+    },
+    {
+      "id": "clap-ste-foy",
+      "name": "Le Clap Place Sainte-Foy",
+      "short": "Clap Ste-Foy",
+      "source": "https://clap.ca/"
+    },
+    {
+      "id": "clap-loretteville",
+      "name": "Le Clap Loretteville",
+      "short": "Clap Loretteville",
+      "source": "https://clap.ca/"
+    },
+    {
+      "id": "cinema-cartier",
+      "name": "Cinéma Cartier",
+      "short": "Cinéma Cartier",
+      "source": "https://www.cinemacartier.com/"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Gueule d'argile",
+      "original": "Clayface",
+      "translation": "Gueule d'argile",
+      "runtime": "1 h 48",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/clayface.jpg",
+      "imdbRating": 7.5,
+      "imdbUrl": "https://www.imdb.com/title/tt34890576/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "16:15",
+            "18:55",
+            "21:35"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "15:50",
+            "18:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:55",
+            "16:25",
+            "18:55"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:10"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "18:50",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "19:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "De Gaulle",
+      "original": "De Gaulle",
+      "translation": "",
+      "runtime": "1 h 48",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/de-gaulle.jpg",
+      "imdbRating": 6.1,
+      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "15:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fjord",
+      "original": "Fjord",
+      "translation": "",
+      "runtime": "2 h 26",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/fjord.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35410859/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "13:30",
+            "18:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:30",
+            "18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'île de l'oubli",
+      "original": "Forgotten Island",
+      "translation": "L'île de l'oubli",
+      "runtime": "1 h 49",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/forgotten-island.jpg",
+      "imdbRating": 7.5,
+      "imdbUrl": "https://www.imdb.com/title/tt36583977/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Soldat Fantôme",
+      "original": "Ghost Soldier",
+      "translation": "Soldat Fantôme",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/ghost-soldier.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt38686316/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:10",
+            "19:20",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:35",
+            "16:10",
+            "19:10"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "16:20",
+            "19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Godzilla-0.0",
+      "original": "Gojira-0.0",
+      "translation": "Godzilla-0.0",
+      "runtime": "2 h 15",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "UltraAVX",
+          "times": [
+            "15:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "UltraAVX",
+          "times": [
+            "12:30",
+            "18:50",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "15:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:00",
+            "18:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VO",
+          "format": "IMAX",
+          "times": [
+            "18:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOF",
+          "format": "IMAX",
+          "times": [
+            "15:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VO",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:35",
+            "18:40",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:35",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VO",
+          "format": "Standard",
+          "times": [
+            "12:35",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VO",
+          "format": "Standard",
+          "times": [
+            "15:40",
+            "18:30",
+            "21:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hantée",
+      "original": "Hantée",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/hantee.jpg",
+      "imdbRating": 7.4,
+      "imdbUrl": "https://www.imdb.com/title/tt40202639/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:45",
+            "19:25",
+            "21:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:50",
+            "16:20",
+            "19:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:30",
+            "18:45"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "16:05",
+            "18:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Au coeur de la bête",
+      "original": "Heart of the Beast",
+      "translation": "Au coeur de la bête",
+      "runtime": "1 h 41",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/heart-of-the-beast.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt7526136/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "15:55",
+            "18:45",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:05",
+            "15:40",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "18:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'autre",
+      "original": "L'autre",
+      "translation": "",
+      "runtime": "1 h 38",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt43106511/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:45",
+            "21:55"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:40",
+            "17:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La bataille de Gaulle: Résistance",
+      "original": "La bataille de Gaulle: Résistance",
+      "translation": "",
+      "runtime": "2 h 40",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le Fantôme de l'Opéra",
+      "original": "Le Fantôme de l'Opéra",
+      "translation": "",
+      "runtime": "2 h 14",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/le-fantome-de-l-opera.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt14647340/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:45",
+            "18:35"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "19:00",
+            "21:25"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "15:55",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:40",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La Patrie",
+      "original": "Ojczyzna",
+      "translation": "La Patrie",
+      "runtime": "1 h 22",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "16:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Autre Maman",
+      "original": "Other Mommy",
+      "translation": "Autre Maman",
+      "runtime": "1 h 33",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/other-mommy.jpg",
+      "imdbRating": 5.3,
+      "imdbUrl": "https://www.imdb.com/title/tt36586020/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pauline Julien: Femme pays",
+      "original": "Pauline Julien: Femme pays",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/pauline-julien-femme-pays.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39387187/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:20",
+            "15:55",
+            "19:05"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:55"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ramayana: Rise of a Legend",
+      "original": "Ramayana: Rise of a Legend",
+      "translation": "",
+      "runtime": "3 h 15",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/ramayana-rise-of-a-legend.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt27988879/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "ScreenX",
+          "times": [
+            "13:05",
+            "16:35",
+            "20:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil",
+      "original": "Resident Evil",
+      "translation": "",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/resident-evil.jpg",
+      "imdbRating": 7.5,
+      "imdbUrl": "https://www.imdb.com/title/tt35538033/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:25",
+            "19:30",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:40",
+            "16:35",
+            "19:20"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Raison et sentiments",
+      "original": "Sense and Sensibility",
+      "translation": "Raison et sentiments",
+      "runtime": "2 h 11",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/sense-and-sensibility.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt13609648/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Street Fighter",
+      "original": "Street Fighter",
+      "translation": "",
+      "runtime": "1 h 59",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/street-fighter.jpg",
+      "imdbRating": 6.2,
+      "imdbUrl": "https://www.imdb.com/title/tt27419420/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:05",
+            "19:00",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:15",
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le Chat Chapeauté",
+      "original": "The Cat in the Hat",
+      "translation": "Le Chat Chapeauté",
+      "runtime": "1 h 47",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/the-cat-in-the-hat.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt2321555/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:40",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "18:15"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "16:30",
+            "19:10"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:15",
+            "19:00",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:50",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "19:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le dernier pickpocket de New York",
+      "original": "The Only Living Pickpocket in New York",
+      "translation": "Le dernier pickpocket de New York",
+      "runtime": "1 h 28",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/the-only-living-pickpocket-in-new-york.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt36482679/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "16:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verity",
+      "original": "Verity",
+      "translation": "",
+      "runtime": "1 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/verity.jpg",
+      "imdbRating": 6.0,
+      "imdbUrl": "https://www.imdb.com/title/tt32261958/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:00",
+            "21:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "19:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "16:05",
+            "19:05"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Villeneuve: L'ascension d'une légende",
+      "original": "Villeneuve: L'ascension d'une légende",
+      "translation": "",
+      "runtime": "1 h 42",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "16:00",
+            "19:00",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "D-BOX",
+          "times": [
+            "13:00",
+            "16:00",
+            "19:00",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:45",
+            "18:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "D-BOX",
+          "times": [
+            "13:00",
+            "15:45",
+            "18:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Dolby Atmos",
+          "times": [
+            "10:40",
+            "13:30",
+            "16:15",
+            "19:00",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Dolby Atmos",
+          "times": [
+            "13:00",
+            "15:45",
+            "19:00",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Au fond de la baleine",
+      "original": "Whalefall",
+      "translation": "Au fond de la baleine",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/whalefall.jpg",
+      "imdbRating": 6.6,
+      "imdbUrl": "https://www.imdb.com/title/tt28535715/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:30",
+            "19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wild Horse Nine",
+      "original": "Wild Horse Nine",
+      "translation": "",
+      "runtime": "1 h 58",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/wild-horse-nine.jpg",
+      "imdbRating": 8.1,
+      "imdbUrl": "https://www.imdb.com/title/tt15799564/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:40",
+            "16:25",
+            "19:15",
+            "21:55"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wildwood",
+      "original": "Wildwood",
+      "translation": "",
+      "runtime": "2 h 12",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/wildwood.jpg",
+      "imdbRating": 8.7,
+      "imdbUrl": "https://www.imdb.com/title/tt2056785/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "18:30",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wildwood: La contrée maléfique",
+      "original": "Wildwood: La contrée maléfique",
+      "translation": "",
+      "runtime": "2 h 12",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": 8.7,
+      "imdbUrl": "https://www.imdb.com/title/tt2056785/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:40",
+            "19:05",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:45",
+            "15:35",
+            "18:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:05"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "You Can See Everything",
+      "original": "You Can See Everything",
+      "translation": "",
+      "runtime": "2 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/you-can-see-everything.jpg",
+      "imdbRating": 9.1,
+      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "16:45",
+            "20:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:00",
+            "18:10"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "18:20",
+            "21:10"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "16:05",
+            "19:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "16:00",
+            "19:30"
+          ]
+        }
+      ]
+    }
+  ]
+}
