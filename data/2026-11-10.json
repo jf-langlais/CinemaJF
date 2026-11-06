@@ -2,8 +2,8 @@
   "date": "2026-11-10",
   "dateLabel": "2026-11-10",
   "displayDate": "2026-11-10",
-  "generatedAt": "2026-11-05T15:40-05:00",
-  "updatedLabel": "15 h 40",
+  "generatedAt": "2026-11-05T20:33-05:00",
+  "updatedLabel": "20 h 33",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -1169,6 +1169,31 @@
           "times": [
             "13:25",
             "18:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cheval sauvage numéro neuf",
+      "original": "Wild Horse Nine",
+      "translation": "Cheval sauvage numéro neuf",
+      "runtime": "1 h 58",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/wild-horse-nine.jpg",
+      "imdbRating": 8.1,
+      "imdbUrl": "https://www.imdb.com/title/tt15799564/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:40",
+            "16:25",
+            "19:15",
+            "21:55"
           ]
         }
       ]
