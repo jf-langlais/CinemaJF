@@ -2,8 +2,8 @@
   "date": "2026-11-10",
   "dateLabel": "2026-11-10",
   "displayDate": "2026-11-10",
-  "generatedAt": "2026-11-05T20:33-05:00",
-  "updatedLabel": "20 h 33",
+  "generatedAt": "2026-11-06T04:25-05:00",
+  "updatedLabel": "04 h 25",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -192,7 +192,7 @@
       "translation": "",
       "runtime": "2 h 26",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/fjord.jpg",
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35410859/",
@@ -266,7 +266,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/ghost-soldier.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt38686316/",
       "showings": [
         {
@@ -322,20 +322,20 @@
         },
         {
           "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "15:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "13:00",
             "18:50",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "15:55"
           ]
         },
         {
@@ -526,7 +526,7 @@
       "translation": "",
       "runtime": "1 h 38",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "",
       "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt43106511/",
@@ -610,7 +610,7 @@
       "translation": "",
       "runtime": "2 h 14",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/le-fantome-de-l-opera.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt14647340/",
@@ -663,7 +663,7 @@
       "translation": "La patrie",
       "runtime": "1 h 22",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
@@ -782,9 +782,9 @@
       "translation": "",
       "runtime": "3 h 15",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/ramayana-rise-of-a-legend.jpg",
-      "imdbRating": null,
+      "imdbRating": 8.7,
       "imdbUrl": "https://www.imdb.com/title/tt27988879/",
       "showings": [
         {
@@ -925,7 +925,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-cat-in-the-hat.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.9,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
         {
@@ -948,24 +948,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:20",
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:45",
-            "21:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -980,6 +962,24 @@
           "times": [
             "18:20",
             "21:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:45",
+            "21:30"
           ]
         },
         {
@@ -1037,9 +1037,9 @@
       "translation": "Le dernier pickpocket de New York",
       "runtime": "1 h 28",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/the-only-living-pickpocket-in-new-york.jpg",
-      "imdbRating": 7.3,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt36482679/",
       "showings": [
         {
@@ -1179,7 +1179,7 @@
       "translation": "Cheval sauvage numéro neuf",
       "runtime": "1 h 58",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/wild-horse-nine.jpg",
       "imdbRating": 8.1,
       "imdbUrl": "https://www.imdb.com/title/tt15799564/",
@@ -1206,7 +1206,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/wildwood.jpg",
-      "imdbRating": 8.7,
+      "imdbRating": 8.6,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
         {
@@ -1237,7 +1237,7 @@
       "genre": "",
       "badge": "",
       "poster": "",
-      "imdbRating": 8.7,
+      "imdbRating": 8.6,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
         {
