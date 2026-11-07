@@ -2,8 +2,8 @@
   "date": "2026-11-07",
   "dateLabel": "2026-11-07",
   "displayDate": "2026-11-07",
-  "generatedAt": "2026-11-06T12:30-05:00",
-  "updatedLabel": "12 h 30",
+  "generatedAt": "2026-11-06T21:48-05:00",
+  "updatedLabel": "21 h 48",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -336,14 +336,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "15:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
@@ -353,12 +345,11 @@
           ]
         },
         {
-          "cinema": "cineplex-imax",
-          "lang": "VO",
-          "format": "IMAX",
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "12:30",
-            "18:50"
+            "15:55"
           ]
         },
         {
@@ -368,6 +359,15 @@
           "times": [
             "15:40",
             "21:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VO",
+          "format": "IMAX",
+          "times": [
+            "12:30",
+            "18:50"
           ]
         },
         {
@@ -957,19 +957,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "13:00",
-            "15:50"
+            "18:40",
+            "21:40"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:40",
-            "21:40"
+            "13:00",
+            "15:50"
           ]
         },
         {
@@ -1029,6 +1029,14 @@
         },
         {
           "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "11:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -1046,14 +1054,6 @@
           "times": [
             "10:50",
             "13:30"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "11:00"
           ]
         },
         {

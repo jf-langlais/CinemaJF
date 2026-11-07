@@ -218,6 +218,17 @@
     "ratingChecked": "2026-10-24",
     "ratingSource": "official-dataset-v1"
   },
+  "ebenezer": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt38773219/",
+    "imdbVotes": null,
+    "poster": "posters/ebenezer.jpg",
+    "posterChecked": "2026-11-06",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-06",
+    "ratingSource": "official-dataset-v1"
+  },
   "faites du bruit pour jesus": {
     "imdbMatchScore": 1.08,
     "imdbRating": null,
