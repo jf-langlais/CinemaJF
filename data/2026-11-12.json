@@ -2,8 +2,8 @@
   "date": "2026-11-12",
   "dateLabel": "2026-11-12",
   "displayDate": "2026-11-12",
-  "generatedAt": "2026-11-06T21:48-05:00",
-  "updatedLabel": "21 h 48",
+  "generatedAt": "2026-11-07T05:09-05:00",
+  "updatedLabel": "05 h 09",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -247,7 +247,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/ghost-soldier.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt38686316/",
       "showings": [
         {
@@ -322,15 +322,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "13:00",
-            "18:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
@@ -338,10 +329,11 @@
           ]
         },
         {
-          "cinema": "cineplex-imax",
+          "cinema": "cineplex-beauport",
           "lang": "VOF",
-          "format": "IMAX",
+          "format": "UltraAVX · Dolby Atmos",
           "times": [
+            "13:00",
             "18:50"
           ]
         },
@@ -351,6 +343,14 @@
           "format": "IMAX",
           "times": [
             "15:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOF",
+          "format": "IMAX",
+          "times": [
+            "18:50"
           ]
         },
         {
@@ -411,7 +411,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/hantee.jpg",
-      "imdbRating": 7.4,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
@@ -571,7 +571,7 @@
       "genre": "",
       "badge": "",
       "poster": "",
-      "imdbRating": 7.3,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt43106511/",
       "showings": [
         {
@@ -763,7 +763,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/ramayana-rise-of-a-legend.jpg",
-      "imdbRating": 8.7,
+      "imdbRating": 8.6,
       "imdbUrl": "https://www.imdb.com/title/tt27988879/",
       "showings": [
         {
@@ -878,18 +878,9 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-cat-in-the-hat.jpg",
-      "imdbRating": 6.9,
+      "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:40",
-            "21:40"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -897,6 +888,15 @@
           "times": [
             "13:00",
             "15:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:40",
+            "21:40"
           ]
         },
         {
