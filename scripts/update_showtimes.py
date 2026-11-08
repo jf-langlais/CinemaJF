@@ -34,6 +34,7 @@ TITLE_TRANSLATION_OVERRIDES = {
 }
 
 POSTER_OVERRIDES = {
+    "gojira 0 0": "https://m.media-amazon.com/images/M/MV5BZGMzY2JiMTctMzYzMi00OWNkLWE0OTUtOTI5ZjkxZTQ1NTZkXkEyXkFqcGc@._V1_.jpg",
     "a pied d oeuvre": "https://cinehorizons.net/sites/default/files/affiches/1823285106-pied-doeuvre.jpg",
     "les aventuriers voyageurs reve d afrique": "https://img2.cdn.bizzmedia.ca/media/3Lfoq1cMctXNSXNWkobeQz8PG93iLiMmd4fsr5Vs.jpg/400/584",
     "toy story 5": "https://cdn.teater.co/imgs/toy-story-5-2026_600_880.webp",
@@ -312,6 +313,8 @@ def parse_theatre(cinema: dict, now: datetime) -> list[dict]:
             if not dates:
                 continue
             fmt = classify_format(block)
+            if "D-BOX" in fmt:
+                continue
             variants.append({
                 "key": norm(original), "title": title, "original": original, "translation": translation,
                 "lang": lang, "runtime": runtime, "genre": "", "is_new": is_new,
@@ -576,7 +579,7 @@ def prior_for_failed(date_key: str, failed_ids: set[str]) -> list[dict]:
         return []
     kept = []
     for movie in old.get("movies", []):
-        sh = [s for s in movie.get("showings", []) if s.get("cinema") in failed_ids]
+        sh = [s for s in movie.get("showings", []) if s.get("cinema") in failed_ids and "D-BOX" not in (s.get("format") or "")]
         if sh:
             cp = {k: v for k, v in movie.items() if k != "showings"}
             cp["showings"] = sh
@@ -597,6 +600,8 @@ def build_files(variants: list[dict], failed_ids: set[str], meta: dict, now: dat
     for date_key in dates:
         movies = {}
         for v in variants:
+            if "D-BOX" in (v.get("format") or ""):
+                continue
             times = v["dates"].get(date_key)
             if not times:
                 continue
