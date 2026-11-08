@@ -2,8 +2,8 @@
   "date": "2026-11-08",
   "dateLabel": "2026-11-08",
   "displayDate": "2026-11-08",
-  "generatedAt": "2026-11-08T11:08-05:00",
-  "updatedLabel": "11 h 08",
+  "generatedAt": "2026-11-08T11:58-05:00",
+  "updatedLabel": "11 h 58",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -102,7 +102,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:15",
             "18:55",
             "21:35"
           ]
@@ -140,7 +139,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:20",
             "22:00"
           ]
         },
@@ -214,14 +212,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:20"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -253,19 +243,19 @@
         },
         {
           "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "15:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "13:00",
             "18:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "15:55"
           ]
         },
         {
@@ -374,7 +364,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "16:15",
             "18:45"
           ]
         },
@@ -521,27 +510,6 @@
       ]
     },
     {
-      "title": "La patrie",
-      "original": "Ojczyzna",
-      "translation": "La patrie",
-      "runtime": "1 h 22",
-      "genre": "",
-      "badge": "",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:10"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Autre Maman",
       "original": "Other Mommy",
       "translation": "Autre Maman",
@@ -644,7 +612,6 @@
           "lang": "VOF",
           "format": "ScreenX",
           "times": [
-            "16:35",
             "20:35"
           ]
         }
@@ -666,7 +633,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:25",
             "19:30",
             "21:50"
           ]
@@ -783,23 +749,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:00",
-            "15:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -816,11 +765,27 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:45"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:30",
             "19:10"
           ]
         },
@@ -896,7 +861,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:40",
             "21:20"
           ]
         }
@@ -941,14 +905,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "16:15"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -973,7 +929,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:50"
           ]
         },
@@ -1035,7 +990,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:25",
             "19:15",
             "21:55"
           ]
@@ -1128,7 +1082,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:45",
             "20:45"
           ]
         },
