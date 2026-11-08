@@ -147,7 +147,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "corpse bride": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 7.4,
     "imdbUrl": "https://www.imdb.com/title/tt0121164/",
     "imdbVotes": 335078,
@@ -158,7 +158,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "cosi fan tutte": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 7.3,
     "imdbUrl": "https://www.imdb.com/title/tt2973692/",
     "imdbVotes": 109,
@@ -208,7 +208,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "e t the extra terrestrial": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 7.9,
     "imdbUrl": "https://www.imdb.com/title/tt0083866/",
     "imdbVotes": 478440,
@@ -290,7 +290,7 @@
   },
   "gojira 0 0": {
     "imdbRating": null,
-    "imdbUrl": "",
+    "imdbUrl": "https://www.imdb.com/title/tt34384661/",
     "poster": "",
     "posterChecked": "2026-11-08",
     "posterSource": "missing"
@@ -415,7 +415,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "le fantome de l opera": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": null,
     "imdbUrl": "https://www.imdb.com/title/tt14647340/",
     "imdbVotes": null,
@@ -455,7 +455,7 @@
   },
   "monster mia": {
     "imdbMatchScore": 1.08,
-    "imdbRating": 7.0,
+    "imdbRating": 7,
     "imdbUrl": "https://www.imdb.com/title/tt38807889/",
     "imdbVotes": 90,
     "poster": "posters/monster-mia.jpg",
@@ -549,7 +549,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "paddington 2": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 7.8,
     "imdbUrl": "https://www.imdb.com/title/tt4468740/",
     "imdbVotes": 117300,
@@ -647,7 +647,7 @@
   },
   "run terry run": {
     "imdbMatchScore": 1.08,
-    "imdbRating": 9.0,
+    "imdbRating": 9,
     "imdbUrl": "https://www.imdb.com/title/tt39130015/",
     "imdbVotes": 66,
     "poster": "posters/run-terry-run.jpg",
@@ -773,7 +773,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "the devils": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 7.7,
     "imdbUrl": "https://www.imdb.com/title/tt0066993/",
     "imdbVotes": 22162,
@@ -795,7 +795,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "the house with a clock in its walls": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 6.1,
     "imdbUrl": "https://www.imdb.com/title/tt2119543/",
     "imdbVotes": 60926,
@@ -806,7 +806,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "the lego movie": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 7.7,
     "imdbUrl": "https://www.imdb.com/title/tt1490017/",
     "imdbVotes": 423154,
@@ -828,7 +828,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "the nightmare before christmas": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 7.9,
     "imdbUrl": "https://www.imdb.com/title/tt0107688/",
     "imdbVotes": 418753,
@@ -860,7 +860,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "the shining": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 8.4,
     "imdbUrl": "https://www.imdb.com/title/tt0081505/",
     "imdbVotes": 1251233,
@@ -932,7 +932,7 @@
     "ratingSource": "official-dataset-v1"
   },
   "v for vendetta": {
-    "imdbMatchScore": 1.0,
+    "imdbMatchScore": 1,
     "imdbRating": 8.1,
     "imdbUrl": "https://www.imdb.com/title/tt0434409/",
     "imdbVotes": 1260510,
@@ -944,7 +944,7 @@
   },
   "verity": {
     "imdbMatchScore": 1.08,
-    "imdbRating": 6.0,
+    "imdbRating": 6,
     "imdbUrl": "https://www.imdb.com/title/tt32261958/",
     "imdbVotes": 32807,
     "poster": "posters/verity.jpg",
