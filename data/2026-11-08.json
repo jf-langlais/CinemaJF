@@ -2,8 +2,8 @@
   "date": "2026-11-08",
   "dateLabel": "2026-11-08",
   "displayDate": "2026-11-08",
-  "generatedAt": "2026-11-08T12:20-05:00",
-  "updatedLabel": "12 h 20",
+  "generatedAt": "2026-11-08T14:42-05:00",
+  "updatedLabel": "14 h 42",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -128,14 +128,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "18:55"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -158,6 +150,14 @@
             "16:00",
             "19:10"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:55"
+          ]
         }
       ]
     },
@@ -172,14 +172,6 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35410859/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:50"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
@@ -196,6 +188,14 @@
             "12:40",
             "15:30",
             "18:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "18:50"
           ]
         }
       ]
@@ -254,7 +254,6 @@
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
-            "13:00",
             "18:50"
           ]
         },
@@ -360,14 +359,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "18:45"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -376,6 +367,14 @@
             "13:20",
             "16:05",
             "18:50"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "18:45"
           ]
         }
       ]
@@ -442,20 +441,20 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:00"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
           "times": [
             "14:40",
             "17:10"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:00"
           ]
         }
       ]
@@ -476,7 +475,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:00",
             "15:30",
             "18:35"
           ]
@@ -529,14 +527,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:15"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -552,6 +542,14 @@
             "19:20",
             "21:40"
           ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:15"
+          ]
         }
       ]
     },
@@ -566,14 +564,6 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "19:05"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOF",
@@ -592,6 +582,14 @@
             "12:30",
             "16:00",
             "19:10"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:05"
           ]
         }
       ]
@@ -613,14 +611,6 @@
           "format": "ScreenX",
           "times": [
             "20:35"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "ScreenX",
-          "times": [
-            "13:05"
           ]
         },
         {
@@ -658,7 +648,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:20",
             "19:20"
           ]
@@ -768,7 +757,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:30",
             "15:15"
           ]
         },
@@ -785,7 +773,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:00",
             "15:45"
           ]
         },
@@ -795,14 +782,6 @@
           "format": "3D",
           "times": [
             "18:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "19:10"
           ]
         },
         {
@@ -858,6 +837,14 @@
             "12:30",
             "19:10"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "19:10"
+          ]
         }
       ]
     },
@@ -902,14 +889,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:10"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -925,6 +904,14 @@
           "format": "Standard",
           "times": [
             "21:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:10"
           ]
         }
       ]
@@ -949,14 +936,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:20"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -964,6 +943,14 @@
             "13:35",
             "16:30",
             "19:15"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:20"
           ]
         }
       ]
@@ -984,7 +971,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:40",
             "18:15"
           ]
         }
@@ -1067,7 +1053,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "12:10",
             "15:25",
             "18:25"
           ]
