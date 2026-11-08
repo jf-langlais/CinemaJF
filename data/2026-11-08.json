@@ -2,8 +2,8 @@
   "date": "2026-11-08",
   "dateLabel": "2026-11-08",
   "displayDate": "2026-11-08",
-  "generatedAt": "2026-11-08T11:06-05:00",
-  "updatedLabel": "11 h 06",
+  "generatedAt": "2026-11-08T11:08-05:00",
+  "updatedLabel": "11 h 08",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -232,9 +232,9 @@
       ]
     },
     {
-      "title": "Gojira-0.0",
+      "title": "Godzilla-0.0",
       "original": "Gojira-0.0",
-      "translation": "",
+      "translation": "Godzilla-0.0",
       "runtime": "2 h 15",
       "genre": "",
       "badge": "Nouveauté",
@@ -253,19 +253,19 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "15:55"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "13:00",
             "18:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "15:55"
           ]
         },
         {
@@ -783,23 +783,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:30",
-            "15:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "3D",
-          "times": [
-            "18:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -813,6 +796,23 @@
           "format": "3D",
           "times": [
             "18:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:15"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "18:20"
           ]
         },
         {
