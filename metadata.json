@@ -289,11 +289,14 @@
     "ratingSource": "official-dataset-v1"
   },
   "gojira 0 0": {
-    "imdbRating": null,
+    "imdbRating": 8.0,
     "imdbUrl": "https://www.imdb.com/title/tt34384661/",
-    "poster": "",
+    "imdbVotes": 8918,
+    "poster": "posters/gojira-0-0.jpg",
     "posterChecked": "2026-11-08",
-    "posterSource": "missing"
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-08",
+    "ratingSource": "official-dataset-v1"
   },
   "hantee": {
     "imdbMatchScore": 1.08,

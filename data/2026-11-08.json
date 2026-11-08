@@ -2,8 +2,8 @@
   "date": "2026-11-08",
   "dateLabel": "2026-11-08",
   "displayDate": "2026-11-08",
-  "generatedAt": "2026-11-08T10:13-05:00",
-  "updatedLabel": "10 h 13",
+  "generatedAt": "2026-11-08T11:06-05:00",
+  "updatedLabel": "11 h 06",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -119,16 +119,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "D-BOX",
-          "times": [
-            "13:10",
-            "16:00",
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -169,27 +159,6 @@
           "times": [
             "16:00",
             "19:10"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:40"
           ]
         }
       ]
@@ -253,14 +222,6 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "16:20"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -271,24 +232,16 @@
       ]
     },
     {
-      "title": "Godzilla-0.0",
+      "title": "Gojira-0.0",
       "original": "Gojira-0.0",
-      "translation": "Godzilla-0.0",
+      "translation": "",
       "runtime": "2 h 15",
       "genre": "",
       "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "poster": "posters/gojira-0-0.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt34384661/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "UltraAVX",
-          "times": [
-            "15:30"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOF",
@@ -337,7 +290,6 @@
           "lang": "VO",
           "format": "Dolby Atmos",
           "times": [
-            "15:35",
             "18:40",
             "21:45"
           ]
@@ -403,7 +355,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:45",
             "19:25",
             "21:55"
           ]
@@ -456,7 +407,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "15:55",
             "18:45",
             "21:20"
           ]
@@ -612,24 +562,8 @@
         },
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
           "format": "Standard",
-          "times": [
-            "19:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "D-BOX",
           "times": [
             "19:15"
           ]
@@ -669,7 +603,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:55",
             "19:05"
           ]
         },
@@ -803,7 +736,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:05",
             "19:00",
             "21:45"
           ]
@@ -813,7 +745,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "15:25",
             "18:30",
             "21:15"
           ]
@@ -841,14 +772,6 @@
       "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:50"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -987,7 +910,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/verity.jpg",
-      "imdbRating": 6.0,
+      "imdbRating": 6,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
@@ -995,7 +918,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "16:00",
             "21:55"
           ]
         },
@@ -1136,7 +1058,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:05",
             "18:30",
             "21:30"
           ]
@@ -1167,7 +1088,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "15:40",
             "19:05",
             "22:00"
           ]

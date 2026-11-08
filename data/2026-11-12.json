@@ -2,8 +2,8 @@
   "date": "2026-11-12",
   "dateLabel": "2026-11-12",
   "displayDate": "2026-11-12",
-  "generatedAt": "2026-11-08T10:13-05:00",
-  "updatedLabel": "10 h 13",
+  "generatedAt": "2026-11-08T11:06-05:00",
+  "updatedLabel": "11 h 06",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -298,9 +298,9 @@
       "runtime": "2 h 15",
       "genre": "",
       "badge": "Nouveauté",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
+      "poster": "posters/gojira-0-0.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt34384661/",
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
@@ -1012,7 +1012,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/verity.jpg",
-      "imdbRating": 6.0,
+      "imdbRating": 6,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
@@ -1066,30 +1066,9 @@
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "D-BOX",
-          "times": [
-            "13:00",
-            "16:00",
-            "19:00",
-            "21:45"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
-          "times": [
-            "13:00",
-            "15:45",
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "D-BOX",
           "times": [
             "13:00",
             "15:45",
