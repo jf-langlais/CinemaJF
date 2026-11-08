@@ -286,6 +286,8 @@ def parse_theatre(cinema: dict, now: datetime) -> list[dict]:
         link = h3.find("a", href=True)
         detail_url = urljoin(BASE, link["href"]) if link else cinema["clock"]
         meta_text, h4_blocks = blocks_after_h3(h3)
+        if "ramayana" in norm(raw_title):
+            print(f"DEBUG RAMAYANA title={raw_title!r} meta={meta_text!r} blocks={h4_blocks!r}")
         if not h4_blocks:
             continue
         quote = QUOTE_RE.search(meta_text)
