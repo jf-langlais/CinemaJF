@@ -458,6 +458,32 @@ def clap_film_index() -> dict[str, str]:
     return out
 
 
+def frontrow_title_poster(title: str) -> list[str]:
+    """Extract only the poster whose alt/title matches the requested movie/event."""
+    url = "https://www.frontrowcentre.com/cinema/quebec/quebec/cinema-le-clap-place-ste-foy/"
+    try:
+        r = SESSION.get(url, timeout=8)
+        if not r.ok:
+            return []
+        soup = BeautifulSoup(r.text, "html.parser")
+    except Exception:
+        return []
+    target = norm(title)
+    out = []
+    for img in soup.find_all("img"):
+        label = norm((img.get("alt") or "") + " " + (img.get("title") or ""))
+        if not target or target not in label:
+            continue
+        src = img.get("src") or img.get("data-src") or img.get("data-lazy-src") or ""
+        if not src:
+            srcset = img.get("srcset") or ""
+            if srcset:
+                src = srcset.split(",")[-1].strip().split(" ")[0]
+        if src:
+            out.append(urljoin(url, src))
+    return list(dict.fromkeys(out))
+
+
 def official_poster_candidates(title: str, matched_title: str = "") -> list[str]:
     """Prefer poster art published by cinemas showing the film."""
     titles = [x for x in dict.fromkeys([matched_title, title]) if x]
@@ -507,11 +533,7 @@ def official_poster_candidates(title: str, matched_title: str = "") -> list[str]
                     break
 
     if not candidates:
-        # Last resort: local showtime index (FrontRow/Tribute) often carries a poster
-        # even for one-off events that have no IMDb record or reusable cinema artwork.
-        candidates.extend(poster_candidates_from_page(
-            "https://www.frontrowcentre.com/theatres%2Bmovies/quebec/levis/", title
-        ))
+        candidates.extend(frontrow_title_poster(title))
 
     return list(dict.fromkeys(candidates))
 
@@ -600,7 +622,10 @@ def cache_poster(key: str, candidates: list[str]) -> str:
         if bad_poster(url):
             continue
         try:
-            r = SESSION.get(url, timeout=35)
+            headers = {}
+            if "tribute.ca" in url.lower():
+                headers["Referer"] = "https://www.frontrowcentre.com/"
+            r = SESSION.get(url, timeout=20, headers=headers)
             r.raise_for_status()
             ctype = r.headers.get("content-type", "").lower()
             if "image" not in ctype and len(r.content) < 8000:
@@ -608,7 +633,8 @@ def cache_poster(key: str, candidates: list[str]) -> str:
             img = Image.open(io.BytesIO(r.content))
             img.load()
             w, h = img.size
-            if w < 120 or h < 160 or h / max(w, 1) < 1.1:
+            min_w, min_h = (70, 100) if "tribute.ca" in url.lower() else (120, 160)
+            if w < min_w or h < min_h or h / max(w, 1) < 1.1:
                 continue
             img = ImageOps.exif_transpose(img).convert("RGB")
             img = ImageOps.fit(img, (240, 360), method=Image.Resampling.LANCZOS)
