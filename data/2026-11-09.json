@@ -2,8 +2,8 @@
   "date": "2026-11-09",
   "dateLabel": "2026-11-09",
   "displayDate": "2026-11-09",
-  "generatedAt": "2026-11-08T14:42-05:00",
-  "updatedLabel": "14 h 42",
+  "generatedAt": "2026-11-08T18:43-05:00",
+  "updatedLabel": "18 h 43",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -292,18 +292,18 @@
         },
         {
           "cinema": "cineplex-imax",
-          "lang": "VO",
-          "format": "IMAX",
-          "times": [
-            "18:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
           "lang": "VOF",
           "format": "IMAX",
           "times": [
             "15:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VO",
+          "format": "IMAX",
+          "times": [
+            "18:50"
           ]
         },
         {
@@ -885,19 +885,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "13:00",
-            "15:50"
+            "18:40",
+            "21:40"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:40",
-            "21:40"
+            "13:00",
+            "15:50"
           ]
         },
         {
