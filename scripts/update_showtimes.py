@@ -31,6 +31,7 @@ IMDB_RATING_SOURCE = "official-dataset-v1"
 IMDB_SUGGEST = "https://v3.sg.media-imdb.com/suggestion/x/{query}.json"
 TITLE_TRANSLATION_OVERRIDES = {
     "spider man brand new day": "Spider-Man : Un jour nouveau",
+    "gojira 0 0": "Godzilla-0.0",
 }
 
 POSTER_OVERRIDES = {
