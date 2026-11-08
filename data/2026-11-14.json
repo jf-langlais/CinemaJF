@@ -2,8 +2,8 @@
   "date": "2026-11-14",
   "dateLabel": "2026-11-14",
   "displayDate": "2026-11-14",
-  "generatedAt": "2026-11-08T02:21-05:00",
-  "updatedLabel": "02 h 21",
+  "generatedAt": "2026-11-08T10:13-05:00",
+  "updatedLabel": "10 h 13",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -65,6 +65,62 @@
             "18:50",
             "21:50"
           ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "15:50",
+            "18:50",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Festive Fun with Peppa Cinema Experience",
+      "original": "Festive Fun with Peppa Cinema Experience",
+      "translation": "",
+      "runtime": "1 h 00",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/festive-fun-with-peppa-cinema-experience.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt46666063/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comment braquer une banque",
+      "original": "How to Rob a Bank",
+      "translation": "Comment braquer une banque",
+      "runtime": "2 h 02",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/how-to-rob-a-bank.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt35866986/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:45",
+            "18:40",
+            "21:25"
+          ]
         }
       ]
     },
@@ -107,6 +163,14 @@
           "times": [
             "10:15"
           ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "10:15"
+          ]
         }
       ]
     },
@@ -123,6 +187,14 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [

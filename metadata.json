@@ -240,6 +240,17 @@
     "ratingChecked": "2026-10-15",
     "ratingSource": "official-dataset-v1"
   },
+  "festive fun with peppa cinema experience": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt46666063/",
+    "imdbVotes": null,
+    "poster": "posters/festive-fun-with-peppa-cinema-experience.jpg",
+    "posterChecked": "2026-11-08",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-08",
+    "ratingSource": "official-dataset-v1"
+  },
   "fjord": {
     "imdbMatchScore": 1.08,
     "imdbRating": 7.6,
