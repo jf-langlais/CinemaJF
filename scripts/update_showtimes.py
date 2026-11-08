@@ -45,6 +45,7 @@ POSTER_OVERRIDES = {
     "la bataille de gaulle resistance": "https://img1.cdn.bizzmedia.ca/media/7s44vlWhabjxyx9FyoVV4KYlIYpyB7jQ9fpl9o2l.jpg/400/584",
 }
 
+# Official cinema artwork is preferred; remote files are cached locally after validation.
 OFFICIAL_POSTER_OVERRIDES = {
     "wicker l homme d osier": "https://mediafiles.cineplex.com/Central/Film/Posters/61767_320_470.jpg",
     "wildwood la contree malefique": "https://mediafiles.cineplex.com/Central/Film/Posters/61220_320_470.jpg",
