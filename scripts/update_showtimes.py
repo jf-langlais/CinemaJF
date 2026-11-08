@@ -383,7 +383,10 @@ def unwrap_image_url(src: str, base_url: str) -> str:
 def poster_candidates_from_page(url: str, title: str = "") -> list[str]:
     """Extract likely poster images from an official movie page."""
     try:
-        soup = BeautifulSoup(get(url, timeout=8).text, "html.parser")
+        r = SESSION.get(url, timeout=8)
+        if not r.ok:
+            return []
+        soup = BeautifulSoup(r.text, "html.parser")
     except Exception:
         return []
 
@@ -437,7 +440,9 @@ def clap_film_index() -> dict[str, str]:
         return _CLAP_FILM_INDEX
     out = {}
     try:
-        soup = BeautifulSoup(get("https://clap.ca/programmation", timeout=25).text, "html.parser")
+        r = SESSION.get("https://clap.ca/programmation", timeout=8)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
         for a in soup.find_all("a", href=True):
             href = a.get("href", "")
             if "/programmation/film/" not in href:
@@ -471,8 +476,6 @@ def official_poster_candidates(title: str, matched_title: str = "") -> list[str]
         pages = [
             f"https://www.cineplex.com/movie/{slug}",
             f"https://www.cineplex.com/fr/movie/{slug}",
-            f"https://www.cineplex.com/fr/movie/{slug}-version-francaise",
-            f"https://www.cineplex.com/fr/movie/vf-{slug}",
         ]
         for page in pages:
             found = poster_candidates_from_page(page, name)
