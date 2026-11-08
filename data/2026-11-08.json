@@ -229,7 +229,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/gojira-0-0.jpg",
-      "imdbRating": 8.0,
+      "imdbRating": 8,
       "imdbUrl": "https://www.imdb.com/title/tt34384661/",
       "showings": [
         {
@@ -609,9 +609,18 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
+          "lang": "VOA",
           "format": "ScreenX",
           "times": [
+            "13:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VO",
+          "format": "ScreenX",
+          "times": [
+            "16:35",
             "20:35"
           ]
         }
