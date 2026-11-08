@@ -2,8 +2,8 @@
   "date": "2026-11-07",
   "dateLabel": "2026-11-07",
   "displayDate": "2026-11-07",
-  "generatedAt": "2026-11-07T15:53-05:00",
-  "updatedLabel": "15 h 53",
+  "generatedAt": "2026-11-07T19:36-05:00",
+  "updatedLabel": "19 h 36",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -66,9 +66,9 @@
       ]
     },
     {
-      "title": "Gueule d'argile",
+      "title": "Clayface",
       "original": "Clayface",
-      "translation": "Gueule d'argile",
+      "translation": "",
       "runtime": "1 h 48",
       "genre": "",
       "badge": "",
@@ -76,14 +76,6 @@
       "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt34890576/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "22:05"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOA",
@@ -112,14 +104,6 @@
             "16:25",
             "18:55",
             "21:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "22:00"
           ]
         },
         {
@@ -173,9 +157,9 @@
       ]
     },
     {
-      "title": "Gojira-0.0",
+      "title": "Godzilla-0.0",
       "original": "Gojira-0.0",
-      "translation": "",
+      "translation": "Godzilla-0.0",
       "runtime": "2 h 15",
       "genre": "",
       "badge": "Nouveauté",
@@ -183,14 +167,6 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "UltraAVX",
-          "times": [
-            "22:00"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -213,7 +189,6 @@
           "lang": "VO",
           "format": "IMAX",
           "times": [
-            "12:30",
             "18:50"
           ]
         },
@@ -222,16 +197,7 @@
           "lang": "VOF",
           "format": "IMAX",
           "times": [
-            "15:40",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VO",
-          "format": "Dolby Atmos",
-          "times": [
-            "21:45"
           ]
         },
         {
@@ -293,14 +259,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt40202639/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
@@ -334,14 +292,6 @@
       "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -417,14 +367,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
@@ -456,22 +398,6 @@
       "imdbRating": 5.3,
       "imdbUrl": "https://www.imdb.com/title/tt36586020/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "D-BOX",
-          "times": [
-            "21:50"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -536,14 +462,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -551,14 +469,6 @@
             "15:20",
             "19:30",
             "21:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "22:00"
           ]
         }
       ]
@@ -581,14 +491,6 @@
           "times": [
             "16:10"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
-          ]
         }
       ]
     },
@@ -604,22 +506,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:15"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -632,9 +518,9 @@
       ]
     },
     {
-      "title": "Le Chat Chapeauté",
+      "title": "The Cat in the Hat",
       "original": "The Cat in the Hat",
-      "translation": "Le Chat Chapeauté",
+      "translation": "",
       "runtime": "1 h 47",
       "genre": "",
       "badge": "Nouveauté",
@@ -642,14 +528,6 @@
       "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "21:40"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOA",
@@ -682,14 +560,6 @@
           "times": [
             "18:45",
             "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:50"
           ]
         },
         {
@@ -742,27 +612,6 @@
       ]
     },
     {
-      "title": "Le dernier pickpocket de New York",
-      "original": "The Only Living Pickpocket in New York",
-      "translation": "Le dernier pickpocket de New York",
-      "runtime": "1 h 28",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-only-living-pickpocket-in-new-york.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt36482679/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:20"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Verity",
       "original": "Verity",
       "translation": "",
@@ -774,14 +623,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -789,14 +630,6 @@
             "16:05",
             "19:00",
             "21:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:40"
           ]
         }
       ]
@@ -846,27 +679,6 @@
       ]
     },
     {
-      "title": "Cheval sauvage numéro neuf",
-      "original": "Wild Horse Nine",
-      "translation": "Cheval sauvage numéro neuf",
-      "runtime": "1 h 58",
-      "genre": "",
-      "badge": "Nouveauté",
-      "poster": "posters/wild-horse-nine.jpg",
-      "imdbRating": 8.1,
-      "imdbUrl": "https://www.imdb.com/title/tt15799564/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:55"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Wildwood",
       "original": "Wildwood",
       "translation": "",
@@ -877,14 +689,6 @@
       "imdbRating": 8.6,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:30"
-          ]
-        },
         {
           "cinema": "clap-loretteville",
           "lang": "VOA",
@@ -906,14 +710,6 @@
       "imdbRating": 8.6,
       "imdbUrl": "https://www.imdb.com/title/tt2056785/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "21:40"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
@@ -952,14 +748,6 @@
           "times": [
             "18:15",
             "20:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "21:10"
           ]
         },
         {
