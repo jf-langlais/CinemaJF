@@ -532,9 +532,6 @@ def official_poster_candidates(title: str, matched_title: str = "") -> list[str]
                 if candidates:
                     break
 
-    if not candidates:
-        candidates.extend(frontrow_title_poster(title))
-
     return list(dict.fromkeys(candidates))
 
 
