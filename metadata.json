@@ -366,9 +366,9 @@
     "imdbRating": 7.2,
     "imdbUrl": "https://www.imdb.com/title/tt43106511/",
     "imdbVotes": 12,
-    "poster": "",
+    "poster": "posters/l-autre.jpg",
     "posterChecked": "2026-11-08",
-    "posterSource": "missing",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-11-08",
     "ratingSource": "official-dataset-v1"
   },
@@ -605,9 +605,9 @@
   "primeurs surprises du lundi": {
     "imdbRating": null,
     "imdbUrl": "",
-    "poster": "",
+    "poster": "posters/primeurs-surprises-du-lundi.jpg",
     "posterChecked": "2026-11-08",
-    "posterSource": "missing"
+    "posterSource": "local-cache"
   },
   "programme kino quebec": {
     "imdbRating": null,
@@ -996,9 +996,9 @@
     "imdbRating": 7.4,
     "imdbUrl": "https://www.imdb.com/title/tt29611136/",
     "imdbVotes": 5865,
-    "poster": "",
+    "poster": "posters/wicker.jpg",
     "posterChecked": "2026-11-08",
-    "posterSource": "missing",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-11-08",
     "ratingSource": "official-dataset-v1"
   },
@@ -1028,9 +1028,9 @@
     "imdbRating": 8.6,
     "imdbUrl": "https://www.imdb.com/title/tt2056785/",
     "imdbVotes": 21054,
-    "poster": "",
+    "poster": "posters/wildwood.jpg",
     "posterChecked": "2026-11-08",
-    "posterSource": "missing",
+    "posterSource": "local-cache",
     "ratingChecked": "2026-11-08",
     "ratingSource": "official-dataset-v1"
   },
