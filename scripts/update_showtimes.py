@@ -506,6 +506,13 @@ def official_poster_candidates(title: str, matched_title: str = "") -> list[str]
                 if candidates:
                     break
 
+    if not candidates:
+        # Last resort: local showtime index (FrontRow/Tribute) often carries a poster
+        # even for one-off events that have no IMDb record or reusable cinema artwork.
+        candidates.extend(poster_candidates_from_page(
+            "https://www.frontrowcentre.com/theatres%2Bmovies/quebec/levis/", title
+        ))
+
     return list(dict.fromkeys(candidates))
 
 
@@ -810,6 +817,28 @@ def merge_movie(dst: dict, src: dict):
             dst[field] = src[field]
 
 
+def merge_missing_showtimes(dst: dict, src: dict):
+    """Merge prior sessions only when that cinema/format/time is absent now, regardless of language label."""
+    existing = set()
+    for sh in dst.get("showings", []):
+        for t in sh.get("times", []):
+            existing.add((sh.get("cinema"), sh.get("format") or "Standard", t))
+    for sh in src.get("showings", []):
+        times = [
+            t for t in sh.get("times", [])
+            if (sh.get("cinema"), sh.get("format") or "Standard", t) not in existing
+        ]
+        if times:
+            cp = dict(sh)
+            cp["times"] = times
+            dst["showings"].append(cp)
+            for t in times:
+                existing.add((cp.get("cinema"), cp.get("format") or "Standard", t))
+    for field in ("poster", "imdbUrl", "imdbRating", "runtime", "genre", "badge", "translation", "original"):
+        if not dst.get(field) and src.get(field):
+            dst[field] = src[field]
+
+
 def build_files(variants: list[dict], failed_ids: set[str], meta: dict, now: datetime):
     dates = [(now.date() + timedelta(days=i)).isoformat() for i in range(7)]
     cinema_public = [{k: c[k] for k in ("id", "name", "short", "source")} for c in CINEMAS]
@@ -845,7 +874,7 @@ def build_files(variants: list[dict], failed_ids: set[str], meta: dict, now: dat
         for old_movie in prior_future_today(date_key, now):
             key = norm(old_movie.get("original") or old_movie.get("title"))
             if key in movies:
-                merge_movie(movies[key], old_movie)
+                merge_missing_showtimes(movies[key], old_movie)
             else:
                 movies[key] = old_movie
 
