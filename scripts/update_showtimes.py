@@ -51,6 +51,9 @@ OFFICIAL_POSTER_OVERRIDES = {
     "wildwood la contree malefique": "https://mediafiles.cineplex.com/Central/Film/Posters/61220_320_470.jpg",
     "l autre": "https://cdn.bizzmedia.ca/media/W8w8uJYGmOwqBDKJ1Ss3OlWqO5eu6WcfrYkeX4so.jpg?height=1000&nocrop=&width=1000",
 }
+OFFICIAL_PAGE_OVERRIDES = {
+    "cine en court": "https://clap.ca/programmation/film/cine-en-court/REPA00000112",
+}
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/153 Safari/537.36 CinemaJF/1.0"
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": UA, "Accept-Language": "fr-CA,fr;q=0.9,en;q=0.6"})
@@ -380,7 +383,7 @@ def unwrap_image_url(src: str, base_url: str) -> str:
 def poster_candidates_from_page(url: str, title: str = "") -> list[str]:
     """Extract likely poster images from an official movie page."""
     try:
-        soup = BeautifulSoup(get(url, timeout=25).text, "html.parser")
+        soup = BeautifulSoup(get(url, timeout=8).text, "html.parser")
     except Exception:
         return []
 
@@ -454,6 +457,11 @@ def official_poster_candidates(title: str, matched_title: str = "") -> list[str]
     """Prefer poster art published by cinemas showing the film."""
     titles = [x for x in dict.fromkeys([matched_title, title]) if x]
     candidates = []
+    key = norm(title)
+    if key in OFFICIAL_PAGE_OVERRIDES:
+        candidates.extend(poster_candidates_from_page(OFFICIAL_PAGE_OVERRIDES[key], title))
+        if candidates:
+            return list(dict.fromkeys(candidates))
 
     # Cineplex movie pages have stable poster assets in mediafiles.cineplex.com.
     for name in titles:
@@ -683,7 +691,8 @@ def enrich_metadata(groups: dict, meta: dict, now: datetime) -> dict:
             candidates = []
             if key in OFFICIAL_POSTER_OVERRIDES:
                 candidates.append(OFFICIAL_POSTER_OVERRIDES[key])
-            candidates.extend(official_poster_candidates(g.get("title") or key, suggestion.get("matchedTitle", "")))
+            else:
+                candidates.extend(official_poster_candidates(g.get("title") or key, suggestion.get("matchedTitle", "")))
             if key in POSTER_OVERRIDES:
                 candidates.append(POSTER_OVERRIDES[key])
             if suggestion.get("poster"):
