@@ -12,7 +12,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 from pathlib import Path
-from urllib.parse import quote, urljoin
+from urllib.parse import quote, unquote, urljoin
 from zoneinfo import ZoneInfo
 
 import requests
@@ -43,6 +43,12 @@ POSTER_OVERRIDES = {
     "the stunt driver": "https://www.impawards.com/intl/canada/2026/posters/stunt_driver_xlg.jpg",
     "la bataille de gaulle liberte": "https://www.impawards.com/intl/france/2026/posters/la_bataille_de_gaulle_jecris_ton_nom.jpg",
     "la bataille de gaulle resistance": "https://img1.cdn.bizzmedia.ca/media/7s44vlWhabjxyx9FyoVV4KYlIYpyB7jQ9fpl9o2l.jpg/400/584",
+}
+
+OFFICIAL_POSTER_OVERRIDES = {
+    "wicker l homme d osier": "https://mediafiles.cineplex.com/Central/Film/Posters/61767_320_470.jpg",
+    "wildwood la contree malefique": "https://mediafiles.cineplex.com/Central/Film/Posters/61220_320_470.jpg",
+    "l autre": "https://cdn.bizzmedia.ca/media/W8w8uJYGmOwqBDKJ1Ss3OlWqO5eu6WcfrYkeX4so.jpg?height=1000&nocrop=&width=1000",
 }
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/153 Safari/537.36 CinemaJF/1.0"
 SESSION = requests.Session()
@@ -357,6 +363,153 @@ def detail_metadata(url: str) -> dict:
     return result
 
 
+
+def movie_slug(title: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", norm(title)).strip("-")
+
+
+def unwrap_image_url(src: str, base_url: str) -> str:
+    src = urljoin(base_url, src or "")
+    m = re.search(r"[?&]url=([^&]+)", src)
+    if m:
+        return unquote(m.group(1))
+    return src
+
+
+def poster_candidates_from_page(url: str, title: str = "") -> list[str]:
+    """Extract likely poster images from an official movie page."""
+    try:
+        soup = BeautifulSoup(get(url, timeout=25).text, "html.parser")
+    except Exception:
+        return []
+
+    candidates = []
+    for attrs in (
+        {"property": "og:image"},
+        {"name": "twitter:image"},
+        {"property": "twitter:image"},
+    ):
+        tag = soup.find("meta", attrs=attrs)
+        if tag and tag.get("content"):
+            candidates.append(unwrap_image_url(tag["content"], url))
+
+    target = norm(title)
+    scored = []
+    for img in soup.find_all("img"):
+        src = img.get("src") or img.get("data-src") or img.get("data-lazy-src") or ""
+        if not src:
+            srcset = img.get("srcset") or ""
+            if srcset:
+                src = srcset.split(",")[-1].strip().split(" ")[0]
+        if not src:
+            continue
+        u = unwrap_image_url(src, url)
+        low = u.lower()
+        if any(x in low for x in ("logo", "icon", "combo", "concession", "wheelchair", "rating")):
+            continue
+        score = 0
+        if "/film/posters/" in low or "film/posters" in low:
+            score += 100
+        if "poster" in low or "affiche" in low:
+            score += 50
+        if "cdn.bizzmedia.ca" in low or "mediafiles.cineplex.com" in low:
+            score += 30
+        alt = norm((img.get("alt") or "") + " " + (img.get("title") or ""))
+        if target and target in alt:
+            score += 40
+        if score:
+            scored.append((score, u))
+    scored.sort(reverse=True)
+    candidates.extend(u for _, u in scored)
+    return list(dict.fromkeys(candidates))
+
+
+_CLAP_FILM_INDEX = None
+
+
+def clap_film_index() -> dict[str, str]:
+    global _CLAP_FILM_INDEX
+    if _CLAP_FILM_INDEX is not None:
+        return _CLAP_FILM_INDEX
+    out = {}
+    try:
+        soup = BeautifulSoup(get("https://clap.ca/programmation", timeout=25).text, "html.parser")
+        for a in soup.find_all("a", href=True):
+            href = a.get("href", "")
+            if "/programmation/film/" not in href:
+                continue
+            text = a.get_text(" ", strip=True)
+            if not text and a.parent:
+                text = a.parent.get_text(" ", strip=True)
+            if text:
+                out[norm(text)] = urljoin("https://clap.ca/", href)
+    except Exception as e:
+        print(f"WARNING Clap poster index unavailable: {e}", file=sys.stderr)
+    _CLAP_FILM_INDEX = out
+    return out
+
+
+def official_poster_candidates(title: str, matched_title: str = "") -> list[str]:
+    """Prefer poster art published by cinemas showing the film."""
+    titles = [x for x in dict.fromkeys([matched_title, title]) if x]
+    candidates = []
+
+    # Cineplex movie pages have stable poster assets in mediafiles.cineplex.com.
+    for name in titles:
+        slug = movie_slug(name)
+        if not slug:
+            continue
+        pages = [
+            f"https://www.cineplex.com/movie/{slug}",
+            f"https://www.cineplex.com/fr/movie/{slug}",
+            f"https://www.cineplex.com/fr/movie/{slug}-version-francaise",
+            f"https://www.cineplex.com/fr/movie/vf-{slug}",
+        ]
+        for page in pages:
+            found = poster_candidates_from_page(page, name)
+            if found:
+                candidates.extend(found)
+                break
+        if candidates:
+            break
+
+    # Québec independents: direct title slug works for Cinéma Cartier.
+    if not candidates:
+        for name in titles:
+            slug = movie_slug(name)
+            if slug:
+                candidates.extend(poster_candidates_from_page(f"https://www.cinemacartier.com/film/{slug}", name))
+            if candidates:
+                break
+
+    # Le Clap exposes links to its film pages from the programming index.
+    if not candidates:
+        idx = clap_film_index()
+        for name in titles:
+            target = norm(name)
+            matches = [(k, u) for k, u in idx.items() if target and (target in k or k in target)]
+            if matches:
+                matches.sort(key=lambda x: abs(len(x[0]) - len(target)))
+                candidates.extend(poster_candidates_from_page(matches[0][1], name))
+                if candidates:
+                    break
+
+    return list(dict.fromkeys(candidates))
+
+
+def same_imdb_local_poster(imdb_url: str, meta: dict) -> str:
+    tid = imdb_id(imdb_url)
+    if not tid:
+        return ""
+    for rec in meta.values():
+        if not isinstance(rec, dict) or imdb_id(rec.get("imdbUrl", "")) != tid:
+            continue
+        p = rec.get("poster", "")
+        if p.startswith("posters/") and (ROOT / p).exists():
+            return p
+    return ""
+
+
 def imdb_poster(url: str) -> str:
     """Fallback: return IMDb's primary image URL from a title page."""
     try:
@@ -409,6 +562,7 @@ def imdb_suggestion(title: str, now: datetime) -> dict:
         return {
             "imdbUrl": f"https://www.imdb.com/title/{item['id']}/",
             "poster": image,
+            "matchedTitle": label,
             "matchScore": round(score, 3),
         }
     except Exception as e:
@@ -517,10 +671,18 @@ def enrich_metadata(groups: dict, meta: dict, now: datetime) -> dict:
         rec.setdefault("imdbRating", None)
 
         local = rec.get("poster", "")
+        if not (local.startswith("posters/") and (ROOT / local).exists()) and rec.get("imdbUrl"):
+            shared = same_imdb_local_poster(rec["imdbUrl"], meta)
+            if shared:
+                rec["poster"] = shared
+                local = shared
         if local.startswith("posters/") and (ROOT / local).exists():
             rec["posterSource"] = "local-cache"
         else:
             candidates = []
+            if key in OFFICIAL_POSTER_OVERRIDES:
+                candidates.append(OFFICIAL_POSTER_OVERRIDES[key])
+            candidates.extend(official_poster_candidates(g.get("title") or key, suggestion.get("matchedTitle", "")))
             if key in POSTER_OVERRIDES:
                 candidates.append(POSTER_OVERRIDES[key])
             if suggestion.get("poster"):
@@ -570,6 +732,44 @@ def enrich_metadata(groups: dict, meta: dict, now: datetime) -> dict:
             print(f"WARNING IMDb ratings dataset unavailable: {e}", file=sys.stderr)
 
     return meta
+
+
+
+def prior_future_today(date_key: str, now: datetime) -> list[dict]:
+    """Keep same-day future sessions previously seen before CinemaClock hides them using UTC."""
+    if date_key != now.date().isoformat():
+        return []
+    p = DATA_DIR / f"{date_key}.json"
+    if not p.exists():
+        return []
+    try:
+        old = json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    cutoff = now.hour * 60 + now.minute
+    kept = []
+    for movie in old.get("movies", []):
+        showings = []
+        for sh in movie.get("showings", []):
+            if "D-BOX" in (sh.get("format") or ""):
+                continue
+            times = []
+            for t in sh.get("times", []):
+                try:
+                    hh, mm = map(int, t.split(":"))
+                except Exception:
+                    continue
+                if hh * 60 + mm >= cutoff:
+                    times.append(t)
+            if times:
+                cp = dict(sh)
+                cp["times"] = times
+                showings.append(cp)
+        if showings:
+            cp = {k: v for k, v in movie.items() if k != "showings"}
+            cp["showings"] = showings
+            kept.append(cp)
+    return kept
 
 
 def prior_for_failed(date_key: str, failed_ids: set[str]) -> list[dict]:
@@ -627,6 +827,15 @@ def build_files(variants: list[dict], failed_ids: set[str], meta: dict, now: dat
             movies[key]["showings"].append({
                 "cinema": v["cinema"], "lang": v["lang"], "format": v["format"], "times": times
             })
+        # CinemaClock can hide still-upcoming Québec sessions based on the GitHub runner's UTC clock.
+        # Preserve future sessions already observed earlier today.
+        for old_movie in prior_future_today(date_key, now):
+            key = norm(old_movie.get("original") or old_movie.get("title"))
+            if key in movies:
+                merge_movie(movies[key], old_movie)
+            else:
+                movies[key] = old_movie
+
         # Keep last known data only for cinemas that failed this run.
         for old_movie in prior_for_failed(date_key, failed_ids):
             key = norm(old_movie.get("original") or old_movie.get("title"))
