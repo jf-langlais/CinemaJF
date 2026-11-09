@@ -2,8 +2,8 @@
   "date": "2026-11-15",
   "dateLabel": "2026-11-15",
   "displayDate": "2026-11-15",
-  "generatedAt": "2026-11-09T01:29-05:00",
-  "updatedLabel": "01 h 29",
+  "generatedAt": "2026-11-09T12:29-05:00",
+  "updatedLabel": "12 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -65,6 +65,60 @@
             "18:50",
             "21:50"
           ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "15:50",
+            "18:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Festive Fun with Peppa Cinema Experience",
+      "original": "Festive Fun with Peppa Cinema Experience",
+      "translation": "",
+      "runtime": "1 h 00",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/festive-fun-with-peppa-cinema-experience.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt46666063/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comment braquer une banque",
+      "original": "How to Rob a Bank",
+      "translation": "Comment braquer une banque",
+      "runtime": "2 h 02",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/how-to-rob-a-bank.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt35866986/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:45",
+            "18:40"
+          ]
         }
       ]
     },
@@ -93,6 +147,48 @@
           "format": "Standard",
           "times": [
             "16:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Les aventuriers voyageurs: Gino Chouinard - Les Îles de Guadeloupe",
+      "original": "Les aventuriers voyageurs: Gino Chouinard - Les Îles de Guadeloupe",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Délivre-nous du mal",
+      "original": "Libera nos: Il trionfo sul male",
+      "translation": "Délivre-nous du mal",
+      "runtime": "1 h 45",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/libera-nos-il-trionfo-sul-male.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt23183038/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VO",
+          "format": "Standard",
+          "times": [
+            "19:00"
           ]
         }
       ]

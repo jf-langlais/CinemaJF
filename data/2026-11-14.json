@@ -2,8 +2,8 @@
   "date": "2026-11-14",
   "dateLabel": "2026-11-14",
   "displayDate": "2026-11-14",
-  "generatedAt": "2026-11-09T01:29-05:00",
-  "updatedLabel": "01 h 29",
+  "generatedAt": "2026-11-09T12:29-05:00",
+  "updatedLabel": "12 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,6 +44,35 @@
     }
   ],
   "movies": [
+    {
+      "title": "Un film Minecraft",
+      "original": "A Minecraft Movie",
+      "translation": "Un film Minecraft",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/a-minecraft-movie.jpg",
+      "imdbRating": 5.5,
+      "imdbUrl": "https://www.imdb.com/title/tt3566834/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:45"
+          ]
+        }
+      ]
+    },
     {
       "title": "Ebenezer",
       "original": "Ebenezer",
@@ -158,7 +187,23 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:15"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "10:15"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
           "format": "Standard",
           "times": [
             "10:15"
@@ -199,6 +244,35 @@
           "format": "Standard",
           "times": [
             "10:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tom & Jerry",
+      "original": "Tom & Jerry",
+      "translation": "",
+      "runtime": "1 h 41",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/tom-jerry.jpg",
+      "imdbRating": 5.3,
+      "imdbUrl": "https://www.imdb.com/title/tt1361336/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:00"
           ]
         }
       ]

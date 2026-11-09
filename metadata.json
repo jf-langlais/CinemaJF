@@ -5,6 +5,17 @@
     "poster": "https://img1.cdn.bizzmedia.ca/media/dmNe6iFsU3zoM0PSdoGR9MBqeOwDX7VkUgqTzJ0I.png/400/584",
     "ratingChecked": null
   },
+  "a minecraft movie": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 5.5,
+    "imdbUrl": "https://www.imdb.com/title/tt3566834/",
+    "imdbVotes": 170607,
+    "poster": "posters/a-minecraft-movie.jpg",
+    "posterChecked": "2026-11-09",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-09",
+    "ratingSource": "official-dataset-v1"
+  },
   "a pied d oeuvre": {
     "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt37660587/",
@@ -439,7 +450,7 @@
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
-    "posterChecked": "2026-11-06",
+    "posterChecked": "2026-11-09",
     "posterSource": "missing"
   },
   "les aventuriers voyageurs islande a velo au gre du vent": {
@@ -455,6 +466,17 @@
     "poster": "posters/les-aventuriers-voyageurs-reve-d-afrique.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache"
+  },
+  "libera nos il trionfo sul male": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 7.3,
+    "imdbUrl": "https://www.imdb.com/title/tt23183038/",
+    "imdbVotes": 20,
+    "poster": "posters/libera-nos-il-trionfo-sul-male.jpg",
+    "posterChecked": "2026-11-09",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-09",
+    "ratingSource": "official-dataset-v1"
   },
   "monster mia": {
     "imdbMatchScore": 1.08,
@@ -903,6 +925,17 @@
     "ratingChecked": "2026-10-01",
     "ratingSource": "official-dataset-v1"
   },
+  "tom jerry": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 5.3,
+    "imdbUrl": "https://www.imdb.com/title/tt1361336/",
+    "imdbVotes": 44141,
+    "poster": "posters/tom-jerry.jpg",
+    "posterChecked": "2026-11-09",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-09",
+    "ratingSource": "official-dataset-v1"
+  },
   "toy story 5": {
     "imdbRating": 7.3,
     "imdbUrl": "https://www.imdb.com/title/tt29355505/",
@@ -912,6 +945,13 @@
     "posterSource": "curated",
     "ratingChecked": "2026-10-01",
     "ratingSource": "official-dataset-v1"
+  },
+  "tsp550 the speed project": {
+    "imdbRating": null,
+    "imdbUrl": "",
+    "poster": "",
+    "posterChecked": "2026-11-09",
+    "posterSource": "missing"
   },
   "un renversement": {
     "imdbRating": null,
