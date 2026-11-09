@@ -2,8 +2,8 @@
   "date": "2026-11-11",
   "dateLabel": "2026-11-11",
   "displayDate": "2026-11-11",
-  "generatedAt": "2026-11-08T18:43-05:00",
-  "updatedLabel": "18 h 43",
+  "generatedAt": "2026-11-09T01:29-05:00",
+  "updatedLabel": "01 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -214,7 +214,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/ghost-soldier.jpg",
-      "imdbRating": 7.5,
+      "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt38686316/",
       "showings": [
         {
@@ -289,6 +289,15 @@
         },
         {
           "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "13:00",
+            "18:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
@@ -296,11 +305,10 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "UltraAVX · Dolby Atmos",
+          "cinema": "cineplex-imax",
+          "lang": "VO",
+          "format": "IMAX",
           "times": [
-            "13:00",
             "18:50"
           ]
         },
@@ -310,14 +318,6 @@
           "format": "IMAX",
           "times": [
             "15:40"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
-          "lang": "VO",
-          "format": "IMAX",
-          "times": [
-            "18:50"
           ]
         },
         {
@@ -670,7 +670,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/ramayana-rise-of-a-legend.jpg",
-      "imdbRating": 8.6,
+      "imdbRating": 8.5,
       "imdbUrl": "https://www.imdb.com/title/tt27988879/",
       "showings": [
         {
@@ -798,18 +798,9 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-cat-in-the-hat.jpg",
-      "imdbRating": 6.5,
+      "imdbRating": 6.4,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:40",
-            "21:40"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -817,6 +808,15 @@
           "times": [
             "13:00",
             "15:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:40",
+            "21:40"
           ]
         },
         {
@@ -910,7 +910,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/the-only-living-pickpocket-in-new-york.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.3,
       "imdbUrl": "https://www.imdb.com/title/tt36482679/",
       "showings": [
         {
@@ -932,7 +932,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/verity.jpg",
-      "imdbRating": 6,
+      "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt32261958/",
       "showings": [
         {
