@@ -2,8 +2,8 @@
   "date": "2026-11-10",
   "dateLabel": "2026-11-10",
   "displayDate": "2026-11-10",
-  "generatedAt": "2026-11-09T20:32-05:00",
-  "updatedLabel": "20 h 32",
+  "generatedAt": "2026-11-10T04:50-05:00",
+  "updatedLabel": "04 h 50",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -244,9 +244,9 @@
       "translation": "Soldat Fantôme",
       "runtime": "1 h 30",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/ghost-soldier.jpg",
-      "imdbRating": 6.6,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt38686316/",
       "showings": [
         {
@@ -463,7 +463,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/heart-of-the-beast.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
@@ -508,7 +508,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/l-autre.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 7.0,
       "imdbUrl": "https://www.imdb.com/title/tt43106511/",
       "showings": [
         {
@@ -748,7 +748,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/ramayana-rise-of-a-legend.jpg",
-      "imdbRating": 8.5,
+      "imdbRating": 8.4,
       "imdbUrl": "https://www.imdb.com/title/tt27988879/",
       "showings": [
         {
@@ -771,7 +771,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/resident-evil.jpg",
-      "imdbRating": 7.5,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt35538033/",
       "showings": [
         {
@@ -889,7 +889,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-cat-in-the-hat.jpg",
-      "imdbRating": 6.4,
+      "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
         {

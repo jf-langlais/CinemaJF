@@ -2,8 +2,8 @@
   "date": "2026-11-13",
   "dateLabel": "2026-11-13",
   "displayDate": "2026-11-13",
-  "generatedAt": "2026-11-09T20:32-05:00",
-  "updatedLabel": "20 h 32",
+  "generatedAt": "2026-11-10T04:50-05:00",
+  "updatedLabel": "04 h 50",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -58,7 +58,7 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "UltraAVX",
           "times": [
             "12:50",
             "15:50",
@@ -75,6 +75,57 @@
             "15:55",
             "18:50",
             "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fjord",
+      "original": "Fjord",
+      "translation": "",
+      "runtime": "2 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/fjord.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35410859/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:10",
+            "17:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Godzilla-0.0",
+      "original": "Gojira-0.0",
+      "translation": "Godzilla-0.0",
+      "runtime": "2 h 15",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/gojira-0-0.jpg",
+      "imdbRating": 8.0,
+      "imdbUrl": "https://www.imdb.com/title/tt34384661/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VO",
+          "format": "Standard",
+          "times": [
+            "21:20"
           ]
         }
       ]
@@ -120,6 +171,105 @@
           "format": "Standard",
           "times": [
             "10:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pauline Julien: Femme pays",
+      "original": "Pauline Julien: Femme pays",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/pauline-julien-femme-pays.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39387187/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Cat in the Hat",
+      "original": "The Cat in the Hat",
+      "translation": "",
+      "runtime": "1 h 47",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/the-cat-in-the-hat.jpg",
+      "imdbRating": 6.6,
+      "imdbUrl": "https://www.imdb.com/title/tt2321555/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:00",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Villeneuve: L'ascension d'une légende",
+      "original": "Villeneuve: L'ascension d'une légende",
+      "translation": "",
+      "runtime": "1 h 42",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "14:50",
+            "17:00",
+            "19:10",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vous pouvez tout voir",
+      "original": "You Can See Everything",
+      "translation": "Vous pouvez tout voir",
+      "runtime": "2 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/you-can-see-everything.jpg",
+      "imdbRating": 9.1,
+      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "14:30",
+            "20:40"
           ]
         }
       ]
