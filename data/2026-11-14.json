@@ -2,8 +2,8 @@
   "date": "2026-11-14",
   "dateLabel": "2026-11-14",
   "displayDate": "2026-11-14",
-  "generatedAt": "2026-11-09T12:29-05:00",
-  "updatedLabel": "12 h 29",
+  "generatedAt": "2026-11-09T20:32-05:00",
+  "updatedLabel": "20 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -58,6 +58,14 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
           "format": "Standard",
           "times": [
             "10:45"
@@ -175,6 +183,35 @@
       ]
     },
     {
+      "title": "Opera: Carmen",
+      "original": "Opera: Carmen",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Paddington 2",
       "original": "Paddington 2",
       "translation": "",
@@ -245,6 +282,14 @@
           "times": [
             "10:30"
           ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "10:30"
+          ]
         }
       ]
     },
@@ -262,6 +307,14 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
           "format": "Standard",
           "times": [
             "10:00"
