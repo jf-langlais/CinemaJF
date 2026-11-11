@@ -2,8 +2,8 @@
   "date": "2026-11-16",
   "dateLabel": "2026-11-16",
   "displayDate": "2026-11-16",
-  "generatedAt": "2026-11-10T18:22-05:00",
-  "updatedLabel": "18 h 22",
+  "generatedAt": "2026-11-11T01:21-05:00",
+  "updatedLabel": "01 h 21",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -72,6 +72,15 @@
             "15:50",
             "18:50"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "18:50"
+          ]
         }
       ]
     },
@@ -102,11 +111,27 @@
       "translation": "Godzilla-0.0",
       "runtime": "2 h 15",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/gojira-0-0.jpg",
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt34384661/",
       "showings": [
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VO",
+          "format": "IMAX",
+          "times": [
+            "18:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOF",
+          "format": "IMAX",
+          "times": [
+            "15:20"
+          ]
+        },
         {
           "cinema": "cinema-cartier",
           "lang": "VF",
@@ -218,7 +243,7 @@
       "translation": "",
       "runtime": "1 h 42",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
