@@ -848,6 +848,17 @@
     "ratingChecked": "2026-11-12",
     "ratingSource": "official-dataset-v1"
   },
+  "the hunger games the ballad of songbirds snakes": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 6.6,
+    "imdbUrl": "https://www.imdb.com/title/tt10545296/",
+    "imdbVotes": 193912,
+    "poster": "posters/the-hunger-games-the-ballad-of-songbirds-snakes.jpg",
+    "posterChecked": "2026-11-12",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-12",
+    "ratingSource": "official-dataset-v1"
+  },
   "the lego movie": {
     "imdbMatchScore": 1,
     "imdbRating": 7.7,
