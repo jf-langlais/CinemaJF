@@ -116,7 +116,7 @@
     "poster": "posters/charlebois-symphonique-une-celebration-grandiose-avec-l-osm.jpg",
     "posterChecked": "2026-10-24",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-11-10",
+    "ratingChecked": "2026-11-11",
     "ratingSource": "official-dataset-v1"
   },
   "chers parents": {
@@ -416,7 +416,7 @@
     "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-11-10",
+    "ratingChecked": "2026-11-11",
     "ratingSource": "official-dataset-v1"
   },
   "la place": {
@@ -835,6 +835,17 @@
     "posterChecked": "2026-10-22",
     "posterSource": "local-cache",
     "ratingChecked": "2026-10-24",
+    "ratingSource": "official-dataset-v1"
+  },
+  "the hunger games sunrise on the reaping": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt32558705/",
+    "imdbVotes": null,
+    "poster": "posters/the-hunger-games-sunrise-on-the-reaping.jpg",
+    "posterChecked": "2026-11-11",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-11",
     "ratingSource": "official-dataset-v1"
   },
   "the lego movie": {

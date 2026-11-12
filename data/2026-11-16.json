@@ -2,8 +2,8 @@
   "date": "2026-11-16",
   "dateLabel": "2026-11-16",
   "displayDate": "2026-11-16",
-  "generatedAt": "2026-11-11T16:58-05:00",
-  "updatedLabel": "16 h 58",
+  "generatedAt": "2026-11-11T21:59-05:00",
+  "updatedLabel": "21 h 59",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,6 +45,27 @@
   ],
   "movies": [
     {
+      "title": "Charlebois symphonique - Une célébration grandiose avec l'OSM",
+      "original": "Charlebois symphonique - Une célébration grandiose avec l'OSM",
+      "translation": "",
+      "runtime": "1 h 29",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/charlebois-symphonique-une-celebration-grandiose-avec-l-osm.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt49970957/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:45"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Clayface",
       "original": "Clayface",
       "translation": "",
@@ -73,6 +94,28 @@
             "13:50",
             "16:25",
             "18:55"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "De Gaulle",
+      "original": "De Gaulle",
+      "translation": "",
+      "runtime": "1 h 48",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/de-gaulle.jpg",
+      "imdbRating": 6.1,
+      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "15:15"
           ]
         }
       ]
@@ -110,6 +153,44 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:50",
+            "18:50",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:00",
+            "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:15"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:10",
+            "18:55",
+            "21:40"
+          ]
+        },
+        {
           "cinema": "cinema-cartier",
           "lang": "VOA",
           "format": "Standard",
@@ -139,6 +220,15 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35410859/",
       "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "18:35"
+          ]
+        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOA",
@@ -201,6 +291,17 @@
             "16:35",
             "19:25"
           ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:30",
+            "19:15",
+            "21:30"
+          ]
         }
       ]
     },
@@ -217,36 +318,22 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
+          "lang": "VO",
           "format": "Standard",
           "times": [
             "12:30",
+            "15:35",
             "18:50",
             "22:00"
           ]
         },
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:35"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "15:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
+          "lang": "VO",
           "format": "UltraAVX · Dolby Atmos",
           "times": [
             "12:55",
+            "15:50",
             "18:45"
           ]
         },
@@ -255,15 +342,29 @@
           "lang": "VO",
           "format": "IMAX",
           "times": [
+            "15:20",
             "18:30"
           ]
         },
         {
-          "cinema": "cineplex-imax",
-          "lang": "VOF",
-          "format": "IMAX",
+          "cinema": "clap-ste-foy",
+          "lang": "VO",
+          "format": "Standard",
           "times": [
-            "15:20"
+            "15:40",
+            "18:40",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:40",
+            "18:45",
+            "21:45"
           ]
         },
         {
@@ -307,6 +408,24 @@
             "16:20",
             "19:10"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:05"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "15:30",
+            "18:40"
+          ]
         }
       ]
     },
@@ -339,6 +458,15 @@
           "times": [
             "13:05",
             "15:40",
+            "18:30"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:50",
             "18:30"
           ]
         }
@@ -375,6 +503,120 @@
             "15:45",
             "18:40"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "18:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:00",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:45",
+            "18:50",
+            "21:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "L'autre",
+      "original": "L'autre",
+      "translation": "",
+      "runtime": "1 h 38",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/l-autre.jpg",
+      "imdbRating": 7.0,
+      "imdbUrl": "https://www.imdb.com/title/tt43106511/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "16:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La bataille de Gaulle: Résistance",
+      "original": "La bataille de Gaulle: Résistance",
+      "translation": "",
+      "runtime": "2 h 40",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "12:55"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La meilleure façon, c'est par accident",
+      "original": "La meilleure façon, c'est par accident",
+      "translation": "",
+      "runtime": "1 h 51",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/la-meilleure-facon-c-est-par-accident.jpg",
+      "imdbRating": 7.4,
+      "imdbUrl": "https://www.imdb.com/title/tt42353729/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "21:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le Fantôme de l'Opéra",
+      "original": "Le Fantôme de l'Opéra",
+      "translation": "",
+      "runtime": "2 h 14",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/le-fantome-de-l-opera.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt14647340/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "21:30"
+          ]
         }
       ]
     },
@@ -395,6 +637,61 @@
           "format": "Standard",
           "times": [
             "19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Murmures",
+      "original": "Murmures",
+      "translation": "",
+      "runtime": "1 h 20",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/murmures.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt47737481/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "13:10",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "14:50",
+            "17:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La patrie",
+      "original": "Ojczyzna",
+      "translation": "La patrie",
+      "runtime": "1 h 22",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "16:30"
           ]
         }
       ]
@@ -433,6 +730,25 @@
       "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30",
+            "12:35",
+            "15:40",
+            "19:10"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:15"
+          ]
+        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",
@@ -499,6 +815,27 @@
       ]
     },
     {
+      "title": "Raison et sentiments",
+      "original": "Sense and Sensibility",
+      "translation": "Raison et sentiments",
+      "runtime": "2 h 11",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/sense-and-sensibility.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt13609648/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:45"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Street Fighter",
       "original": "Street Fighter",
       "translation": "",
@@ -535,19 +872,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "13:00",
-            "15:45"
+            "18:40",
+            "21:20"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:40",
-            "21:20"
+            "13:00",
+            "15:45"
           ]
         },
         {
@@ -582,6 +919,35 @@
           "format": "3D",
           "times": [
             "18:35"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "16:30",
+            "18:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "16:00",
+            "19:10",
+            "21:50"
           ]
         },
         {
@@ -677,6 +1043,46 @@
           ]
         },
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "13:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Dolby Atmos",
+          "times": [
+            "10:40",
+            "13:30",
+            "16:15",
+            "19:00",
+            "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:45"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Dolby Atmos",
+          "times": [
+            "13:30",
+            "16:15",
+            "19:00",
+            "21:45"
+          ]
+        },
+        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -709,6 +1115,41 @@
             "15:25",
             "18:45",
             "21:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:40",
+            "16:25",
+            "19:15",
+            "21:55"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wildwood",
+      "original": "Wildwood",
+      "translation": "",
+      "runtime": "2 h 12",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/wildwood.jpg",
+      "imdbRating": 8.6,
+      "imdbUrl": "https://www.imdb.com/title/tt2056785/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "18:50",
+            "21:45"
           ]
         }
       ]
@@ -773,6 +1214,24 @@
           "times": [
             "13:55",
             "18:10"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:10",
+            "18:20",
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:00"
           ]
         },
         {
