@@ -2,8 +2,8 @@
   "date": "2026-11-13",
   "dateLabel": "2026-11-13",
   "displayDate": "2026-11-13",
-  "generatedAt": "2026-11-11T21:59-05:00",
-  "updatedLabel": "21 h 59",
+  "generatedAt": "2026-11-12T06:10-05:00",
+  "updatedLabel": "06 h 10",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -128,7 +128,7 @@
       "translation": "",
       "runtime": "1 h 56",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/ebenezer.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt38773219/",
@@ -274,7 +274,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/ghost-soldier.jpg",
-      "imdbRating": 7.2,
+      "imdbRating": 6.3,
       "imdbUrl": "https://www.imdb.com/title/tt38686316/",
       "showings": [
         {
@@ -318,7 +318,7 @@
       "translation": "Godzilla-0.0",
       "runtime": "2 h 15",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/gojira-0-0.jpg",
       "imdbRating": 8.0,
       "imdbUrl": "https://www.imdb.com/title/tt34384661/",
@@ -499,7 +499,7 @@
       "translation": "Comment braquer une banque",
       "runtime": "2 h 02",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/how-to-rob-a-bank.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt35866986/",
@@ -790,7 +790,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/ramayana-rise-of-a-legend.jpg",
-      "imdbRating": 8.4,
+      "imdbRating": 8.3,
       "imdbUrl": "https://www.imdb.com/title/tt27988879/",
       "showings": [
         {
@@ -888,7 +888,7 @@
       "translation": "Le Chat Chapeauté",
       "runtime": "1 h 47",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/the-cat-in-the-hat.jpg",
       "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
@@ -896,19 +896,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:40",
-            "21:20"
+            "13:00",
+            "15:45"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "13:00",
-            "15:45"
+            "18:40",
+            "21:20"
           ]
         },
         {
@@ -1228,7 +1228,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 9.1,
+      "imdbRating": 9.0,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
