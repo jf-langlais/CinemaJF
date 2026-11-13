@@ -2,8 +2,8 @@
   "date": "2026-11-14",
   "dateLabel": "2026-11-14",
   "displayDate": "2026-11-14",
-  "generatedAt": "2026-11-13T02:58-05:00",
-  "updatedLabel": "02 h 58",
+  "generatedAt": "2026-11-13T11:24-05:00",
+  "updatedLabel": "11 h 24",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -843,7 +843,7 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
+          "lang": "VOA",
           "format": "Standard",
           "times": [
             "10:15"
@@ -851,7 +851,7 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
+          "lang": "VF",
           "format": "Standard",
           "times": [
             "10:15"
@@ -1029,24 +1029,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "15:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "3D",
-          "times": [
-            "18:15",
-            "20:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -1061,6 +1043,24 @@
           "times": [
             "18:35",
             "21:15"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "18:15",
+            "20:50"
           ]
         },
         {

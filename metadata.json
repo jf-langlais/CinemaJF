@@ -705,6 +705,17 @@
     "ratingChecked": "2026-10-08",
     "ratingSource": "official-dataset-v1"
   },
+  "santa claude": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt45979221/",
+    "imdbVotes": null,
+    "poster": "posters/santa-claude.jpg",
+    "posterChecked": "2026-11-13",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-13",
+    "ratingSource": "official-dataset-v1"
+  },
   "scoob": {
     "imdbMatchScore": 1,
     "imdbRating": 5.6,
