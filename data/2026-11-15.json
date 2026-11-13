@@ -2,8 +2,8 @@
   "date": "2026-11-15",
   "dateLabel": "2026-11-15",
   "displayDate": "2026-11-15",
-  "generatedAt": "2026-11-12T13:57-05:00",
-  "updatedLabel": "13 h 57",
+  "generatedAt": "2026-11-12T19:24-05:00",
+  "updatedLabel": "19 h 24",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -193,6 +193,14 @@
         },
         {
           "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
           "lang": "VF",
           "format": "Standard",
           "times": [
@@ -241,6 +249,14 @@
           "times": [
             "13:20",
             "18:35"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:10"
           ]
         }
       ]
@@ -685,6 +701,27 @@
       ]
     },
     {
+      "title": "Délivre-nous du mal",
+      "original": "Libera nos: Il trionfo sul male",
+      "translation": "Délivre-nous du mal",
+      "runtime": "1 h 45",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/libera-nos-il-trionfo-sul-male.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt23183038/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VO",
+          "format": "Standard",
+          "times": [
+            "19:10"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Murmures",
       "original": "Murmures",
       "translation": "",
@@ -703,6 +740,16 @@
             "10:30",
             "13:10",
             "18:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "14:50",
+            "17:20"
           ]
         }
       ]
@@ -781,6 +828,14 @@
           "times": [
             "10:40",
             "15:50"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:30"
           ]
         }
       ]
@@ -898,19 +953,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "13:00",
-            "15:45"
+            "18:40",
+            "21:20"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:40",
-            "21:20"
+            "13:00",
+            "15:45"
           ]
         },
         {
@@ -990,6 +1045,23 @@
           "format": "Standard",
           "times": [
             "11:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "19:00"
           ]
         }
       ]
@@ -1107,6 +1179,17 @@
             "16:15",
             "19:00",
             "21:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "14:50",
+            "17:00",
+            "19:10"
           ]
         }
       ]
@@ -1248,6 +1331,15 @@
           "format": "Standard",
           "times": [
             "21:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "14:30",
+            "18:30"
           ]
         }
       ]
