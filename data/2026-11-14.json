@@ -2,8 +2,8 @@
   "date": "2026-11-14",
   "dateLabel": "2026-11-14",
   "displayDate": "2026-11-14",
-  "generatedAt": "2026-11-12T19:24-05:00",
-  "updatedLabel": "19 h 24",
+  "generatedAt": "2026-11-13T02:58-05:00",
+  "updatedLabel": "02 h 58",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -712,7 +712,7 @@
       "translation": "",
       "runtime": "1 h 20",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/murmures.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt47737481/",
@@ -906,7 +906,7 @@
       "translation": "",
       "runtime": "3 h 15",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/ramayana-rise-of-a-legend.jpg",
       "imdbRating": 8.3,
       "imdbUrl": "https://www.imdb.com/title/tt27988879/",
@@ -1012,19 +1012,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:40",
-            "21:20"
+            "13:15",
+            "15:55"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "13:15",
-            "15:55"
+            "18:40",
+            "21:20"
           ]
         },
         {
@@ -1357,7 +1357,7 @@
       "translation": "Cheval sauvage numéro neuf",
       "runtime": "1 h 58",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/wild-horse-nine.jpg",
       "imdbRating": 8.1,
       "imdbUrl": "https://www.imdb.com/title/tt15799564/",
