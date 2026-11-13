@@ -2,8 +2,8 @@
   "date": "2026-11-16",
   "dateLabel": "2026-11-16",
   "displayDate": "2026-11-16",
-  "generatedAt": "2026-11-13T11:24-05:00",
-  "updatedLabel": "11 h 24",
+  "generatedAt": "2026-11-13T17:38-05:00",
+  "updatedLabel": "17 h 38",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -889,23 +889,6 @@
         },
         {
           "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:20",
-            "16:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:35"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -919,6 +902,23 @@
           "format": "3D",
           "times": [
             "18:15"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:35"
           ]
         },
         {
@@ -1017,7 +1017,7 @@
       "runtime": "1 h 42",
       "genre": "",
       "badge": "Nouveauté",
-      "poster": "",
+      "poster": "posters/villeneuve-l-ascension-d-une-legende.jpg",
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [

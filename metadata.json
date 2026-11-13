@@ -341,6 +341,17 @@
     "ratingChecked": "2026-11-13",
     "ratingSource": "official-dataset-v1"
   },
+  "i play rocky": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 8.1,
+    "imdbUrl": "https://www.imdb.com/title/tt11995650/",
+    "imdbVotes": 2745,
+    "poster": "posters/i-play-rocky.jpg",
+    "posterChecked": "2026-11-13",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-13",
+    "ratingSource": "official-dataset-v1"
+  },
   "insidious out of the further": {
     "imdbRating": 6.1,
     "imdbUrl": "https://www.imdb.com/title/tt32393988/",
@@ -989,9 +1000,9 @@
   "tsp550 the speed project": {
     "imdbRating": null,
     "imdbUrl": "",
-    "poster": "",
+    "poster": "posters/tsp550-the-speed-project.jpg",
     "posterChecked": "2026-11-13",
-    "posterSource": "missing"
+    "posterSource": "local-cache"
   },
   "un renversement": {
     "imdbRating": null,
@@ -1039,9 +1050,9 @@
   "villeneuve l ascension d une legende": {
     "imdbRating": null,
     "imdbUrl": "",
-    "poster": "",
+    "poster": "posters/villeneuve-l-ascension-d-une-legende.jpg",
     "posterChecked": "2026-11-13",
-    "posterSource": "missing"
+    "posterSource": "local-cache"
   },
   "violence du corps de l autre": {
     "imdbRating": null,
