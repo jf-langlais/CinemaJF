@@ -2,8 +2,8 @@
   "date": "2026-11-14",
   "dateLabel": "2026-11-14",
   "displayDate": "2026-11-14",
-  "generatedAt": "2026-11-14T05:35-05:00",
-  "updatedLabel": "05 h 35",
+  "generatedAt": "2026-11-14T12:08-05:00",
+  "updatedLabel": "12 h 08",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,51 +44,6 @@
     }
   ],
   "movies": [
-    {
-      "title": "Un film Minecraft",
-      "original": "A Minecraft Movie",
-      "translation": "Un film Minecraft",
-      "runtime": "",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/a-minecraft-movie.jpg",
-      "imdbRating": 5.5,
-      "imdbUrl": "https://www.imdb.com/title/tt3566834/",
-      "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "10:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "10:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:45"
-          ]
-        }
-      ]
-    },
     {
       "title": "Charlebois symphonique - Une célébration grandiose avec l'OSM",
       "original": "Charlebois symphonique - Une célébration grandiose avec l'OSM",
@@ -160,7 +115,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "15:30"
           ]
         }
@@ -204,7 +158,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:50",
             "18:50",
             "22:00"
@@ -499,7 +452,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:05",
             "18:30"
           ]
@@ -644,27 +596,6 @@
       ]
     },
     {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:20"
-          ]
-        }
-      ]
-    },
-    {
       "title": "La meilleure façon, c'est par accident",
       "original": "La meilleure façon, c'est par accident",
       "translation": "",
@@ -722,7 +653,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
             "13:10",
             "18:30"
           ]
@@ -755,7 +685,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:30"
           ]
         }
@@ -773,7 +702,7 @@
       "imdbUrl": "",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
+          "cinema": "cineplex-beauport",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -781,7 +710,7 @@
           ]
         },
         {
-          "cinema": "cineplex-beauport",
+          "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -815,43 +744,6 @@
       ]
     },
     {
-      "title": "Paddington 2",
-      "original": "Paddington 2",
-      "translation": "",
-      "runtime": "1 h 44",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/paddington-2.jpg",
-      "imdbRating": 7.8,
-      "imdbUrl": "https://www.imdb.com/title/tt4468740/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "10:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:15"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Pauline Julien: Femme pays",
       "original": "Pauline Julien: Femme pays",
       "translation": "",
@@ -867,7 +759,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "12:30",
             "15:40",
             "18:55"
@@ -947,27 +838,6 @@
       ]
     },
     {
-      "title": "Raison et sentiments",
-      "original": "Sense and Sensibility",
-      "translation": "Raison et sentiments",
-      "runtime": "2 h 11",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/sense-and-sensibility.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt13609648/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:20"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Street Fighter",
       "original": "Street Fighter",
       "translation": "",
@@ -1001,15 +871,6 @@
       "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:15",
-            "15:55"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -1060,7 +921,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:30",
             "16:30",
             "19:10"
@@ -1119,79 +979,14 @@
             "12:40",
             "19:00"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Le Film Lego",
-      "original": "The Lego Movie",
-      "translation": "Le Film Lego",
-      "runtime": "1 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/the-lego-movie.jpg",
-      "imdbRating": 7.7,
-      "imdbUrl": "https://www.imdb.com/title/tt1490017/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "10:30"
-          ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Tom & Jerry",
-      "original": "Tom & Jerry",
-      "translation": "",
-      "runtime": "1 h 41",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/tom-jerry.jpg",
-      "imdbRating": 5.3,
-      "imdbUrl": "https://www.imdb.com/title/tt1361336/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "10:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:00"
+            "13:15",
+            "15:55"
           ]
         }
       ]
@@ -1274,18 +1069,8 @@
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:20",
-            "13:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
           "format": "Dolby Atmos",
           "times": [
-            "10:40",
             "13:30",
             "16:15",
             "19:00",
@@ -1324,6 +1109,14 @@
             "19:10",
             "21:20"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
         }
       ]
     },
@@ -1354,7 +1147,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:40",
             "16:25",
             "19:15",
