@@ -2,8 +2,8 @@
   "date": "2026-11-18",
   "dateLabel": "2026-11-18",
   "displayDate": "2026-11-18",
-  "generatedAt": "2026-11-14T20:56-05:00",
-  "updatedLabel": "20 h 56",
+  "generatedAt": "2026-11-15T04:26-05:00",
+  "updatedLabel": "04 h 26",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -276,7 +276,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/ghost-soldier.jpg",
-      "imdbRating": 6.8,
+      "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt38686316/",
       "showings": [
         {
@@ -302,20 +302,20 @@
         },
         {
           "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "19:15"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:10",
             "16:30",
             "21:30"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "19:15"
           ]
         }
       ]
@@ -503,7 +503,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/how-to-rob-a-bank.jpg",
-      "imdbRating": 6.2,
+      "imdbRating": 6.4,
       "imdbUrl": "https://www.imdb.com/title/tt35866986/",
       "showings": [
         {
@@ -656,7 +656,7 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
@@ -880,7 +880,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/street-fighter.jpg",
-      "imdbRating": 6.2,
+      "imdbRating": 6.1,
       "imdbUrl": "https://www.imdb.com/title/tt27419420/",
       "showings": [
         {
@@ -909,19 +909,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:40",
-            "21:20"
+            "13:00",
+            "15:45"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "13:00",
-            "15:45"
+            "18:40",
+            "21:20"
           ]
         },
         {
