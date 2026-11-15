@@ -2,8 +2,8 @@
   "date": "2026-11-21",
   "dateLabel": "2026-11-21",
   "displayDate": "2026-11-21",
-  "generatedAt": "2026-11-15T04:26-05:00",
-  "updatedLabel": "04 h 26",
+  "generatedAt": "2026-11-15T12:11-05:00",
+  "updatedLabel": "12 h 11",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,9 +45,94 @@
   ],
   "movies": [
     {
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "original": "The Hunger Games: Sunrise on the Reaping",
+      "title": "BTS World Tour 'Arirang' in Kaohsiung",
+      "original": "BTS World Tour 'Arirang' in Kaohsiung",
       "translation": "",
+      "runtime": "3 h 15",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/bts-world-tour-arirang-in-kaohsiung.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt50486016/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Moi, Rocky",
+      "original": "I Play Rocky",
+      "translation": "Moi, Rocky",
+      "runtime": "2 h 08",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/i-play-rocky.jpg",
+      "imdbRating": 8.1,
+      "imdbUrl": "https://www.imdb.com/title/tt11995650/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:50",
+            "19:00",
+            "22:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:10",
+            "19:00",
+            "21:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Opera: Macbeth",
+      "original": "Opera: Macbeth",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hunger Games: Lever de soleil sur la moisson",
+      "original": "The Hunger Games: Sunrise on the Reaping",
+      "translation": "Hunger Games: Lever de soleil sur la moisson",
       "runtime": "2 h 38",
       "genre": "",
       "badge": "",
@@ -55,6 +140,71 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt32558705/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "ScreenX",
+          "times": [
+            "11:00",
+            "14:40",
+            "18:25",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX",
+          "times": [
+            "11:30",
+            "15:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX · 3D",
+          "times": [
+            "18:50",
+            "22:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "11:30",
+            "15:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · 3D · Dolby Atmos",
+          "times": [
+            "18:30",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "11:00",
+            "14:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "18:00",
+            "21:30"
+          ]
+        },
         {
           "cinema": "cineplex-imax",
           "lang": "VOA",

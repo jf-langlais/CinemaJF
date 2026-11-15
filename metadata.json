@@ -75,6 +75,17 @@
     "ratingChecked": "2026-10-25",
     "ratingSource": "official-dataset-v1"
   },
+  "bts world tour arirang in kaohsiung": {
+    "imdbMatchScore": 0.923,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt50486016/",
+    "imdbVotes": null,
+    "poster": "posters/bts-world-tour-arirang-in-kaohsiung.jpg",
+    "posterChecked": "2026-11-15",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-15",
+    "ratingSource": "official-dataset-v1"
+  },
   "bts world tour arirang in sao paulo": {
     "imdbMatchScore": 0.923,
     "imdbRating": null,
@@ -566,7 +577,7 @@
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
-    "posterChecked": "2026-10-17",
+    "posterChecked": "2026-11-15",
     "posterSource": "missing"
   },
   "other mommy": {

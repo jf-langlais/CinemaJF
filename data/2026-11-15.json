@@ -2,8 +2,8 @@
   "date": "2026-11-15",
   "dateLabel": "2026-11-15",
   "displayDate": "2026-11-15",
-  "generatedAt": "2026-11-15T04:26-05:00",
-  "updatedLabel": "04 h 26",
+  "generatedAt": "2026-11-15T12:11-05:00",
+  "updatedLabel": "12 h 11",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -113,7 +113,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "15:30"
           ]
         }
@@ -156,7 +155,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:50",
             "16:30",
             "22:00"
@@ -436,7 +434,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40",
             "13:05",
             "18:30"
           ]
@@ -588,27 +585,6 @@
       ]
     },
     {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:20"
-          ]
-        }
-      ]
-    },
-    {
       "title": "La meilleure façon, c'est par accident",
       "original": "La meilleure façon, c'est par accident",
       "translation": "",
@@ -662,7 +638,7 @@
       "imdbUrl": "",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
+          "cinema": "clap-loretteville",
           "lang": "VOF",
           "format": "Standard",
           "times": [
@@ -670,7 +646,7 @@
           ]
         },
         {
-          "cinema": "clap-loretteville",
+          "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
           "times": [
@@ -737,7 +713,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:10",
             "18:40"
           ]
@@ -770,7 +745,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:40",
             "16:30"
           ]
         }
@@ -815,7 +789,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:30",
             "12:35",
             "15:40",
             "18:55"
@@ -896,27 +869,6 @@
       ]
     },
     {
-      "title": "Raison et sentiments",
-      "original": "Sense and Sensibility",
-      "translation": "Raison et sentiments",
-      "runtime": "2 h 11",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/sense-and-sensibility.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt13609648/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:20"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Street Fighter",
       "original": "Street Fighter",
       "translation": "",
@@ -950,15 +902,6 @@
       "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:00",
-            "15:45"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -1007,7 +950,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:30",
             "13:30",
             "19:10"
           ]
@@ -1062,6 +1004,15 @@
           "times": [
             "12:40",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:45"
           ]
         }
       ]
@@ -1142,18 +1093,8 @@
         {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:20",
-            "13:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
           "format": "Dolby Atmos",
           "times": [
-            "10:40",
             "13:30",
             "16:15",
             "19:00",
@@ -1191,6 +1132,14 @@
             "17:00",
             "19:10"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
         }
       ]
     },
@@ -1221,7 +1170,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
             "13:40",
             "16:25",
             "19:15",
