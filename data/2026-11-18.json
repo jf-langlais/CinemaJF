@@ -2,8 +2,8 @@
   "date": "2026-11-18",
   "dateLabel": "2026-11-18",
   "displayDate": "2026-11-18",
-  "generatedAt": "2026-11-16T22:54-05:00",
-  "updatedLabel": "22 h 54",
+  "generatedAt": "2026-11-17T08:27-05:00",
+  "updatedLabel": "08 h 27",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -128,7 +128,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/ebenezer.jpg",
-      "imdbRating": 7.1,
+      "imdbRating": 7.2,
       "imdbUrl": "https://www.imdb.com/title/tt38773219/",
       "showings": [
         {
@@ -255,7 +255,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/forgotten-island.jpg",
-      "imdbRating": 7.5,
+      "imdbRating": 7.4,
       "imdbUrl": "https://www.imdb.com/title/tt36583977/",
       "showings": [
         {
@@ -274,9 +274,9 @@
       "translation": "Soldat Fantôme",
       "runtime": "1 h 30",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/ghost-soldier.jpg",
-      "imdbRating": 6.7,
+      "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt38686316/",
       "showings": [
         {
@@ -503,7 +503,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/how-to-rob-a-bank.jpg",
-      "imdbRating": 6.4,
+      "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt35866986/",
       "showings": [
         {
@@ -804,7 +804,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/ramayana-rise-of-a-legend.jpg",
-      "imdbRating": 8.3,
+      "imdbRating": 8.2,
       "imdbUrl": "https://www.imdb.com/title/tt27988879/",
       "showings": [
         {
