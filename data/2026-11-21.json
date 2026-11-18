@@ -2,8 +2,8 @@
   "date": "2026-11-21",
   "dateLabel": "2026-11-21",
   "displayDate": "2026-11-21",
-  "generatedAt": "2026-11-18T08:58-05:00",
-  "updatedLabel": "08 h 58",
+  "generatedAt": "2026-11-18T16:57-05:00",
+  "updatedLabel": "16 h 57",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -77,6 +77,17 @@
       "imdbUrl": "https://www.imdb.com/title/tt38773219/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:25",
+            "16:05",
+            "18:55",
+            "21:50"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -85,6 +96,46 @@
             "16:00",
             "18:50",
             "21:25"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:40",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fjord",
+      "original": "Fjord",
+      "translation": "",
+      "runtime": "2 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/fjord.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35410859/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:20",
+            "20:30"
           ]
         }
       ]
@@ -100,6 +151,15 @@
       "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt38686316/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:50",
+            "16:15"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -124,6 +184,17 @@
       "imdbRating": 7.9,
       "imdbUrl": "https://www.imdb.com/title/tt34384661/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VO",
+          "format": "Standard",
+          "times": [
+            "12:20",
+            "15:30",
+            "18:45",
+            "21:55"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VO",
@@ -171,6 +242,16 @@
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:45",
+            "19:25",
+            "22:15"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -191,6 +272,17 @@
       "imdbRating": 6.4,
       "imdbUrl": "https://www.imdb.com/title/tt35866986/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:25",
+            "15:35",
+            "18:30",
+            "21:25"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -227,6 +319,17 @@
           ]
         },
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:10",
+            "15:20",
+            "18:35",
+            "21:30"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -257,6 +360,30 @@
           "times": [
             "14:05",
             "20:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Murmures",
+      "original": "Murmures",
+      "translation": "",
+      "runtime": "1 h 20",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/murmures.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt47737481/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:00",
+            "17:10",
+            "18:50"
           ]
         }
       ]
@@ -313,6 +440,27 @@
       ]
     },
     {
+      "title": "Pauline Julien: Femme pays",
+      "original": "Pauline Julien: Femme pays",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/pauline-julien-femme-pays.jpg",
+      "imdbRating": 7.7,
+      "imdbUrl": "https://www.imdb.com/title/tt39387187/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Resident Evil",
       "original": "Resident Evil",
       "translation": "",
@@ -345,6 +493,25 @@
       "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:20",
+            "14:00",
+            "16:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "19:20",
+            "22:05"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -380,12 +547,47 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:00",
+            "15:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
           "format": "ScreenX",
           "times": [
             "11:00",
             "14:40",
             "18:25",
             "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "19:05",
+            "22:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "16:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "20:10"
           ]
         },
         {
@@ -482,6 +684,24 @@
             "14:40",
             "22:00"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "18:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:00",
+            "21:00"
+          ]
         }
       ]
     },
@@ -496,6 +716,30 @@
       "imdbRating": 6.6,
       "imdbUrl": "https://www.imdb.com/title/tt0338348/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "11:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "11:00"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -539,6 +783,17 @@
       "imdbUrl": "",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:20",
+            "19:15",
+            "21:45"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
           "format": "Standard",
@@ -552,6 +807,64 @@
             "19:15",
             "21:15",
             "21:45"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "14:50",
+            "17:00",
+            "19:10",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cheval sauvage numéro neuf",
+      "original": "Wild Horse Nine",
+      "translation": "Cheval sauvage numéro neuf",
+      "runtime": "1 h 58",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/wild-horse-nine.jpg",
+      "imdbRating": 8.1,
+      "imdbUrl": "https://www.imdb.com/title/tt15799564/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:35",
+            "15:40",
+            "19:10",
+            "22:05"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vous pouvez tout voir",
+      "original": "You Can See Everything",
+      "translation": "Vous pouvez tout voir",
+      "runtime": "2 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/you-can-see-everything.jpg",
+      "imdbRating": 9.0,
+      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:10",
+            "20:00"
           ]
         }
       ]
