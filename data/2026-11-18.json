@@ -2,8 +2,8 @@
   "date": "2026-11-18",
   "dateLabel": "2026-11-18",
   "displayDate": "2026-11-18",
-  "generatedAt": "2026-11-17T17:24-05:00",
-  "updatedLabel": "17 h 24",
+  "generatedAt": "2026-11-17T23:21-05:00",
+  "updatedLabel": "23 h 21",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -134,19 +134,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "UltraAVX",
+          "format": "Standard",
           "times": [
-            "12:50",
-            "15:40",
-            "21:55"
+            "18:35"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "UltraAVX",
           "times": [
-            "18:35"
+            "12:50",
+            "15:40",
+            "21:55"
           ]
         },
         {
@@ -909,19 +909,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:40",
-            "21:20"
+            "13:00",
+            "15:45"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "13:00",
-            "15:45"
+            "18:40",
+            "21:20"
           ]
         },
         {
@@ -1104,7 +1104,7 @@
       "translation": "",
       "runtime": "1 h 42",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/villeneuve-l-ascension-d-une-legende.jpg",
       "imdbRating": null,
       "imdbUrl": "",
