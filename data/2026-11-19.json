@@ -2,8 +2,8 @@
   "date": "2026-11-19",
   "dateLabel": "2026-11-19",
   "displayDate": "2026-11-19",
-  "generatedAt": "2026-11-19T08:07-05:00",
-  "updatedLabel": "08 h 07",
+  "generatedAt": "2026-11-19T16:35-05:00",
+  "updatedLabel": "16 h 35",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -68,27 +68,6 @@
       ]
     },
     {
-      "title": "De Gaulle",
-      "original": "De Gaulle",
-      "translation": "",
-      "runtime": "1 h 48",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/de-gaulle.jpg",
-      "imdbRating": 6.1,
-      "imdbUrl": "https://www.imdb.com/title/tt10880402/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "15:40"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Ebenezer",
       "original": "Ebenezer",
       "translation": "",
@@ -104,8 +83,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:50",
-            "15:50",
             "18:50",
             "21:50"
           ]
@@ -118,16 +95,6 @@
             "13:10",
             "15:50",
             "18:50"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:40",
-            "13:45",
-            "19:05"
           ]
         },
         {
@@ -166,6 +133,14 @@
             "12:50",
             "18:50"
           ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "19:05"
+          ]
         }
       ]
     },
@@ -180,14 +155,6 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt35410859/",
       "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "15:00"
-          ]
-        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOA",
@@ -215,8 +182,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:45",
-            "16:15",
             "19:15",
             "21:35"
           ]
@@ -260,8 +225,6 @@
           "lang": "VO",
           "format": "Standard",
           "times": [
-            "12:30",
-            "15:35",
             "18:50",
             "22:00"
           ]
@@ -281,7 +244,6 @@
           "lang": "VO",
           "format": "Standard",
           "times": [
-            "15:40",
             "18:40",
             "21:40"
           ]
@@ -330,8 +292,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:35",
-            "16:30",
             "19:20",
             "21:55"
           ]
@@ -353,15 +313,6 @@
           "times": [
             "12:30"
           ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:40",
-            "13:05"
-          ]
         }
       ]
     },
@@ -376,17 +327,6 @@
       "imdbRating": 7.1,
       "imdbUrl": "https://www.imdb.com/title/tt7526136/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:10",
-            "15:50",
-            "18:55",
-            "21:25"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -404,6 +344,15 @@
           "times": [
             "15:50"
           ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:55",
+            "21:25"
+          ]
         }
       ]
     },
@@ -419,17 +368,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt35866986/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:40",
-            "15:30",
-            "18:30",
-            "21:20"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -441,19 +379,9 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:15",
-            "18:45"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:00",
             "21:50"
           ]
         },
@@ -466,6 +394,23 @@
             "15:45",
             "18:50",
             "21:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:30",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:45"
           ]
         }
       ]
@@ -486,8 +431,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:00",
-            "15:55",
             "19:00",
             "22:10"
           ]
@@ -500,48 +443,6 @@
             "13:20",
             "16:10",
             "18:55"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "L'autre",
-      "original": "L'autre",
-      "translation": "",
-      "runtime": "1 h 38",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/l-autre.jpg",
-      "imdbRating": 7.0,
-      "imdbUrl": "https://www.imdb.com/title/tt43106511/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:20"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "La bataille de Gaulle: Résistance",
-      "original": "La bataille de Gaulle: Résistance",
-      "translation": "",
-      "runtime": "2 h 40",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
-      "imdbRating": 7.6,
-      "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:20"
           ]
         }
       ]
@@ -579,16 +480,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt47737481/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:30",
-            "13:10",
-            "18:50"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -597,26 +488,13 @@
             "14:50",
             "17:20"
           ]
-        }
-      ]
-    },
-    {
-      "title": "La patrie",
-      "original": "Ojczyzna",
-      "translation": "La patrie",
-      "runtime": "1 h 22",
-      "genre": "",
-      "badge": "",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
+        },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
+          "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:40"
+            "18:50"
           ]
         }
       ]
@@ -656,16 +534,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt39387187/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "10:30",
-            "13:05",
-            "16:05"
-          ]
-        },
-        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -699,28 +567,7 @@
       ]
     },
     {
-      "title": "Raison et sentiments",
-      "original": "Sense and Sensibility",
-      "translation": "Raison et sentiments",
-      "runtime": "2 h 11",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/sense-and-sensibility.jpg",
-      "imdbRating": 7.2,
-      "imdbUrl": "https://www.imdb.com/title/tt13609648/",
-      "showings": [
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:45"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Le Chat Chapeauté",
+      "title": "The Cat in the Hat",
       "original": "The Cat in the Hat",
       "translation": "Le Chat Chapeauté",
       "runtime": "1 h 47",
@@ -730,24 +577,6 @@
       "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:00",
-            "15:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:40",
-            "21:20"
-          ]
-        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOA",
@@ -783,16 +612,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:20",
-            "16:25",
-            "18:40"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -820,6 +639,23 @@
             "12:40",
             "19:00"
           ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:40",
+            "21:20"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:40"
+          ]
         }
       ]
     },
@@ -839,26 +675,8 @@
           "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "15:00",
             "18:30",
             "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "UltraAVX",
-          "times": [
-            "12:30",
-            "16:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "UltraAVX · 3D",
-          "times": [
-            "19:40"
           ]
         },
         {
@@ -920,14 +738,6 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "16:00"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
@@ -941,6 +751,14 @@
           "format": "Dolby Atmos",
           "times": [
             "18:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX · 3D",
+          "times": [
+            "19:40"
           ]
         }
       ]
@@ -957,22 +775,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt10545296/",
       "showings": [
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:25"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Dolby Atmos",
-          "times": [
-            "19:30"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VOA",
           "format": "Standard",
@@ -986,6 +788,22 @@
           "format": "Dolby Atmos",
           "times": [
             "21:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Dolby Atmos",
+          "times": [
+            "19:30"
           ]
         }
       ]
@@ -1003,19 +821,9 @@
       "showings": [
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:15",
-            "19:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "16:10",
             "21:50"
           ]
         },
@@ -1027,6 +835,14 @@
             "13:15",
             "16:05",
             "19:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "19:10"
           ]
         }
       ]
@@ -1047,8 +863,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:30",
-            "16:20",
             "19:00",
             "21:40"
           ]
@@ -1068,9 +882,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "10:20",
-            "13:15",
-            "16:00",
             "18:45",
             "21:40"
           ]
@@ -1112,26 +923,21 @@
       "imdbUrl": "https://www.imdb.com/title/tt15799564/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:35",
-            "15:25",
-            "18:45",
-            "21:30"
-          ]
-        },
-        {
           "cinema": "clap-ste-foy",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "10:50",
-            "13:40",
-            "16:25",
             "19:15",
             "21:55"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:45",
+            "21:30"
           ]
         }
       ]
@@ -1152,7 +958,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "10:20",
             "18:40",
             "21:50"
           ]
@@ -1160,9 +965,9 @@
       ]
     },
     {
-      "title": "You Can See Everything",
+      "title": "Vous pouvez tout voir",
       "original": "You Can See Everything",
-      "translation": "",
+      "translation": "Vous pouvez tout voir",
       "runtime": "2 h 54",
       "genre": "",
       "badge": "",
@@ -1171,11 +976,19 @@
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "14:30",
+            "20:40"
+          ]
+        },
+        {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:45",
             "16:45",
             "20:45"
           ]
@@ -1185,18 +998,8 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "11:00",
             "18:10",
             "21:00"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "14:30",
-            "20:40"
           ]
         }
       ]

@@ -2,8 +2,8 @@
   "date": "2026-11-25",
   "dateLabel": "2026-11-25",
   "displayDate": "2026-11-25",
-  "generatedAt": "2026-11-19T08:07-05:00",
-  "updatedLabel": "08 h 07",
+  "generatedAt": "2026-11-19T16:35-05:00",
+  "updatedLabel": "16 h 35",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -67,6 +67,17 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:00",
+            "18:50",
+            "21:25"
+          ]
+        },
+        {
           "cinema": "cinema-cartier",
           "lang": "VF",
           "format": "Standard",
@@ -119,6 +130,17 @@
             "19:10",
             "21:50"
           ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "16:20",
+            "19:10",
+            "21:40"
+          ]
         }
       ]
     },
@@ -142,6 +164,83 @@
             "16:15",
             "19:20",
             "21:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:50",
+            "16:05",
+            "19:25",
+            "21:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Godzilla-0.0",
+      "original": "Gojira-0.0",
+      "translation": "Godzilla-0.0",
+      "runtime": "2 h 15",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/gojira-0-0.jpg",
+      "imdbRating": 7.9,
+      "imdbUrl": "https://www.imdb.com/title/tt34384661/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VO",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:45",
+            "18:40",
+            "21:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hantée",
+      "original": "Hantée",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/hantee.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt40202639/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Au coeur de la bête",
+      "original": "Heart of the Beast",
+      "translation": "Au coeur de la bête",
+      "runtime": "1 h 41",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/heart-of-the-beast.jpg",
+      "imdbRating": 7.1,
+      "imdbUrl": "https://www.imdb.com/title/tt7526136/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:20"
           ]
         }
       ]
@@ -174,6 +273,24 @@
             "18:10",
             "21:00"
           ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:40",
+            "21:20"
+          ]
         }
       ]
     },
@@ -197,6 +314,17 @@
             "15:35",
             "18:30",
             "21:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:05",
+            "15:55",
+            "18:55",
+            "21:45"
           ]
         }
       ]
@@ -233,6 +361,39 @@
             "18:35",
             "21:30"
           ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:20",
+            "16:10",
+            "19:00",
+            "21:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Les rayons et les ombres",
+      "original": "Les rayons et les ombres",
+      "translation": "",
+      "runtime": "3 h 15",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/les-rayons-et-les-ombres.jpg",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "14:05",
+            "20:45"
+          ]
         }
       ]
     },
@@ -255,6 +416,52 @@
             "12:40",
             "17:10",
             "18:50"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Autre Maman",
+      "original": "Other Mommy",
+      "translation": "Autre Maman",
+      "runtime": "1 h 33",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/other-mommy.jpg",
+      "imdbRating": 5.3,
+      "imdbUrl": "https://www.imdb.com/title/tt36586020/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:55",
+            "16:25",
+            "19:05",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil",
+      "original": "Resident Evil",
+      "translation": "",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/resident-evil.jpg",
+      "imdbRating": 7.4,
+      "imdbUrl": "https://www.imdb.com/title/tt35538033/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:20",
+            "21:55"
           ]
         }
       ]
@@ -286,6 +493,24 @@
           "times": [
             "18:40",
             "21:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:35",
+            "21:10"
           ]
         }
       ]
@@ -356,6 +581,60 @@
           ]
         },
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "17:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "20:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "15:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · 3D · Dolby Atmos",
+          "times": [
+            "18:30",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "14:30",
+            "16:30",
+            "20:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "18:00",
+            "21:30"
+          ]
+        },
+        {
           "cinema": "cineplex-imax",
           "lang": "VF",
           "format": "IMAX",
@@ -392,6 +671,27 @@
       ]
     },
     {
+      "title": "Verity",
+      "original": "Verity",
+      "translation": "",
+      "runtime": "1 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/verity.jpg",
+      "imdbRating": 6.0,
+      "imdbUrl": "https://www.imdb.com/title/tt32261958/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "19:20"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Villeneuve: L'ascension d'une légende",
       "original": "Villeneuve: L'ascension d'une légende",
       "translation": "",
@@ -411,6 +711,17 @@
             "16:20",
             "19:15",
             "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:15",
+            "18:45",
+            "21:15"
           ]
         },
         {
