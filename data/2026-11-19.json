@@ -2,8 +2,8 @@
   "date": "2026-11-19",
   "dateLabel": "2026-11-19",
   "displayDate": "2026-11-19",
-  "generatedAt": "2026-11-18T22:28-05:00",
-  "updatedLabel": "22 h 28",
+  "generatedAt": "2026-11-19T08:07-05:00",
+  "updatedLabel": "08 h 07",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -347,20 +347,20 @@
           ]
         },
         {
+          "cinema": "clap-loretteville",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:30"
+          ]
+        },
+        {
           "cinema": "clap-ste-foy",
           "lang": "VOF",
           "format": "Standard",
           "times": [
             "10:40",
             "13:05"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "12:30"
           ]
         }
       ]
@@ -415,7 +415,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/how-to-rob-a-bank.jpg",
-      "imdbRating": 6.4,
+      "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt35866986/",
       "showings": [
         {
@@ -476,7 +476,7 @@
       "translation": "Moi, Rocky",
       "runtime": "2 h 08",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/i-play-rocky.jpg",
       "imdbRating": 8.1,
       "imdbUrl": "https://www.imdb.com/title/tt11995650/",
@@ -727,7 +727,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/the-cat-in-the-hat.jpg",
-      "imdbRating": 6.6,
+      "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
         {
@@ -829,9 +829,9 @@
       "translation": "Hunger Games: Lever de soleil sur la moisson",
       "runtime": "2 h 38",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/the-hunger-games-sunrise-on-the-reaping.jpg",
-      "imdbRating": null,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt32558705/",
       "showings": [
         {
