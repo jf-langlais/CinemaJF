@@ -457,11 +457,11 @@
   "la bataille de gaulle resistance": {
     "imdbRating": 7.6,
     "imdbUrl": "https://www.imdb.com/title/tt28553375/",
-    "imdbVotes": 5273,
+    "imdbVotes": 5294,
     "poster": "posters/la-bataille-de-gaulle-resistance.jpg",
     "posterChecked": "2026-10-03",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-11-18",
+    "ratingChecked": "2026-11-19",
     "ratingSource": "official-dataset-v1"
   },
   "la meilleure facon c est par accident": {
@@ -592,7 +592,7 @@
     "imdbRating": null,
     "imdbUrl": "",
     "poster": "",
-    "posterChecked": "2026-11-18",
+    "posterChecked": "2026-11-19",
     "posterSource": "missing"
   },
   "opera carmen": {
@@ -793,11 +793,11 @@
     "imdbMatchScore": 1.08,
     "imdbRating": 7.2,
     "imdbUrl": "https://www.imdb.com/title/tt13609648/",
-    "imdbVotes": 12711,
+    "imdbVotes": 12824,
     "poster": "posters/sense-and-sensibility.jpg",
     "posterChecked": "2026-10-09",
     "posterSource": "local-cache",
-    "ratingChecked": "2026-11-18",
+    "ratingChecked": "2026-11-19",
     "ratingSource": "official-dataset-v1"
   },
   "shaun the sheep the beast of mossy bottom": {
