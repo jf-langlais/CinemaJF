@@ -2,8 +2,8 @@
   "date": "2026-11-26",
   "dateLabel": "2026-11-26",
   "displayDate": "2026-11-26",
-  "generatedAt": "2026-11-20T06:49-05:00",
-  "updatedLabel": "06 h 49",
+  "generatedAt": "2026-11-20T15:23-05:00",
+  "updatedLabel": "15 h 23",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -75,6 +75,36 @@
             "16:00",
             "18:50",
             "21:25"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fjord",
+      "original": "Fjord",
+      "translation": "",
+      "runtime": "2 h 26",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/fjord.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt35410859/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:20",
+            "20:50"
           ]
         }
       ]
@@ -346,6 +376,27 @@
       ]
     },
     {
+      "title": "Les aventuriers voyageurs: Danemark et les Îles Féroé",
+      "original": "Les aventuriers voyageurs: Danemark et les Îles Féroé",
+      "translation": "",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Les rayons et les ombres",
       "original": "Les rayons et les ombres",
       "translation": "",
@@ -363,6 +414,28 @@
           "times": [
             "14:05",
             "20:45"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Murmures",
+      "original": "Murmures",
+      "translation": "",
+      "runtime": "1 h 20",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/murmures.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt47737481/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "17:10"
           ]
         }
       ]
@@ -596,6 +669,24 @@
           "times": [
             "19:30"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "18:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:00",
+            "21:00"
+          ]
         }
       ]
     },
@@ -652,6 +743,18 @@
             "18:45",
             "21:15"
           ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "14:50",
+            "17:00",
+            "19:10",
+            "21:20"
+          ]
         }
       ]
     },
@@ -675,6 +778,28 @@
             "15:40",
             "19:10",
             "22:05"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vous pouvez tout voir",
+      "original": "You Can See Everything",
+      "translation": "Vous pouvez tout voir",
+      "runtime": "2 h 54",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/you-can-see-everything.jpg",
+      "imdbRating": 9.0,
+      "imdbUrl": "https://www.imdb.com/title/tt45368240/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:10",
+            "20:00"
           ]
         }
       ]
