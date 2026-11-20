@@ -2,8 +2,8 @@
   "date": "2026-11-22",
   "dateLabel": "2026-11-22",
   "displayDate": "2026-11-22",
-  "generatedAt": "2026-11-19T22:17-05:00",
-  "updatedLabel": "22 h 17",
+  "generatedAt": "2026-11-20T06:49-05:00",
+  "updatedLabel": "06 h 49",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -394,7 +394,7 @@
       "translation": "",
       "runtime": "3 h 15",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/les-rayons-et-les-ombres.jpg",
       "imdbRating": null,
       "imdbUrl": "",
@@ -416,7 +416,7 @@
       "translation": "",
       "runtime": "1 h 20",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/murmures.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt47737481/",
@@ -578,20 +578,9 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-hunger-games-sunrise-on-the-reaping.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 7.7,
       "imdbUrl": "https://www.imdb.com/title/tt32558705/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "ScreenX",
-          "times": [
-            "11:15",
-            "14:55",
-            "18:40",
-            "22:15"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -608,6 +597,17 @@
           "times": [
             "19:05",
             "22:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "ScreenX",
+          "times": [
+            "11:15",
+            "14:55",
+            "18:40",
+            "22:15"
           ]
         },
         {
@@ -819,7 +819,7 @@
       "translation": "Cheval sauvage numéro neuf",
       "runtime": "1 h 58",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/wild-horse-nine.jpg",
       "imdbRating": 8.1,
       "imdbUrl": "https://www.imdb.com/title/tt15799564/",
