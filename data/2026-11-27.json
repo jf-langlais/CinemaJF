@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-27",
+  "dateLabel": "2026-11-27",
+  "displayDate": "2026-11-27",
+  "generatedAt": "2026-11-21T04:54-05:00",
+  "updatedLabel": "04 h 54",
+  "location": "Québec, QC",
+  "cinemas": [
+    {
+      "id": "cineplex-sainte-foy",
+      "name": "Cineplex Ste-Foy",
+      "short": "Cineplex Ste-Foy",
+      "source": "https://www.cineplex.com/theatre/cinema-cineplex-odeon-saintefoy?openTM=true"
+    },
+    {
+      "id": "cineplex-beauport",
+      "name": "Cineplex Beauport",
+      "short": "Cineplex Beauport",
+      "source": "https://www.cineplex.com/fr/theatre/Cinema-Cineplex-Odeon-Beauport"
+    },
+    {
+      "id": "cineplex-imax",
+      "name": "Cineplex IMAX",
+      "short": "Cineplex IMAX",
+      "source": "https://www.cineplex.com/fr/theatre/cinema-cineplex-imax-aux-galeries-de-la-capitale"
+    },
+    {
+      "id": "clap-ste-foy",
+      "name": "Le Clap Place Sainte-Foy",
+      "short": "Clap Ste-Foy",
+      "source": "https://clap.ca/"
+    },
+    {
+      "id": "clap-loretteville",
+      "name": "Le Clap Loretteville",
+      "short": "Clap Loretteville",
+      "source": "https://clap.ca/"
+    },
+    {
+      "id": "cinema-cartier",
+      "name": "Cinéma Cartier",
+      "short": "Cinéma Cartier",
+      "source": "https://www.cinemacartier.com/"
+    }
+  ],
+  "movies": [
+    {
+      "title": "La nouvelle Belle-Famille",
+      "original": "Focker-in-Law",
+      "translation": "La nouvelle Belle-Famille",
+      "runtime": "1 h 45",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/focker-in-law.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt34966140/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "16:20",
+            "19:10",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "16:20",
+            "19:10",
+            "21:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hexe: Le royaume de la magie",
+      "original": "Hexed",
+      "translation": "Hexe: Le royaume de la magie",
+      "runtime": "1 h 49",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/hexed.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt38077943/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:10",
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:40"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:40",
+            "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Les aventuriers voyageurs: Danemark et les Îles Féroé",
+      "original": "Les aventuriers voyageurs: Danemark et les Îles Féroé",
+      "translation": "",
+      "runtime": "1 h 30",
+      "genre": "",
+      "badge": "",
+      "poster": "",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "date": "2026-11-22",
   "dateLabel": "2026-11-22",
   "displayDate": "2026-11-22",
-  "generatedAt": "2026-11-20T21:15-05:00",
-  "updatedLabel": "21 h 15",
+  "generatedAt": "2026-11-21T04:54-05:00",
+  "updatedLabel": "04 h 54",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -95,9 +95,9 @@
       "translation": "",
       "runtime": "1 h 00",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/festive-fun-with-peppa-cinema-experience.jpg",
-      "imdbRating": 6.2,
+      "imdbRating": 5.6,
       "imdbUrl": "https://www.imdb.com/title/tt46666063/",
       "showings": [
         {
