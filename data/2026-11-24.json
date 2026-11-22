@@ -2,8 +2,8 @@
   "date": "2026-11-24",
   "dateLabel": "2026-11-24",
   "displayDate": "2026-11-24",
-  "generatedAt": "2026-11-21T22:15-05:00",
-  "updatedLabel": "22 h 15",
+  "generatedAt": "2026-11-22T06:33-05:00",
+  "updatedLabel": "06 h 33",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -79,20 +79,20 @@
         },
         {
           "cinema": "cinema-cartier",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:40",
-            "21:20"
-          ]
-        },
-        {
-          "cinema": "cinema-cartier",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:40",
             "19:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:40",
+            "21:20"
           ]
         }
       ]
@@ -320,7 +320,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/i-play-rocky.jpg",
-      "imdbRating": 8.1,
+      "imdbRating": 8.2,
       "imdbUrl": "https://www.imdb.com/title/tt11995650/",
       "showings": [
         {
@@ -528,7 +528,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-hunger-games-sunrise-on-the-reaping.jpg",
-      "imdbRating": 7.7,
+      "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt32558705/",
       "showings": [
         {
@@ -571,18 +571,18 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "UltraAVX · 3D",
+          "format": "UltraAVX",
           "times": [
-            "19:50"
+            "12:30",
+            "16:10"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "UltraAVX",
+          "format": "UltraAVX · 3D",
           "times": [
-            "12:30",
-            "16:10"
+            "19:50"
           ]
         },
         {
