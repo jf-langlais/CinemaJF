@@ -2,8 +2,8 @@
   "date": "2026-11-27",
   "dateLabel": "2026-11-27",
   "displayDate": "2026-11-27",
-  "generatedAt": "2026-11-23T04:06-05:00",
-  "updatedLabel": "04 h 06",
+  "generatedAt": "2026-11-23T16:25-05:00",
+  "updatedLabel": "16 h 25",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -124,27 +124,6 @@
           "times": [
             "18:40",
             "21:20"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Les aventuriers voyageurs: Danemark et les Îles Féroé",
-      "original": "Les aventuriers voyageurs: Danemark et les Îles Féroé",
-      "translation": "",
-      "runtime": "1 h 30",
-      "genre": "",
-      "badge": "",
-      "poster": "",
-      "imdbRating": null,
-      "imdbUrl": "",
-      "showings": [
-        {
-          "cinema": "cinema-cartier",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:00"
           ]
         }
       ]

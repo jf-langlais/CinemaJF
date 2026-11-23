@@ -37,6 +37,17 @@
     "ratingChecked": "2026-10-17",
     "ratingSource": "official-dataset-v1"
   },
+  "arthur christmas": {
+    "imdbMatchScore": 1.0,
+    "imdbRating": 7.1,
+    "imdbUrl": "https://www.imdb.com/title/tt1430607/",
+    "imdbVotes": 74617,
+    "poster": "posters/arthur-christmas.jpg",
+    "posterChecked": "2026-11-23",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-23",
+    "ratingSource": "official-dataset-v1"
+  },
   "avengers endgame": {
     "imdbRating": 8.4,
     "imdbUrl": "https://www.imdb.com/title/tt4154796/",

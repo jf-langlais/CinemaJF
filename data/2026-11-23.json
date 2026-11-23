@@ -2,8 +2,8 @@
   "date": "2026-11-23",
   "dateLabel": "2026-11-23",
   "displayDate": "2026-11-23",
-  "generatedAt": "2026-11-23T04:06-05:00",
-  "updatedLabel": "04 h 06",
+  "generatedAt": "2026-11-23T16:25-05:00",
+  "updatedLabel": "16 h 25",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -81,8 +81,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:55",
-            "15:55",
             "18:55",
             "21:50"
           ]
@@ -92,7 +90,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:10",
             "16:00",
             "18:50",
             "21:25"
@@ -155,8 +152,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:50",
-            "16:15",
             "19:20",
             "21:40"
           ]
@@ -166,7 +161,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:50",
             "16:05",
             "19:05",
             "21:35"
@@ -190,8 +184,6 @@
           "lang": "VO",
           "format": "Standard",
           "times": [
-            "12:20",
-            "15:30",
             "18:45",
             "21:55"
           ]
@@ -201,31 +193,9 @@
           "lang": "VO",
           "format": "Standard",
           "times": [
-            "12:50",
             "15:45",
             "18:40",
             "21:35"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Hantée",
-      "original": "Hantée",
-      "translation": "",
-      "runtime": "",
-      "genre": "",
-      "badge": "",
-      "poster": "posters/hantee.jpg",
-      "imdbRating": 7.3,
-      "imdbUrl": "https://www.imdb.com/title/tt40202639/",
-      "showings": [
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "13:35"
           ]
         }
       ]
@@ -246,8 +216,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:10",
-            "16:00",
             "19:25",
             "22:15"
           ]
@@ -278,8 +246,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:30",
-            "15:35",
             "18:30",
             "21:25"
           ]
@@ -289,7 +255,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:05",
             "15:55",
             "18:55",
             "21:40"
@@ -313,8 +278,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:40",
-            "15:50",
             "19:00",
             "22:10"
           ]
@@ -324,8 +287,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:10",
-            "15:20",
             "18:35",
             "21:30"
           ]
@@ -335,7 +296,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:20",
             "16:10",
             "19:00",
             "21:50"
@@ -359,7 +319,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "14:05",
             "20:45"
           ]
         }
@@ -404,7 +363,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:55",
             "16:25",
             "21:20"
           ]
@@ -466,29 +424,10 @@
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
         {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:00",
-            "15:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "18:40",
-            "21:20"
-          ]
-        },
-        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:55",
             "15:40"
           ]
         },
@@ -499,6 +438,15 @@
           "times": [
             "18:35",
             "21:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:40",
+            "21:20"
           ]
         }
       ]
@@ -517,62 +465,10 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:00",
-            "15:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "3D",
-          "times": [
-            "19:05"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "ScreenX",
           "times": [
-            "15:00",
             "18:30",
             "22:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "16:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "3D",
-          "times": [
-            "20:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "UltraAVX",
-          "times": [
-            "12:30",
-            "16:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "UltraAVX · 3D",
-          "times": [
-            "19:50"
           ]
         },
         {
@@ -580,8 +476,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:30",
-            "14:00",
             "17:00",
             "17:30",
             "21:00"
@@ -598,14 +492,6 @@
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
-          "format": "UltraAVX · Dolby Atmos",
-          "times": [
-            "15:00"
-          ]
-        },
-        {
-          "cinema": "cineplex-beauport",
-          "lang": "VF",
           "format": "UltraAVX · 3D · Dolby Atmos",
           "times": [
             "18:30",
@@ -617,8 +503,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:00",
-            "14:30",
             "16:30",
             "20:00"
           ]
@@ -664,6 +548,38 @@
           "times": [
             "15:00"
           ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "19:05"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "20:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX · 3D",
+          "times": [
+            "19:50"
+          ]
         }
       ]
     },
@@ -704,8 +620,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:45",
-            "16:20",
             "19:15",
             "21:45"
           ]
@@ -715,8 +629,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:15",
-            "13:45",
             "15:45",
             "16:15",
             "18:45",
@@ -754,8 +666,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:35",
-            "15:40",
             "19:10",
             "22:05"
           ]

@@ -2,8 +2,8 @@
   "date": "2026-11-28",
   "dateLabel": "2026-11-28",
   "displayDate": "2026-11-28",
-  "generatedAt": "2026-11-23T04:06-05:00",
-  "updatedLabel": "04 h 06",
+  "generatedAt": "2026-11-23T16:25-05:00",
+  "updatedLabel": "16 h 25",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -44,6 +44,27 @@
     }
   ],
   "movies": [
+    {
+      "title": "Mission Noël",
+      "original": "Arthur Christmas",
+      "translation": "Mission Noël",
+      "runtime": "1 h 37",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/arthur-christmas.jpg",
+      "imdbRating": 7.1,
+      "imdbUrl": "https://www.imdb.com/title/tt1430607/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:30"
+          ]
+        }
+      ]
+    },
     {
       "title": "Festive Fun with Peppa Cinema Experience",
       "original": "Festive Fun with Peppa Cinema Experience",
