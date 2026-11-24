@@ -2,8 +2,8 @@
   "date": "2026-11-28",
   "dateLabel": "2026-11-28",
   "displayDate": "2026-11-28",
-  "generatedAt": "2026-11-23T16:25-05:00",
-  "updatedLabel": "16 h 25",
+  "generatedAt": "2026-11-24T01:07-05:00",
+  "updatedLabel": "01 h 07",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -73,7 +73,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/festive-fun-with-peppa-cinema-experience.jpg",
-      "imdbRating": 4.9,
+      "imdbRating": 4.7,
       "imdbUrl": "https://www.imdb.com/title/tt46666063/",
       "showings": [
         {
@@ -113,10 +113,28 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:30",
+            "13:25",
             "16:20",
-            "19:10",
+            "19:15",
             "21:40"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "21:10"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:10",
+            "19:00"
           ]
         }
       ]
@@ -127,7 +145,7 @@
       "translation": "Hexe: Le royaume de la magie",
       "runtime": "1 h 49",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/hexed.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt38077943/",
@@ -156,7 +174,7 @@
           "format": "Standard",
           "times": [
             "13:00",
-            "15:40"
+            "15:45"
           ]
         },
         {
@@ -166,6 +184,108 @@
           "times": [
             "18:40",
             "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Murmures",
+      "original": "Murmures",
+      "translation": "",
+      "runtime": "1 h 20",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/murmures.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt47737481/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "15:00",
+            "17:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Santa Claude",
+      "original": "Santa Claude",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/santa-claude.jpg",
+      "imdbRating": null,
+      "imdbUrl": "https://www.imdb.com/title/tt45979221/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "15:00",
+            "17:10",
+            "19:20",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hunger Games: Lever de soleil sur la moisson",
+      "original": "The Hunger Games: Sunrise on the Reaping",
+      "translation": "Hunger Games: Lever de soleil sur la moisson",
+      "runtime": "2 h 38",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/the-hunger-games-sunrise-on-the-reaping.jpg",
+      "imdbRating": 7.6,
+      "imdbUrl": "https://www.imdb.com/title/tt32558705/",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "18:30"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "15:30",
+            "21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Villeneuve: L'ascension d'une légende",
+      "original": "Villeneuve: L'ascension d'une légende",
+      "translation": "",
+      "runtime": "1 h 42",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/villeneuve-l-ascension-d-une-legende.jpg",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "16:40",
+            "18:50",
+            "21:30"
           ]
         }
       ]
