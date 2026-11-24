@@ -2,8 +2,8 @@
   "date": "2026-11-24",
   "dateLabel": "2026-11-24",
   "displayDate": "2026-11-24",
-  "generatedAt": "2026-11-24T01:07-05:00",
-  "updatedLabel": "01 h 07",
+  "generatedAt": "2026-11-24T12:45-05:00",
+  "updatedLabel": "12 h 45",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -244,14 +244,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "18:45",
@@ -274,6 +266,14 @@
             "18:40",
             "21:20"
           ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:45"
+          ]
         }
       ]
     },
@@ -293,7 +293,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:25",
             "15:35",
             "18:30",
             "21:25"
@@ -328,7 +327,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:40",
             "15:50",
             "19:00",
             "22:10"
@@ -339,7 +337,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:10",
             "15:20",
             "18:35",
             "21:30"
@@ -485,15 +482,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "13:00",
-            "15:45"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "18:40",
@@ -517,6 +505,15 @@
             "18:35",
             "21:10"
           ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:45"
+          ]
         }
       ]
     },
@@ -531,15 +528,6 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt32558705/",
       "showings": [
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:00",
-            "15:25"
-          ]
-        },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
@@ -566,15 +554,6 @@
             "12:50",
             "16:30",
             "20:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "UltraAVX",
-          "times": [
-            "12:30",
-            "16:10"
           ]
         },
         {
@@ -676,6 +655,22 @@
             "15:00",
             "21:00"
           ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX",
+          "times": [
+            "16:10"
+          ]
         }
       ]
     },
@@ -765,7 +760,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:35",
             "15:40",
             "19:10",
             "22:05"
