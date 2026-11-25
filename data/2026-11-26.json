@@ -2,8 +2,8 @@
   "date": "2026-11-26",
   "dateLabel": "2026-11-26",
   "displayDate": "2026-11-26",
-  "generatedAt": "2026-11-25T07:55-05:00",
-  "updatedLabel": "07 h 55",
+  "generatedAt": "2026-11-25T17:32-05:00",
+  "updatedLabel": "17 h 32",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -259,19 +259,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "12:30",
-            "15:10"
+            "18:10",
+            "21:00"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:10",
-            "21:00"
+            "12:30",
+            "15:10"
           ]
         },
         {
@@ -500,19 +500,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "13:00",
-            "15:45"
+            "18:40",
+            "21:20"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:40",
-            "21:20"
+            "13:00",
+            "15:45"
           ]
         },
         {
@@ -549,15 +549,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:00",
-            "15:25"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "19:05"
@@ -575,12 +566,11 @@
         },
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
+          "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:50",
-            "16:30",
-            "20:10"
+            "12:00",
+            "15:25"
           ]
         },
         {
@@ -598,6 +588,16 @@
           "format": "UltraAVX · 3D",
           "times": [
             "19:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "16:30",
+            "20:10"
           ]
         },
         {

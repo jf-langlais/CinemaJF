@@ -16,6 +16,17 @@
     "ratingChecked": "2026-11-14",
     "ratingSource": "official-dataset-v1"
   },
+  "a paw patrol christmas": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": 5.2,
+    "imdbUrl": "https://www.imdb.com/title/tt37671699/",
+    "imdbVotes": 323,
+    "poster": "posters/a-paw-patrol-christmas.jpg",
+    "posterChecked": "2026-11-25",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-25",
+    "ratingSource": "official-dataset-v1"
+  },
   "a pied d oeuvre": {
     "imdbRating": 6.7,
     "imdbUrl": "https://www.imdb.com/title/tt37660587/",
