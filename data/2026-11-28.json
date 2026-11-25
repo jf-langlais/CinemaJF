@@ -2,8 +2,8 @@
   "date": "2026-11-28",
   "dateLabel": "2026-11-28",
   "displayDate": "2026-11-28",
-  "generatedAt": "2026-11-24T12:45-05:00",
-  "updatedLabel": "12 h 45",
+  "generatedAt": "2026-11-24T21:29-05:00",
+  "updatedLabel": "21 h 29",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -225,6 +225,24 @@
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt32558705/",
       "showings": [
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VF",
+          "format": "IMAX",
+          "times": [
+            "18:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-imax",
+          "lang": "VOA",
+          "format": "IMAX",
+          "times": [
+            "11:00",
+            "14:40",
+            "22:00"
+          ]
+        },
         {
           "cinema": "cinema-cartier",
           "lang": "VF",
