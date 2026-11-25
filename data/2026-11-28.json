@@ -2,8 +2,8 @@
   "date": "2026-11-28",
   "dateLabel": "2026-11-28",
   "displayDate": "2026-11-28",
-  "generatedAt": "2026-11-24T21:29-05:00",
-  "updatedLabel": "21 h 29",
+  "generatedAt": "2026-11-25T07:55-05:00",
+  "updatedLabel": "07 h 55",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -45,6 +45,51 @@
   ],
   "movies": [
     {
+      "title": "Mission Noël",
+      "original": "Arthur Christmas",
+      "translation": "Mission Noël",
+      "runtime": "1 h 37",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/arthur-christmas.jpg",
+      "imdbRating": 7.1,
+      "imdbUrl": "https://www.imdb.com/title/tt1430607/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "11:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ebenezer",
+      "original": "Ebenezer",
+      "translation": "",
+      "runtime": "1 h 56",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/ebenezer.jpg",
+      "imdbRating": 7.2,
+      "imdbUrl": "https://www.imdb.com/title/tt38773219/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "16:00",
+            "19:05",
+            "21:40"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Festive Fun with Peppa Cinema Experience",
       "original": "Festive Fun with Peppa Cinema Experience",
       "translation": "",
@@ -52,7 +97,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/festive-fun-with-peppa-cinema-experience.jpg",
-      "imdbRating": 4.7,
+      "imdbRating": 4.8,
       "imdbUrl": "https://www.imdb.com/title/tt46666063/",
       "showings": [
         {
@@ -71,7 +116,7 @@
       "translation": "La nouvelle Belle-Famille",
       "runtime": "1 h 45",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/focker-in-law.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt34966140/",
@@ -152,8 +197,11 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
+            "11:15",
             "13:00",
-            "15:45"
+            "13:45",
+            "15:45",
+            "16:15"
           ]
         },
         {
@@ -163,6 +211,52 @@
           "times": [
             "18:40",
             "21:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comment braquer une banque",
+      "original": "How to Rob a Bank",
+      "translation": "Comment braquer une banque",
+      "runtime": "2 h 02",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/how-to-rob-a-bank.jpg",
+      "imdbRating": 6.5,
+      "imdbUrl": "https://www.imdb.com/title/tt35866986/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "18:50",
+            "21:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Moi, Rocky",
+      "original": "I Play Rocky",
+      "translation": "Moi, Rocky",
+      "runtime": "2 h 08",
+      "genre": "",
+      "badge": "Nouveauté",
+      "poster": "posters/i-play-rocky.jpg",
+      "imdbRating": 8.2,
+      "imdbUrl": "https://www.imdb.com/title/tt11995650/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:15",
+            "16:05",
+            "18:55",
+            "21:45"
           ]
         }
       ]
@@ -201,6 +295,22 @@
       "imdbUrl": "https://www.imdb.com/title/tt45979221/",
       "showings": [
         {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "11:10",
+            "12:45",
+            "13:35",
+            "15:20",
+            "16:10",
+            "18:20",
+            "19:00",
+            "20:55",
+            "21:30"
+          ]
+        },
+        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
@@ -215,6 +325,62 @@
       ]
     },
     {
+      "title": "Si tu penses bien",
+      "original": "Si tu penses bien",
+      "translation": "",
+      "runtime": "1 h 34",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/si-tu-penses-bien.jpg",
+      "imdbRating": null,
+      "imdbUrl": "",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "11:40",
+            "13:55",
+            "16:25",
+            "19:25",
+            "21:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le Chat Chapeauté",
+      "original": "The Cat in the Hat",
+      "translation": "Le Chat Chapeauté",
+      "runtime": "1 h 47",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/the-cat-in-the-hat.jpg",
+      "imdbRating": 6.5,
+      "imdbUrl": "https://www.imdb.com/title/tt2321555/",
+      "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:35",
+            "21:05"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Hunger Games: Lever de soleil sur la moisson",
       "original": "The Hunger Games: Sunrise on the Reaping",
       "translation": "Hunger Games: Lever de soleil sur la moisson",
@@ -222,9 +388,68 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-hunger-games-sunrise-on-the-reaping.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt32558705/",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:40",
+            "14:00",
+            "17:00",
+            "17:30",
+            "20:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · Dolby Atmos",
+          "times": [
+            "11:30",
+            "15:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VF",
+          "format": "UltraAVX · 3D · Dolby Atmos",
+          "times": [
+            "18:30",
+            "21:45"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "11:00",
+            "13:00",
+            "14:30",
+            "16:30",
+            "20:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "18:15",
+            "21:30"
+          ]
+        },
         {
           "cinema": "cineplex-imax",
           "lang": "VF",
@@ -274,6 +499,18 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
+        {
+          "cinema": "cineplex-beauport",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "11:20",
+            "13:50",
+            "16:15",
+            "18:45",
+            "21:15"
+          ]
+        },
         {
           "cinema": "cinema-cartier",
           "lang": "VOF",

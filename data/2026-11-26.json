@@ -2,8 +2,8 @@
   "date": "2026-11-26",
   "dateLabel": "2026-11-26",
   "displayDate": "2026-11-26",
-  "generatedAt": "2026-11-24T21:29-05:00",
-  "updatedLabel": "21 h 29",
+  "generatedAt": "2026-11-25T07:55-05:00",
+  "updatedLabel": "07 h 55",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -115,7 +115,7 @@
       "translation": "La nouvelle Belle-Famille",
       "runtime": "1 h 45",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/focker-in-law.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt34966140/",
@@ -195,10 +195,10 @@
           "lang": "VO",
           "format": "Standard",
           "times": [
-            "12:50",
-            "15:45",
-            "18:40",
-            "21:35"
+            "12:45",
+            "15:35",
+            "18:25",
+            "21:15"
           ]
         }
       ]
@@ -543,7 +543,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/the-hunger-games-sunrise-on-the-reaping.jpg",
-      "imdbRating": 7.6,
+      "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt32558705/",
       "showings": [
         {
