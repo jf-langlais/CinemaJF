@@ -2,8 +2,8 @@
   "date": "2026-12-02",
   "dateLabel": "2026-12-02",
   "displayDate": "2026-12-02",
-  "generatedAt": "2026-11-26T10:17-05:00",
-  "updatedLabel": "10 h 17",
+  "generatedAt": "2026-11-26T18:54-05:00",
+  "updatedLabel": "18 h 54",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -79,6 +79,17 @@
       "imdbUrl": "https://www.imdb.com/title/tt38773219/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:55",
+            "15:55",
+            "18:55",
+            "21:50"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -127,6 +138,28 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt34966140/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:30",
+            "16:20",
+            "19:10",
+            "21:50"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:35",
+            "15:40",
+            "18:55",
+            "21:55"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -218,6 +251,28 @@
       ]
     },
     {
+      "title": "Au coeur de la bête",
+      "original": "Heart of the Beast",
+      "translation": "Au coeur de la bête",
+      "runtime": "1 h 41",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/heart-of-the-beast.jpg",
+      "imdbRating": 7.1,
+      "imdbUrl": "https://www.imdb.com/title/tt7526136/",
+      "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:10",
+            "19:25"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Hexe: Le royaume de la magie",
       "original": "Hexed",
       "translation": "Hexe: Le royaume de la magie",
@@ -228,6 +283,42 @@
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt38077943/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "3D",
+          "times": [
+            "18:10",
+            "21:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "3D",
+          "times": [
+            "18:45",
+            "21:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:05",
+            "14:50"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -275,7 +366,6 @@
           "times": [
             "13:00",
             "16:45",
-            "18:00",
             "20:10"
           ]
         },
@@ -285,6 +375,17 @@
           "format": "Dolby Atmos",
           "times": [
             "15:00"
+          ]
+        },
+        {
+          "cinema": "cinema-cartier",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "14:50",
+            "19:10",
+            "21:20"
           ]
         }
       ]
@@ -300,6 +401,15 @@
       "imdbRating": 6.5,
       "imdbUrl": "https://www.imdb.com/title/tt35866986/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "16:00",
+            "22:15"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -322,6 +432,24 @@
       "imdbRating": 8.2,
       "imdbUrl": "https://www.imdb.com/title/tt11995650/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:20",
+            "21:30"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:10",
+            "18:35"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -443,11 +571,22 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "Nouveauté",
+      "badge": "",
       "poster": "posters/santa-claude.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt45979221/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "12:40",
+            "15:50",
+            "19:00",
+            "21:45"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
@@ -546,6 +685,17 @@
       "imdbUrl": "https://www.imdb.com/title/tt2321555/",
       "showings": [
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "13:00",
+            "15:45",
+            "18:40",
+            "21:20"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
@@ -593,6 +743,54 @@
       "imdbRating": 7.5,
       "imdbUrl": "https://www.imdb.com/title/tt32558705/",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "ScreenX",
+          "times": [
+            "15:00",
+            "18:30",
+            "22:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:15",
+            "15:40",
+            "19:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX",
+          "times": [
+            "12:00",
+            "15:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "UltraAVX · 3D",
+          "times": [
+            "18:50",
+            "22:15"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "12:50",
+            "16:30",
+            "20:10"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VF",
@@ -702,6 +900,7 @@
             "12:45",
             "15:15",
             "16:30",
+            "18:00",
             "20:00"
           ]
         },
@@ -710,6 +909,7 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
+            "18:00",
             "20:50"
           ]
         },
@@ -744,6 +944,17 @@
       "imdbRating": null,
       "imdbUrl": "",
       "showings": [
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "13:45",
+            "16:20",
+            "19:15",
+            "21:45"
+          ]
+        },
         {
           "cinema": "cineplex-beauport",
           "lang": "VOF",
