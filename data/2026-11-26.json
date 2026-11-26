@@ -2,8 +2,8 @@
   "date": "2026-11-26",
   "dateLabel": "2026-11-26",
   "displayDate": "2026-11-26",
-  "generatedAt": "2026-11-26T00:04-05:00",
-  "updatedLabel": "00 h 04",
+  "generatedAt": "2026-11-26T10:17-05:00",
+  "updatedLabel": "10 h 17",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -118,20 +118,20 @@
         },
         {
           "cinema": "clap-loretteville",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "21:35"
+          ]
+        },
+        {
+          "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "13:10",
             "15:50",
             "18:45"
-          ]
-        },
-        {
-          "cinema": "clap-loretteville",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "21:35"
           ]
         },
         {
@@ -360,15 +360,6 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "12:30",
-            "15:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
           "format": "3D",
           "times": [
             "18:10",
@@ -429,6 +420,15 @@
           "times": [
             "15:30"
           ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:30",
+            "15:10"
+          ]
         }
       ]
     },
@@ -467,15 +467,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:20",
-            "13:05"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -489,6 +480,15 @@
           "times": [
             "15:45",
             "21:50"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "13:05"
           ]
         }
       ]
@@ -573,7 +573,7 @@
       "translation": "",
       "runtime": "1 h 30",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "",
       "imdbRating": null,
       "imdbUrl": "",
@@ -806,21 +806,21 @@
           ]
         },
         {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "10:40",
-            "13:20"
-          ]
-        },
-        {
           "cinema": "clap-loretteville",
           "lang": "VF",
           "format": "Standard",
           "times": [
             "12:30",
             "15:25"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:20"
           ]
         }
       ]
@@ -971,15 +971,6 @@
         },
         {
           "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Dolby Atmos",
-          "times": [
-            "10:30",
-            "14:00"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
           "lang": "VOA",
           "format": "Standard",
           "times": [
@@ -1036,6 +1027,15 @@
           "times": [
             "15:00",
             "21:00"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "10:30",
+            "14:00"
           ]
         }
       ]
