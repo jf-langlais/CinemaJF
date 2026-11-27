@@ -2,8 +2,8 @@
   "date": "2026-11-30",
   "dateLabel": "2026-11-30",
   "displayDate": "2026-11-30",
-  "generatedAt": "2026-11-26T18:54-05:00",
-  "updatedLabel": "18 h 54",
+  "generatedAt": "2026-11-27T03:34-05:00",
+  "updatedLabel": "03 h 34",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -50,7 +50,7 @@
       "translation": "Autofiction",
       "runtime": "1 h 51",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/amarga-navidad.jpg",
       "imdbRating": null,
       "imdbUrl": "",
@@ -127,7 +127,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/focker-in-law.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.0,
       "imdbUrl": "https://www.imdb.com/title/tt34966140/",
       "showings": [
         {
@@ -271,7 +271,7 @@
       "genre": "",
       "badge": "Nouveauté",
       "poster": "posters/hexed.jpg",
-      "imdbRating": null,
+      "imdbRating": 6.7,
       "imdbUrl": "https://www.imdb.com/title/tt38077943/",
       "showings": [
         {
@@ -295,19 +295,19 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "3D",
+          "format": "Standard",
           "times": [
-            "18:45",
-            "21:25"
+            "12:05",
+            "14:50"
           ]
         },
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
-          "format": "Standard",
+          "format": "3D",
           "times": [
-            "12:05",
-            "14:50"
+            "18:45",
+            "21:25"
           ]
         },
         {
@@ -509,7 +509,7 @@
       "translation": "Minotaure",
       "runtime": "2 h 15",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/minotavr.jpg",
       "imdbRating": 7.6,
       "imdbUrl": "https://www.imdb.com/title/tt37118301/",
@@ -562,7 +562,7 @@
       "translation": "",
       "runtime": "",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/santa-claude.jpg",
       "imdbRating": null,
       "imdbUrl": "https://www.imdb.com/title/tt45979221/",
@@ -635,7 +635,7 @@
       "translation": "",
       "runtime": "1 h 34",
       "genre": "",
-      "badge": "",
+      "badge": "Nouveauté",
       "poster": "posters/si-tu-penses-bien.jpg",
       "imdbRating": null,
       "imdbUrl": "",
@@ -736,6 +736,16 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "12:15",
+            "15:40",
+            "19:20"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
           "format": "ScreenX",
           "times": [
             "15:00",
@@ -745,12 +755,12 @@
         },
         {
           "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
+          "lang": "VOA",
           "format": "Standard",
           "times": [
-            "12:15",
-            "15:40",
-            "19:20"
+            "12:50",
+            "16:30",
+            "20:10"
           ]
         },
         {
@@ -769,16 +779,6 @@
           "times": [
             "18:50",
             "22:15"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "12:50",
-            "16:30",
-            "20:10"
           ]
         },
         {
@@ -1047,7 +1047,7 @@
       "genre": "",
       "badge": "",
       "poster": "posters/you-can-see-everything.jpg",
-      "imdbRating": 9.0,
+      "imdbRating": 8.9,
       "imdbUrl": "https://www.imdb.com/title/tt45368240/",
       "showings": [
         {
