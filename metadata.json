@@ -93,6 +93,17 @@
     "poster": "https://clap.nyc3.digitaloceanspaces.com/system/4818/Qhx5RreXdQO14561osisJROV1jY3hH-metaMTAxMTRfYWZmLmpwZw%3D%3D-.jpg",
     "ratingChecked": null
   },
+  "ballet the nutcracker": {
+    "imdbMatchScore": 0.84,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt11448176/",
+    "imdbVotes": null,
+    "poster": "posters/ballet-the-nutcracker.jpg",
+    "posterChecked": "2026-11-27",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-27",
+    "ratingSource": "official-dataset-v1"
+  },
   "beware boiuna": {
     "imdbMatchScore": 1.08,
     "imdbRating": 6.2,
@@ -1187,6 +1198,17 @@
     "poster": "",
     "posterChecked": "2026-11-05",
     "posterSource": "missing"
+  },
+  "violent night 2": {
+    "imdbMatchScore": 1.08,
+    "imdbRating": null,
+    "imdbUrl": "https://www.imdb.com/title/tt32432428/",
+    "imdbVotes": null,
+    "poster": "posters/violent-night-2.jpg",
+    "posterChecked": "2026-11-27",
+    "posterSource": "local-cache",
+    "ratingChecked": "2026-11-27",
+    "ratingSource": "official-dataset-v1"
   },
   "whalefall": {
     "imdbMatchScore": 1.08,
