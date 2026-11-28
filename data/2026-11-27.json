@@ -2,8 +2,8 @@
   "date": "2026-11-27",
   "dateLabel": "2026-11-27",
   "displayDate": "2026-11-27",
-  "generatedAt": "2026-11-27T13:59-05:00",
-  "updatedLabel": "13 h 59",
+  "generatedAt": "2026-11-27T21:00-05:00",
+  "updatedLabel": "21 h 00",
   "location": "Québec, QC",
   "cinemas": [
     {
@@ -60,6 +60,7 @@
           "lang": "VO",
           "format": "Standard",
           "times": [
+            "10:30",
             "17:25",
             "18:45"
           ]
@@ -92,10 +93,25 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:10",
             "16:00",
             "19:05",
             "21:40"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:20"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "16:00"
           ]
         },
         {
@@ -105,14 +121,6 @@
           "times": [
             "13:10",
             "19:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "16:00"
           ]
         }
       ]
@@ -153,7 +161,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:25",
             "16:20",
             "19:15",
             "21:40"
@@ -164,6 +171,7 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
+            "13:45",
             "15:35",
             "19:10"
           ]
@@ -217,6 +225,27 @@
       ]
     },
     {
+      "title": "Hantée",
+      "original": "Hantée",
+      "translation": "",
+      "runtime": "",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/hantee.jpg",
+      "imdbRating": 7.3,
+      "imdbUrl": "https://www.imdb.com/title/tt40202639/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:30"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Au coeur de la bête",
       "original": "Heart of the Beast",
       "translation": "Au coeur de la bête",
@@ -251,10 +280,26 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "15:10"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VF",
           "format": "3D",
           "times": [
             "18:10",
             "21:00"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "14:50"
           ]
         },
         {
@@ -271,8 +316,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:00",
-            "13:45",
             "15:45",
             "16:15"
           ]
@@ -291,6 +334,9 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
+            "10:40",
+            "13:00",
+            "13:30",
             "16:20",
             "19:00"
           ]
@@ -332,22 +378,6 @@
             "14:50",
             "19:10",
             "21:20"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:10"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "14:50"
           ]
         }
       ]
@@ -404,14 +434,30 @@
           ]
         },
         {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
+          "format": "Standard",
+          "times": [
+            "18:35"
+          ]
+        },
+        {
           "cinema": "cineplex-beauport",
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:15",
             "16:05",
             "18:55",
             "21:45"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:45",
+            "15:45"
           ]
         },
         {
@@ -431,22 +477,6 @@
             "15:55",
             "19:00",
             "21:50"
-          ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "Standard",
-          "times": [
-            "18:35"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VF",
-          "format": "Standard",
-          "times": [
-            "15:45"
           ]
         }
       ]
@@ -488,6 +518,7 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
+            "13:15",
             "19:15"
           ]
         }
@@ -509,6 +540,7 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
+            "12:30",
             "21:25"
           ]
         }
@@ -526,20 +558,21 @@
       "imdbUrl": "https://www.imdb.com/title/tt47737481/",
       "showings": [
         {
+          "cinema": "clap-ste-foy",
+          "lang": "VOF",
+          "format": "Standard",
+          "times": [
+            "10:20",
+            "16:30"
+          ]
+        },
+        {
           "cinema": "cinema-cartier",
           "lang": "VOF",
           "format": "Standard",
           "times": [
             "15:00",
             "17:20"
-          ]
-        },
-        {
-          "cinema": "clap-ste-foy",
-          "lang": "VOF",
-          "format": "Standard",
-          "times": [
-            "16:30"
           ]
         }
       ]
@@ -570,8 +603,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:05",
-            "13:35",
             "15:35",
             "16:10",
             "18:20",
@@ -585,6 +616,8 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
+            "10:40",
+            "13:20",
             "16:00",
             "18:45",
             "21:30"
@@ -643,6 +676,8 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
+            "11:00",
+            "13:20",
             "18:50"
           ]
         }
@@ -674,7 +709,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "12:55",
             "15:30"
           ]
         },
@@ -685,6 +719,15 @@
           "times": [
             "18:35",
             "21:05"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:40",
+            "13:20"
           ]
         },
         {
@@ -740,6 +783,14 @@
         {
           "cinema": "cineplex-sainte-foy",
           "lang": "VOA",
+          "format": "UltraAVX",
+          "times": [
+            "15:25"
+          ]
+        },
+        {
+          "cinema": "cineplex-sainte-foy",
+          "lang": "VOA",
           "format": "UltraAVX · 3D",
           "times": [
             "18:50",
@@ -751,7 +802,6 @@
           "lang": "VF",
           "format": "Standard",
           "times": [
-            "13:30",
             "14:00",
             "17:00",
             "17:30",
@@ -788,7 +838,6 @@
           "lang": "VOA",
           "format": "Standard",
           "times": [
-            "13:00",
             "14:30",
             "16:30",
             "20:00"
@@ -805,18 +854,9 @@
         },
         {
           "cinema": "cineplex-imax",
-          "lang": "VF",
-          "format": "IMAX",
-          "times": [
-            "18:30"
-          ]
-        },
-        {
-          "cinema": "cineplex-imax",
           "lang": "VOA",
           "format": "IMAX",
           "times": [
-            "15:00",
             "22:00"
           ]
         },
@@ -828,6 +868,14 @@
             "15:45",
             "20:10",
             "21:30"
+          ]
+        },
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Dolby Atmos",
+          "times": [
+            "11:00"
           ]
         },
         {
@@ -894,14 +942,6 @@
             "15:30",
             "21:00"
           ]
-        },
-        {
-          "cinema": "cineplex-sainte-foy",
-          "lang": "VOA",
-          "format": "UltraAVX",
-          "times": [
-            "15:25"
-          ]
         }
       ]
     },
@@ -931,7 +971,6 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
-            "13:20",
             "15:50",
             "18:45",
             "21:15"
@@ -942,6 +981,8 @@
           "lang": "VOF",
           "format": "Standard",
           "times": [
+            "10:50",
+            "13:30",
             "16:10",
             "18:55",
             "21:45"
@@ -968,6 +1009,28 @@
             "16:40",
             "18:50",
             "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cheval sauvage numéro neuf",
+      "original": "Wild Horse Nine",
+      "translation": "Cheval sauvage numéro neuf",
+      "runtime": "1 h 58",
+      "genre": "",
+      "badge": "",
+      "poster": "posters/wild-horse-nine.jpg",
+      "imdbRating": 8.1,
+      "imdbUrl": "https://www.imdb.com/title/tt15799564/",
+      "showings": [
+        {
+          "cinema": "clap-ste-foy",
+          "lang": "VF",
+          "format": "Standard",
+          "times": [
+            "10:50",
+            "13:40"
           ]
         }
       ]
